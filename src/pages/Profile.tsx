@@ -1,7 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 import { ExternalLink } from 'lucide-react'
-import { candidateBySlug, facultyById, listById, membersOf, planById, sourceById } from '../data'
-import { CLAIM_KIND_LABEL, CLAIM_SECTIONS, ROLE_LABEL, SECTION_LABEL, SOURCE_TYPE_LABEL } from '../data/types'
+import { candidateBySlug, facultyById, listById, membersOf, planById, proposals, sourceById } from '../data'
+import { CLAIM_KIND_LABEL, CLAIM_SECTIONS, ORIGIN_LABEL, ROLE_LABEL, SECTION_LABEL, SOURCE_TYPE_LABEL } from '../data/types'
 import { Avatar, EmptyState, Section, SourceRefs, StatusBadge } from '../components/ui'
 import NotFound from './NotFound'
 
@@ -63,7 +63,22 @@ export default function Profile() {
       <div className="grid gap-x-8 md:grid-cols-2">
         {CLAIM_SECTIONS.map((s) => (
           <Section key={s} title={SECTION_LABEL[s]}>
-            {c.claims[s].length ? (
+            {s === 'propuestas' && proposals.some((p) => p.candidateId === c.id) ? (
+              <ul className="space-y-2">
+                {proposals.filter((p) => p.candidateId === c.id).map((p) => (
+                  <li key={p.id} className="card p-3 text-sm">
+                    <div className="mb-1 flex flex-wrap gap-1">
+                      <StatusBadge status={p.status} />
+                      <span className="chip">{ORIGIN_LABEL[p.origin]}</span>
+                      <span className="chip">{p.category}</span>
+                    </div>
+                    <strong>{p.title}.</strong> {p.description}
+                    <SourceRefs ids={[p.sourceId]} />
+                  </li>
+                ))}
+                <li><Link className="link text-xs" to="/planes">Ver meta, plazo y presupuesto (no especificados) →</Link></li>
+              </ul>
+            ) : c.claims[s].length ? (
               <ul className="space-y-3">
                 {c.claims[s].map((cl, i) => (
                   <li key={i} className="card p-3 text-sm">
@@ -81,7 +96,7 @@ export default function Profile() {
                 {s === 'propuestas'
                   ? plan.status === 'publicado'
                     ? 'El plan existe, pero aún no se han extraído propuestas atribuibles a este cargo.'
-                    : 'La lista no tiene un plan de gobierno localizado.'
+                    : 'La lista no tiene un plan de gobierno localizado y no hay propuestas de esta candidatura registradas en prensa.'
                   : 'Que no esté aquí no significa que no exista: significa que todavía no se ha documentado.'}
               </EmptyState>
             )}

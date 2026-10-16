@@ -212,13 +212,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -293,9 +294,20 @@
         "orcid": "https://orcid.org/0009-0005-8954-7153",
         "worksCount": 8,
         "citedByCount": 21,
+        "status": "descartado",
+        "note": "El ORCID asociado a este perfil de OpenAlex (0009-0005-8954-7153) pertenece a otra persona (Luis Jesús Montesdeoca Espinoza, Ecuador): el perfil mezcla identidades. Descartado.",
+        "consultedAt": "2026-10-16"
+      },
+      {
+        "provider": "ORCID",
+        "profileId": "https://orcid.org/0009-0005-5173-9213",
+        "displayName": "Luis Lastra Espinoza",
+        "orcid": "https://orcid.org/0009-0005-5173-9213",
+        "worksCount": 0,
+        "citedByCount": null,
         "status": "pendiente",
-        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
-        "consultedAt": "2026-10-15"
+        "note": "Registro ORCID con empleo declarado en la FIM-UNI (coincide con la facultad del candidato); sin publicaciones listadas.",
+        "consultedAt": "2026-10-16"
       }
     ],
     "pendingSources": [
@@ -304,13 +316,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -523,13 +536,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -577,6 +591,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Ingeniero químico (UNI), maestro en Ciencias con mención en Gestión Ambiental (UNI) y doctor en Medio Ambiente y Desarrollo Sostenible (UNFV, 2013), según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-2-3"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -588,9 +610,26 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Profesor principal de la Facultad de Ingeniería Química y Textil de la UNI desde 1992; docente de posgrado en otras universidades, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-2-3"
+          ],
+          "kind": "declaracion"
         }
       ],
-      "investigacion": [],
+      "investigacion": [
+        {
+          "text": "Investigador RENACYT Nivel VI (desde nov. 2023), calificación registrada en ORCID por CONCYTEC.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-orcid-c-2-3"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
@@ -621,7 +660,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -793,6 +832,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Ph.D. en Física Teórica (2005) y Master of Science en Radiofísica (1987) por la Universidad Rusa de la Amistad de los Pueblos, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-3-2"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -802,6 +849,14 @@
           "sourceIds": [
             "src-reglamento-elecciones",
             "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Profesor de la Facultad de Ingeniería Eléctrica y Electrónica de la UNI desde 1993, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-3-2"
           ],
           "kind": "declaracion"
         }
@@ -837,7 +892,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -885,6 +940,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Docteur ès sciences por la Université Paris-Sud (1981), según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-3-3"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -896,9 +959,26 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Profesor de la Facultad de Ciencias de la UNI desde 1971, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-3-3"
+          ],
+          "kind": "declaracion"
         }
       ],
-      "investigacion": [],
+      "investigacion": [
+        {
+          "text": "Investigador RENACYT Nivel II (calificaciones 2022 y 2024 registradas por CONCYTEC). Científico invitado en GSI (Alemania), IPN Orsay (Francia), Carnegie Mellon (EE. UU.) y Forschungszentrum Jülich entre 1983 y 1988, según su ORCID.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-orcid-c-3-3"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
@@ -929,7 +1009,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -1163,13 +1243,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -1217,6 +1298,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Doctor en Administración, magíster en Ingeniería Aeronáutica y licenciado en Física, según la biografía de su ORCID (sin instituciones ni fechas).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-4-3"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -1228,10 +1317,27 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Docente principal de la UNI desde 1995, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-4-3"
+          ],
+          "kind": "declaracion"
         }
       ],
       "investigacion": [],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Director de la Sección de Posgrado de la FIQT-UNI (2009–2016 y 2021–2022) y presidente del Comité Electoral de la UNI en 2019, según la biografía de su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-4-3"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": []
@@ -1272,7 +1378,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -1451,13 +1557,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -1543,13 +1650,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -1718,6 +1826,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Ingeniero electricista, maestro en Ciencias con mención en Sistemas de Potencia y doctor en Ciencias con mención en Energética, los tres por la UNI, según su hoja de vida publicada en gob.pe.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-cv-palma-gobpe"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -1732,7 +1848,16 @@
         }
       ],
       "investigacion": [],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Director ejecutivo del INICTEL-UNI (2008–2014) y coordinador y profesor del Doctorado en Ciencias con mención en Energética de la UNI (2023), según su hoja de vida publicada en gob.pe.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-cv-palma-gobpe"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": []
@@ -1762,7 +1887,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -1848,13 +1973,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -2044,7 +2170,16 @@
           "kind": "declaracion"
         }
       ],
-      "investigacion": [],
+      "investigacion": [
+        {
+          "text": "El registro ORCID a nombre de \"Luis Mosquera\" (investigador de la FIC-UNI desde 1995) tiene calificaciones RENACYT Nivel V (2022) y Nivel IV (2024) registradas por CONCYTEC. El nombre es abreviado, pero la facultad coincide con la del candidato.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-orcid-c-7-2"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
@@ -2069,13 +2204,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -2161,13 +2297,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -2335,6 +2472,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Doctorado por la Universidad Nacional Autónoma de México (2010–2013), según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-8-2"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -2344,6 +2489,14 @@
           "sourceIds": [
             "src-reglamento-elecciones",
             "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Profesor de la Facultad de Ingeniería Civil de la UNI desde 1999, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-8-2"
           ],
           "kind": "declaracion"
         }
@@ -2379,7 +2532,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -2427,6 +2580,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Ingeniero (1991), magíster (2011) y doctor (2017) por la UNI, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-8-3"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -2438,9 +2599,26 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Profesor de la UNI desde 1993; docente visitante en la Universidad de Alcalá desde 2023, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-8-3"
+          ],
+          "kind": "declaracion"
         }
       ],
-      "investigacion": [],
+      "investigacion": [
+        {
+          "text": "Investigador RENACYT Nivel III (desde abr. 2024; antes Nivel IV, 2019–2021), calificaciones registradas en ORCID por CONCYTEC.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-orcid-c-8-3"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
@@ -2493,7 +2671,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -2726,13 +2904,14 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
     ],
     "corrections": [],
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   },
   {
@@ -2780,6 +2959,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Ingeniero químico (1989), maestro (FIQT, 2011) y doctor (Facultad de Ciencias, 2020), los tres por la UNI, según su ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-9-3"
+          ],
+          "kind": "declaracion"
         }
       ],
       "docencia": [
@@ -2793,8 +2980,26 @@
           "kind": "declaracion"
         }
       ],
-      "investigacion": [],
-      "gestion": [],
+      "investigacion": [
+        {
+          "text": "Investigador RENACYT Nivel III, Grupo María Rostworowski (ago. 2021 – ago. 2023), calificación registrada en ORCID por CONCYTEC.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-orcid-c-9-3"
+          ],
+          "kind": "hecho"
+        }
+      ],
+      "gestion": [
+        {
+          "text": "Declara en ORCID el cargo de \"Docente - Decano\" de la Facultad de Ingeniería Química y Textil de la UNI, sin fechas del decanato.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-9-3"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": []
@@ -2824,7 +3029,7 @@
     "meta": {
       "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
       "importedAt": "2026-10-15",
-      "lastReviewed": "2026-10-15"
+      "lastReviewed": "2026-10-16"
     }
   }
 ]

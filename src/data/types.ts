@@ -224,11 +224,22 @@ export const PROPOSAL_CATEGORIES = [
 ] as const
 export type ProposalCategory = (typeof PROPOSAL_CATEGORIES)[number]
 
-/** null = el plan no lo especifica. Nunca se completa con supuestos. */
+export type ProposalOrigin = 'plan' | 'debate' | 'declaracion_publica'
+
+export const ORIGIN_LABEL: Record<ProposalOrigin, string> = {
+  plan: 'Plan de gobierno',
+  debate: 'Debate (según prensa)',
+  declaracion_publica: 'Declaración pública',
+}
+
+/** null = la fuente no lo especifica. Nunca se completa con supuestos. */
 export interface Proposal {
   id: string
   listId: string
   planId: string
+  origin: ProposalOrigin
+  /** Candidatura que la expuso, si consta. */
+  candidateId: string | null
   category: ProposalCategory
   title: string
   description: string

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { lists, plans, proposals, site, sourceById } from '../data'
-import { PROPOSAL_CATEGORIES, type Proposal } from '../data/types'
+import { ORIGIN_LABEL, PROPOSAL_CATEGORIES, type Proposal } from '../data/types'
 import { EmptyState, PageHeader, Section, StatusBadge } from '../components/ui'
 
 const FIELDS: [keyof Proposal, string][] = [
@@ -18,13 +18,14 @@ const FIELDS: [keyof Proposal, string][] = [
 
 export default function Plans() {
   const [cat, setCat] = useState('')
-  const shown = proposals.filter((p) => !cat || p.category === cat)
+  const [list, setList] = useState('')
+  const shown = proposals.filter((p) => (!cat || p.category === cat) && (!list || p.listId === list))
 
   return (
     <div>
       <PageHeader kicker="Planes de gobierno" title="¿Qué proponen?">
-        Sólo registramos propuestas que figuran en un documento publicado por la lista. Si un plan no especifica meta, plazo,
-        presupuesto o responsable, lo decimos: <strong>no lo completamos</strong>.
+        Registramos propuestas de planes de gobierno publicados y, mientras no aparezcan, las expuestas por los candidatos en el debate según la prensa,
+        rotuladas como tales. Si la fuente no especifica meta, plazo, presupuesto o responsable, lo decimos: <strong>no lo completamos</strong>.
       </PageHeader>
 
       <Section title="Estado de los planes">
@@ -81,10 +82,10 @@ export default function Plans() {
                   <th scope="row" className="py-1.5 pr-2 text-left font-normal">{c}</th>
                   {lists.map((l) => {
                     const n = proposals.filter((p) => p.listId === l.id && p.category === c).length
-                    const planOk = plans.find((p) => p.listId === l.id)?.status === 'publicado'
+                    const any = proposals.some((p) => p.listId === l.id)
                     return (
-                      <td key={l.id} className="px-1 py-1.5 text-center font-mono" title={planOk ? `${n} propuestas` : 'Plan no localizado'}>
-                        {planOk ? n : <span className="text-muted">s/p</span>}
+                      <td key={l.id} className={`px-1 py-1.5 text-center font-mono ${n ? 'bg-signal font-bold text-[#111]' : ''}`} title={any ? `${n} propuestas` : 'Sin plan ni propuestas registradas'}>
+                        {any ? n : <span className="text-muted">s/d</span>}
                       </td>
                     )
                   })}
@@ -93,11 +94,19 @@ export default function Plans() {
             </tbody>
           </table>
         </div>
-        <p className="mt-2 text-xs text-muted">"s/p" = sin plan localizado. Un 0 sólo aparece cuando el plan existe y no aborda la categoría.</p>
+        <p className="mt-2 text-xs text-muted">"s/d" = sin plan ni propuestas registradas para la lista. Un 0 indica que la lista tiene propuestas registradas, pero ninguna en esa categoría (lo que no prueba que no la aborde). Hoy todas las propuestas vienen del debate según la prensa; ninguna de un plan de gobierno.</p>
       </Section>
 
       <Section title="Explorador de propuestas">
-        <label className="block max-w-sm">
+        <div className="grid max-w-xl grid-cols-2 gap-3">
+        <label className="block">
+          <span className="kicker">Lista</span>
+          <select className="input mt-1" value={list} onChange={(e) => setList(e.target.value)}>
+            <option value="">Todas</option>
+            {lists.map((l) => <option key={l.id} value={l.id}>Lista {l.number}</option>)}
+          </select>
+        </label>
+        <label className="block">
           <span className="kicker">Categoría</span>
           <select className="input mt-1" value={cat} onChange={(e) => setCat(e.target.value)}>
             <option value="">Todas</option>
@@ -106,17 +115,20 @@ export default function Plans() {
             ))}
           </select>
         </label>
+        </div>
+        <p className="mt-2 text-sm" role="status"><strong>{shown.length}</strong> propuesta{shown.length === 1 ? '' : 's'}</p>
         <div className="mt-4 space-y-3">
           {shown.map((p) => (
             <article key={p.id} className="card p-4 text-sm">
               <p className="kicker">Lista {p.listId.split('-')[1]} · {p.category}</p>
+              <span className="chip mt-1">{ORIGIN_LABEL[p.origin]}</span>
               <h3 className="mt-1 font-semibold">{p.title}</h3>
               <p className="mt-1">{p.description}</p>
               <dl className="mt-3 grid gap-x-4 gap-y-1 sm:grid-cols-3">
                 {FIELDS.map(([k, label]) => (
                   <div key={k}>
                     <dt className="text-xs text-muted">{label}</dt>
-                    <dd className={p[k] ? '' : 'italic text-muted'}>{(p[k] as string | null) ?? 'No especificado en el plan'}</dd>
+                    <dd className={p[k] ? '' : 'italic text-muted'}>{(p[k] as string | null) ?? 'No especificado'}</dd>
                   </div>
                 ))}
               </dl>

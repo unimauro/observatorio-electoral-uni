@@ -347,5 +347,158 @@
     "locator": "Bibliografía: \"Alva, F. (2014). Diseño de Elementos de Máquinas I y II. 3ra ed.\"; UNI MC401: \"Tablas de diseño de elementos de máquinas: Autor Fortunato Alva\"",
     "status": "verificado_primaria",
     "notes": "El sílabo de la URP consigna como docente a \"Dr. Ing. Fortunato Alva Dávila\". Se omite el correo personal que aparece en el documento."
+  },
+  {
+    "id": "src-orcid-c-2-3",
+    "title": "Registro ORCID 0000-0002-2850-6420 (Cesar Osorio)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0002-2850-6420",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0002-2850-6420",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-2-3"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-orcid-c-3-2",
+    "title": "Registro ORCID 0000-0002-4952-1814 (Jose Anibal Pauyac Huaman)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0002-4952-1814",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0002-4952-1814",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-3-2"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-orcid-c-3-3",
+    "title": "Registro ORCID 0000-0002-3376-1872 (Modesto Montoya)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0002-3376-1872",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0002-3376-1872",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-orcid-c-4-3",
+    "title": "Registro ORCID 0000-0002-4299-8492 (FERNANDO HUAMAN PEREZ)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0002-4299-8492",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0002-4299-8492",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-4-3"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-orcid-c-7-2",
+    "title": "Registro ORCID 0000-0003-0798-8392 (Luis Mosquera)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0003-0798-8392",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0003-0798-8392",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-7-2"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-orcid-c-8-2",
+    "title": "Registro ORCID 0000-0001-5365-1518 (RAFAEL SALINAS BASUALDO)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0001-5365-1518",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0001-5365-1518",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-8-2"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-orcid-c-8-3",
+    "title": "Registro ORCID 0000-0002-3737-8694 (Jimmy Rosales)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0002-3737-8694",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0002-3737-8694",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-8-3"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-orcid-c-9-3",
+    "title": "Registro ORCID 0000-0003-0964-4489 (ABEL FERNANDO VERGARA SOTOMAYOR)",
+    "author": "ORCID; contenido declarado por el titular, salvo las calificaciones RENACYT, registradas por CONCYTEC",
+    "url": "https://orcid.org/0000-0003-0964-4489",
+    "landingUrl": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "0000-0003-0964-4489",
+    "locator": "Education, Employment, Qualifications, Biography",
+    "status": "declarado",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "ORCID es autodeclarado. La identidad se infiere por nombre, afiliación UNI y facultad coincidente."
+  },
+  {
+    "id": "src-cv-palma-gobpe",
+    "title": "Resumen de hoja de vida – Modesto Tomás Palma García",
+    "author": "Documento publicado en gob.pe (entidad no indicada en el resumen)",
+    "url": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc1OTQ4LCJwdXIiOiJibG9iX2lkIn19--7b17e13a05d12e00134abcc6f5c57a8ebc4fea54/CV.pdf",
+    "landingUrl": null,
+    "publishedAt": "2023-10-10",
+    "consultedAt": "2026-10-16",
+    "type": "documento_institucional",
+    "identifier": null,
+    "locator": "Formación académica y experiencia laboral",
+    "status": "declarado",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "Hoja de vida resumida publicada en la plataforma del Estado; su contenido es declarado por el titular. Fecha = creación del PDF."
   }
 ]

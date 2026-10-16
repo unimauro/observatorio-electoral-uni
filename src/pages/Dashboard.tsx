@@ -146,7 +146,7 @@ export default function Dashboard() {
           ))}
           <Stat label="Perfiles verificados" value={verifiedProfiles} note="Con trayectoria propia confirmada" />
           <Stat label="Planes localizados" value={plansFound} note={`de ${plans.length}`} to="/planes" />
-          <Stat label="Propuestas extraídas" value={proposals.length} to="/planes" />
+          <Stat label="Propuestas registradas" value={proposals.length} note={`${proposals.filter((p) => p.origin === 'plan').length} de planes · ${proposals.filter((p) => p.origin === 'debate').length} del debate`} to="/planes" />
           <Stat label="Fuentes registradas" value={sources.length} to="/fuentes" />
           <Stat label="Pendientes de revisión" value={pendingCount(candidates)} note="Perfiles con algún dato sin confirmar" />
         </div>
@@ -175,7 +175,7 @@ export default function Dashboard() {
             <HBar data={prodData} series={prodSeries} yWidth={110} />
             <p className="mt-1 text-xs text-muted">Pistas registradas: {leads.length} ({leads.filter((l) => l.status === 'descartado').length} descartada por posible mezcla de homónimos).</p>
           </ChartCard>
-          <ChartCard title="Propuestas por categoría" measures="Propuestas extraídas de planes de gobierno publicados, agrupadas en 15 categorías.">
+          <ChartCard title="Propuestas por categoría" measures="Propuestas registradas por categoría. Hoy todas provienen de lo expuesto en el debate según la prensa: miden de qué se habló, no la calidad de la propuesta.">
             {proposals.length ? (
               <HBar
                 data={PROPOSAL_CATEGORIES.map((c) => ({ name: c, total: proposals.filter((p) => p.category === c).length }))}
@@ -188,7 +188,7 @@ export default function Dashboard() {
               </EmptyState>
             )}
           </ChartCard>
-          <ChartCard title="Nivel de concreción de los planes" measures="Proporción de propuestas con indicador, meta, plazo y presupuesto declarados.">
+          <ChartCard title="Nivel de concreción de los planes" measures="Cuántas propuestas registradas especifican indicador, meta, plazo y presupuesto. Una barra en cero significa que ninguna fuente lo precisa.">
             {proposals.length ? (
               <HBar
                 data={['indicator', 'target', 'targetDate', 'budget'].map((k) => ({
