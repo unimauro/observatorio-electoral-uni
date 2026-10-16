@@ -130,6 +130,8 @@ export function Methodology() {
           <ul className="list-disc space-y-1 pl-5">
             <li>Portal del CEUNI: listas definitivas, reglamento, índice de resoluciones (consultado el 15-10-2026).</li>
             <li>OpenAlex: búsqueda de perfiles con nombre completo y afiliación UNI. Se encontraron pistas para 25 de 27 candidatos; una fue descartada por mezclar homónimos.</li>
+            <li>16-10-2026, candidatos a rector: prensa (RPP, Caretas, ProActivo), API pública de ORCID, documentos de la UNI (FIIS, planeamiento, acreditación) y agenda del Congreso. Lo que un candidato dice en un debate o carga en ORCID se rotula como <em>declaración</em>.</li>
+            <li>No usamos reportes de empresas de datos personales (domicilio, teléfonos, deudas, familia, afiliación política), aunque se ofrezcan con autorización: no son pertinentes para evaluar la candidatura y su origen no es verificable.</li>
             <li>Pendiente: CTI Vitae/RENACYT, SUNEDU (grados), ORCID, ALICIA, portal de transparencia UNI, Contraloría y planes de gobierno.</li>
           </ul>
         </Section>

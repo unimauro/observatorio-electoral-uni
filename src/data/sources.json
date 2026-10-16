@@ -170,5 +170,182 @@
     "status": "pendiente_revision",
     "candidateIds": [],
     "notes": "Las carpetas enlazadas no se han revisado. Una tacha presentada no implica irregularidad."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1",
+      "c-2-1",
+      "c-3-1",
+      "c-4-1",
+      "c-6-1",
+      "c-7-1",
+      "c-8-1",
+      "c-9-1"
+    ],
+    "id": "src-rpp-debate-2026",
+    "title": "Elecciones en la UNI: candidatos al rectorado debaten sobre modernización, presupuesto y el futuro de la universidad",
+    "author": "RPP Noticias (Jair Zevallos Morón)",
+    "url": "https://rpp.pe/lima/actualidad/elecciones-en-la-uni-candidatos-al-rectorado-debaten-sobre-modernizacion-presupuesto-y-el-futuro-de-la-universidad-noticia-1712562",
+    "publishedAt": "2026-10-15",
+    "type": "prensa",
+    "locator": "Nota completa; recoge a 8 candidatos a rector",
+    "status": "verificado_primaria",
+    "notes": "Cobertura periodística de las exposiciones de los candidatos. Lo que dice cada candidato es una declaración, no un hecho verificado. Fecha = última actualización de la página. No menciona a la Lista 5."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1"
+    ],
+    "id": "src-caretas-humala-2026",
+    "title": "¿Quién es Ulises Humala Tasso, el nuevo candidato a rector de la UNI?",
+    "author": "Caretas",
+    "url": "https://caretas.pe/politica/ulises-humala-candidato-a-rector-de-la-uni-cuestiona-gestion-de-lopez-chau/",
+    "publishedAt": "2026-10-12",
+    "type": "prensa",
+    "locator": "Perfil y entrevista",
+    "status": "verificado_primaria",
+    "notes": "Los datos biográficos se presentan \"de acuerdo con la información biográfica disponible\". No se reproducen aquí las acusaciones contra terceros."
+  },
+  {
+    "landingUrl": null,
+    "identifier": "0000-0003-2420-430X",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-1"
+    ],
+    "id": "src-orcid-arnao",
+    "title": "Registro ORCID 0000-0003-2420-430X (Raymundo Arnao Rondán)",
+    "author": "ORCID; contenido declarado por el titular, salvo la calificación RENACYT, registrada por CONCYTEC",
+    "url": "https://orcid.org/0000-0003-2420-430X",
+    "publishedAt": null,
+    "type": "registro_publico",
+    "locator": "Secciones Education, Employment, Qualifications",
+    "status": "declarado",
+    "notes": "ORCID es autodeclarado: lo cargado por el titular cuenta como declaración. La calificación RENACYT figura con fuente CONCYTEC."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "id": "src-proactivo-rodriguez-2026",
+    "title": "Profesor de la UNI recibe el Premio Southern Perú",
+    "author": "ProActivo",
+    "url": "https://proactivo.com.pe/profesor-de-la-uni-recibe-el-premio-southern-peru/",
+    "publishedAt": "2026-02-10",
+    "type": "prensa",
+    "locator": "Nota completa",
+    "status": "verificado_primaria",
+    "notes": "Nota de prensa; no indica la facultad ni las fechas de los cargos."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "id": "src-congreso-ciencia-35",
+    "title": "Sesión de la Comisión de Ciencia, Innovación y Tecnología – agenda N.º 35",
+    "author": "Congreso de la República del Perú",
+    "url": "https://comunicaciones.congreso.gob.pe/agenda/sesion-de-la-comision-de-ciencia-35",
+    "publishedAt": null,
+    "type": "portal_institucional",
+    "locator": "Invitados: \"director ejecutivo del Programa Nacional de Investigación Científica y Estudios Avanzados – PROCIENCIA\"",
+    "status": "verificado_primaria",
+    "notes": "La página indica \"martes 6 de junio\" sin año."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-1"
+    ],
+    "id": "src-fiis-rd034-2021",
+    "title": "Resolución Decanal N.º 034-21 – Facultad de Ingeniería Industrial y de Sistemas (UNI)",
+    "author": "Decanato FIIS – UNI",
+    "url": "https://www.fiis.uni.edu.pe/images/contenidos/decanato/documentos/comisiones/RD_034.pdf",
+    "publishedAt": "2021-04-05",
+    "type": "documento_institucional",
+    "locator": "Considerandos y Art. 2",
+    "status": "verificado_primaria",
+    "notes": "Cita la Resolución Rectoral N.º 0267 del 30-03-2021. Documento escaneado."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1"
+    ],
+    "id": "src-uni-acreditacion-fiee",
+    "title": "College of Electrical and Electronics Engineering – portal de acreditación UNI",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://acreditacion.uni.edu.pe/ceee/",
+    "publishedAt": null,
+    "type": "portal_institucional",
+    "locator": "\"Dean: Jorge Butler PhD., P.E.\"",
+    "status": "verificado_primaria",
+    "notes": "La página no indica fecha de actualización ni periodo del cargo."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "id": "src-uni-plan-2006",
+    "title": "Plan Funcional / Operativo UNI 2006",
+    "author": "Oficina Central de Planificación – UNI",
+    "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/PFUNI2006.pdf",
+    "publishedAt": "2006-01-01",
+    "type": "documento_institucional",
+    "locator": "Portadilla de autoridades: \"ING. AURELIO PADILLA RIOS – PRIMER VICE-RECTOR\"",
+    "status": "verificado_primaria",
+    "notes": "Fecha de publicación aproximada (año 2006)."
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "id": "src-rpp-2009-padilla",
+    "title": "La universidad pública se repotencia hace 4 años",
+    "author": "RPP Noticias",
+    "url": "https://rpp.pe/lima/actualidad/la-universidad-publica-se-repotencia-hace-4-anos-noticia-180356",
+    "publishedAt": "2009-05-09",
+    "type": "prensa",
+    "locator": "\"Lo dijo el rector de la UNI, Aurelio Padilla…\"",
+    "status": "verificado_primaria",
+    "notes": "Nombra a \"Aurelio Padilla\" sin segundo apellido."
+  },
+  {
+    "landingUrl": "https://acreditacion.uni.edu.pe/wp-content/uploads/2016/10/MC401.pdf",
+    "identifier": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-1"
+    ],
+    "id": "src-silabos-alva",
+    "title": "Sílabos de Elementos de Máquinas: UNI-FIM (MC401) y URP (Ingeniería Mecatrónica)",
+    "author": "UNI (portal de acreditación) y Universidad Ricardo Palma",
+    "url": "https://www.urp.edu.pe/pdf/id/5397/n/im0410",
+    "publishedAt": null,
+    "type": "documento_institucional",
+    "locator": "Bibliografía: \"Alva, F. (2014). Diseño de Elementos de Máquinas I y II. 3ra ed.\"; UNI MC401: \"Tablas de diseño de elementos de máquinas: Autor Fortunato Alva\"",
+    "status": "verificado_primaria",
+    "notes": "El sílabo de la URP consigna como docente a \"Dr. Ing. Fortunato Alva Dávila\". Se omite el correo personal que aparece en el documento."
   }
 ]

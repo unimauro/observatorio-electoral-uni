@@ -3,9 +3,9 @@
   "tagline": "Información pública para una decisión universitaria informada.",
   "university": "Universidad Nacional de Ingeniería (UNI)",
   "period": "Elección de autoridades 2026",
-  "electionDate": null,
-  "electionDateNote": "Por confirmar: el cronograma oficial figura en la Gaceta N.º 175-2026, aún no revisada por el observatorio.",
-  "updatedAt": "2026-10-15",
+  "electionDate": "2026-10-16",
+  "electionDateNote": "Según RPP (15-10-2026) y Caretas (12-10-2026). El cronograma oficial (Gaceta N.º 175-2026) no ha sido revisado por el observatorio.",
+  "updatedAt": "2026-10-16",
   "repoUrl": "https://github.com/unimauro/observatorio-electoral-uni",
   "correctionsUrl": "https://github.com/unimauro/observatorio-electoral-uni/issues/new?template=correccion.yml",
   "independenceNote": "Proyecto ciudadano independiente. No es un portal oficial de la UNI ni del CEUNI, y no está vinculado a ninguna lista."

@@ -89,6 +89,9 @@ export default function Dashboard() {
     <div>
       {/* Hero */}
       <section className="border-b-4 border-ink pb-8">
+        {site.electionDate === new Date().toLocaleDateString('en-CA', { timeZone: 'America/Lima' }) && (
+          <p className="mb-4 inline-block bg-alert px-2 py-1 font-mono text-xs font-semibold uppercase tracking-widest text-paper">Hoy se vota · {site.electionDate}</p>
+        )}
         <p className="kicker">{site.university} · {site.period}</p>
         <h1 className="h-display mt-3 text-[2.6rem] sm:text-7xl">
           Votar a ciegas<br />
@@ -105,7 +108,7 @@ export default function Dashboard() {
         </div>
         <dl className="mt-6 grid gap-x-6 gap-y-1 font-mono text-xs text-muted sm:grid-cols-3">
           <div><dt className="inline">Actualizado: </dt><dd className="inline text-ink">{site.updatedAt}</dd></div>
-          <div><dt className="inline">Fecha de votación: </dt><dd className="inline text-ink">{site.electionDate ?? 'por confirmar'}</dd></div>
+          <div><dt className="inline">Fecha de votación: </dt><dd className="inline text-ink" title={site.electionDateNote}>{site.electionDate ? `${site.electionDate} (según prensa)` : 'por confirmar'}</dd></div>
           <div><dt className="inline">Fuente base: </dt><dd className="inline"><Link className="link text-ink" to="/fuentes#src-ceuni-listas-definitivas">CEUNI, 30-09-2026</Link></dd></div>
         </dl>
       </section>
@@ -124,7 +127,10 @@ export default function Dashboard() {
           <p className="kicker !text-alert">Lo que falta (y exigimos ver)</p>
           <ul className="mt-2 list-disc space-y-1 pl-5 text-sm">
             <li><strong>{plans.length - plansFound} de {plans.length}</strong> planes de gobierno sin localizar en canales públicos.</li>
-            <li>Ninguna trayectoria de gestión o investigación está confirmada todavía con documentos.</li>
+            <li>
+              Sólo <strong>{candidates.filter((c) => hasVerifiedIn(c, 'gestion') || hasVerifiedIn(c, 'investigacion')).length} de {candidates.length}</strong> candidaturas
+              tienen algún cargo o logro confirmado con documento; el resto es declaración o está pendiente.
+            </li>
             <li>La facultad de cada candidato proviene de una tabla del CEUNI cuyo enlace original pide iniciar sesión.</li>
           </ul>
           <Link to="/planes" className="link mt-3 inline-block text-sm font-semibold">¿Tienes un plan publicado? Envíalo →</Link>

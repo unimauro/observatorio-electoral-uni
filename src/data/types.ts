@@ -153,6 +153,7 @@ export interface Faculty {
 
 export type SourceType =
   | 'documento_electoral'
+  | 'documento_institucional'
   | 'portal_institucional'
   | 'normativa'
   | 'base_bibliografica'
@@ -163,6 +164,7 @@ export type SourceType =
 
 export const SOURCE_TYPE_LABEL: Record<SourceType, string> = {
   documento_electoral: 'Documento electoral',
+  documento_institucional: 'Documento institucional',
   portal_institucional: 'Portal institucional',
   normativa: 'Normativa',
   base_bibliografica: 'Base bibliográfica',
