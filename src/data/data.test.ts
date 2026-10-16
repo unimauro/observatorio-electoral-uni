@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest'
 import * as d from './index'
 import { validateDataset, validateSite } from './validate'
 import { ROLE_BY_ORDER, ROLES } from './types'
+import timeline from './timeline.json'
 
 const dataset = {
   candidates: d.candidates,
@@ -27,6 +28,11 @@ describe('integridad de datos', () => {
     expect(new Set(d.degrees.map((x) => x.candidateId)).size).toBe(27)
     for (const row of d.degrees)
       for (const g of [row.doctorado, row.maestria, row.titulo]) if (g?.sourceId) expect(d.sourceById.has(g.sourceId)).toBe(true)
+  })
+
+  it('la línea de tiempo cubre a los 27 y cita fuentes existentes', () => {
+    expect(timeline).toHaveLength(27)
+    for (const t of timeline) for (const e of t.events) for (const id of e.sourceIds) expect(d.sourceById.has(id)).toBe(true)
   })
 
   it('hay exactamente 9 listas y 27 candidaturas', () => {

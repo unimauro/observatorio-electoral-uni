@@ -1,0 +1,2771 @@
+[
+  {
+    "candidateId": "c-1-1",
+    "events": [
+      {
+        "from": "1981",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Electrónico (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unac-butler-2810",
+          "src-gr-unac-butler-493",
+          "src-gr-uni-butler-23365"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2011-03-23",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias de la Electrónica (Telecom.)",
+        "org": "UNAC",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unac-butler-2810",
+          "src-gr-unac-butler-493",
+          "src-gr-uni-butler-23365"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2018",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ingeniería Eléctrica",
+        "org": "UNAC",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unac-butler-2810",
+          "src-gr-unac-butler-493",
+          "src-gr-uni-butler-23365"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-11-13",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Decano de la FIEE (periodo nominal hasta 12-11-2027)",
+        "org": "UNI - FIEE",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-3541-2023"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2025",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Integrante de comisiones de la Asamblea Universitaria",
+        "org": "UNI - Asamblea Universitaria",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0548-2025",
+          "src-pte-rr-0804-2025",
+          "src-pte-rau-0012-2026"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2025-05-07",
+        "to": "2026-09-16",
+        "kind": "gestion_uni",
+        "title": "Vicerrector de Investigación",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-1315-2025",
+          "src-pte-rau-0022-2026"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2025-05-30",
+        "to": "2026-02-25",
+        "kind": "gestion_uni",
+        "title": "Vicerrector Académico (encargado)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-1403-2025",
+          "src-pte-rau-002-2026"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-1-2",
+    "events": [
+      {
+        "from": "1997",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctora (Ordenación de espacios naturales)",
+        "org": "Universidad de Oviedo",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uniovi-cacho",
+          "src-vr-orcid-cacho"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2003",
+        "to": "2024",
+        "kind": "docencia",
+        "title": "Asesora y jurado de tesis (Repositorio UNI)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-cacho"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Especialista ambiental, Propuesta Urbana de Barranca",
+        "org": "Municipalidad Provincial de Barranca",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-ord032-2008-barranca"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008",
+        "to": "2013",
+        "kind": "investigacion",
+        "title": "Artículos sobre impacto ambiental y ord. territorial",
+        "org": "UNI (Repositorio)",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-cacho"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2025",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Integrante Comisión de Investigación y Posgrado (AU)",
+        "org": "UNI - Asamblea Universitaria",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0549-2025",
+          "src-pte-rr-3398-2025"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2025",
+        "to": "2028-01-12",
+        "kind": "gestion_uni",
+        "title": "Secretaria Comisión Permanente de Fiscalización (AU)",
+        "org": "UNI - Asamblea Universitaria",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0549-2025",
+          "src-pte-rr-3398-2025"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2026-02-25",
+        "to": "2026-09-16",
+        "kind": "gestion_uni",
+        "title": "Vicerrectora Académica",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rau-002-2026",
+          "src-pte-rau-0020-2026"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-1-3",
+    "events": [
+      {
+        "from": "2021-01-25",
+        "to": "2025-01-22",
+        "kind": "control",
+        "title": "Sanción RD N.° 003-2021 (cese 12 meses), anulada",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-int-uni-acta-cu04-2025"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2024-01-22",
+        "to": "2024-01-23",
+        "kind": "gestion_uni",
+        "title": "Director de Admisión (encargado, declinó)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0043-2024",
+          "src-pte-rr-0090-2024"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2025-04-01",
+        "to": "2025-10-31",
+        "kind": "gestion_uni",
+        "title": "Director de Admisión (encargado)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0812-2025",
+          "src-pte-rr-1998-2025"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2025-09",
+        "to": "2026-08",
+        "kind": "gestion_uni",
+        "title": "Presidente del Tribunal de Honor Universitario",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-2657-2025",
+          "src-pte-gobpe-uni-lastra"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2026-09",
+        "to": "2027-08",
+        "kind": "gestion_uni",
+        "title": "Vocal del Tribunal de Honor Universitario",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-2657-2025",
+          "src-pte-gobpe-uni-lastra"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-2-1",
+    "events": [
+      {
+        "from": "1977",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Mecánico (monografía)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-padilla-25437",
+          "src-gr-uni-padilla-23431"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1981",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Mecánico Electricista (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-padilla-25437",
+          "src-gr-uni-padilla-23431"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2006",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Primer Vicerrector",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-uni-plan-2006"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2009",
+        "to": "2014",
+        "kind": "gestion_uni",
+        "title": "Rector",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-rx-uni-pf-2009",
+          "src-rx-uni-memoria-2012",
+          "src-rx-uni-poi-2014",
+          "src-rpp-2009-padilla"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2012-01-16",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Comisión de Seguimiento UN Pedro Ruiz Gallo",
+        "org": "Asamblea Nacional de Rectores",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-res0068-2012-anr"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2016-01-18",
+        "to": null,
+        "kind": "control",
+        "title": "Sanción RR N.° 039-2016 (compra de buses 2010)",
+        "org": "UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-rx-peru21-humala-2016",
+          "src-ceuni-listas-definitivas",
+          "src-int-uni-rr2578-2023"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2017-07-04",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 007-2017-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-007-2017-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2017-07-21",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 008-2017-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-008-2017-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2017-12-15",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 017-2017-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-017-2017-2-0209",
+          "src-int-uni-rr2578-2023",
+          "src-rx-peru21-humala-2016"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2018-05-03",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de auditoría N.° 334-2018-CG/UNIC",
+        "org": "Contraloría",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-334-2018-cg-unic"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2019-12-17",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 016-2019-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-016-2019-2-0209"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-2-2",
+    "events": [
+      {
+        "from": "1993",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Industrial (informe)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-22134",
+          "src-vr-tesis-14729",
+          "src-vr-tesis-8209"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1997",
+        "to": "2025",
+        "kind": "docencia",
+        "title": "Asesor de 63 trabajos de titulación y posgrado",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-sanchez"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Ingeniería de Sistemas",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-22134",
+          "src-vr-tesis-14729",
+          "src-vr-tesis-8209"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2013",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Miembro comité especial LP N.° 004-2013-UNI",
+        "org": "UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-001-2017-2-0209"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2017",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 001-2017-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-001-2017-2-0209"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ingeniería de Sistemas",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-22134",
+          "src-vr-tesis-14729",
+          "src-vr-tesis-8209"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-2-3",
+    "events": [
+      {
+        "from": "1987",
+        "to": "ongoing",
+        "kind": "cargo_publico",
+        "title": "Especialista / profesional del CONCYTEC",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-tp-gob-rp014-2012-concytec",
+          "src-tp-ep-rp123-2016-concytec",
+          "src-orcid-c-2-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1991",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Químico (tesis de dos autores)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unfv-osorio-4739",
+          "src-gr-uni-osorio-640",
+          "src-gr-uni-osorio-15929",
+          "src-orcid-c-2-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1992",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor de la FIQT",
+        "org": "UNI - FIQT",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-2-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Gestión Ambiental",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unfv-osorio-4739",
+          "src-gr-uni-osorio-640",
+          "src-gr-uni-osorio-15929",
+          "src-orcid-c-2-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2016",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Representante alterno ante la Com. Nac. Cambio Climático",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-tp-gob-rp014-2012-concytec",
+          "src-tp-ep-rp123-2016-concytec",
+          "src-orcid-c-2-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Medio Ambiente y Desarrollo Sostenible",
+        "org": "UNFV",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unfv-osorio-4739",
+          "src-gr-uni-osorio-640",
+          "src-gr-uni-osorio-15929",
+          "src-orcid-c-2-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-11",
+        "to": "ongoing",
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel VI",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-c-2-3"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-3-1",
+    "events": [
+      {
+        "from": "1991",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Geólogo (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-chirif-15931"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1998",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias Naturales",
+        "org": "Universidad de Heidelberg",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-rx-proactivo-chirif-2025",
+          "src-rx-dnb-chirif-1998"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-09-26",
+        "to": "2024-01-15",
+        "kind": "gestion_uni",
+        "title": "Director del CEPRE-UNI (encargado)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-4147-2023",
+          "src-pte-rr-0038-2024"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2024-06-04",
+        "to": "2025-12-24",
+        "kind": "cargo_publico",
+        "title": "Presidente del Consejo Directivo",
+        "org": "INGEMMET",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rs009-2024-em",
+          "src-rx-elperuano-rs021-2025-em"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2025-10-12",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Presidente del IPEN (encargado)",
+        "org": "IPEN",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rs014-2025-em"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-3-2",
+    "events": [
+      {
+        "from": "1987",
+        "to": null,
+        "kind": "grado",
+        "title": "Master of Science en Radiofísica",
+        "org": "Univ. Rusa de la Amistad de los Pueblos",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-3-2"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1993",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor de la FIEE",
+        "org": "UNI - FIEE",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-3-2"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2005",
+        "to": null,
+        "kind": "grado",
+        "title": "Ph.D. en Física Teórica",
+        "org": "Univ. Rusa de la Amistad de los Pueblos",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-3-2"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-02-10",
+        "to": "2023-08-10",
+        "kind": "gestion_uni",
+        "title": "Director de Admisión (encargado)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-1276-2023"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2024-06-14",
+        "to": "2025-02-10",
+        "kind": "cargo_publico",
+        "title": "Vicepresidente de Investigación, Com. Organizadora",
+        "org": "UN Tecnológica de San Juan de Lurigancho",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-rvm068-2024-minedu",
+          "src-tp-ep-rvm012-2025-minedu"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-3-3",
+    "events": [
+      {
+        "from": "1971",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor de la Facultad de Ciencias",
+        "org": "UNI - FC",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-3-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1974",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, mención Física",
+        "org": "UNI",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-gr-uni-montoya-1720",
+          "src-gr-inis-montoya-1977",
+          "src-orcid-c-3-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1981",
+        "to": null,
+        "kind": "grado",
+        "title": "Docteur ès sciences",
+        "org": "Université Paris-Sud",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-3-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1983",
+        "to": "1988",
+        "kind": "investigacion",
+        "title": "Científico invitado (GSI, IPN Orsay, CMU, Jülich)",
+        "org": "Centros de investigación extranjeros",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-3-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2001-08-23",
+        "to": "2006-12-26",
+        "kind": "cargo_publico",
+        "title": "Presidente del IPEN",
+        "org": "IPEN",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rs080-2006-em",
+          "src-tp-ep-rs010-2021-em",
+          "src-tp-gob-rs004-2022-em",
+          "src-tp-actualidadambiental-montoya-2022"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2012",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Integrante Comisión Consultiva Nacional de Cultura",
+        "org": "Ministerio de Cultura",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rs018-2012-mc"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2013-08-16",
+        "to": "2015-01-21",
+        "kind": "cargo_publico",
+        "title": "Director de Transferencia Tecnológica",
+        "org": "IPEN",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rp167-2013-ipen",
+          "src-tp-gob-rp006-2015-ipen"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2021-08-27",
+        "to": "2022-02-08",
+        "kind": "cargo_publico",
+        "title": "Presidente del IPEN",
+        "org": "IPEN",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rs080-2006-em",
+          "src-tp-ep-rs010-2021-em",
+          "src-tp-gob-rs004-2022-em",
+          "src-tp-actualidadambiental-montoya-2022"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2021-09-08",
+        "to": "2022-02-08",
+        "kind": "cargo_publico",
+        "title": "Consejero presidencial ad honorem (ciencia)",
+        "org": "Despacho Presidencial",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rs099-2021-pcm",
+          "src-tp-gob-rs110-2022-pcm"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2022",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel II",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-c-3-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2022-02-08",
+        "to": "2022-08-24",
+        "kind": "cargo_publico",
+        "title": "Ministro del Ambiente",
+        "org": "MINAM",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rs096-2022-pcm",
+          "src-tp-gob-rs213-2022-pcm",
+          "src-tp-actualidadambiental-montoya-2022"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2022-12-07",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 001-2022-2-0067-SCE",
+        "org": "OCI-IPEN",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-001-2022-2-0067",
+          "src-int-ipen-100dias-2021"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2026",
+        "to": null,
+        "kind": "candidatura",
+        "title": "Candidato a diputado por Lima (EG 2026; renunció)",
+        "org": "Elecciones Generales 2026 (JNE)",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-res0244-2026-jne"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-4-1",
+    "events": [
+      {
+        "from": "1983",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Economista (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-humala-1832"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2006",
+        "to": null,
+        "kind": "candidatura",
+        "title": "Candidato presidencial (24 518 votos, 0,20 %)",
+        "org": "Elecciones Generales 2006",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-tp-pdba-pres2006",
+          "src-caretas-humala-2026"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008-05-23",
+        "to": "2014-12-18",
+        "kind": "gestion_uni",
+        "title": "Director General de Administración",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rr692-2008-uni",
+          "src-tp-ep-rr1473-2008-uni",
+          "src-int-cgr-017-2017-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2013-04-12",
+        "to": "2015-11-12",
+        "kind": "gestion_uni",
+        "title": "Decano de la FIECS",
+        "org": "UNI - FIECS",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-rx-uni-memoria-2012",
+          "src-rx-uni-poi-2014",
+          "src-int-cgr-004-2022-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2016-01-18",
+        "to": "2023-09-04",
+        "kind": "control",
+        "title": "Destitución RR N.° 039-2016 (declarada nula)",
+        "org": "UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-rx-peru21-humala-2016",
+          "src-rx-peru21-alva-2015",
+          "src-ceuni-listas-definitivas",
+          "src-int-uni-rr2578-2023",
+          "src-int-uni-acta-cu11-2023",
+          "src-int-cgr-017-2017-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2016-09-07",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 001-2016-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-001-2016-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2017",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 001-2017-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-001-2017-2-0209"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2017-07-04",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 007-2017-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-007-2017-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2017-12-15",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 017-2017-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-017-2017-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2018-05-03",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de auditoría N.° 334-2018-CG/UNIC",
+        "org": "Contraloría",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-334-2018-cg-unic"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2019-12-17",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 016-2019-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-016-2019-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2022-06-17",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 004-2022-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-004-2022-2-0209"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-4-2",
+    "events": [
+      {
+        "from": "1991",
+        "to": "2025",
+        "kind": "docencia",
+        "title": "Asesor de 26 trabajos y jurado en 30",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-caceres"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1993",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Sistemas de Potencia",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-1188",
+          "src-vr-tesis-18140"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2009-01-21",
+        "to": "2012-01-20",
+        "kind": "gestion_uni",
+        "title": "Decano de la FIEE",
+        "org": "UNI - FIEE",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-memoria-uni-2010",
+          "src-int-cgr-016-2019-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2010",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Miembro Consejo Directivo INICTEL-UNI (como decano)",
+        "org": "INICTEL-UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rr484-2010-uni"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2011-10-05",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Interventor del CENIP",
+        "org": "UNI - CENIP",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-memoria-uni-2011",
+          "src-vr-memoria-uni-2012"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2012",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Integrante de la Asamblea Universitaria (2012-II)",
+        "org": "UNI - Asamblea Universitaria",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-memoria-uni-2012"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2012-01-04",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Jefe del CENIP (encargado)",
+        "org": "UNI - CENIP",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-memoria-uni-2011",
+          "src-vr-memoria-uni-2012"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2016",
+        "to": "2018",
+        "kind": "investigacion",
+        "title": "Ponencias IEEE ANDESCON (máquinas eléctricas)",
+        "org": "IEEE ANDESCON",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-vr-openalex-caceres"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2018",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias, mención Energética",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-1188",
+          "src-vr-tesis-18140"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2019-12-17",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 016-2019-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-016-2019-2-0209"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-4-3",
+    "events": [
+      {
+        "from": "1995",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Docente de la UNI",
+        "org": "UNI",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-4-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1998",
+        "to": null,
+        "kind": "grado",
+        "title": "Licenciado en Física",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unfv-huamanperez-663",
+          "src-gr-uni-huamanperez-1258",
+          "src-gr-uni-huamanperez-1591",
+          "src-orcid-c-4-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1998",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ingeniería Aeronáutica",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unfv-huamanperez-663",
+          "src-gr-uni-huamanperez-1258",
+          "src-gr-uni-huamanperez-1591",
+          "src-orcid-c-4-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2009",
+        "to": "2016",
+        "kind": "gestion_uni",
+        "title": "Director de Posgrado de la FIQT",
+        "org": "UNI - FIQT",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-4-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2012",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Administración",
+        "org": "UNFV",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unfv-huamanperez-663",
+          "src-gr-uni-huamanperez-1258",
+          "src-gr-uni-huamanperez-1591",
+          "src-orcid-c-4-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2019",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Presidente del Comité Electoral",
+        "org": "UNI",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-4-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021",
+        "to": "2022",
+        "kind": "gestion_uni",
+        "title": "Director de Posgrado de la FIQT",
+        "org": "UNI - FIQT",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-4-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2025-09",
+        "to": "2027-08",
+        "kind": "gestion_uni",
+        "title": "Secretario del Tribunal de Honor Universitario",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-2657-2025"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-5-1",
+    "events": [
+      {
+        "from": "2013",
+        "to": "2015",
+        "kind": "gestion_uni",
+        "title": "Presidente de la ADUNI",
+        "org": "ADUNI",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-rx-gaceta-historia-uni-22"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-09-26",
+        "to": "2024-01-21",
+        "kind": "gestion_uni",
+        "title": "Director de Admisión (encargado)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-4038-2023",
+          "src-pte-rr-0043-2024"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2024-01-15",
+        "to": "2026-09-11",
+        "kind": "gestion_uni",
+        "title": "Director del CEPRE-UNI (encargado, luego designado)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0038-2024",
+          "src-pte-rr-0593-2025",
+          "src-pte-rcu-1610-2026"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-5-2",
+    "events": [
+      {
+        "from": "1993",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Mecánico (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-2698",
+          "src-vr-tesis-587"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2009",
+        "to": "2025",
+        "kind": "docencia",
+        "title": "Asesor (10) y jurado (87) de tesis",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-gamarra"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2010",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ingeniería, Energética del Gas Natural",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-2698",
+          "src-vr-tesis-587"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2010",
+        "to": "2011",
+        "kind": "investigacion",
+        "title": "Jefe de proyecto (embarcación pesquera, SMLC)",
+        "org": "UNI - FIM",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-memoria-uni-2010",
+          "src-vr-memoria-uni-2011"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2011",
+        "to": "2026",
+        "kind": "investigacion",
+        "title": "Artículos (TECNIA, RED, Impulso)",
+        "org": "Varias revistas",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-vr-orcid-gamarra",
+          "src-vr-repouni-gamarra"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2012",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Integrante de la Asamblea Universitaria (2012-II)",
+        "org": "UNI - Asamblea Universitaria",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-memoria-uni-2012"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2022-05",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Director de Escuelas de Mecánica",
+        "org": "UNI - FIM",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-fim-madres-2022",
+          "src-vr-fim-graduacion-2022"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2024-06-14",
+        "to": "2025-02-10",
+        "kind": "cargo_publico",
+        "title": "Presidente de la Comisión Organizadora",
+        "org": "UN Tecnológica de San Juan de Lurigancho",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-rvm068-2024-minedu",
+          "src-tp-ep-rvm012-2025-minedu"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-5-3",
+    "events": [
+      {
+        "from": "1989",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor principal de la FIGMM",
+        "org": "UNI - FIGMM",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-vr-orcid-lazo",
+          "src-vr-vri-docentes-investigadores"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1995",
+        "to": "2018",
+        "kind": "investigacion",
+        "title": "8 obras sobre materiales magnéticos/superconductores",
+        "org": "ORCID",
+        "status": "declarado",
+        "sourceIds": [
+          "src-vr-orcid-lazo"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2009",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestría en Física",
+        "org": "Univ. Federal de Mato Grosso",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-vr-orcid-lazo",
+          "src-vr-vri-docentes-investigadores",
+          "src-vr-tesis-1904"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2014-04-23",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor (Posgrado en Física)",
+        "org": "Univ. Federal de Goiás",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-ufg-lazo-4430",
+          "src-vr-orcid-lazo"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2022",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Presidente del Comité Electoral Universitario",
+        "org": "UNI - CEUNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-acta-au-03-2022",
+          "src-vr-acta-au-06-2022"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Investigador principal, batería gravitacional",
+        "org": "UNI - VRI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-vri-formativa-2023"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-07-21",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Miembro (secretario) del Tribunal de Honor",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0870-2024",
+          "src-vr-acta-cu-11-2023"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-6-1",
+    "events": [
+      {
+        "from": "1988",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Mecánico (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-alva-1758",
+          "src-gr-uni-alva-584"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Diseño de Máquinas",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-alva-1758",
+          "src-gr-uni-alva-584"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2014",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Libro Diseño de Elementos de Máquinas (3.ª ed.)",
+        "org": "Autor",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-silabos-alva"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "candidatura",
+        "title": "Candidato a rector (644 votos, 1.ª vuelta)",
+        "org": "UNI",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-rx-proactivo-uni-2021-planes",
+          "src-rx-proactivo-uni-2021-resultados",
+          "src-rx-plan-alva-2021"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2025",
+        "to": "2026-08-28",
+        "kind": "gestion_uni",
+        "title": "Miembro de la Asamblea Universitaria y comisiones",
+        "org": "UNI - Asamblea Universitaria",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0158-2025",
+          "src-pte-rr-0551-2025",
+          "src-pte-rr-0548-2025",
+          "src-pte-rau-0012-2026",
+          "src-rs-ceuni-res-032-2026",
+          "src-rs-ceuni-res-033-2026"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-6-2",
+    "events": [
+      {
+        "from": "1985",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Electricista (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-palma-22172",
+          "src-gr-uni-palma-18138",
+          "src-gr-uni-palma-1651"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008-04-10",
+        "to": "2014",
+        "kind": "gestion_uni",
+        "title": "Director ejecutivo del INICTEL-UNI",
+        "org": "INICTEL-UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rr421-2008-uni",
+          "src-tp-ep-rr1222-2013-uni",
+          "src-cv-palma-gobpe"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2019",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Sistemas de Potencia",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-palma-22172",
+          "src-gr-uni-palma-18138",
+          "src-gr-uni-palma-1651"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2020",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias, mención Energética",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-palma-22172",
+          "src-gr-uni-palma-18138",
+          "src-gr-uni-palma-1651"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Coordinador del Doctorado en Energética",
+        "org": "UNI",
+        "status": "declarado",
+        "sourceIds": [
+          "src-cv-palma-gobpe"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-08-16",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Presidente del Directorio",
+        "org": "Electro Puno S.A.A. (FONAFE)",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-fonafe-001-2023-006",
+          "src-tp-gob-electropuno-palma",
+          "src-cv-palma-gobpe"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-6-3",
+    "events": [
+      {
+        "from": "1989",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, mención Matemática",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-335",
+          "src-vr-tesis-22478"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1990",
+        "to": "2024",
+        "kind": "docencia",
+        "title": "Asesor (3) y jurado (15) de tesis",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-guimaray"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2012",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Artículos en TECNIA",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-guimaray"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias, mención Matemática",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-335",
+          "src-vr-tesis-22478"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-11-21",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Coordinador Oficina de Acreditación de la FC",
+        "org": "UNI - FC",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-occu-fc-reacreditacion"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-7-1",
+    "events": [
+      {
+        "from": "2011",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Representante ante núcleos ejecutores de compras",
+        "org": "MINEDU",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-gob-rm0477-2011-ed",
+          "src-tp-ep-rm0066-2012-ed",
+          "src-tp-ep-rm0350-2012-ed",
+          "src-tp-ep-rm0553-2011-ed",
+          "src-fiis-rd034-2021"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2011-09-14",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Jefe de la Unidad de Programación (OPEMCE)",
+        "org": "MINEDU",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-gob-rm0477-2011-ed",
+          "src-tp-ep-rm0066-2012-ed",
+          "src-tp-ep-rm0350-2012-ed",
+          "src-tp-ep-rm0553-2011-ed",
+          "src-fiis-rd034-2021"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2012-02-22",
+        "to": "2012-09-14",
+        "kind": "cargo_publico",
+        "title": "Jefe de la Oficina de Planificación Estratégica",
+        "org": "MINEDU",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-gob-rm0477-2011-ed",
+          "src-tp-ep-rm0066-2012-ed",
+          "src-tp-ep-rm0350-2012-ed",
+          "src-tp-ep-rm0553-2011-ed",
+          "src-fiis-rd034-2021"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2014-12-12",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Consultor: Sistema RNP, 1.ª iteración (S/ 39,800)",
+        "org": "OSCE",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-pte-ocds-osce-62982",
+          "src-pte-ocds-osce-77064"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2015-03-27",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Consultor: Sistema RNP 5.0 (S/ 71,800)",
+        "org": "OSCE",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-pte-ocds-osce-62982",
+          "src-pte-ocds-osce-77064"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2021-03-30",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Vicerrector Académico (encargado)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-fiis-rd034-2021"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2023",
+        "to": null,
+        "kind": "docencia",
+        "title": "Docente de la FIIS (subvención como expositor)",
+        "org": "UNI - FIIS",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-1290-2023"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-7-2",
+    "events": [
+      {
+        "from": "1997",
+        "to": null,
+        "kind": "grado",
+        "title": "Licenciado en Física (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-mosquera-1844",
+          "src-gr-uni-mosquera-21298"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2003",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias (Física)",
+        "org": "Universidade Estadual de Campinas",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-cti-mosquera",
+          "src-gr-vri-mosquera"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2019",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, mención Física (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-mosquera-1844",
+          "src-gr-uni-mosquera-21298"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2022",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel V",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-c-7-2"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023-07-21",
+        "to": "2024-03-12",
+        "kind": "gestion_uni",
+        "title": "Miembro y presidente del Tribunal de Honor",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0870-2024",
+          "src-vr-acta-cu-11-2023"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2024",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel IV",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-c-7-2"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-7-3",
+    "events": [
+      {
+        "from": "1979",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Mecánico (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-23687",
+          "src-vr-tesis-1331"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1985",
+        "to": "2025",
+        "kind": "docencia",
+        "title": "Asesor (64) y jurado (64) de tesis",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-villavicencio"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1987",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor principal de la FIM",
+        "org": "UNI - FIM",
+        "status": "declarado",
+        "sourceIds": [
+          "src-vr-orcid-villavicencio"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2012",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, mención Energética",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-23687",
+          "src-vr-tesis-1331"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Medio Ambiente y Desarrollo Sostenible",
+        "org": "UNFV",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-unfv-villavicencio-4741"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Investigador principal, hidrógeno verde",
+        "org": "UNI - VRI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-vri-formativa-2023"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-8-1",
+    "events": [
+      {
+        "from": "1993",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor de Física de la Facultad de Ciencias",
+        "org": "UNI - FC",
+        "status": "declarado",
+        "sourceIds": [
+          "src-rx-orcid-rodriguez"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1996",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, mención Física",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-rodriguez-234",
+          "src-gr-uni-rodriguez-320"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1999",
+        "to": null,
+        "kind": "grado",
+        "title": "Filosofie licentiatexamen",
+        "org": "Universidad de Uppsala",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-cti-rodriguez"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2000",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias, mención Física",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-rodriguez-234",
+          "src-gr-uni-rodriguez-320"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2012",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Consejo Directivo del CONCYTEC (rep. universidades)",
+        "org": "CONCYTEC",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-rs412-2012-pcm",
+          "src-rx-elperuano-rs132-2018-pcm",
+          "src-tp-ep-rm108-2013-pcm",
+          "src-tp-ep-indecopi195-2013",
+          "src-tp-ep-indecopi164-2018",
+          "src-tp-ep-rm158-2026-produce"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2013",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Consejo Directivo, Proyecto Innovación Competitividad",
+        "org": "PCM",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-rs412-2012-pcm",
+          "src-rx-elperuano-rs132-2018-pcm",
+          "src-tp-ep-rm108-2013-pcm",
+          "src-tp-ep-indecopi195-2013",
+          "src-tp-ep-indecopi164-2018",
+          "src-tp-ep-rm158-2026-produce"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2013",
+        "to": "2018",
+        "kind": "cargo_publico",
+        "title": "Comisión de Invenciones y Nuevas Tecnologías",
+        "org": "INDECOPI",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-rs412-2012-pcm",
+          "src-rx-elperuano-rs132-2018-pcm",
+          "src-tp-ep-rm108-2013-pcm",
+          "src-tp-ep-indecopi195-2013",
+          "src-tp-ep-indecopi164-2018",
+          "src-tp-ep-rm158-2026-produce"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2018",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Consejo Directivo del CONCYTEC (univ. públicas)",
+        "org": "CONCYTEC",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-rs412-2012-pcm",
+          "src-rx-elperuano-rs132-2018-pcm",
+          "src-tp-ep-rm108-2013-pcm",
+          "src-tp-ep-indecopi195-2013",
+          "src-tp-ep-indecopi164-2018",
+          "src-tp-ep-rm158-2026-produce"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021-06-24",
+        "to": "2024-06-22",
+        "kind": "cargo_publico",
+        "title": "Director ejecutivo de PROCIENCIA",
+        "org": "PROCIENCIA (CONCYTEC)",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-tp-ep-rp064-2021-concytec",
+          "src-tp-ep-rp061-2024-concytec",
+          "src-proactivo-rodriguez-2026"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2022-07",
+        "to": "ongoing",
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel Distinguido",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-rx-orcid-rodriguez"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2025",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Medalla Cristóbal de Losada y Puga",
+        "org": "Premio",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-proactivo-rodriguez-2026"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2026",
+        "to": null,
+        "kind": "cargo_publico",
+        "title": "Consejo Directivo de PROINNÓVATE (rep. Academia)",
+        "org": "PRODUCE",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-tp-ep-rs412-2012-pcm",
+          "src-rx-elperuano-rs132-2018-pcm",
+          "src-tp-ep-rm108-2013-pcm",
+          "src-tp-ep-indecopi195-2013",
+          "src-tp-ep-indecopi164-2018",
+          "src-tp-ep-rm158-2026-produce"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-8-2",
+    "events": [
+      {
+        "from": "1995",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Civil (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-salinas-20202",
+          "src-gr-uni-salinas-770"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1999",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor de la FIC",
+        "org": "UNI - FIC",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-8-2"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2008",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Ingeniería Estructural",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-salinas-20202",
+          "src-gr-uni-salinas-770"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2013",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctorado",
+        "org": "UNAM",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-8-2"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2019-11-13",
+        "to": "2021-08-08",
+        "kind": "gestion_uni",
+        "title": "Decano (e) de la Facultad de Ingeniería Civil",
+        "org": "UNI - FIC",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-004-2022-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2022-06-17",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 004-2022-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-004-2022-2-0209"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-8-3",
+    "events": [
+      {
+        "from": "1991",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Químico (tesis de dos autores)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-rosales-5899",
+          "src-gr-uni-rosales-1814",
+          "src-gr-uni-rosales-14707",
+          "src-orcid-c-8-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1993",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Profesor de la UNI",
+        "org": "UNI",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-8-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2001",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Ingeniería de Sistemas",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-rosales-5899",
+          "src-gr-uni-rosales-1814",
+          "src-gr-uni-rosales-14707",
+          "src-orcid-c-8-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2017",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ingeniería de Sistemas",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-rosales-5899",
+          "src-gr-uni-rosales-1814",
+          "src-gr-uni-rosales-14707",
+          "src-orcid-c-8-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2019",
+        "to": "2021",
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel IV",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-c-8-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "candidatura",
+        "title": "Candidato a vicerrector de investigación",
+        "org": "UNI",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-rx-proactivo-uni-2021-resultados"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2023",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Docente visitante",
+        "org": "Universidad de Alcalá",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-8-3"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2024-04",
+        "to": "ongoing",
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel III",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-c-8-3"
+        ],
+        "approx": false
+      }
+    ]
+  },
+  {
+    "candidateId": "c-9-1",
+    "events": [
+      {
+        "from": "1990",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Economista (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-arnao-10242",
+          "src-gr-uni-arnao-1754",
+          "src-orcid-arnao"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1993",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ciencias, Planificación Nac. del Desarrollo",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-arnao-10242",
+          "src-gr-uni-arnao-1754",
+          "src-orcid-arnao"
+        ],
+        "approx": true
+      },
+      {
+        "from": "1999",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias Contables y Empresariales",
+        "org": "UNMSM",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-arnao"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2007",
+        "to": null,
+        "kind": "grado",
+        "title": "Máster en Asesoría y Gestión Fiscal y de Inversiones",
+        "org": "UPM-CEPADE",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-arnao"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2009",
+        "to": "ongoing",
+        "kind": "docencia",
+        "title": "Docente de la FIEECS",
+        "org": "UNI - FIEECS",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-arnao"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2014",
+        "to": null,
+        "kind": "gestion_uni",
+        "title": "Presidente Comisión de Gobierno (Asamblea Estatutaria)",
+        "org": "UNI",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-arnao"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2015-01",
+        "to": "2015-07",
+        "kind": "gestion_uni",
+        "title": "Director (e) General de Administración",
+        "org": "UNI",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-ctivitae-arnao",
+          "src-orcid-arnao",
+          "src-int-cgr-334-2018-cg-unic"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2015-11",
+        "to": "2019-11",
+        "kind": "gestion_uni",
+        "title": "Decano de la FIEECS",
+        "org": "UNI - FIEECS",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-ctivitae-arnao",
+          "src-orcid-arnao"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2016-09-07",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 001-2016-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-001-2016-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2018-05-03",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de auditoría N.° 334-2018-CG/UNIC",
+        "org": "Contraloría",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-334-2018-cg-unic"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2019-12-17",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 016-2019-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-016-2019-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2020-12",
+        "to": "2023-12",
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel I",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-arnao"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "candidatura",
+        "title": "Candidato a rector (727 votos, 1.ª vuelta)",
+        "org": "UNI",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-rx-proactivo-uni-2021-planes",
+          "src-rx-proactivo-uni-2021-resultados"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-9-2",
+    "events": [
+      {
+        "from": "1987",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Electricista (tesis)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-tesis-5190"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2001",
+        "to": "2025",
+        "kind": "docencia",
+        "title": "Asesor (9) y jurado (5) de tesis",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-gutierrez"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2002",
+        "to": "2003",
+        "kind": "investigacion",
+        "title": "Artículos en TECNIA (motores eléctricos)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-repouni-gutierrez"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2018",
+        "to": null,
+        "kind": "investigacion",
+        "title": "Ponencia sobre plan curricular de Ing. Eléctrica",
+        "org": "UTP (repositorio)",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-vr-alicia-gutierrez-2018"
+        ],
+        "approx": true
+      }
+    ]
+  },
+  {
+    "candidateId": "c-9-3",
+    "events": [
+      {
+        "from": "1989",
+        "to": null,
+        "kind": "grado",
+        "title": "Ingeniero Químico (tesis de dos autores)",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-vergara-21501",
+          "src-gr-uni-vergara-1065",
+          "src-gr-uni-vergara-16011"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2010",
+        "to": null,
+        "kind": "grado",
+        "title": "Maestro en Ingeniería de Procesos",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-vergara-21501",
+          "src-gr-uni-vergara-1065",
+          "src-gr-uni-vergara-16011"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2016-04-27",
+        "to": "2021",
+        "kind": "gestion_uni",
+        "title": "Decano de la FIQT",
+        "org": "UNI - FIQT",
+        "status": "declarado",
+        "sourceIds": [
+          "src-orcid-c-9-3",
+          "src-int-cgr-015-2022-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2020",
+        "to": null,
+        "kind": "grado",
+        "title": "Doctor en Ciencias, mención Química",
+        "org": "UNI",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-gr-uni-vergara-21501",
+          "src-gr-uni-vergara-1065",
+          "src-gr-uni-vergara-16011"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2020-12-08",
+        "to": "2021-11-11",
+        "kind": "gestion_uni",
+        "title": "Miembro del Consejo Universitario",
+        "org": "UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-034-2023-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2021",
+        "to": null,
+        "kind": "candidatura",
+        "title": "Candidato a rector (645 votos, 1.ª vuelta)",
+        "org": "UNI",
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-rx-proactivo-uni-2021-resultados"
+        ],
+        "approx": true
+      },
+      {
+        "from": "2021-08",
+        "to": "2023-08",
+        "kind": "investigacion",
+        "title": "Investigador RENACYT Nivel III",
+        "org": "CONCYTEC",
+        "status": "corroborado",
+        "sourceIds": [
+          "src-orcid-c-9-3"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2022-12-07",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 015-2022-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-015-2022-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2023-11-29",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 034-2023-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-034-2023-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2025-12-02",
+        "to": null,
+        "kind": "control",
+        "title": "Informe de control N.° 018-2025-2-0209",
+        "org": "OCI-UNI",
+        "status": "controvertido",
+        "sourceIds": [
+          "src-int-cgr-018-2025-2-0209"
+        ],
+        "approx": false
+      },
+      {
+        "from": "2026-05-24",
+        "to": "2026-05-30",
+        "kind": "gestion_uni",
+        "title": "Decano de la FIQT (encargado)",
+        "org": "UNI - FIQT",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-pte-rr-0681-2026"
+        ],
+        "approx": false
+      }
+    ]
+  }
+]

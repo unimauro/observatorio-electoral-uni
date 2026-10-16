@@ -4,6 +4,7 @@ import { candidateBySlug, facultyById, listById, membersOf, planById, proposals,
 import { CLAIM_KIND_LABEL, CLAIM_SECTIONS, ORIGIN_LABEL, ROLE_LABEL, SECTION_LABEL, SOURCE_TYPE_LABEL } from '../data/types'
 import { Avatar, EmptyState, Section, SourceRefs, StatusBadge } from '../components/ui'
 import NotFound from './NotFound'
+import Timeline from '../components/Timeline'
 
 export default function Profile() {
   const { slug } = useParams()
@@ -49,6 +50,10 @@ export default function Profile() {
       <p className="mt-3 text-xs text-muted">
         Sin fotografía: el observatorio sólo publica retratos con fuente y autorización verificables. Última revisión: <span className="font-mono">{c.meta.lastReviewed}</span>.
       </p>
+
+      <Section title="Trayectoria en el tiempo">
+        <Timeline candidateId={c.id} />
+      </Section>
 
       <Section title="Resumen profesional">
         {c.summary ? (
