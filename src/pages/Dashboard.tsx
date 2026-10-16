@@ -204,7 +204,7 @@ export default function Dashboard() {
                       <Link className="link text-[11px]" to={`/fuentes#${site.results.source}`}>Fuente</Link>
                     </div>
                   )}
-                  {site.results.secondRound && <p className="mt-3 border-2 border-ink bg-signal p-2 text-sm font-semibold text-[#111]">Segunda vuelta: {site.results.secondRound.lists.map((l) => `Lista ${l.split('-')[1]}`).join(' vs. ')}{site.results.secondRound.date ? ` · ${site.results.secondRound.date}` : ''}{site.results.secondRound.note && <span className="mt-1 block text-xs font-normal">{site.results.secondRound.note}</span>}</p>}
+                  {site.results.secondRound && <p className="mt-3 border-2 border-ink bg-signal p-2 text-sm font-semibold text-[#111]">Segunda vuelta: {site.results.secondRound.lists.map((l) => `Lista ${l.split('-')[1]}`).join(' vs. ')}{site.results.secondRound.date ? ` · ${site.results.secondRound.date}` : ''}{site.results.secondRound.note && <span className="mt-1 block text-xs font-normal">{site.results.secondRound.note}</span>}<Link className="mt-1 block underline" to="/segunda-vuelta">Compara las dos fórmulas →</Link></p>}
                   {site.results.proclaimed && <p className="mt-2 text-sm font-semibold">Proclamada: Lista {site.results.proclaimed.split('-')[1]}</p>}
                 </>
               )}

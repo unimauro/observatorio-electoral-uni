@@ -70,8 +70,8 @@ export function RadarGrid() {
   )
 }
 
-export function RadarCompare() {
-  const [sel, setSel] = useState<string[]>(['lista-1', 'lista-2'])
+export function RadarCompare({ initial = ['lista-1', 'lista-2'], fixed = false }: { initial?: string[]; fixed?: boolean } = {}) {
+  const [sel, setSel] = useState<string[]>(initial)
   const toggle = (id: string) => setSel((s) => (s.includes(id) ? s.filter((x) => x !== id) : s.length >= 3 ? [...s.slice(1), id] : [...s, id]))
   const data = AXES.map((a) => {
     const row: Record<string, string | number> = { axis: a.label }
@@ -80,7 +80,7 @@ export function RadarCompare() {
   })
   return (
     <div className="card p-4">
-      <div className="flex flex-wrap gap-1.5" role="group" aria-label="Listas a superponer (máximo 3)">
+      <div className={`flex flex-wrap gap-1.5 ${fixed ? 'hidden' : ''}`} role="group" aria-label="Listas a superponer (máximo 3)">
         {lists.map((l) => (
           <button
             key={l.id}
@@ -116,7 +116,7 @@ export function RadarCompare() {
   )
 }
 
-const ytLink = (url: string, t: string | null | undefined) => {
+export const ytLink = (url: string, t: string | null | undefined) => {
   if (!t || !/youtube\.com|youtu\.be/.test(url)) return url
   const [h, m, s] = t.split(':').map(Number)
   const secs = (h || 0) * 3600 + (m || 0) * 60 + (s || 0)

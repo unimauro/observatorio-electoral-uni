@@ -28,6 +28,10 @@ describe('rutas', () => {
       unmount()
     }
   })
+  it('segunda vuelta: dos fórmulas', () => {
+    at('/segunda-vuelta')
+    expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent(/Lista 1.*Lista 8/)
+  })
   it('ruta inexistente muestra 404', () => {
     at('/no-existe')
     expect(screen.getByText('404')).toBeInTheDocument()

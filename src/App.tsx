@@ -5,6 +5,7 @@ import Lists, { ListDetail } from './pages/Lists'
 import Directory from './pages/Directory'
 import Profile from './pages/Profile'
 import Plans from './pages/Plans'
+import SecondRound from './pages/SecondRound'
 import Compare from './pages/Compare'
 import Matrix from './pages/Matrix'
 import Degrees from './pages/Degrees'
@@ -27,6 +28,7 @@ export function AppRoutes() {
         <Route path="buscar" element={<SearchPage />} />
         <Route path="retos" element={<Retos />} />
         <Route path="ingresos" element={<Incomes />} />
+        <Route path="segunda-vuelta" element={<SecondRound />} />
         <Route path="comparar" element={<Compare />} />
         <Route path="matriz" element={<Matrix />} />
         <Route path="fuentes" element={<Sources />} />
