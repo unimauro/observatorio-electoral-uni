@@ -1,0 +1,1052 @@
+{
+  "agent": "auditor",
+  "checkedAt": "2026-10-16",
+  "sourceChecks": [
+    {
+      "sourceId": "src-ceuni-listas-definitivas",
+      "url": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "http": 200,
+      "locatorFound": true,
+      "note": "SharePoint del CEUNI: sin cookies curl termina en login de Microsoft; con cookie jar (como un navegador) el enlace anónimo responde 302 -> 200 y el archivo es público. PDF 'Listas Definitivas 30.09.pdf', 8 págs.; pág. 2 'I. RECTOR Y VICERRECTORES' con los 27 nombres y cargos tal como figuran en candidates.json. Fecha 30-09-2026 confirmada. Cita la Gaceta N.º 175-2026."
+    },
+    {
+      "sourceId": "src-ceuni-tabla-facultades",
+      "url": "https://acortar.link/oEwqKV",
+      "http": 200,
+      "locatorFound": true,
+      "note": "La nota es errónea: acortar.link/oEwqKV (botón 'PUBLICACIÓN PROVISIONAL DE LISTAS' del portal CEUNI) lleva a la carpeta pública 'LISTAS PROVISIONALES'. Ahí está 'Listas provicionales 22.09 publicación[R].pdf' (22-09-2026, 8 págs.), cuya tabla 'I. RECTOR Y VICERRECTORES' tiene columna FACULTAD. Las 27 facultades coinciden con faculties/candidates. También confirma 'CHIRIF' y el orden 'RAYMUNDO ARNAO RONDAN ILDEFONZO'. Corregir: url = enlace de la carpeta (o el PDF), publishedAt 2026-09-22, status verificado_primaria, y nota sin 'requiere inicio de sesión'."
+    },
+    {
+      "sourceId": "src-ceuni-portal-2026",
+      "url": "https://www.ceuni.uni.edu.pe/eleccion-de-autoridades-y-elecciones-generales-2026/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Índice con botones a padrones, listas provisionales/definitivas y formatos. 'Resultados' y 'Proclamación' todavía sin enlace."
+    },
+    {
+      "sourceId": "src-reglamento-elecciones",
+      "url": "https://fieecs.uni.edu.pe/wp-content/uploads/2026/06/RCU-650-2026-EXP.-0031859-2026-REGLAMENTO-GENERAL-DE-ELECCIONES-DE-AUTORIDADES-Y-REPRESENTANTES-ANTE-ORGANOS-DE-GOBIERNO-DE-LA-UNI-Y-ANEXO.1RRRRRR-1.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Art. 17 (págs. 11-12) y lit. s) 'Debate de propuestas y planes de trabajo de candidatos a autoridades' confirmados. Discrepancias: (1) la RCU N.º 0650-2026-UNI tiene fecha 21-05-2026 (publishedAt dice 2026-05-01); (2) la parte resolutiva aprueba 'RE-032/CEU-001' y el anexo se rotula 'RE-033/CEU-001', contradicción interna que conviene mencionar; (3) 'Gaceta N.º 092' no aparece en el PDF. Ojo: Art. 17 c exige COPIA del grado de doctor (requisito documental), no declaración jurada."
+    },
+    {
+      "sourceId": "src-openalex",
+      "url": "https://openalex.org/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Portal operativo. Sólo genera pistas."
+    },
+    {
+      "sourceId": "src-ceuni-tachas",
+      "url": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "La nota está desactualizada: las carpetas 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS' (006-043) y 'RECONSIDERACIÓN' (044-046) son públicas y ya se citan como src-rs-ceuni-res-*. Ninguna claim usa esta fuente. Cambiar status a verificado_primaria y actualizar la nota."
+    },
+    {
+      "sourceId": "src-rpp-debate-2026",
+      "url": "https://rpp.pe/lima/actualidad/elecciones-en-la-uni-candidatos-al-rectorado-debaten-sobre-modernizacion-presupuesto-y-el-futuro-de-la-universidad-noticia-1712562",
+      "http": 200,
+      "locatorFound": true,
+      "note": "articleBody leído (JSON-LD): datePublished 2026-10-15T10:30, autor Jair Zevallos Morón; recoge 8 candidatos a rector y no menciona a la Lista 5. Escribe 'Raymundo Arna' (sin la o final). Al ser prensa no le corresponde status 'verificado_primaria' (el brief lo reserva para documentos oficiales); sugerido: 'corroborado' como registro periodístico, con las afirmaciones de los candidatos como 'declarado'."
+    },
+    {
+      "sourceId": "src-caretas-humala-2026",
+      "url": "https://caretas.pe/politica/ulises-humala-candidato-a-rector-de-la-uni-cuestiona-gestion-de-lopez-chau/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Publicada 2026-10-12. Texto leído. Incluye datos familiares y de afiliación política del candidato y de un tercero (c-3-2) que el observatorio NO reproduce (correcto). Es prensa: 'verificado_primaria' no aplica (mismo comentario que RPP)."
+    },
+    {
+      "sourceId": "src-orcid-arnao",
+      "url": "https://orcid.org/0000-0003-2420-430X",
+      "http": 200,
+      "locatorFound": true,
+      "note": "API pública ORCID: educación, empleos y RENACYT (fuente CONCYTEC, Nivel I, 2020-12 a 2023-12) coinciden con las claims."
+    },
+    {
+      "sourceId": "src-proactivo-rodriguez-2026",
+      "url": "https://proactivo.com.pe/profesor-de-la-uni-recibe-el-premio-southern-peru/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Publicada 2026-02-10. 'Dr. Juan Martin Rodríguez Rodríguez … profesor principal de la UNI, investigador distinguido en el RENACYT … se ha desempeñado como director ejecutivo … PROCIENCIA'. Prensa: 'verificado_primaria' no aplica."
+    },
+    {
+      "sourceId": "src-congreso-ciencia-35",
+      "url": "https://comunicaciones.congreso.gob.pe/agenda/sesion-de-la-comision-de-ciencia-35",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Señor Juan Martín Rodríguez Rodríguez, director ejecutivo del Programa Nacional de Investigación Científica y Estudios Avanzados – PROCIENCIA', 'Martes 6 de junio' sin año (pie 'Congreso TV 2023'; el 6 de junio cayó martes en 2023, dato no confirmado)."
+    },
+    {
+      "sourceId": "src-fiis-rd034-2021",
+      "url": "https://www.fiis.uni.edu.pe/images/contenidos/decanato/documentos/comisiones/RD_034.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "PDF escaneado con texto OCR; el contenido coincide (RR N.º 0267 del 30-03-2021, RD del 05-04-2021)."
+    },
+    {
+      "sourceId": "src-uni-acreditacion-fiee",
+      "url": "https://acreditacion.uni.edu.pe/ceee/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Dean: Jorge Butler PhD., P.E.' encontrado. La página también publica teléfono y correo institucional del decanato, que no se reproducen (correcto)."
+    },
+    {
+      "sourceId": "src-uni-plan-2006",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/PFUNI2006.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Portadilla: 'ING. AURELIO PADILLA RIOS / PRIMER VICE-RECTOR'. El título real es 'PLAN DE FUNCIONAMIENTO UNI 2006' (aprobado por RR N.º 487), no 'Plan Funcional / Operativo'."
+    },
+    {
+      "sourceId": "src-rpp-2009-padilla",
+      "url": "https://rpp.pe/lima/actualidad/la-universidad-publica-se-repotencia-hace-4-anos-noticia-180356",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Lo dijo el rector de la UNI, Aurelio Padilla…'; actualizado el 2009-05-09. Prensa: 'verificado_primaria' no aplica."
+    },
+    {
+      "sourceId": "src-silabos-alva",
+      "url": "https://www.urp.edu.pe/pdf/id/5397/n/im0410",
+      "http": 200,
+      "locatorFound": true,
+      "note": "URP: 'Docente: Dr. Ing. Fortunato Alva Dávila' y 'Alva, F. (2014). Diseño de Elementos de Máquinas I y II. 3ra Edición. Editorial Grupo Universitario SAC'. landingUrl UNI MC401 (200): 'Tablas de diseño de elementos de máquinas: Autor Fortunato Alva'. El PDF de la URP incluye un correo personal (no reproducido; correcto)."
+    },
+    {
+      "sourceId": "src-orcid-c-2-3",
+      "url": "https://orcid.org/0000-0002-2850-6420",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide. Nombre del registro: 'Cesar Osorio' (sin segundo apellido)."
+    },
+    {
+      "sourceId": "src-orcid-c-3-2",
+      "url": "https://orcid.org/0000-0002-4952-1814",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide (Ph.D. 2002-2005, MSc 1981-1987, FIEE-UNI desde 1993-10)."
+    },
+    {
+      "sourceId": "src-orcid-c-3-3",
+      "url": "https://orcid.org/0000-0002-3376-1872",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide. Nombre del registro: 'Modesto Montoya'. Las posiciones de científico invitado las declara el titular; sólo RENACYT tiene fuente CONCYTEC."
+    },
+    {
+      "sourceId": "src-orcid-c-4-3",
+      "url": "https://orcid.org/0000-0002-4299-8492",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Biografía: 'Director de Posgrado UNI (FIQT-UNI 2009-2016, 2021-2022) Presidente del comité electoral UNI 2019'. No dice 'Sección de Posgrado'."
+    },
+    {
+      "sourceId": "src-orcid-c-7-2",
+      "url": "https://orcid.org/0000-0003-0798-8392",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide (FIC, desde 1995-07; RENACYT V 2022-09 y IV 2024-04, fuente CONCYTEC)."
+    },
+    {
+      "sourceId": "src-orcid-c-8-2",
+      "url": "https://orcid.org/0000-0001-5365-1518",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide (UNAM, Doctor, 2010-02 a 2013-04; FIC, Professor, desde 1999)."
+    },
+    {
+      "sourceId": "src-orcid-c-8-3",
+      "url": "https://orcid.org/0000-0002-3737-8694",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide. Nombre del registro: 'Jimmy Rosales'; el empleo dice sólo 'National University of Engineering', sin facultad."
+    },
+    {
+      "sourceId": "src-orcid-c-9-3",
+      "url": "https://orcid.org/0000-0003-0964-4489",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide (Docente - Decano FIQT, sin fecha de fin; RENACYT III 2021-08 a 2023-08)."
+    },
+    {
+      "sourceId": "src-cv-palma-gobpe",
+      "url": "https://www.gob.pe/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc1OTQ4LCJwdXIiOiJibG9iX2lkIn19--7b17e13a05d12e00134abcc6f5c57a8ebc4fea54/CV.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Redirige a almacenamiento de gob.pe (URL firmada que caduca a los 300 s; el enlace /redirect sí es estable). El encabezado dice 'Presidente del Directorio' sin nombrar la entidad: pista pertinente de gestión pública que el observatorio no registra. Fecha de creación del PDF: 2023-10-10, coincide."
+    },
+    {
+      "sourceId": "src-rs-gaceta-175-2026",
+      "url": "https://ww2.fondoeditorial.uni.edu.pe/GACETA%20175_2026.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "El PDF es imagen. Con OCR (tesseract) la pág. 02 confirma las 25 filas del cronograma; las fechas de site.json coinciden, incluida la duplicidad 04/05-nov en filas 18-19 y 24-25."
+    },
+    {
+      "sourceId": "src-rs-onpe-carta-010265-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQCou4XbzhSMSpUhBwRdfgOkAbgPfb-9uat6Y2cPRuQBdJQ?e=29Nh0v",
+      "http": 200,
+      "locatorFound": true,
+      "note": "SharePoint del CEUNI: sin cookies curl termina en login de Microsoft; con cookie jar (como un navegador) el enlace anónimo responde 302 -> 200 y el archivo es público. Texto: 'programado para el miércoles 07 de octubre de 2026, a las 10:00 a.m., en el teatro UNI'. Firma la Gerente (e) de la GSFP."
+    },
+    {
+      "sourceId": "src-rs-montoya-propuestas-2026",
+      "url": "https://modestomontoya.me/2026/08/16/propuestas-para-que-la-uni-retome-impulso/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Post fechado '16 agosto, 2026' en el blog (published_time 2026-08-17T01:42Z). Las 20 propuestas coinciden con proposals.json. publishedAt dice 2026-08-17 y los locators dicen 16-08-2026: unificar (sugerido 2026-08-16, fecha visible)."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-031-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "SharePoint del CEUNI: sin cookies curl termina en login de Microsoft; con cookie jar (como un navegador) el enlace anónimo responde 302 -> 200 y el archivo es público. Carpeta listada vía API REST de SharePoint; 'PRIMERO: Declarar INFUNDADA la tacha presentada' confirmado."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-032-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "El archivo se llama 'RESOLUCION Nº 032-2026-CEUNI..pdf' (doble punto): corregir el locator. INFUNDADA confirmado; carta de renuncia a la Asamblea Universitaria del 28-08-2026 confirmada."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-033-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "INFUNDADA y renuncia del 28-08-2026 confirmadas."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-034-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "INFUNDADA confirmado. Motivo: el tachante no figura en el padrón ('ha resuelto no admitirla como tal')."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-035-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'el Comité Electoral Universitario ha verificado que el postulante a Rector si posee el grado doctor y que fue obtenido con estudios presenciales' y 'su maestría y doctorado es en Administración' confirmados. Hay errores internos en la resolución (llama 'estudiante' al docente tachante)."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-037-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "INFUNDADA confirmado."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-038-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'obra la carta de renuncia Irrevocable, tanto al cargo de Decano y Vicerrector de Investigación, de fecha 26 de agosto de 2026' confirmado."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-039-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "INFUNDADA confirmado."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-040-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "INFUNDADA confirmado."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-041-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "INFUNDADA confirmado."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-042-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+      "http": 200,
+      "locatorFound": true,
+      "note": "INFUNDADA confirmado."
+    },
+    {
+      "sourceId": "src-rs-ceuni-res-046-2026",
+      "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgAEwKWBCZY3S65dGKVj_uQVAUIfZ-ZlkvhICysoJUz5GOc?e=BG5Ft1",
+      "http": 200,
+      "locatorFound": true,
+      "note": "SharePoint del CEUNI: sin cookies curl termina en login de Microsoft; con cookie jar (como un navegador) el enlace anónimo responde 302 -> 200 y el archivo es público. Carpeta 'RESOLUCIÓN DE RECONSIDERACIÓN DE IMPUGNACIONES' (044-046). Confirmado: 'Declarar INFUNDADO el Recurso de Reconsideración … contra la Resolución Nº 035-2026-CEUNI', 'aprobando por mayoría', fecha 29-09-2026."
+    },
+    {
+      "sourceId": "src-vr-orcid-cacho",
+      "url": "https://orcid.org/0000-0002-0501-4968",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Biografía confirmada (Oviedo; arquitecta UNI; coordinadora del grupo Urbanismo y Territorio)."
+    },
+    {
+      "sourceId": "src-vr-vri-sesquicentenario",
+      "url": "https://vri.uni.edu.pe/uni-iza-banderas-rinde-homenaje-y-entierra-capsula-del-tiempo-como-legado-historico-por-su-sesquicentenario/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Confirmado. La misma nota nombra al 'vicerrector de Investigación, Dr. Jorge Butler Blacker' (c-1-1), dato que no se usa."
+    },
+    {
+      "sourceId": "src-vr-larepublica-urbanismo-2027",
+      "url": "https://larepublica.pe/sociedad/2026/10/05/de-valladolid-a-lima-uni-consiguio-la-sede-de-congreso-internacional-de-urbanismo-para-2027-390245",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Confirmado. Prensa con status 'corroborado': aceptable."
+    },
+    {
+      "sourceId": "src-vr-faua-inifaua",
+      "url": "https://faua.uni.edu.pe/resena-inifaua/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Grupos de investigación por consolidar: Urbanismo y Territorio Líder del grupo: Cacho Cruz, Rocío Margarita'. La categoría 'por consolidar' no se menciona en la claim."
+    },
+    {
+      "sourceId": "src-vr-repouni-cacho",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Cacho+Cruz%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "API DSpace: 13 ítems; asesora 3 (2003), jurado 5 (2018-2024), autora 2. Coincide."
+    },
+    {
+      "sourceId": "src-vr-fiis-sanchez",
+      "url": "https://www.fiis.uni.edu.pe/plana-docente/121-sanchez-espinoza-javier-concepcion",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Ficha: 'Grado Académico: Maestro … Titulo Universitario: Ingeniero de Sistemas'. Contradice src-vr-tesis-8209 (título de Ingeniero Industrial, 1993) y está desactualizada en el grado (doctor 2021)."
+    },
+    {
+      "sourceId": "src-vr-tesis-22134",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/22134",
+      "http": 200,
+      "locatorFound": true,
+      "note": "API DSpace: Doctor en Ingeniería de Sistemas, FIIS, 2021. La página HTML no tiene SSR; se verificó con /server/api/pid/find."
+    },
+    {
+      "sourceId": "src-vr-tesis-14729",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/14729",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Maestro en Ciencias con Mención en Ingeniería de Sistemas, 2008."
+    },
+    {
+      "sourceId": "src-vr-tesis-8209",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/8209",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Ingeniero Industrial, 1993."
+    },
+    {
+      "sourceId": "src-vr-repouni-sanchez",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Sanchez+Espinoza%2C+Javier%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "73 ítems; asesor 63 (1997-2025), jurado 6. Coincide."
+    },
+    {
+      "sourceId": "src-vr-memoria-uni-2010",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2010.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Decano Titular/ Facultad de Ingeniería Eléctrica y Electrónica/ Magíster/ Félix Víctor Cáceres Cárdenas' y proyecto SMLC con Gamarra Chinchay confirmados."
+    },
+    {
+      "sourceId": "src-vr-memoria-uni-2011",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2011.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Designación como interventor del CENIP y 'Ing. Gamarra Chinchay, Hugo Eliseo(Jefe)' del proyecto SMLC (01/03/2010 a 11/02/2011) confirmados."
+    },
+    {
+      "sourceId": "src-vr-memoria-uni-2012",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2012.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Confirmado. La misma lista de la AU 2012-II trae 'Dr. Aurelio Padilla Ríos – Rector' (c-2-1) y 'Mag. Ulises Humala Tasso' como profesor principal (c-4-1), datos aún no usados."
+    },
+    {
+      "sourceId": "src-vr-tesis-18140",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/18140",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Doctor en Ciencias con Mención en Energética, FIM, 2018."
+    },
+    {
+      "sourceId": "src-vr-tesis-1188",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1188",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Maestro en Ciencias con Mención en Sistemas de Potencia, FIEE, 1993."
+    },
+    {
+      "sourceId": "src-vr-openalex-caceres",
+      "url": "https://api.openalex.org/works?filter=institutions.id:I62520931,raw_author_name.search:Felix%20Caceres",
+      "http": 200,
+      "locatorFound": true,
+      "note": "La consulta devuelve 30 obras y sólo 4 (ANDESCON 2016/2018) son 'Felix V. Caceres Cardenas'; el resto es de otra persona ('G. Caceres', MINERvA). Status 'corroborado' no aplica a un índice consultado una vez: usar parcialmente_verificado y citar el perfil https://openalex.org/A5072548031 o los DOI."
+    },
+    {
+      "sourceId": "src-vr-repouni-caceres",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Caceres+Cardenas%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "60 ítems; asesor 26 (1991-2025), jurado 30 (2018-2025). Coincide."
+    },
+    {
+      "sourceId": "src-vr-orcid-gamarra",
+      "url": "https://orcid.org/0000-0003-2040-0055",
+      "http": 200,
+      "locatorFound": true,
+      "note": "4 obras (LACCEI 2019, RED 2022, RED 2023, Impulso 2026). Coincide."
+    },
+    {
+      "sourceId": "src-vr-fim-graduacion-2022",
+      "url": "https://fim.uni.edu.pe/noticias/estudiantes/promocion-de-la-fim-se-convirte-en-la-primera-graduacion-con-bachiller-del-siglo-xxi/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'el Director de Escuelas de Mecánica el Dr. Hugo Gamarra'."
+    },
+    {
+      "sourceId": "src-vr-fim-madres-2022",
+      "url": "https://fim.uni.edu.pe/noticias/vanguardia/facultad-de-ingenieria-mecanica-celebra-a-todas-las-madres-fim/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'los directores de escuela el Dr. Hugo Gamarra Chinchay'."
+    },
+    {
+      "sourceId": "src-vr-tesis-587",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/587",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Maestro en Ingeniería con Mención en Aplicación Energética del Gas Natural, 2010 (coautor con otro tesista)."
+    },
+    {
+      "sourceId": "src-vr-tesis-2698",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/2698",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Ingeniero Mecánico, 1993."
+    },
+    {
+      "sourceId": "src-vr-repouni-gamarra",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Gamarra+Chinchay%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "totalElements=120 y la URL citada (size=100) sólo muestra 100. Paginando: asesor 10 (2009-2023), jurado 87 (2018-2025); coincide, pero un lector no lo reproduce con el enlace: añadir &page=1 o una nota."
+    },
+    {
+      "sourceId": "src-vr-orcid-lazo",
+      "url": "https://orcid.org/0000-0002-3909-3975",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide. Además declara un 'Dr.' por la UNI con fecha 1975, incoherente."
+    },
+    {
+      "sourceId": "src-vr-vri-docentes-investigadores",
+      "url": "https://vri.uni.edu.pe/docentes-investigadores-uni/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Texto: 'Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería.'; el locator recoge la institución y la claim la omite. La página publica correos institucionales (no reproducidos)."
+    },
+    {
+      "sourceId": "src-vr-vri-formativa-2023",
+      "url": "https://vri.uni.edu.pe/concurso-proyectos-formativa-2023/",
+      "http": 200,
+      "locatorFound": true,
+      "note": "FIGMM-PFR-23-2023 S/.50,000 y FIM-PFR-47-2023 S/.30,000 confirmados."
+    },
+    {
+      "sourceId": "src-vr-acta-au-03-2022",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5104890/Acta%20de%20Asamblea%20Universitaria%2003-2022.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Fecha 15-07-2022 y Oficio N.º 369/2022/CEUNI-UNI del 'Presidente del CEUNI' confirmados. El punto 5 de la agenda es 'Informe de las actividades del Comité Electoral para el desarrollo de las Elecciones Generales y Complementarias 2022'."
+    },
+    {
+      "sourceId": "src-vr-acta-au-06-2022",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5104911/Acta%20de%20Asamblea%20Universitaria%2006-2022.pdf",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'El Dr. Antonio Nolberto Lazo Jara, Presidente del Comité Electoral, expresó su extrañeza…' confirmado."
+    },
+    {
+      "sourceId": "src-vr-acta-cu-11-2023",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5112138/ACTA%20DE%20CONSEJO%20UNIVERSITARIO%20N%C2%B0%2011.PDF",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'SECRETARIO DR. ANTONIO NOLBERTO LAZO JARA' (RR N.º 2167-2023) confirmado. En la misma tabla: 'PRESIDENTE DR. LUIS MOSQUERA LEIVA' (c-7-2), dato que no se usa y que además resuelve su identidad."
+    },
+    {
+      "sourceId": "src-vr-tesis-1904",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1904",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Licenciado en Física, 1995."
+    },
+    {
+      "sourceId": "src-vr-repouni-lazo",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Lazo+Jara%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "16 ítems; asesor 7 (2017-2022), jurado 5 (2019-2021). Coincide."
+    },
+    {
+      "sourceId": "src-vr-occu-fc-reacreditacion",
+      "url": "https://occu.uni.edu.pe/index.php?Itemid=138&catid=41&id=632&option=com_content&view=article",
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Dr. Héctor Guimaray Huerta, Coordinador de la Oficina de Acreditación de la Facultad de Ciencias'; fechado el 21 de noviembre de 2023."
+    },
+    {
+      "sourceId": "src-vr-tesis-22478",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/22478",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Doctor en Ciencias con Mención en Matemática, 2021."
+    },
+    {
+      "sourceId": "src-vr-tesis-335",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/335",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Maestro en Ciencias con Mención en Matemática, 1989."
+    },
+    {
+      "sourceId": "src-vr-repouni-guimaray",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Guimaray+Huerta%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "22 ítems; asesor 3 (1990-1997), jurado 15 (2018-2024). Coincide."
+    },
+    {
+      "sourceId": "src-vr-orcid-villavicencio",
+      "url": "https://orcid.org/0000-0003-0142-7930",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Coincide (Profesor Principal desde 1987-10)."
+    },
+    {
+      "sourceId": "src-vr-tesis-1331",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1331",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Maestro en Ciencias con Mención en Energética, 2012 (coautor)."
+    },
+    {
+      "sourceId": "src-vr-tesis-23687",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/23687",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Ingeniero Mecánico, 1979."
+    },
+    {
+      "sourceId": "src-vr-repouni-villavicencio",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Villavicencio+Chavez%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "totalElements=130 y la URL citada sólo muestra 100. Paginando: asesor 64 (1985-2025), jurado 64 (2018-2025); coincide, pero no se reproduce con el enlace."
+    },
+    {
+      "sourceId": "src-vr-tesis-5190",
+      "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/5190",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Ingeniero Electricista, 1987. El asesor de esa tesis comparte apellidos con el candidato: no reproducir (posible familiar)."
+    },
+    {
+      "sourceId": "src-vr-alicia-gutierrez-2018",
+      "url": "https://alicia.concytec.gob.pe/vufind/Record/UTPD_0d70bb1e685a32dcf33fd9eecac9b355",
+      "http": 200,
+      "locatorFound": true,
+      "note": "Autor 'Gutiérrez Paúcar, Agustín Adalberto', objeto de conferencia, 2018, UTP. Confirmado."
+    },
+    {
+      "sourceId": "src-vr-repouni-gutierrez",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Gutierrez+Paucar%22&dsoType=ITEM&size=100",
+      "http": 200,
+      "locatorFound": true,
+      "note": "La búsqueda 'Gutierrez Paucar' también trae a otra persona (asesor de la tesis de 1987). Sin ese ítem: asesor 9 (2001-2016), lo que coincide con la claim. Riesgo de homónimo en el conteo de jurado."
+    },
+    {
+      "sourceId": "src-rx-uni-rr0593-2025",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7714905/6527923-0593-2025-uni.pdf",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-uni-directorio-jul2025",
+      "url": "https://portal.uni.edu.pe/images/archivospdf/OCII_-_DIRECTORIO_UNI_8_DE_JULIO_DE_2025.pdf",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-gaceta-historia-uni-22",
+      "url": "https://press.uni.edu.pe/index.php/historiauni/catalog/download/81/63/199?inline=1",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-uni-rr1360-2025",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8121826/6805519-1360-2025-uni.pdf",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-uni-pf-2009",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/PFUNI2009.pdf",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-uni-memoria-2012",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2012.pdf",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-uni-poi-2014",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/POI_UNI2014.pdf",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-peru21-humala-2016",
+      "url": "https://peru21.pe/politica/ulises-humala-destituido-uni-irregularidades-compra-buses-209029-noticia/",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-peru21-alva-2015",
+      "url": "https://peru21.pe/opinion/jorge-alva-hurtado-rector-uni-ulises-humala-suspendido-uni-206459-noticia/",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-elperuano-rs021-2025-em",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2471857-3/",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-gestion-ingemmet-2025",
+      "url": "https://gestion.pe/economia/ingemmet-minem-retira-al-presidente-de-su-consejo-directivo-sin-asignar-reemplazo-noticia/",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-proactivo-chirif-2025",
+      "url": "https://proactivo.com.pe/luis-humberto-chirif-deja-la-presidencia-del-ingemmet/",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-dnb-chirif-1998",
+      "url": "https://d-nb.info/95499874X",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-orcid-rodriguez",
+      "url": "https://orcid.org/0000-0002-9887-6419",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-congreso-ciencia-17so-2024",
+      "url": "https://comunicaciones.congreso.gob.pe/wpuploads/2024/04/Ciencia.17SO.29.04.2024-1.pdf",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-elperuano-rp101-2024",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2321862-1",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-elperuano-rs132-2018-pcm",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/1661070-3",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-proactivo-uni-2021-planes",
+      "url": "https://proactivo.com.pe/la-universidad-nacional-de-ingenieria-uni-elegira-nuevo-rector-este-martes-26-de-octubre/",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-proactivo-uni-2021-resultados",
+      "url": "https://proactivo.com.pe/elecciones-uni-alfonso-lopez-chau-y-elmar-javier-franco-pasan-a-segunda-vuelta/",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-plan-alva-2021",
+      "url": "https://drive.google.com/file/d/1e2CcLQZG_WhzCPHKCIJJv9bSPevVJ9lD/view",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    },
+    {
+      "sourceId": "src-rx-youtube-lista3-2026",
+      "url": "https://www.youtube.com/watch?v=pYCV_tPxoNI",
+      "http": null,
+      "locatorFound": null,
+      "note": "No revisado por el auditor."
+    }
+  ],
+  "claimIssues": [
+    {
+      "candidateId": "c-1-1",
+      "section": "declaraciones",
+      "textStart": "Según RPP, propuso cambiar el modelo educativo tradicional (\"c",
+      "problem": "RPP dice 'eliminar las carpetas para reemplazarlas por equipos tecnológicos'. En Perú 'carpetas' son los pupitres; 'trabajo en papel' es una interpretación que no está en la fuente.",
+      "suggestedFix": "Según RPP, propuso \"cambiar el paradigma\" educativo tradicional y eliminar las carpetas (pupitres) para reemplazarlas por equipos tecnológicos que permitan aplicar la teoría de manera directa.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "declaraciones",
+      "textStart": "Según RPP, sostuvo que el presupuesto del Estado sólo cubre s",
+      "problem": "RPP dice 'laboratorios que tienen 50 años de antigüedad'; 'unos 50' añade una aproximación que la nota no tiene.",
+      "suggestedFix": "…para renovar laboratorios que, según dijo, tienen 50 años de antigüedad.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "textStart": "Figura como decano de la Facultad de Ingeniería Eléctrica y E",
+      "problem": "Hay fuentes primarias ya registradas que precisan el dato: la Res. 038-2026-CEUNI consigna su renuncia irrevocable a 'Decano y Vicerrector de Investigación' (26-08-2026), y la nota VRI del 29-07-2026 (src-vr-vri-sesquicentenario) lo nombra vicerrector de Investigación. La claim sigue diciendo 'no indica el periodo'.",
+      "suggestedFix": "Añadir: 'Según la nota del VRI-UNI del 29-07-2026 era vicerrector de Investigación; en su expediente obra renuncia irrevocable a los cargos de Decano y Vicerrector de Investigación del 26-08-2026 (Res. 038-2026-CEUNI)'. Status: corroborado.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "gestion",
+      "textStart": "Rector de la UNI en mayo de 2009, según RPP (\"el rector de la",
+      "problem": "Fuente sólo de prensa y sin segundo apellido, cuando la Memoria UNI 2012 (src-vr-memoria-uni-2012, ya registrada) lista 'Dr. Aurelio Padilla Ríos – Rector' entre los integrantes de la AU 2012-II.",
+      "suggestedFix": "Citar también src-vr-memoria-uni-2012 y subir el status a corroborado (prensa 2009 + memoria institucional 2012).",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-2-3",
+      "section": "docencia",
+      "textStart": "Profesor principal de la Facultad de Ingeniería Química y Tex",
+      "problem": "ORCID registra el cargo actual ('Profesor Principal') con fecha de inicio del empleo (1992-01). No dice que sea principal desde 1992. Pasa lo mismo con c-4-3 ('Docente principal … desde 1995') y c-9-1 ('Docente principal … desde 2009').",
+      "suggestedFix": "Profesor de la FIQT-UNI desde 1992; su ORCID lo registra como profesor principal.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-2-3",
+      "section": "formacion",
+      "textStart": "Ingeniero químico (UNI), maestro en Ciencias con mención en G",
+      "problem": "Identidad: el ORCID se llama 'Cesar Osorio' (sin 'Carrera'), en contra de la regla 3. Se acepta por la facultad FIQT y porque OpenAlex enlaza ese ORCID a 'César Javier Osorio Carrera', pero el texto no lo aclara. Igual pasa con c-3-3 ('Modesto Montoya') y c-8-3 ('Jimmy Rosales', sin facultad en ORCID).",
+      "suggestedFix": "Agregar a las claims o al source: 'registro ORCID a nombre de \"Cesar Osorio\" (FIQT-UNI), enlazado por OpenAlex al nombre completo'. Mismo criterio que ya se aplica a c-7-2.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-3-3",
+      "section": "investigacion",
+      "textStart": "Investigador RENACYT Nivel II (calificaciones 2022 y 2024 reg",
+      "problem": "Mezcla un dato registrado por CONCYTEC (RENACYT) con estancias de científico invitado (GSI, IPN Orsay, Carnegie Mellon, Jülich) que el titular autodeclara, y pone todo como 'corroborado'.",
+      "suggestedFix": "Separar en dos claims: RENACYT Nivel II (corroborado, hecho) y estancias 1983–1988 'según su ORCID' (declarado, declaracion).",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "declaraciones",
+      "textStart": "En entrevista con Caretas calificó de \"puerta cerrada\" el de",
+      "problem": "Caretas usa el condicional ('cada plancha solo habría podido invitar a cinco personas') y la claim lo presenta como hecho.",
+      "suggestedFix": "…calificó de \"puerta cerrada\" el debate organizado por el Comité Electoral porque, según él, cada plancha sólo habría podido invitar a cinco personas.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "formacion",
+      "textStart": "Estudió Ingeniería Económica en la UNI, hizo un posgrado en l",
+      "problem": "Caretas dice 'estudios de posgrado en la Universidad Sorbonne Nouvelle-París 3', no que haya obtenido un posgrado. Además la fuente de Caretas es 'información biográfica disponible', sin precisar cuál, y la claim usa kind 'hecho'.",
+      "suggestedFix": "'…realizó estudios de posgrado en la Universidad Sorbonne Nouvelle–París 3…'. Usar kind hecho_inferido o declaracion.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "declaraciones",
+      "textStart": "Según RPP, afirmó que la UNI pierde ingresos por no gestionar",
+      "problem": "Omite 'adecuadamente': RPP dice 'al no gestionar adecuadamente concesiones como la del metro'.",
+      "suggestedFix": "…por no gestionar adecuadamente concesiones como la del metro.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-4-2",
+      "section": "investigacion",
+      "textStart": "OpenAlex indexa al menos cuatro ponencias IEEE ANDESCON (2016",
+      "problem": "Status 'corroborado' con una sola fuente (índice OpenAlex). La URL citada devuelve 30 obras y 26 son de otra persona ('G. Caceres').",
+      "suggestedFix": "Status parcialmente_verificado. Citar el perfil https://openalex.org/A5072548031 o los DOI de IEEE.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-4-3",
+      "section": "gestion",
+      "textStart": "Director de la Sección de Posgrado de la FIQT-UNI (2009–2016",
+      "problem": "La biografía de ORCID dice 'Director de Posgrado UNI (FIQT-UNI 2009-2016, 2021-2022)'; 'Sección de' se agregó.",
+      "suggestedFix": "Director de Posgrado (FIQT-UNI, 2009–2016 y 2021–2022)…",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "investigacion",
+      "textStart": "Autor de \"Diseño de Elementos de Máquinas I y II\" (3.ª ed., ",
+      "problem": "'ambos citados en sílabos de la UNI y de la URP' no es exacto: el libro se cita en el sílabo URP y las tablas en el sílabo UNI MC401. Además la bibliografía dice sólo 'Alva, F.'.",
+      "suggestedFix": "…'Diseño de Elementos de Máquinas I y II' (citado en un sílabo de la URP, donde él figura como docente) y de 'Tablas de diseño de elementos de máquinas' (citado en el sílabo UNI-FIM MC401).",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "declaraciones",
+      "textStart": "Según RPP: \"Nuestros laboratorios están ya algo obsoletos, q",
+      "problem": "Sin problema de fondo. La propuesta relacionada (prop-l6-debate-1) pone en 'problem' 'Laboratorios obsoletos.' y quita el matiz 'algo'.",
+      "suggestedFix": "Ver proposalIssues.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "gestion",
+      "textStart": "Director ejecutivo del Programa Nacional de Investigación Cie",
+      "problem": "En presente y sin fecha, puede leerse como cargo actual. ProActivo (2026) usa pasado ('se ha desempeñado') y la agenda del Congreso no tiene año.",
+      "suggestedFix": "Se desempeñó como director ejecutivo de PROCIENCIA (agenda de la Comisión de Ciencia del Congreso, 'martes 6 de junio', sin año; ProActivo, 2026). Citar ambas fuentes; status corroborado.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-2-2",
+      "section": "docencia",
+      "textStart": "La ficha de la plana docente FIIS lo registra como profesor n",
+      "problem": "La ficha dice 'Título: Ingeniero de Sistemas' y el repositorio (src-vr-tesis-8209) registra título de Ingeniero Industrial (1993). También da 'Grado Académico: Maestro', ya superado por el doctorado de 2021. La claim repite el título sin señalar la contradicción.",
+      "suggestedFix": "Quitar el título de esta claim o añadir: 'la ficha consigna título de Ingeniero de Sistemas y grado de maestro; el repositorio registra título de Ingeniero Industrial (1993) y doctorado (2021)'.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-5-3",
+      "section": "formacion",
+      "textStart": "Declara en ORCID maestría en Física (Universidade Federal de ",
+      "problem": "Cita parcial: el VRI escribe 'Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería.', que choca con el doctorado en Goiás declarado en ORCID. Al quitar la institución se oculta la discrepancia.",
+      "suggestedFix": "…el VRI-UNI lo describe como 'Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería', lo que no coincide con la institución declarada en ORCID. Mantener parcialmente_verificado.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-2-2",
+      "section": "docencia",
+      "textStart": "En el Repositorio UNI figura como asesor de 63 trabajos de ti",
+      "problem": "Los conteos salen de una búsqueda de texto en el repositorio. Coinciden con mi recuento, pero son 'según búsqueda del <fecha>' y no un hecho estable. En Gamarra (120 ítems) y Villavicencio (130) la URL citada sólo muestra 100. En Gutiérrez Paucar la búsqueda trae a otra persona con los mismos apellidos.",
+      "suggestedFix": "Redactar 'Una búsqueda en el Repositorio UNI (16-10-2026) lo registra como…' y paginar las URL. Vale para todas las claims src-vr-repouni-*.",
+      "severity": "baja"
+    }
+  ],
+  "proposalIssues": [
+    {
+      "proposalId": "prop-l1-debate-1",
+      "problem": "'reemplazar el trabajo en papel' no está en la fuente; RPP dice 'eliminar las carpetas' (pupitres).",
+      "suggestedFix": "Cambiar \"el paradigma\" educativo tradicional y eliminar las carpetas (pupitres) para reemplazarlas por equipos tecnológicos que permitan aplicar la teoría de manera directa.",
+      "severity": "media"
+    },
+    {
+      "proposalId": "prop-l6-debate-1",
+      "problem": "En 'problem', 'Laboratorios obsoletos.' quita el matiz del candidato ('algo obsoletos').",
+      "suggestedFix": "problem: 'Según el candidato, los laboratorios están \"algo obsoletos\".'",
+      "severity": "baja"
+    },
+    {
+      "proposalId": "prop-l6-debate-2",
+      "problem": "'personal administrativo' es inferencia; RPP dice 'docentes y trabajadores'.",
+      "suggestedFix": "Capacitación de docentes y trabajadores.",
+      "severity": "baja"
+    },
+    {
+      "proposalId": "prop-l3-declaracion_publica-1",
+      "problem": "Las 14 propuestas del blog de Montoya (prop-l3-declaracion_publica-1…14) tienen planId 'plan-lista-3' y listId 'lista-3', aunque el texto es anterior a la inscripción y no habla de la lista. La vista por lista puede mostrarlas como plan de la Lista 3, y esa lista queda con 16 propuestas frente a 0–4 de las demás, un desequilibrio de presentación.",
+      "suggestedFix": "Poner planId null (o un plan 'declaracion-c-3-3'), mostrarlas como 'Propuestas personales del candidato a VRI', separadas del plan de lista, y aclarar en la UI que la cantidad de propuestas refleja las fuentes disponibles y no la calidad de la lista.",
+      "severity": "media"
+    },
+    {
+      "proposalId": "prop-l3-declaracion_publica-14",
+      "problem": "La categoría 'Calidad educativa' no es coherente con prop-l2-debate-1 (rankings → 'Internacionalización'). Además el locator dice 16-08-2026 y la fuente publishedAt 2026-08-17.",
+      "suggestedFix": "Usar la misma categoría para ambas propuestas de rankings y unificar la fecha.",
+      "severity": "baja"
+    },
+    {
+      "proposalId": "prop-l4-debate-3",
+      "problem": "En 'problem' falta 'adecuadamente' ('al no gestionar adecuadamente concesiones').",
+      "suggestedFix": "Según el candidato, la UNI pierde ingresos al no gestionar adecuadamente concesiones como la del metro.",
+      "severity": "baja"
+    },
+    {
+      "proposalId": "prop-l1-debate-2",
+      "problem": "En 'problem', 'unos 50 años': RPP dice '50 años'.",
+      "suggestedFix": "Laboratorios con 50 años de antigüedad, según el candidato…",
+      "severity": "baja"
+    }
+  ],
+  "facultyFixes": [
+    {
+      "id": "FAUA",
+      "currentName": "Facultad de Arquitectura, Urbanismo y Artes",
+      "officialName": "Facultad de Arquitectura, Urbanismo y Artes",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://faua.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FC",
+      "currentName": "Facultad de Ciencias",
+      "officialName": "Facultad de Ciencias",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://fc.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FIC",
+      "currentName": "Facultad de Ingeniería Civil",
+      "officialName": "Facultad de Ingeniería Civil",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://fic.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FIEE",
+      "currentName": "Facultad de Ingeniería Eléctrica y Electrónica",
+      "officialName": "Facultad de Ingeniería Eléctrica y Electrónica",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://fiee.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FIEECS",
+      "currentName": "Facultad de Ingeniería Económica, Estadística y Ciencias Sociales",
+      "officialName": "Facultad de Ingeniería Económica, Estadística y Ciencias Sociales",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://fieecs.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FIGMM",
+      "currentName": "Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+      "officialName": "Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026); figmm.uni.edu.pe no respondió. Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FIIS",
+      "currentName": "Facultad de Ingeniería Industrial y de Sistemas",
+      "officialName": "Facultad de Ingeniería Industrial y de Sistemas",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://www.fiis.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FIM",
+      "currentName": "Facultad de Ingeniería Mecánica",
+      "officialName": "Facultad de Ingeniería Mecánica",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://fim.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    },
+    {
+      "id": "FIQT",
+      "currentName": "Facultad de Ingeniería Química y Textil",
+      "officialName": "Facultad de Ingeniería Química y Textil",
+      "sourceUrl": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQBRw9W2xYWUTZg6mpLG_sGOAVQe74SZriNxHssGNuYc_ro?e=dah4ex",
+      "note": "Sin corrección: el nombre coincide con la sección IV de la publicación definitiva del CEUNI (30-09-2026) y con el sitio de la facultad (https://www.fiqt.uni.edu.pe/). Sugerido: nameStatus = verificado_primaria. uni.edu.pe y portal.uni.edu.pe dieron timeout desde esta red."
+    }
+  ],
+  "leadIssues": [
+    {
+      "candidateId": "c-1-3",
+      "profileId": "https://openalex.org/A5086429233",
+      "problem": "Descarte confirmado: el ORCID enlazado (0009-0005-8954-7153) es de 'Luis Jesus Montesdeoca Espinoza' (ESPAM, Ecuador). El perfil mezcla obras UNI 2006–2021 con las de esa persona.",
+      "suggestedStatus": "descartado"
+    },
+    {
+      "candidateId": "c-8-1",
+      "profileId": "https://openalex.org/A5100639200",
+      "problem": "Es otra persona, no sólo 'probablemente': ORCID 0000-0002-3497-9929, última institución Universidad Autónoma de Madrid, sin afiliación UNI. Conviene corregir la nota.",
+      "suggestedStatus": "descartado"
+    },
+    {
+      "candidateId": "c-2-3",
+      "profileId": "https://openalex.org/A5052985123",
+      "problem": "Enlazado al ORCID usado como fuente, pero sus temas incluyen morfometría de peces (Colossoma macropomum, UCV 2020) y figura en UCV desde 2000. Puede mezclar coautorías estadísticas o a un homónimo. Revisar obra por obra antes de atribuir.",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-3-3",
+      "profileId": "https://openalex.org/A5088904355",
+      "problem": "Enlazado al ORCID del candidato, pero el nombre visible es 'M. Montoya' (160 obras) y aparecen afiliaciones ULB 1991, UNMSM 2010 y CEA Saclay 1981. Es probable que mezcle homónimos 'M. Montoya'. No usar worksCount como dato.",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-8-3",
+      "profileId": "https://openalex.org/A5137060211",
+      "problem": "Nombre invertido ('Huamani Jimmy Rosales'), 1 obra, sin ORCID. Los otros dos perfiles (A5025491879, A5128043214) sí enlazan al ORCID 0000-0002-3737-8694. Este tiene la evidencia más débil.",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-8-3",
+      "profileId": "https://openalex.org/A5025491879",
+      "problem": "Enlazado al ORCID del candidato, pero incluye afiliaciones UNFV 2021 y Universidad Nacional de San Martín 2026. Puede tener mezcla menor. La nota 'coincidencia por nombre' está desactualizada: el vínculo es por ORCID.",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-7-2",
+      "profileId": "https://openalex.org/A5075893956",
+      "problem": "No es otra persona. OpenAlex enlaza el ORCID 0000-0003-0798-8392 y tiene la variante 'Luis Alberto Mosquera Leiva'. El acta CU N.º 11 (02-08-2023, src-vr-acta-cu-11-2023) nombra al 'DR. LUIS MOSQUERA LEIVA' presidente del Tribunal de Honor. La identidad queda reforzada: actualizar la nota (y la claim de c-7-2).",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-1-2",
+      "profileId": "https://orcid.org/0000-0002-0501-4968",
+      "problem": "Incoherencia de estado: la pista figura 'pendiente' pero el mismo ORCID ya es fuente de claims (src-vr-orcid-cacho). Lo mismo con c-5-2 (0000-0003-2040-0055), c-5-3 (0000-0002-3909-3975) y c-7-3 (0000-0003-0142-7930). No es otra persona.",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-1-2",
+      "profileId": "https://scholar.google.com/citations?user=H-pxup8AAAAJ&hl=es",
+      "problem": "La nota dice 'no abierto/leído'. Por la regla 4 no debe usarse hasta abrirlo; como pista está bien.",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-5-3",
+      "profileId": "https://openalex.org/A5072874999",
+      "problem": "Sin ORCID enlazado en OpenAlex, pero sus obras (YCrO3, Physica B 2018; tesis UNI 2014) coinciden con las del ORCID 0000-0002-3909-3975 del candidato. Es la misma persona: puede vincularse.",
+      "suggestedStatus": "pendiente"
+    }
+  ],
+  "piiFindings": [
+    "Revisión de candidates/proposals/sources/site/government-plans: no hay DNI, domicilios, teléfonos, correos personales, familiares, deudas ni afiliación partidaria. Los códigos de docente del CEUNI no se reproducen.",
+    "src-caretas-humala-2026 contiene parentesco del candidato c-4-1 y la afiliación o ideología política de c-3-2 (Páuyac), tomadas de la entrevista. El observatorio no las reproduce y así debe seguir; tampoco debe usarse esa nota como fuente para c-3-2.",
+    "Las resoluciones CEUNI enlazadas contienen nombres de estudiantes tachantes. Las notas de sources.json los omiten (correcto); las claims no los nombran.",
+    "src-silabos-alva (PDF URP) y src-vr-vri-docentes-investigadores contienen correos: no reproducidos (correcto).",
+    "src-vr-tesis-5190: el asesor comparte apellidos con c-9-2. No inferir ni publicar parentesco."
+  ],
+  "summary": "Auditoría del 16-10-2026 sobre 83 fuentes y todas las claims y propuestas publicadas. Todas las URL responden 200; las de SharePoint del CEUNI necesitan cookies, como cualquier navegador, pero son públicas. Lo más grave: (1) la fuente de facultades (src-ceuni-tabla-facultades) se presenta como 'captura con login', cuando el PDF oficial de listas provisionales del 22-09-2026 es público y confirma las 27 facultades: la verificación de facultad puede pasar a verificado_primaria; (2) la claim y la propuesta de Butler ('trabajo en papel') distorsionan la fuente: RPP dice 'eliminar las carpetas'; (3) varias claims mezclan dato registrado por CONCYTEC con autodeclaración bajo 'corroborado' (Montoya) o dan 'corroborado' a un índice único (Cáceres/OpenAlex, cuya consulta trae sobre todo a otra persona); (4) PROCIENCIA (c-8-1) está en presente sin fecha; (5) Lazo Jara (cita parcial del VRI que oculta la discrepancia de institución del doctorado) y Sánchez Espinoza (título de Sistemas vs Industrial) tienen contradicciones no señaladas; (6) las 14 propuestas del blog de Montoya cuelgan de plan-lista-3, lo que infla visualmente a la Lista 3; (7) las fuentes de prensa tienen status verificado_primaria, contra lo que dice el brief. Los nombres de las 9 facultades son correctos (publicación definitiva del CEUNI y sitios de cada facultad). Pistas: se confirman los descartes de Lastra y Rodríguez; Osorio y Montoya en OpenAlex pueden mezclar homónimos. No hay PII prohibida publicada. Fuentes ya registradas aportan datos sin usar: Butler VRI (nota VRI 29-07-2026), Padilla rector 2012 (Memoria 2012), Mosquera presidente del Tribunal de Honor (acta CU 11-2023)."
+}
