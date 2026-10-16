@@ -1,27 +1,11 @@
-import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { candidateById, listProposals, lists, personalProposals, plans, proposals, site, sourceById } from '../data'
-import { ORIGIN_LABEL, PROPOSAL_CATEGORIES, type Proposal } from '../data/types'
-import { EmptyState, PageHeader, Section, StatusBadge } from '../components/ui'
+import { listProposals, lists, personalProposals, plans, site } from '../data'
+import { PROPOSAL_CATEGORIES } from '../data/types'
+import { PageHeader, Section } from '../components/ui'
 import { DebateQuotes, RadarCompare, RadarGrid } from '../components/ProposalRadar'
-
-const FIELDS: [keyof Proposal, string][] = [
-  ['problem', 'Problema'],
-  ['objective', 'Objetivo'],
-  ['beneficiaries', 'Beneficiarios'],
-  ['indicator', 'Indicador'],
-  ['baseline', 'Línea base'],
-  ['target', 'Meta'],
-  ['targetDate', 'Fecha objetivo'],
-  ['budget', 'Presupuesto declarado'],
-  ['responsibleUnit', 'Unidad responsable'],
-]
+import ProposalExplorer from '../components/ProposalExplorer'
 
 export default function Plans() {
-  const [cat, setCat] = useState('')
-  const [list, setList] = useState('')
-  const shown = proposals.filter((p) => (!cat || p.category === cat) && (!list || p.listId === list))
-
   return (
     <div>
       <PageHeader kicker="Planes de gobierno" title="¿Qué proponen?">
@@ -113,56 +97,7 @@ export default function Plans() {
       </Section>
 
       <Section title="Explorador de propuestas">
-        <div className="grid max-w-xl grid-cols-2 gap-3">
-        <label className="block">
-          <span className="kicker">Lista</span>
-          <select className="input mt-1" value={list} onChange={(e) => setList(e.target.value)}>
-            <option value="">Todas</option>
-            {lists.map((l) => <option key={l.id} value={l.id}>Lista {l.number}</option>)}
-          </select>
-        </label>
-        <label className="block">
-          <span className="kicker">Categoría</span>
-          <select className="input mt-1" value={cat} onChange={(e) => setCat(e.target.value)}>
-            <option value="">Todas</option>
-            {PROPOSAL_CATEGORIES.map((c) => (
-              <option key={c}>{c}</option>
-            ))}
-          </select>
-        </label>
-        </div>
-        <p className="mt-2 text-sm" role="status"><strong>{shown.length}</strong> propuesta{shown.length === 1 ? '' : 's'}</p>
-        <div className="mt-4 space-y-3">
-          {shown.map((p) => (
-            <article key={p.id} className="card p-4 text-sm">
-              <p className="kicker">Lista {p.listId.split('-')[1]} · {p.category}</p>
-              <span className="chip mt-1">{ORIGIN_LABEL[p.origin]}</span>
-              {p.planId === null && p.candidateId && (
-                <span className="chip ml-1 mt-1">Propuesta personal de {candidateById.get(p.candidateId)?.name}, no presentada como plan de la lista</span>
-              )}
-              <h3 className="mt-1 font-semibold">{p.title}</h3>
-              <p className="mt-1">{p.description}</p>
-              {p.quote && <blockquote className="mt-2 border-l-4 border-signal pl-3 italic">“{p.quote}”{p.t && <span className="not-italic text-xs text-muted"> · {p.t}</span>}</blockquote>}
-              <dl className="mt-3 grid gap-x-4 gap-y-1 sm:grid-cols-3">
-                {FIELDS.map(([k, label]) => (
-                  <div key={k}>
-                    <dt className="text-xs text-muted">{label}</dt>
-                    <dd className={p[k] ? '' : 'italic text-muted'}>{(p[k] as string | null) ?? 'No especificado'}</dd>
-                  </div>
-                ))}
-              </dl>
-              <p className="mt-2 text-xs">
-                Fuente: <Link className="link" to={`/fuentes#${p.sourceId}`}>{sourceById.get(p.sourceId)?.title}</Link>
-                {p.locator && ` · ${p.locator}`} <StatusBadge status={p.status} short />
-              </p>
-            </article>
-          ))}
-          {shown.length === 0 && (
-            <EmptyState title="Todavía no hay propuestas registradas">
-              Cuando una lista publique su plan, sus propuestas se extraerán aquí con los 13 campos y la página del documento donde aparecen.
-            </EmptyState>
-          )}
-        </div>
+        <ProposalExplorer />
       </Section>
     </div>
   )

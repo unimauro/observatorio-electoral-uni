@@ -1,0 +1,876 @@
+{
+  "agent": "retos",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "id": "src-ret-pedn2050-ds103",
+      "title": "Decreto Supremo N.° 103-2023-PCM que aprueba la actualización del Plan Estratégico de Desarrollo Nacional al 2050",
+      "author": "Presidencia del Consejo de Ministros",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5131082/DS%20103-2023-PCM.pdf?v=1697640991",
+      "landingUrl": "https://www.gob.pe/institucion/ceplan/campa%C3%B1as/11228-peru-plan-estrategico-de-desarrollo-nacional-al-2050",
+      "publishedAt": "2023-09-14",
+      "type": "normativa",
+      "identifier": "DS 103-2023-PCM",
+      "locator": "Artículo 1.- Aprobación de la actualización del Plan Estratégico de Desarrollo Nacional al 2050, aprobado por Decreto Supremo N° 095-2022-PCM",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": "El Peruano, 14-09-2023. El PEDN original se aprobó por DS 095-2022-PCM (PDF escaneado, no legible como texto)."
+    },
+    {
+      "id": "src-ret-pedn2050-indicadores",
+      "title": "Indicadores del Plan Estratégico de Desarrollo Nacional al 2050 (fichas técnicas)",
+      "author": "CEPLAN",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/ceplan/campa%C3%B1as/11228-peru-plan-estrategico-de-desarrollo-nacional-al-2050",
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": "DS 103-2023-PCM (anexo de indicadores)",
+      "locator": "Índice: ON 1 'Alcanzar el pleno desarrollo de las capacidades de las personas, sin dejar nadie atrás'; ON 2 '...en un contexto de cambio climático'; ON 3 '...uso intensivo de la ciencia y tecnología, y la transformación digital del país'; ON 4 '...Estado efectivo al servicio de las personas'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": "541 páginas. Contiene el texto literal de los objetivos nacionales (ON), objetivos específicos (OE) y acciones estratégicas (AE), con línea de base y logros esperados 2026/2030/2040/2050. Las páginas citadas son del PDF."
+    },
+    {
+      "id": "src-ret-polcti-2030",
+      "title": "Decreto Supremo N.° 093-2025-PCM que aprueba la Política Nacional de Ciencia, Tecnología e Innovación al 2030 (POLCTI)",
+      "author": "Presidencia del Consejo de Ministros / CONCYTEC",
+      "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/decreto-supremo-n-093-2025-pcm.pdf",
+      "landingUrl": null,
+      "publishedAt": "2025-07-15",
+      "type": "normativa",
+      "identifier": "DS 093-2025-PCM",
+      "locator": "'En el año 2030 el Perú se encuentra entre los 60 países más innovadores del mundo' ... 'se aspira cerrar la brecha de inversión en I+D+i planteando alcanzar el 1% del PBI el 2030' (El Peruano, 15-07-2025, p. 8)",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": "Copia del cuadernillo de El Peruano alojada en SINIA (MINAM). Seis objetivos prioritarios; OP.03 'Incrementar el capital humano de alto nivel de los actores del SINACTI'."
+    },
+    {
+      "id": "src-ret-enia-2026",
+      "title": "Resolución Ministerial N.° 152-2026-PCM que aprueba la Estrategia Nacional de Inteligencia Artificial 2026-2030 (ENIA)",
+      "author": "Presidencia del Consejo de Ministros – Secretaría de Gobierno y Transformación Digital",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2511535-1",
+      "landingUrl": null,
+      "publishedAt": "2026-05-01",
+      "type": "normativa",
+      "identifier": "RM 152-2026-PCM",
+      "locator": "'Aprobar la Estrategia Nacional de Inteligencia Artificial 2026 - 2030' (Art. 1); 'Las organizaciones de la sociedad civil, ciudadanos, empresas y academia ... pueden tomar como referencia ... la ENIA' (Art. 2.3)",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": "Horizonte confirmado: 2026-2030. Los considerandos citan la Ley N.° 31814, su reglamento (DS 115-2025-PCM) y la Política Nacional de Transformación Digital al 2030 (DS 085-2023-PCM). No se encontró una estrategia de IA con horizonte 2040."
+    },
+    {
+      "id": "src-ret-ods-marco-indicadores",
+      "title": "Marco de indicadores mundiales para los Objetivos de Desarrollo Sostenible y metas de la Agenda 2030 (versión en español)",
+      "author": "Naciones Unidas – División de Estadística",
+      "url": "https://unstats.un.org/sdgs/indicators/Global-Indicator-Framework-after-2025-review-Spanish.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 4.3 'De aquí a 2030, asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria'; Meta 4.4 '...competencias necesarias, en particular técnicas y profesionales...'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-ods9",
+      "title": "Objetivo 9: Construir infraestructuras resilientes, promover la industrialización sostenible y fomentar la innovación – Agenda 2030",
+      "author": "Naciones Unidas",
+      "url": "https://www.un.org/sustainabledevelopment/es/infrastructure/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 9.5 'Aumentar la investigación científica y mejorar la capacidad tecnológica ... aumentando considerablemente, de aquí a 2030, el número de personas que trabajan en investigación y desarrollo ...'; Meta 9.1 'Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-ods13",
+      "title": "Objetivo 13: Adoptar medidas urgentes para combatir el cambio climático y sus efectos – Agenda 2030",
+      "author": "Naciones Unidas",
+      "url": "https://www.un.org/sustainabledevelopment/es/climate-change-2/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 13.1 'Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales en todos los países'; Meta 13.3 'Mejorar la educación, la sensibilización y la capacidad humana e institucional ...'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-ods6",
+      "title": "Objetivo 6: Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos – Agenda 2030",
+      "author": "Naciones Unidas",
+      "url": "https://www.un.org/sustainabledevelopment/es/water-and-sanitation/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 6.4 'De aquí a 2030, aumentar considerablemente el uso eficiente de los recursos hídricos en todos los sectores ...'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-ods8",
+      "title": "Objetivo 8: Promover el crecimiento económico inclusivo y sostenible, el empleo y el trabajo decente para todos – Agenda 2030",
+      "author": "Naciones Unidas",
+      "url": "https://www.un.org/sustainabledevelopment/es/economic-growth/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 8.2 'Lograr niveles más elevados de productividad económica mediante la diversificación, la modernización tecnológica y la innovación ...'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-ods16",
+      "title": "Objetivo 16: Promover sociedades justas, pacíficas e inclusivas – Agenda 2030",
+      "author": "Naciones Unidas",
+      "url": "https://www.un.org/sustainabledevelopment/es/peace-justice/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 16.1 'Reducir significativamente todas las formas de violencia y las correspondientes tasas de mortalidad en todo el mundo'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-ods11",
+      "title": "Objetivo 11: Lograr que las ciudades sean más inclusivas, seguras, resilientes y sostenibles – Agenda 2030",
+      "author": "Naciones Unidas",
+      "url": "https://www.un.org/sustainabledevelopment/es/cities/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 11.5 'De aquí a 2030, reducir significativamente el número de muertes causadas por los desastres ... y reducir considerablemente las pérdidas económicas directas provocadas por los desastres ...'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-ods7",
+      "title": "Objetivo 7: Garantizar el acceso a una energía asequible, segura, sostenible y moderna – Agenda 2030",
+      "author": "Naciones Unidas",
+      "url": "https://www.un.org/sustainabledevelopment/es/energy/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "Meta 7.2 'De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-acuerdo-vision2050",
+      "title": "Visión del Perú al 2050",
+      "author": "Foro del Acuerdo Nacional",
+      "url": "https://acuerdonacional.pe/wp-content/uploads/2019/04/Vision-del-Peru-al-2050-VF.pdf",
+      "landingUrl": null,
+      "publishedAt": "2019-04-29",
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "'La educación superior se adecúa a las realidades y potencialidades de cada territorio. Se fomenta la formación científica, la investigación y el uso de y adaptación a nuevas tecnologías' (p. 2); 'el fomento de la innovación, la investigación, la creación, la adaptación y la transferencia tecnológica y científica' (p. 3)",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": "Aprobada por consenso en el Foro del Acuerdo Nacional el 29-04-2019; es la base del PEDN al 2050."
+    },
+    {
+      "id": "src-ret-minam-ndc2020",
+      "title": "Comisión de Alto Nivel de Cambio Climático aprueba nueva ambición climática del Perú",
+      "author": "Ministerio del Ambiente (MINAM)",
+      "url": "https://www.gob.pe/institucion/minam/noticias/321091-comision-de-alto-nivel-de-cambio-climatico-aprueba-nueva-ambicion-climatica-del-peru",
+      "landingUrl": null,
+      "publishedAt": "2020-12-16",
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "'el compromiso del Perú para incrementar la reducción de sus emisiones de gases de efecto invernadero (GEI) en 40% al año 2030 ... reducir en 30% ... un 10 % adicional que está sujeto al financiamiento externo internacional'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": "Nota de prensa oficial sobre la actualización de la NDC al 2030 (presentada a la CMNUCC el 18-12-2020). No se verificó si existe una NDC posterior."
+    },
+    {
+      "id": "src-ret-inei-informalidad-2024",
+      "title": "Producción y empleo informal en el Perú – Cuenta Satélite de la Economía Informal 2022-2024",
+      "author": "Instituto Nacional de Estadística e Informática (INEI)",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9215525/7564428-libro.pdf?v=1767208906",
+      "landingUrl": "https://www.gob.pe/institucion/inei/informes-publicaciones/7564428-produccion-y-empleo-informal-en-el-peru-cuenta-satelite-de-la-economia-informal-2022-2024",
+      "publishedAt": "2025-12-31",
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "'la producción del sector informal representó el 19,0% del PBI. Tres de cada cuatro trabajadores de la PEA ocupada se desempeñaban en un empleo informal (70,9%)' (p. 7 del PDF)",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-pnisc-2022",
+      "title": "Decreto Supremo N.° 242-2022-EF que aprueba el Plan Nacional de Infraestructura Sostenible para la Competitividad 2022-2025 (PNISC)",
+      "author": "Ministerio de Economía y Finanzas (MEF)",
+      "url": "https://www.mef.gob.pe/contenidos/inv_privada/planes/DS_242-2022-EF.pdf",
+      "landingUrl": null,
+      "publishedAt": "2022-10-24",
+      "type": "normativa",
+      "identifier": "DS 242-2022-EF",
+      "locator": "'Para el largo plazo, en 2019 se estimó una brecha de infraestructura de acceso básico de S/ 363,452 millones' (sección 4.2); 'prioriza 72 proyectos ... monto de inversión de S/ 146,622 millones'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": ""
+    },
+    {
+      "id": "src-ret-cip-pedn2050",
+      "title": "Colegio de Ingenieros del Perú participará, a través del CDCP, con aportes y planteamientos para la mejora en el Plan Estratégico de Desarrollo Nacional al 2050",
+      "author": "Colegio de Ingenieros del Perú",
+      "url": "https://www.cip.org.pe/publicaciones/2023/noviembre/portal/cip-participara-a-traves-del-cdcp-con-aportes-y-planteamientos-para-la-mejora-en-el-plan-estrategico-de-desarrollo-nacionalal-2050.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "'participó de la Sesión Informativa que organizó el Centro Nacional de Planeamiento Estratégico (CEPLAN) durante la presentación del Plan Estratégico de Desarrollo Nacional al 2050'",
+      "status": "verificado_primaria",
+      "candidateIds": [],
+      "notes": "Nota institucional (nov-2023). Documenta la participación del CIP en el PEDN 2050; NO es un plan propio del CIP al 2050. No se encontró un plan o agenda 2050 propio del CIP."
+    }
+  ],
+  "retos": [
+    {
+      "id": "reto-ia-digital",
+      "title": "Inteligencia artificial y transformación digital",
+      "summary": "El Perú aprobó en 2026 una Estrategia Nacional de Inteligencia Artificial con horizonte 2030, que describe la adopción de IA en el sector público como incipiente y fragmentada y señala escasez de talento especializado. El PEDN 2050 incluye la transformación digital como parte del objetivo nacional de competitividad y productividad.",
+      "figures": [
+        {
+          "label": "Población de 6 y más años que usa Internet (línea de base PEDN)",
+          "value": "68.0 %",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Posición del Perú en el Factor Tecnología del Ranking Mundial de Competitividad Digital (de 63 países; meta PEDN 2030: 45)",
+          "value": "57",
+          "year": "2022",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "ENIA 2026-2030 (RM 152-2026-PCM)",
+          "goal": "Desarrollar y fortalecer el gobierno y gestión de la IA a nivel nacional, promoviendo su uso inclusivo, seguro y ético; la academia puede tomarla como referencia (Art. 2.3).",
+          "url": "https://busquedas.elperuano.pe/dispositivo/NL/2511535-1",
+          "sourceId": "src-ret-enia-2026"
+        },
+        {
+          "doc": "PEDN 2050 – OE 3.5",
+          "goal": "Elevar la capacidad científica y de innovación tecnológica del país ... y el impulso al proceso nacional de transformación digital; favoreciendo la articulación entre la academia, el Estado, los sectores productivos y la Sociedad Civil.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "ODS 4 – meta 4.4",
+          "goal": "Aumentar considerablemente el número de jóvenes y adultos con las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo.",
+          "url": "https://unstats.un.org/sdgs/indicators/Global-Indicator-Framework-after-2025-review-Spanish.pdf",
+          "sourceId": "src-ret-ods-marco-indicadores"
+        }
+      ],
+      "uniRole": "La ENIA menciona a la academia como actor del Sistema Nacional de Transformación Digital y señala escasez de talento especializado en IA; la UNI forma ingenieros en sistemas, electrónica, telecomunicaciones y ciencias de la computación, áreas vinculadas a ese talento.",
+      "categories": [
+        "Inteligencia artificial",
+        "Transformación digital",
+        "Modernización curricular",
+        "Investigación científica",
+        "Infraestructura y laboratorios",
+        "Empleabilidad"
+      ],
+      "keywords": [
+        "inteligencia artificial",
+        "IA",
+        "machine learning",
+        "aprendizaje automático",
+        "ciencia de datos",
+        "big data",
+        "python",
+        "transformación digital",
+        "gobierno digital",
+        "ciberseguridad",
+        "nube",
+        "computación de alto rendimiento",
+        "supercomputadora",
+        "gemelos digitales",
+        "robótica",
+        "automatización",
+        "internet de las cosas",
+        "IoT",
+        "5G",
+        "plataforma digital",
+        "campus virtual",
+        "software",
+        "algoritmos",
+        "ética de la IA"
+      ],
+      "questions": [
+        "¿Cómo se incorporaría la inteligencia artificial en los planes de estudio de todas las facultades, y con qué cronograma?",
+        "¿Qué infraestructura de cómputo y datos propone la lista para investigación en IA, y cómo se financiaría?",
+        "¿Qué reglas propone para el uso de IA por estudiantes y docentes en evaluaciones y en la gestión administrativa?"
+      ]
+    },
+    {
+      "id": "reto-clima-riesgo-energia",
+      "title": "Cambio climático, riesgo de desastres y transición energética",
+      "summary": "El Perú está expuesto a sismos, al Fenómeno El Niño y a otros peligros hidroclimáticos y geológicos; el PEDN 2050 fija como objetivo reducir la vulnerabilidad ante desastres y aumentar la resiliencia al cambio climático. En su NDC actualizada en 2020, el país se comprometió a reducir 40 % de sus emisiones de GEI al 2030 (30 % incondicional y 10 % sujeto a financiamiento externo).",
+      "figures": [
+        {
+          "label": "Pérdidas económicas directas por emergencias y desastres respecto del PIB (línea de base PEDN)",
+          "value": "1.60 %",
+          "year": "2017",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Producción de energía eléctrica con recursos energéticos renovables (línea de base PEDN; meta 2030: 69.5 %)",
+          "value": "56.3 %",
+          "year": "2022",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Meta de reducción de emisiones de GEI al 2030 (NDC actualizada)",
+          "value": "40 %",
+          "year": "2020",
+          "sourceId": "src-ret-minam-ndc2020"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "PEDN 2050 – OE 2.2",
+          "goal": "Reducir la vulnerabilidad ante el riesgo de desastres, con énfasis en poblaciones vulnerables, en base a la comprensión del riesgo, la mejora del uso y ocupación del territorio y la atención y recuperación ante emergencias y desastres.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "PEDN 2050 – OE 2.7",
+          "goal": "Aumentar la resiliencia y adaptación de la población y sus medios de vida ante el cambio climático con énfasis en el tránsito hacia una economía baja en carbono y el monitoreo inteligente de fenómenos geológicos, hidroclimáticos y glaciológicos.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "ODS 13 – meta 13.1",
+          "goal": "Fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima y los desastres naturales.",
+          "url": "https://www.un.org/sustainabledevelopment/es/climate-change-2/",
+          "sourceId": "src-ret-ods13"
+        },
+        {
+          "doc": "ODS 7 – meta 7.2",
+          "goal": "De aquí a 2030, aumentar considerablemente la proporción de energía renovable en el conjunto de fuentes energéticas.",
+          "url": "https://www.un.org/sustainabledevelopment/es/energy/",
+          "sourceId": "src-ret-ods7"
+        }
+      ],
+      "uniRole": "La Visión del Perú al 2050 asigna a la academia un rol en el sistema nacional de gestión del riesgo de desastres; la UNI tiene facultades de ingeniería civil, geológica, eléctrica, mecánica y ambiental vinculadas al análisis sísmico, la gestión del riesgo y la energía.",
+      "categories": [
+        "Sostenibilidad",
+        "Investigación científica",
+        "Innovación y transferencia tecnológica",
+        "Infraestructura y laboratorios"
+      ],
+      "keywords": [
+        "cambio climático",
+        "gestión del riesgo de desastres",
+        "sismo",
+        "sísmica",
+        "fenómeno El Niño",
+        "huaicos",
+        "resiliencia",
+        "alerta temprana",
+        "energía renovable",
+        "energía solar",
+        "eólica",
+        "hidrógeno verde",
+        "transición energética",
+        "eficiencia energética",
+        "carbono neutral",
+        "huella de carbono",
+        "sostenibilidad",
+        "campus sostenible",
+        "movilidad eléctrica",
+        "glaciares"
+      ],
+      "questions": [
+        "¿Qué rol propone la lista para la UNI en la prevención y respuesta ante sismos y eventos de El Niño?",
+        "¿Qué metas concretas plantea para la sostenibilidad del propio campus (energía, agua, residuos)?",
+        "¿Cómo se articularía la investigación de la UNI con las metas nacionales de reducción de emisiones?"
+      ]
+    },
+    {
+      "id": "reto-economia-empleo",
+      "title": "Productividad, informalidad y empleo formal",
+      "summary": "Según el INEI, en 2024 el 70.9 % de la PEA ocupada tenía un empleo informal y el sector informal representó el 19.0 % del PBI. El PEDN 2050 plantea elevar el empleo decente, productivo y formal y la productividad en base a la diversificación productiva y la innovación tecnológica.",
+      "figures": [
+        {
+          "label": "PEA ocupada con empleo informal",
+          "value": "70.9 %",
+          "year": "2024",
+          "sourceId": "src-ret-inei-informalidad-2024"
+        },
+        {
+          "label": "Producción del sector informal respecto del PBI",
+          "value": "19.0 %",
+          "year": "2024",
+          "sourceId": "src-ret-inei-informalidad-2024"
+        },
+        {
+          "label": "Egresados de educación superior y técnico-productiva subempleados por ingresos (línea de base PEDN; meta 2030: 15.0 %)",
+          "value": "21.6 %",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "PEDN 2050 – OE 3.2",
+          "goal": "Incrementar los niveles de empleo decente, productivo y formal en el país ... y su adecuación a las tecnologías emergentes.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "PEDN 2050 – OE 3.3",
+          "goal": "Elevar los niveles de competitividad y productividad de los sectores económicos, en base a la diversificación productiva, generación de valor agregado y la innovación tecnológica.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "ODS 8 – meta 8.2",
+          "goal": "Lograr niveles más elevados de productividad económica mediante la diversificación, la modernización tecnológica y la innovación.",
+          "url": "https://www.un.org/sustainabledevelopment/es/economic-growth/",
+          "sourceId": "src-ret-ods8"
+        }
+      ],
+      "uniRole": "La empleabilidad de los egresados y la vinculación con el sector productivo forman parte de la gestión universitaria; la Visión del Perú al 2050 menciona a la academia entre los actores del crecimiento con empleo digno.",
+      "categories": [
+        "Empleabilidad",
+        "Innovación y transferencia tecnológica",
+        "Modernización curricular",
+        "Presupuesto y gestión institucional"
+      ],
+      "keywords": [
+        "empleabilidad",
+        "inserción laboral",
+        "bolsa de trabajo",
+        "egresados",
+        "prácticas preprofesionales",
+        "emprendimiento",
+        "incubadora",
+        "startups",
+        "sector productivo",
+        "empresa",
+        "productividad",
+        "industria",
+        "manufactura",
+        "mypes",
+        "formalización",
+        "certificación de competencias",
+        "educación continua",
+        "vinculación universidad-empresa"
+      ],
+      "questions": [
+        "¿Qué mecanismos propone la lista para mejorar la inserción laboral de los egresados y cómo la medirá?",
+        "¿Cómo se vincularía la UNI con empresas y mypes para elevar su productividad?",
+        "¿Qué apoyo ofrecería a emprendimientos de estudiantes y egresados?"
+      ]
+    },
+    {
+      "id": "reto-seguridad",
+      "title": "Inseguridad ciudadana y seguridad digital",
+      "summary": "El PEDN 2050 incluye entre sus acciones estratégicas reducir la victimización mediante prevención policial, investigación, inteligencia policial y ciberinteligencia, y fija metas de reducción de la percepción de inseguridad. Las líneas de base oficiales de 2021 muestran que cerca de uno de cada cinco habitantes urbanos de 15 años a más fue víctima de un hecho delictivo.",
+      "figures": [
+        {
+          "label": "Población urbana de 15 y más años víctima de algún hecho delictivo (línea de base PEDN)",
+          "value": "18.22 %",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Población urbana de 15 y más años con percepción de inseguridad en los próximos 12 meses (línea de base PEDN; meta 2030: 75.9 %)",
+          "value": "83.9 %",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "PEDN 2050 – AE 4.4.1",
+          "goal": "Reducir la victimización de las personas naturales y jurídicas, mediante la prevención policial que enfatice la investigación, la inteligencia policial y la cyber-inteligencia de todos los componentes del Sistema Nacional de Seguridad Ciudadana.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "PEDN 2050 – AE 2.8.3",
+          "goal": "Garantizar el uso, desarrollo y gestión del entorno digital o ciberespacio frente a los riesgos que afectan la seguridad y confianza de las personas, la prosperidad económica y social, la seguridad nacional y los objetivos nacionales.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "ODS 16 – meta 16.1",
+          "goal": "Reducir significativamente todas las formas de violencia y las correspondientes tasas de mortalidad en todo el mundo.",
+          "url": "https://www.un.org/sustainabledevelopment/es/peace-justice/",
+          "sourceId": "src-ret-ods16"
+        }
+      ],
+      "uniRole": "La ingeniería y las ciencias de datos aportan herramientas de análisis, videovigilancia, telecomunicaciones y ciberseguridad; además, la seguridad en el entorno del campus forma parte de la gestión universitaria.",
+      "categories": [
+        "Innovación y transferencia tecnológica",
+        "Transformación digital",
+        "Bienestar estudiantil",
+        "Infraestructura y laboratorios"
+      ],
+      "keywords": [
+        "seguridad ciudadana",
+        "inseguridad",
+        "delincuencia",
+        "seguridad del campus",
+        "videovigilancia",
+        "cámaras",
+        "ciberseguridad",
+        "ciberdelito",
+        "análisis predictivo",
+        "telecomunicaciones",
+        "seguridad digital",
+        "protección de datos",
+        "entorno del campus"
+      ],
+      "questions": [
+        "¿Qué propone la lista para la seguridad de estudiantes y personal dentro y en el entorno del campus?",
+        "¿Cómo podría la investigación de la UNI apoyar a las autoridades en seguridad ciudadana y ciberseguridad, y bajo qué reglas de protección de datos?"
+      ]
+    },
+    {
+      "id": "reto-agua-mineria-recursos",
+      "title": "Agua, minería y recursos naturales",
+      "summary": "El PEDN 2050 plantea garantizar la disponibilidad, calidad y sostenibilidad de los recursos hídricos en un contexto de estrés hídrico, y mejorar la gestión de pasivos ambientales mineros y de hidrocarburos. También incluye metas de formalización de la comercialización del oro.",
+      "figures": [
+        {
+          "label": "Productores agrarios atendidos con licencia de uso de agua (línea de base PEDN; meta 2030: 69.23 %)",
+          "value": "51.23 %",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Mineros informales y formales con certificación para la comercialización formal del oro (línea de base PEDN; meta 2030: 35 %)",
+          "value": "15 %",
+          "year": "2020",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "PEDN 2050 – OE 2.5",
+          "goal": "Garantizar la disponibilidad, calidad y sostenibilidad de los recursos hídricos en el país, mediante una gestión sostenible y eficiente, en un contexto de estrés hídrico.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "PEDN 2050 – AE 2.6.1",
+          "goal": "Mejorar la gestión de los pasivos ambientales, eléctricos, mineros y de hidrocarburos, que afectan la calidad ambiental, en base a mecanismos de prevención y remediación efectivos.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "Visión del Perú al 2050",
+          "goal": "Se regulan las actividades extractivas con elevados estándares ambientales ... se gestionan eficientemente los recursos hídricos para su uso racional, apropiado, equitativo y sostenible.",
+          "url": "https://acuerdonacional.pe/wp-content/uploads/2019/04/Vision-del-Peru-al-2050-VF.pdf",
+          "sourceId": "src-ret-acuerdo-vision2050"
+        },
+        {
+          "doc": "ODS 6 – meta 6.4",
+          "goal": "De aquí a 2030, aumentar considerablemente el uso eficiente de los recursos hídricos en todos los sectores.",
+          "url": "https://www.un.org/sustainabledevelopment/es/water-and-sanitation/",
+          "sourceId": "src-ret-ods6"
+        }
+      ],
+      "uniRole": "La UNI forma ingenieros de minas, geólogos, metalurgistas, petroleros, químicos, sanitarios y ambientales, especialidades directamente ligadas a la gestión del agua y de los recursos naturales.",
+      "categories": [
+        "Sostenibilidad",
+        "Investigación científica",
+        "Innovación y transferencia tecnológica",
+        "Infraestructura y laboratorios"
+      ],
+      "keywords": [
+        "agua",
+        "recursos hídricos",
+        "saneamiento",
+        "tratamiento de aguas",
+        "minería",
+        "minería sostenible",
+        "metalurgia",
+        "geología",
+        "pasivos ambientales",
+        "hidrocarburos",
+        "petróleo",
+        "gas natural",
+        "relaves",
+        "medio ambiente",
+        "contaminación",
+        "recursos naturales",
+        "litio",
+        "cobre"
+      ],
+      "questions": [
+        "¿Qué líneas de investigación propone la lista en agua, minería y medio ambiente, y con qué aliados?",
+        "¿Cómo aseguraría que los laboratorios de la UNI presten servicios técnicos útiles al Estado y a las comunidades en estos temas?"
+      ]
+    },
+    {
+      "id": "reto-infraestructura",
+      "title": "Infraestructura y brechas de acceso",
+      "summary": "El MEF estimó en 2019 una brecha de infraestructura de acceso básico de largo plazo (20 años) de S/ 363,452 millones, concentrada en transportes, saneamiento, salud y agua. El PNISC 2022-2025 priorizó 72 proyectos por S/ 146,622 millones, y el PEDN 2050 plantea elevar la conectividad con infraestructura moderna, sostenible y resiliente.",
+      "figures": [
+        {
+          "label": "Brecha de infraestructura de acceso básico de largo plazo (20 años)",
+          "value": "S/ 363,452 millones",
+          "year": "2019",
+          "sourceId": "src-ret-pnisc-2022"
+        },
+        {
+          "label": "Inversión de la cartera priorizada del PNISC 2022-2025 (72 proyectos)",
+          "value": "S/ 146,622 millones",
+          "year": "2022",
+          "sourceId": "src-ret-pnisc-2022"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "PEDN 2050 – OE 3.6",
+          "goal": "Elevar la conectividad del país en todos los ámbitos económicos y sociales, a través de una infraestructura moderna, sostenible, resiliente y de calidad, con énfasis en el uso y aprovechamiento de las tecnologías digitales.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "ODS 9 – meta 9.1",
+          "goal": "Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad ... con especial hincapié en el acceso asequible y equitativo para todos.",
+          "url": "https://www.un.org/sustainabledevelopment/es/infrastructure/",
+          "sourceId": "src-ret-ods9"
+        },
+        {
+          "doc": "Visión del Perú al 2050",
+          "goal": "Se ha logrado una reducción significativa del déficit en infraestructura.",
+          "url": "https://acuerdonacional.pe/wp-content/uploads/2019/04/Vision-del-Peru-al-2050-VF.pdf",
+          "sourceId": "src-ret-acuerdo-vision2050"
+        }
+      ],
+      "uniRole": "La UNI forma profesionales en ingeniería civil, sanitaria, de transportes, eléctrica y arquitectura y urbanismo, y su propia infraestructura física y de laboratorios es materia de gestión de la próxima administración.",
+      "categories": [
+        "Infraestructura y laboratorios",
+        "Innovación y transferencia tecnológica",
+        "Presupuesto y gestión institucional",
+        "Sostenibilidad"
+      ],
+      "keywords": [
+        "infraestructura",
+        "obras",
+        "proyectos de inversión",
+        "inversión pública",
+        "transporte",
+        "carreteras",
+        "ferrocarril",
+        "puertos",
+        "saneamiento",
+        "vivienda",
+        "urbanismo",
+        "ciudades",
+        "construcción",
+        "BIM",
+        "conectividad",
+        "fibra óptica",
+        "edificaciones",
+        "mantenimiento",
+        "laboratorios",
+        "pabellones"
+      ],
+      "questions": [
+        "¿Qué proyectos de infraestructura del campus prioriza la lista y con qué fuentes de financiamiento?",
+        "¿Cómo participaría la UNI en la formulación o supervisión técnica de proyectos de infraestructura pública?"
+      ]
+    },
+    {
+      "id": "reto-cti",
+      "title": "Ciencia, tecnología e innovación (inversión en I+D)",
+      "summary": "El PEDN 2050 registra un gasto público y privado en I+D de 0.17 % del PBI (2020) y fija metas de 0.30 % al 2030 y 1.00 % al 2050. La Política Nacional de CTI al 2030 aspira a que el Perú esté entre los 60 países más innovadores y a alcanzar 1 % del PBI en I+D+i al 2030.",
+      "figures": [
+        {
+          "label": "Gasto público y privado en I+D como porcentaje del PBI (línea de base PEDN)",
+          "value": "0.17 %",
+          "year": "2020",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Investigadores en RENACYT por cada 100,000 habitantes de la PEA (línea de base PEDN; meta 2030: 80)",
+          "value": "42",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Posición del Perú en el Índice Global de Innovación (línea de base PEDN; meta 2030: 60)",
+          "value": "70",
+          "year": "2020",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "POLCTI al 2030 (DS 093-2025-PCM)",
+          "goal": "En el año 2030 el Perú se encuentra entre los 60 países más innovadores del mundo ... El Perú invierte el 1% de su PBI en ciencia, tecnología e innovación.",
+          "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/decreto-supremo-n-093-2025-pcm.pdf",
+          "sourceId": "src-ret-polcti-2030"
+        },
+        {
+          "doc": "POLCTI al 2030 – OP.03",
+          "goal": "Incrementar el capital humano de alto nivel de los actores del SINACTI.",
+          "url": "https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/decreto-supremo-n-093-2025-pcm.pdf",
+          "sourceId": "src-ret-polcti-2030"
+        },
+        {
+          "doc": "PEDN 2050 – OE 3.5",
+          "goal": "Elevar la capacidad científica y de innovación tecnológica del país, en base a la investigación, creación, adaptación y transferencia tecnológica y científica.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "ODS 9 – meta 9.5",
+          "goal": "Aumentar la investigación científica y mejorar la capacidad tecnológica ... aumentando considerablemente el número de personas que trabajan en investigación y desarrollo y los gastos en I+D.",
+          "url": "https://www.un.org/sustainabledevelopment/es/infrastructure/",
+          "sourceId": "src-ret-ods9"
+        }
+      ],
+      "uniRole": "La POLCTI cita una estimación de CONCYTEC (2013) de un déficit de aproximadamente 7,000 doctores en especialidades de ingeniería y tecnología; la UNI es una de las principales universidades públicas del país en esas áreas.",
+      "categories": [
+        "Investigación científica",
+        "Innovación y transferencia tecnológica",
+        "Formación docente",
+        "Infraestructura y laboratorios",
+        "Internacionalización"
+      ],
+      "keywords": [
+        "investigación",
+        "I+D",
+        "I+D+i",
+        "innovación",
+        "transferencia tecnológica",
+        "patentes",
+        "propiedad intelectual",
+        "publicaciones",
+        "Scopus",
+        "revistas indexadas",
+        "RENACYT",
+        "CONCYTEC",
+        "PROCIENCIA",
+        "doctorado",
+        "posgrado",
+        "investigadores",
+        "grupos de investigación",
+        "fondos concursables",
+        "canon",
+        "spin-off",
+        "laboratorios",
+        "institutos de investigación"
+      ],
+      "questions": [
+        "¿Cuántos recursos propone la lista destinar a investigación y de qué fuentes provendrían?",
+        "¿Qué metas plantea en número de investigadores RENACYT, publicaciones o patentes, y cómo las reportará?",
+        "¿Cómo se fortalecerían los programas de doctorado y la retención de investigadores?"
+      ]
+    },
+    {
+      "id": "reto-calidad-educativa",
+      "title": "Calidad educativa, acceso y permanencia",
+      "summary": "El PEDN 2050 plantea garantizar una formación educativa de calidad e inclusiva con énfasis en las tecnologías educativas y digitales. Las líneas de base muestran que una minoría de estudiantes de 15 años alcanza el nivel 3 o superior en matemática en PISA, lo que condiciona la preparación con que los postulantes llegan a la educación superior.",
+      "figures": [
+        {
+          "label": "Estudiantes de 15 años con nivel de competencia 3 o superior en matemática en PISA (línea de base PEDN, con datos de PISA 2018; meta 2030: 24.6 %)",
+          "value": "16.6 %",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "label": "Egresados de educación superior y técnico-productiva subempleados por ingresos (línea de base PEDN)",
+          "value": "21.6 %",
+          "year": "2021",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        }
+      ],
+      "nationalGoals": [
+        {
+          "doc": "PEDN 2050 – OE 1.1",
+          "goal": "Garantizar la formación educativa de calidad e inclusiva de las personas ... con énfasis en el uso de las tecnologías educativas y digitales.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "PEDN 2050 – AE 1.1.5",
+          "goal": "Alcanzar equidad en la educación superior y técnico-productiva ... con énfasis en la investigación científica e innovación y el aprovechamiento de las tecnologías exponenciales.",
+          "url": "https://cdn.www.gob.pe/uploads/document/file/6826135/5906796-anexo-indicadores-pedn-al-2050.pdf",
+          "sourceId": "src-ret-pedn2050-indicadores"
+        },
+        {
+          "doc": "ODS 4 – meta 4.3",
+          "goal": "De aquí a 2030, asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria.",
+          "url": "https://unstats.un.org/sdgs/indicators/Global-Indicator-Framework-after-2025-review-Spanish.pdf",
+          "sourceId": "src-ret-ods-marco-indicadores"
+        },
+        {
+          "doc": "Visión del Perú al 2050",
+          "goal": "La educación superior se adecúa a las realidades y potencialidades de cada territorio. Se fomenta la formación científica, la investigación y el uso de y adaptación a nuevas tecnologías.",
+          "url": "https://acuerdonacional.pe/wp-content/uploads/2019/04/Vision-del-Peru-al-2050-VF.pdf",
+          "sourceId": "src-ret-acuerdo-vision2050"
+        }
+      ],
+      "uniRole": "La calidad de la formación, la acreditación, la nivelación de ingresantes y la permanencia de los estudiantes son responsabilidades directas del rectorado y del vicerrectorado académico.",
+      "categories": [
+        "Calidad educativa",
+        "Modernización curricular",
+        "Formación docente",
+        "Bienestar estudiantil",
+        "Inclusión y accesibilidad"
+      ],
+      "keywords": [
+        "calidad educativa",
+        "acreditación",
+        "licenciamiento",
+        "SUNEDU",
+        "SINEACE",
+        "currículo",
+        "plan de estudios",
+        "deserción",
+        "permanencia",
+        "tutoría",
+        "nivelación",
+        "ciclo cero",
+        "rendimiento académico",
+        "docentes",
+        "capacitación docente",
+        "bienestar",
+        "becas",
+        "comedor",
+        "salud mental",
+        "inclusión",
+        "accesibilidad",
+        "educación virtual"
+      ],
+      "questions": [
+        "¿Qué medidas propone la lista para reducir la deserción y el tiempo de egreso?",
+        "¿Cómo se mediría y mejoraría la calidad de la enseñanza, y qué rol tendría la acreditación?",
+        "¿Qué apoyos ofrecería a ingresantes con brechas de preparación o de recursos económicos?"
+      ]
+    }
+  ],
+  "notConfirmed": [
+    "No se encontró una estrategia o política nacional de IA con horizonte 2040; la vigente es la ENIA 2026-2030 (RM 152-2026-PCM).",
+    "No se encontró un plan o agenda propio del Colegio de Ingenieros del Perú al 2050; sólo su participación en el PEDN 2050 (src-ret-cip-pedn2050).",
+    "No se verificó si existe una actualización de la NDC posterior a la de diciembre de 2020.",
+    "Las cifras de seguridad ciudadana y de varios indicadores corresponden a las líneas de base 2017-2022 del PEDN; no se consultaron series más recientes del INEI."
+  ]
+}
