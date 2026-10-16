@@ -593,6 +593,150 @@
         "c-9-3"
       ],
       "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+    },
+    {
+      "id": "src-gr-cti-arnao",
+      "title": "Ficha CTI Vitae de Raymundo Ildefonzo Arnao Rondán (id_investigador 72854)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=72854",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 72854",
+      "locator": "Apellidos: ARNAO RONDAN; Nombres: RAYMUNDO ILDEFONZO. \"Formación Académica (Fuente: SUNEDU)\": DOCTORADO – DOCTOR EN CIENCIAS CONTABLES EMPRESARIALES – UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS; LICENCIADO / TÍTULO – INGENIERO ECONOMISTA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: INGENIERIA ECONOMICA – UNI; MAGISTER – MAESTRO EN CIENCIAS, ESPECIALIDAD: PLANIFICACION NACIONAL DEL DESARROLLO – UNI; MAGISTER – MASTER EN ASESORIA Y GESTION FISCAL Y DE INVERSIONES – UNIVERSIDAD NACIONAL DE INGENIERÍA.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-1"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. La ficha atribuye el Master en Asesoría y Gestión Fiscal a la UNI; su ORCID lo atribuye a la Universidad Politécnica de Madrid (CEPADE). Ficha enlazada desde su ORCID. No muestra código RENACYT."
+    },
+    {
+      "id": "src-gr-cti-lazo",
+      "title": "Ficha CTI Vitae de Antonio Nolberto Lazo Jara (id_investigador 31245)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=31245",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 31245",
+      "locator": "Apellidos: LAZO JARA; Nombres: ANTONIO NOLBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS, ESPECIALIDAD: FISICA – UNIVERSIDAD NACIONAL DE INGENIERÍA; LICENCIADO / TÍTULO – TITULO PROFESIONAL DE LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS CON MENCION EN FISICA – UNI. \"Fuente: Manual\": MAGISTER – MESTRE – UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL (UFMS) – BRASIL – Marzo 2006–Diciembre 2008. RENACYT: código P0031245.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-3"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. Ficha enlazada desde la página Docentes Investigadores del VRI-UNI. El código fuente de la ficha indica nivel VII, activo al 16/10/2026."
+    },
+    {
+      "id": "src-gr-cti-montoya",
+      "title": "Ficha CTI Vitae de Modesto Edilberto Montoya Zavaleta (id_investigador 17546)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17546",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 17546",
+      "locator": "Apellidos: MONTOYA ZAVALETA; Nombres: MODESTO EDILBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN GOBIERNO Y POLITICA PUBLICA – UNIVERSIDAD DE SAN MARTIN DE PORRES; DOCTORADO – DOCTOR DEL TERCER CICLO, ESPECIALIDAD: FISICA – UNI; DOCTORADO – DOCTOR, ESPECIALIDAD: FISICA – UNI; MAGISTER – MAESTRO EN CIENCIAS, ESPECIALIDAD: FISICA – UNI; LICENCIADO / TÍTULO – LICENCIADO, ESPECIALIDAD: FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: FISICA – UNI. RENACYT: código P0017546.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-3"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel II, activo al 16/10/2026."
+    },
+    {
+      "id": "src-gr-cti-mosquera",
+      "title": "Ficha CTI Vitae de Luis Alberto Mosquera Leiva (id_investigador 247)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=247",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 247",
+      "locator": "Apellidos: MOSQUERA LEIVA; Nombres: LUIS ALBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS, ESPECIALIDAD: FISICA – UNIVERSIDAD NACIONAL DE INGENIERÍA; MAGISTER – MAESTRO EN CIENCIAS EN FISICA – UNI; LICENCIADO / TÍTULO – TITULO PROFESIONAL, ESPECIALIDAD: LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: FISICA – UNI (y tres filas DOCTORADO/TÍTULO/BACHILLER con centro \"UNIVERSIDAD NACIONAL DE INGENIERÍA - NICARAGUA\", país PERÚ). \"Fuente: Manual\": DOCTORADO – DOCTOR EN CIENCIAS FÍSICA – UNIVERSIDADE ESTADUAL DE CAMPINAS – BRASIL – Julio 1999–Diciembre 2003. RENACYT: código P0000247.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-2"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. Las filas con \"UNI - NICARAGUA\" se transcriben como aparecen, sin interpretarlas. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel IV, activo al 16/10/2026."
+    },
+    {
+      "id": "src-gr-vri-mosquera",
+      "title": "Docentes Investigadores UNI – entrada \"MOSQUERA LEIVA, LUIS ALBERTO\"",
+      "author": "Vicerrectorado de Investigación UNI",
+      "url": "https://vri.uni.edu.pe/docentes-investigadores-uni/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": null,
+      "locator": "\"MOSQUERA LEIVA, LUIS ALBERTO / Doctor en Ciencias Física. Pontificia Universidade Estadual de Campiñas, Brasil. Docente Investigador FIC.\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-2"
+      ],
+      "notes": "Misma página ya citada como src-vr-vri-docentes-investigadores (para Lazo); se registra aparte por la entrada de Mosquera. El correo de la entrada no se copió."
+    },
+    {
+      "id": "src-gr-cti-rodriguez",
+      "title": "Ficha CTI Vitae de Juan Martín Rodríguez Rodríguez (id_investigador 256)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=256",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 256",
+      "locator": "Apellidos: RODRIGUEZ RODRIGUEZ; Nombres: JUAN MARTIN. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS CON MENCION EN FISICA – UNI; MAGISTER – MAESTRO EN CIENCIAS CON MENCION EN FISICA – UNI; LICENCIADO / TÍTULO – TITULO PROFESIONAL DE LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS CON MENCION EN FISICA – UNI. \"Fuente: Manual\": MAGISTER – FILOSOFIE LICENCIATEXAMEN – UPPSALA UNIVERSITY – SUECIA – 1999. RENACYT: código P0000256.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel \"Investigador Distinguido\", activo al 16/10/2026."
+    },
+    {
+      "id": "src-gr-cti-rosales",
+      "title": "Ficha CTI Vitae de Jimmy Aurelio Rosales Huamaní (id_investigador 4091)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=4091",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 4091",
+      "locator": "Apellidos: ROSALES HUAMANI; Nombres: JIMMY AURELIO. \"Fuente: SUNEDU\": DOCTORADO – TÍTULO UNIVERSITARIO OFICIAL DE DOCTOR DENTRO DEL PROGRAMA DE DOCTORADO EN INGENIERÍA DE LA INFORMACIÓN Y DEL CONOCIMIENTO (GRADO DE DOCTOR) – UNIVERSIDAD DE ALCALÁ – ESPAÑA. \"Fuente: Manual\": MASTER EN TECNOLOGIAS DE APOYO ACCESIBILIDAD Y DISEÑO PARA TODOS – UC3M – 2011–2012; MAESTRO EN INGENIERIA DE SISTEMAS – UNI – 1999–2001; INGENIERO QUIMICO – UNI – 1991; BACHILLER – UNI; DOCTOR EN INGENIERÍA DE SISTEMAS – UNI – 2012–2014. RENACYT: código P0004091.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-3"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel II, activo al 16/10/2026."
+    },
+    {
+      "id": "src-gr-cti-vergara",
+      "title": "Ficha CTI Vitae de Abel Fernando Vergara Sotomayor (id_investigador 11470)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11470",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 11470",
+      "locator": "Apellidos: VERGARA SOTOMAYOR; Nombres: ABEL FERNANDO. \"Fuente: SUNEDU\": BACHILLER EN CIENCIAS – UNI; TITULO PROFESIONAL, ESPECIALIDAD: INGENIERO QUIMICO – UNI; MAESTRO, ESPECIALIDAD: INGENIERIA DE PROCESOS – UNI; DOCTOR EN CIENCIAS CON MENCION EN QUIMICA – UNI. RENACYT: código P0011470.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel VII, activo al 16/10/2026."
+    },
+    {
+      "id": "src-gr-cti-osorio",
+      "title": "Ficha CTI Vitae de César Javier Osorio Carrera (id_investigador 5093)",
+      "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=5093",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "CTI Vitae 5093",
+      "locator": "Apellidos: OSORIO CARRERA; Nombres: CESAR JAVIER. \"Fuente: SUNEDU\": BACHILLER, ESPECIALIDAD: INGENIERIA QUIMICA – UNI; TITULO, ESPECIALIDAD: INGENIERO QUIMICO – UNI; MAESTRO, ESPECIALIDAD: GESTION AMBIENTAL – UNI; DOCTOR EN MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE – UNIVERSIDAD NACIONAL FEDERICO VILLARREAL. RENACYT: código P0005093.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-3"
+      ],
+      "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato. No se copiaron DNI, fecha de nacimiento, correo ni teléfono. Ficha enlazada desde su ORCID (calificación RENACYT). El código fuente indica nivel V, activo al 16/10/2026."
     }
   ],
   "claims": [
@@ -801,6 +945,71 @@
         "src-gr-uni-vergara-16011"
       ],
       "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-1",
+      "section": "formacion",
+      "text": "Según su ficha CTI Vitae (formación con fuente SUNEDU), registra el grado de Doctor en Ciencias Contables Empresariales (UNMSM), Maestro en Ciencias, especialidad Planificación Nacional del Desarrollo (UNI), Ingeniero Economista y Bachiller en Ciencias, especialidad Ingeniería Económica (UNI), y un Master en Asesoría y Gestión Fiscal y de Inversiones que la ficha atribuye a la UNI (su ORCID lo atribuye a la Universidad Politécnica de Madrid–CEPADE).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-gr-cti-arnao",
+        "src-orcid-arnao"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-3",
+      "section": "formacion",
+      "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna el grado de Doctor en Ciencias, especialidad Física, a nombre de la UNI, además del título de Licenciado en Física y el bachillerato en Ciencias con mención en Física (UNI); la tesis doctoral está depositada en la Universidade Federal de Goiás (2014). Declara manualmente una maestría (Mestre) en la Universidade Federal de Mato Grosso do Sul (2006–2008). Figura en RENACYT con código P0031245 (nivel VII según la ficha).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-gr-cti-lazo",
+        "src-gr-ufg-lazo-4430"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-3",
+      "section": "formacion",
+      "text": "Según su ficha CTI Vitae (fuente SUNEDU), registra tres doctorados: Doctor, especialidad Física, y Doctor del tercer ciclo, especialidad Física, ambos a nombre de la UNI, y Doctor en Gobierno y Política Pública (Universidad de San Martín de Porres); además Maestro en Ciencias, Licenciado y Bachiller en Ciencias, especialidad Física (UNI). Su ORCID declara el Docteur ès sciences por la Université Paris-Sud (1981). Figura en RENACYT con código P0017546 (nivel II según la ficha).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-gr-cti-montoya",
+        "src-orcid-c-3-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-2",
+      "section": "formacion",
+      "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna el grado de Doctor en Ciencias, especialidad Física, y el de Maestro en Ciencias en Física, el título de Licenciado en Física y el bachillerato, a nombre de la UNI. En la sección manual de la ficha y en el portal del VRI-UNI declara que su doctorado en Ciencias (Física) es de la Universidade Estadual de Campinas, Brasil (1999–2003). Figura en RENACYT con código P0000247 (nivel IV según la ficha).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-gr-cti-mosquera",
+        "src-gr-vri-mosquera"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "formacion",
+      "text": "Según su ficha CTI Vitae (fuente SUNEDU), registra Doctor en Ciencias con Mención en Física, Maestro en Ciencias con Mención en Física, Licenciado en Física y Bachiller en Ciencias con mención en Física, todos por la UNI; declara además una Filosofie licentiatexamen de la Universidad de Uppsala (Suecia, 1999). Figura en RENACYT con código P0000256 (nivel \"Investigador Distinguido\" según la ficha).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-gr-cti-rodriguez"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-3",
+      "section": "formacion",
+      "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna un doctorado de la Universidad de Alcalá (España), programa de Doctorado en Ingeniería de la Información y del Conocimiento. En la sección manual declara además Doctor en Ingeniería de Sistemas (UNI, 2012–2014; tesis en el Repositorio UNI fechada 2017), Maestro en Ingeniería de Sistemas (UNI), Master en Tecnologías de Apoyo, Accesibilidad y Diseño para Todos (Universidad Carlos III de Madrid) e Ingeniero Químico (UNI). Figura en RENACYT con código P0004091 (nivel II según la ficha).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-gr-cti-rosales",
+        "src-gr-uni-rosales-5899"
+      ],
+      "kind": "hecho"
     }
   ],
   "proposals": [],
@@ -842,8 +1051,8 @@
       "displayName": "Jorge Butler",
       "orcid": "0000-0001-8473-704X",
       "worksCount": null,
-      "status": "descartado",
-      "note": "Registro ORCID a nombre de \"Jorge Butler\" sin afiliación ni formación pública; no permite atribución."
+      "status": "pendiente",
+      "note": "El Repositorio UNI enlaza este ORCID (renati.advisor.orcid) a \"Butler Blacker, Jorge Gustavo\" como asesor en 2 tesis, por lo que puede atribuirse; el registro no tiene formación pública."
     },
     {
       "candidateId": "c-1-3",
@@ -883,7 +1092,7 @@
       "orcid": "0000-0003-2355-8958",
       "worksCount": null,
       "status": "pendiente",
-      "note": "ORCID a nombre de \"Rodolfo Falconí\", sin educación pública ni afiliación; no permite atribuir grados."
+      "note": "El Repositorio UNI enlaza este ORCID a \"Falconí Vásquez, Rodolfo Elías\" como asesor en 4 tesis; el registro no tiene formación pública."
     },
     {
       "candidateId": "c-3-1",
@@ -944,6 +1153,56 @@
       "worksCount": null,
       "status": "pendiente",
       "note": "Pista ya registrada por el agente vicerrectores (doctorado en Educación según snippet). No se halló tesis doctoral en ALICIA, UNE, UNMSM ni UNI."
+    },
+    {
+      "candidateId": "c-9-3",
+      "provider": "confirmación",
+      "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11470",
+      "displayName": "VERGARA SOTOMAYOR, ABEL FERNANDO",
+      "orcid": "0000-0003-0964-4489",
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "CTI Vitae (fuente SUNEDU) confirma los cuatro grados de la claim verificado_primaria del Repositorio UNI (doctor en Ciencias con mención en Química, maestro en Ingeniería de Procesos, Ingeniero Químico, bachiller). RENACYT P0011470 (nivel VII según la ficha)."
+    },
+    {
+      "candidateId": "c-2-3",
+      "provider": "confirmación",
+      "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=5093",
+      "displayName": "OSORIO CARRERA, CESAR JAVIER",
+      "orcid": "0000-0002-2850-6420",
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "CTI Vitae (fuente SUNEDU) confirma los grados de la claim verificado_primaria (doctorado UNFV, maestría y título UNI). RENACYT P0005093 (nivel V según la ficha)."
+    },
+    {
+      "candidateId": "c-6-2",
+      "provider": "ORCID",
+      "profileId": "https://orcid.org/0009-0005-1371-7988",
+      "displayName": "MODESTO PALMA",
+      "orcid": "0009-0005-1371-7988",
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "Enlazado a \"Palma García, Modesto Tomás\" como asesor en 13 tesis del Repositorio UNI. Declara \"DOCTOR EN CIENCIAS CON MENCION EN ENERGÉTICA\", UNI, 2020: confirma la claim verificado_primaria basada en src-gr-uni-palma-22172."
+    },
+    {
+      "candidateId": "c-2-2",
+      "provider": "ORCID",
+      "profileId": "https://orcid.org/0000-0002-5546-6356",
+      "displayName": "Javier Concepción Sánchez Espinoza",
+      "orcid": "0000-0002-5546-6356",
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "Enlazado como asesor en 5 tesis del Repositorio UNI; sin formación pública."
+    },
+    {
+      "candidateId": "c-4-2",
+      "provider": "ORCID",
+      "profileId": "https://orcid.org/0000-0002-3004-1984",
+      "displayName": "fvictor Cáceres",
+      "orcid": "0000-0002-3004-1984",
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "Enlazado a \"Cáceres Cárdenas, Félix Víctor\" como asesor en 9 tesis del Repositorio UNI; sin formación pública."
     }
   ],
   "pending": [
@@ -1002,6 +1261,10 @@
     {
       "candidateId": "c-1-1",
       "text": "Las resoluciones 037 y 038-2026-CEUNI (tachas) podrían precisar la verificación del grado; leer texto completo."
+    },
+    {
+      "candidateId": "*",
+      "text": "CTI Vitae: el buscador de investigadores (BuscarInvestigadores.do) exige reCAPTCHA y no se usó. Sólo se localizaron fichas enlazadas desde ORCID o desde el portal del VRI-UNI (8 de 27). Faltan fichas para los otros 19 candidatos: buscarlas manualmente en ctivitae.concytec.gob.pe."
     }
   ],
   "siteUpdates": {
@@ -1165,11 +1428,11 @@
       {
         "candidateId": "c-3-3",
         "doctorado": {
-          "denominacion": "Docteur ès sciences",
-          "universidad": "Université Paris-Sud (Paris-11, Orsay)",
-          "anio": 1981,
-          "sourceId": "src-orcid-c-3-3",
-          "status": "declarado"
+          "denominacion": "Doctor, especialidad Física; Doctor del tercer ciclo, especialidad Física (registro SUNEDU); también Doctor en Gobierno y Política Pública (USMP). ORCID: Docteur ès sciences, Université Paris-Sud (1981)",
+          "universidad": "Universidad Nacional de Ingeniería (registro SUNEDU)",
+          "anio": null,
+          "sourceId": "src-gr-cti-montoya",
+          "status": "verificado_primaria"
         },
         "maestria": {
           "denominacion": "Maestro en Ciencias con Mención en Física",
@@ -1178,7 +1441,13 @@
           "sourceId": "src-gr-uni-montoya-1720",
           "status": "verificado_primaria"
         },
-        "titulo": null
+        "titulo": {
+          "denominacion": "Licenciado, especialidad Física",
+          "universidad": "Universidad Nacional de Ingeniería",
+          "anio": null,
+          "sourceId": "src-gr-cti-montoya",
+          "status": "verificado_primaria"
+        }
       },
       {
         "candidateId": "c-4-1",
@@ -1267,8 +1536,8 @@
       {
         "candidateId": "c-5-3",
         "doctorado": {
-          "denominacion": "Doctorado en Física (Programa de Pós-graduação em Física)",
-          "universidad": "Universidade Federal de Goiás (Brasil)",
+          "denominacion": "Doctor en Ciencias, especialidad Física (registro SUNEDU, UNI); tesis doctoral defendida en la Universidade Federal de Goiás",
+          "universidad": "Universidade Federal de Goiás (tesis, 2014) / Universidad Nacional de Ingeniería (registro SUNEDU)",
           "anio": 2014,
           "sourceId": "src-gr-ufg-lazo-4430",
           "status": "verificado_primaria"
@@ -1356,7 +1625,13 @@
       },
       {
         "candidateId": "c-7-2",
-        "doctorado": null,
+        "doctorado": {
+          "denominacion": "Doctor en Ciencias, especialidad Física (registro SUNEDU); declara haberlo cursado en la Universidade Estadual de Campinas, Brasil (1999–2003)",
+          "universidad": "Universidad Nacional de Ingeniería (registro SUNEDU)",
+          "anio": null,
+          "sourceId": "src-gr-cti-mosquera",
+          "status": "verificado_primaria"
+        },
         "maestria": {
           "denominacion": "Maestro en Ciencias con Mención en Física",
           "universidad": "Universidad Nacional de Ingeniería",
@@ -1412,7 +1687,13 @@
           "sourceId": "src-gr-uni-rodriguez-320",
           "status": "verificado_primaria"
         },
-        "titulo": null
+        "titulo": {
+          "denominacion": "Licenciado en Física",
+          "universidad": "Universidad Nacional de Ingeniería",
+          "anio": null,
+          "sourceId": "src-gr-cti-rodriguez",
+          "status": "verificado_primaria"
+        }
       },
       {
         "candidateId": "c-8-2",
@@ -1441,8 +1722,8 @@
       {
         "candidateId": "c-8-3",
         "doctorado": {
-          "denominacion": "Doctor en Ingeniería de Sistemas",
-          "universidad": "Universidad Nacional de Ingeniería",
+          "denominacion": "Doctor en Ingeniería de Sistemas (UNI, tesis 2017); además doctorado de la Universidad de Alcalá – Programa de Doctorado en Ingeniería de la Información y del Conocimiento (registro SUNEDU)",
+          "universidad": "Universidad Nacional de Ingeniería / Universidad de Alcalá (España)",
           "anio": 2017,
           "sourceId": "src-gr-uni-rosales-5899",
           "status": "verificado_primaria"
@@ -1465,11 +1746,11 @@
       {
         "candidateId": "c-9-1",
         "doctorado": {
-          "denominacion": "Doctor en Ciencias Contables y Empresariales",
+          "denominacion": "Doctor en Ciencias Contables Empresariales",
           "universidad": "Universidad Nacional Mayor de San Marcos",
           "anio": 1999,
-          "sourceId": "src-orcid-arnao",
-          "status": "declarado"
+          "sourceId": "src-gr-cti-arnao",
+          "status": "verificado_primaria"
         },
         "maestria": {
           "denominacion": "Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo",
@@ -1537,7 +1818,10 @@
     "Repositorio UPC: registros de sílabos (Gamarra Chinchay) no son grados académicos; descartados.",
     "TESIUNAM (UNAM) devolvió HTTP 403 y el repositorio URP presenta desafío anti-bot (BunkerWeb/Cap.js): no se intentó sortearlos, conforme al brief.",
     "No se consultó SUNEDU ni RENATI (captcha) ni se buscó por DNI; los metadatos renati.*.dni de los repositorios no se copiaron.",
-    "Coincidencias de apellidos con asesores o jurados (p. ej., Rosales Huamaní, Osorio Carrera, Huamán Sánchez como asesores/jurados) no se usaron ni se infiere parentesco."
+    "Coincidencias de apellidos con asesores o jurados (p. ej., Rosales Huamaní, Osorio Carrera, Huamán Sánchez como asesores/jurados) no se usaron ni se infiere parentesco.",
+    "CTI Vitae: el buscador de investigadores exige reCAPTCHA y no se intentó sortearlo. Las fichas se localizaron sólo por enlaces públicos (ORCID y portal del VRI-UNI).",
+    "Se descartó y borró sin leer ni usar su contenido una respuesta del endpoint renacyt-backend/actoRegistral/obtenerActosRegistralesActivos: es un servicio interno del RENACYT que devuelve datos personales (documento de identidad, correos) sin autenticación. No es una fuente pública apta; se recomienda avisar a CONCYTEC.",
+    "Montoya (c-3-3) y Lazo (c-5-3): el registro SUNEDU atribuye sus doctorados en Física a la UNI, mientras que su ORCID o su tesis los sitúan en Paris-Sud y la UFG. Se transcriben ambas fuentes sin inferir el motivo (p. ej., reconocimiento o revalidación)."
   ],
-  "summary": "Grados académicos de los 27 candidatos a partir del Repositorio UNI (API DSpace), ALICIA-CONCYTEC, repositorios UNAC, UNFV, UFG (Brasil), el portal de investigación de la Universidad de Oviedo, INIS-OIEA y ORCID. Doctorado identificado con fuente primaria: 14 (incluye c-2-1, cuyo doctorado en Administración consta en la Res. 035-2026-CEUNI sin universidad ni año); con prensa o catálogo bibliográfico: 2 (c-3-1 Heidelberg/DNB, c-4-1 URP/Caretas); sólo declarado en ORCID: 4 (c-3-2, c-3-3, c-8-2, c-9-1); sin fuente: 7 (c-1-3, c-5-1, c-5-2, c-6-1, c-7-1, c-7-2, c-9-2). Hallazgos nuevos: doctorados de Butler (UNAC 2018), Osorio y Villavicencio (UNFV 2021), Huamán Pérez (UNFV 2012), Lazo (UFG 2014), Palma (UNI 2020), Rodríguez (UNI 2000), Rosales (UNI 2017), Vergara (UNI 2020) y la tesis doctoral de Cacho (Oviedo 1997). Se anotan discrepancias de años entre ORCID y repositorios sin calificarlas."
+  "summary": "Grados académicos de los 27 candidatos según el Repositorio UNI (API DSpace), ALICIA-CONCYTEC, los repositorios de la UNAC, la UNFV y la UFG (Brasil), el portal de investigación de la Universidad de Oviedo, INIS-OIEA, ORCID y CTI Vitae (formación con fuente SUNEDU; 8 fichas localizadas por enlaces públicos, porque el buscador exige reCAPTCHA). Doctorados con fuente primaria: 17 (c-1-1, c-1-2, c-2-1 [sólo la mención, según la Res. 035-2026-CEUNI], c-2-2, c-2-3, c-3-3, c-4-2, c-4-3, c-5-3, c-6-2, c-6-3, c-7-2, c-7-3, c-8-1, c-8-3, c-9-1, c-9-3). Con prensa o catálogo bibliográfico: 2 (c-3-1 Heidelberg/DNB; c-4-1 URP/Caretas). Sólo declarados en ORCID: 2 (c-3-2 RUDN; c-8-2 UNAM). Sin fuente: 6 (c-1-3, c-5-1, c-5-2, c-6-1, c-7-1, c-9-2). Se anotan sin calificarlas las discrepancias entre ORCID, los repositorios y SUNEDU (años; institución del doctorado de Montoya, Lazo y Mosquera; doctorado adicional de Rosales en la Universidad de Alcalá)."
 }

@@ -190,7 +190,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -420,7 +421,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -591,8 +593,17 @@
             "src-servir-rnssc-2026-10-16"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Según el acta del Consejo Universitario N.° 04-2025 (29-01-2025), la RR N.° 176 (22-01-2025) oficializó la nulidad de la RD N.° 003-2021 (25-01-2021), que lo había sancionado como exdecano con cese temporal de 12 meses sin goce de remuneraciones en un procedimiento administrativo disciplinario. El procedimiento se retrotrajo hasta la conformación del órgano instructor por mandato judicial (Resolución N.° 15 del 02-12-2024 del 24.° Juzgado Especializado de Trabajo Permanente de Lima). No se encontró el resultado del procedimiento retrotraído.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-int-uni-acta-cu04-2025"
+          ],
+          "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -628,6 +639,18 @@
         "displayName": "LASTRA ESPINOZA, LUIS ANTONIO (PTE – Universidad Nacional José María Arguedas, dic-2021, CAS)",
         "status": "pendiente",
         "note": "Coincidencia exacta de nombre en el PTE de UNAJMA (Andahuaylas), sólo en el corte 2021-12, régimen CAS, con cargo y dependencia en blanco. Entidad distinta a la UNI y sin cargo legible: posible homónimo o posible integración de comisión organizadora; no se encontró fuente que lo vincule a la UNI. Verificar en resoluciones de SUNEDU/MINEDU sobre la comisión organizadora de UNAJMA."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-1-3",
+        "provider": "otro",
+        "profileId": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2025CPO557100013&TIPOARCHIVO=ADJUNTO",
+        "displayName": "Luis Antonio Lastra Espinoza – presidente de la Comisión Organizadora de la Universidad Nacional José María Arguedas (01-12-2021 a 07-07-2022)",
+        "status": "pendiente",
+        "note": "Los informes de control N.° 002-2025-2-5571 (28-01-2025; Penal y Adm. PAS) y N.° 001-2026-2-5571 (20-02-2026; Civil), sobre pagos por exámenes de admisión y del CEPRE de la UNAJMA entre 2019 y 2022, incluyen a una persona con el mismo nombre completo, como presidente de la comisión organizadora designado por RVM N.° 0323-2021-MINEDU. Ningún documento oficial leído vincula ese cargo con el docente de la FIM-UNI (una resolución de la Univ. Nacional de Jaén lo mencionaría, pero no se pudo abrir). No se registra como claim hasta confirmar la identidad (p. ej., con la RVM 0323-2021-MINEDU)."
       }
     ],
     "pendingSources": [
@@ -639,7 +662,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
       "Doctorado no identificado: sin tesis en ALICIA ni Repositorio UNI; ORCID 0009-0005-5173-9213 vacío. Sus coautorías con N. Patrakhaltsev (1998) sugieren formación en Rusia: buscar en el catálogo de la Biblioteca Estatal Rusa (RSL) o pedir la hoja de vida al CEUNI/lista 1.",
-      "Ubicar la R.R. que dispuso el encargo inicial de la Dirección de Admisión en 2025 (antes del 01-04-2025) y la R.R. N.° 2330-2025-UNI (designación de miembros del THU)."
+      "Ubicar la R.R. que dispuso el encargo inicial de la Dirección de Admisión en 2025 (antes del 01-04-2025) y la R.R. N.° 2330-2025-UNI (designación de miembros del THU).",
+      "Identificar la falta imputada en el PAD que terminó en la RD N.° 003-2021 (anulada) y el resultado del procedimiento retrotraído en 2025. Confirmar la identidad respecto a los informes de control de la UNAJMA (ver leads)."
     ],
     "corrections": [],
     "meta": {
@@ -743,15 +767,6 @@
             "src-rpp-2009-padilla"
           ],
           "kind": "hecho"
-        },
-        {
-          "text": "Según Perú21 (21-01-2016), una resolución rectoral del 18 de enero de 2016 impuso una medida sancionadora a los integrantes de la comisión de adquisición de tres buses en 2010, entre ellos “Aurelio Padilla (ex rector)”. La comisión investigadora concluyó que se vulneraron las normas de contrataciones con el Estado. No se conoce una resolución final (apelación, SERVIR o Poder Judicial). En 2026 su candidatura figura en la publicación definitiva del CEUNI.",
-          "status": "controvertido",
-          "sourceIds": [
-            "src-rx-peru21-humala-2016",
-            "src-ceuni-listas-definitivas"
-          ],
-          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -806,6 +821,60 @@
             "src-servir-rnssc-2026-10-16"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 017-2017-2-0209 (OCI-UNI, 15-12-2017), la RR N.° 039 del 18-01-2016 le impuso la sanción disciplinaria de destitución con inhabilitación, junto con otros integrantes de la comisión que en 2010 evaluó la compra de tres buses (designada por RR N.° 507 del 30-04-2010). La RR N.° 2578-2023-UNI declara nula esa resolución sólo como resultado de la demanda de Ulises Humala Tasso; en esta revisión no se encontró ningún documento sobre la situación final de la sanción en el caso de Padilla.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-017-2017-2-0209",
+            "src-int-uni-rr2578-2023",
+            "src-rx-peru21-humala-2016"
+          ],
+          "kind": "hecho"
+        }
+      ],
+      "control": [
+        {
+          "text": "Según Perú21 (21-01-2016), una resolución rectoral del 18 de enero de 2016 impuso una medida sancionadora a los integrantes de la comisión de adquisición de tres buses en 2010, entre ellos “Aurelio Padilla (ex rector)”. La comisión investigadora concluyó que se vulneraron las normas de contrataciones con el Estado. No se conoce una resolución final (apelación, SERVIR o Poder Judicial). En 2026 su candidatura figura en la publicación definitiva del CEUNI. La única nulidad conocida de esa resolución resultó de la demanda de otro integrante de la comisión; no se encontró documento sobre la situación final en su caso.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-rx-peru21-humala-2016",
+            "src-ceuni-listas-definitivas",
+            "src-int-uni-rr2578-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 007-2017-2-0209 (OCI-UNI, 04-07-2017), sobre pagos que superaron el tope de ingresos del DU 038-2006 entre 2011 y 2014, se le identificó presunta responsabilidad civil y administrativa (PAS) como funcionario de la UNI designado por la RR N.° 970-2009 (periodo 2009-2014). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-007-2017-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 008-2017-2-0209 (OCI-UNI, 21-07-2017), sobre diplomados de posgrado realizados con instituciones privadas entre 2011 y 2015, se le identificó presunta responsabilidad penal y administrativa (PAS) como rector de la UNI (2009-2014). No se conoce acusación ni resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-008-2017-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de auditoría N.° 334-2018-CG/UNIC (Contraloría, 03-05-2018), sobre pagos adicionales a personal CAS, se le identificó presunta responsabilidad civil y administrativa (PAS) como presidente del Consejo Universitario (2009-2014). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-334-2018-cg-unic"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 016-2019-2-0209 (OCI-UNI, 17-12-2019), sobre pagos adicionales a personal CAS, se le identificó presunta responsabilidad civil y administrativa (de la entidad) como rector y presidente del Consejo Universitario. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-016-2019-2-0209"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -831,7 +900,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Periodo exacto del rectorado (resoluciones o memoria institucional).",
       "Fechas exactas del rectorado (aprox. 2009-2014; ya era rector en mayo de 2009 según RPP). La Gaceta UNI o las resoluciones de la Asamblea Universitaria de 2009 podrían precisarlas. En una entrevista de Perú21 (15-12-2015), el rector de entonces hizo afirmaciones sobre el fin del mandato de Padilla y una denuncia contra él; no se registran por ser declaraciones de un tercero sin resolución conocida. La nota de La República del 03-08-2014 («Fiscalización seguirá con investigación al ex rector de la UNI Aurelio Padilla») sólo pudo leerse por su titular: el cuerpo es ilegible y queda pendiente. Revisar si el claim controvertido sobre los buses (Perú21 2016) debe mostrarse; menciona a Padilla como integrante de la comisión.",
-      "Universidad y año del doctorado y la maestría en Administración (la Res. 035-2026-CEUNI sólo indica la mención): no figuran en ALICIA, UNMSM, UNFV, UNAC, ESAN, UNE ni UNI. Revisar la hoja de vida presentada al CEUNI."
+      "Universidad y año del doctorado y la maestría en Administración (la Res. 035-2026-CEUNI sólo indica la mención): no figuran en ALICIA, UNMSM, UNFV, UNAC, ESAN, UNE ni UNI. Revisar la hoja de vida presentada al CEUNI.",
+      "Situación final de la destitución impuesta por la RR N.° 039 del 18-01-2016 (caso compra de buses 2010). La nulidad conocida (RR 2578-2023-UNI) proviene de la demanda de Humala. Buscar si Padilla impugnó ante el TSC o el Poder Judicial, o si la sanción quedó firme. Hay que tener en cuenta que en 2022 fue reincorporado como docente principal en aplicación de la Ley 31542 (acta CU N.° 22-2022) y en 2024 fue decano (e) de la FIM."
     ],
     "corrections": [],
     "meta": {
@@ -935,6 +1005,16 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ],
+      "control": [
+        {
+          "text": "Según el informe de control N.° 001-2017-2-0209 (OCI-UNI), se le identificó presunta responsabilidad administrativa (PAS) como tercer miembro titular del comité especial de la Licitación Pública N.° 004-2013-UNI “Computadoras” (2013). Según el informe, el comité otorgó la buena pro a un postor que no presentó documentación obligatoria. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-001-2017-2-0209"
           ],
           "kind": "hecho"
         }
@@ -1090,7 +1170,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -1246,7 +1327,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -1398,7 +1480,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -1554,6 +1637,17 @@
           ],
           "kind": "hecho"
         }
+      ],
+      "control": [
+        {
+          "text": "Según el Informe de Control Específico N.° 001-2022-2-0067-SCE (OCI-IPEN, 07-12-2022), sobre la designación en 2021 de dos directores que, según el informe, no cumplían los requisitos mínimos del clasificador de cargos, se le identificó presunta responsabilidad penal y administrativa (de la entidad) como presidente del IPEN. No se conoce acusación ni resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-001-2022-2-0067",
+            "src-int-ipen-100dias-2021"
+          ],
+          "kind": "hecho"
+        }
       ]
     },
     "researchLeads": [
@@ -1683,16 +1777,6 @@
             "src-rx-uni-poi-2014"
           ],
           "kind": "hecho"
-        },
-        {
-          "text": "Según Perú21 (21-01-2016), la UNI lo destituyó como docente de la Facultad de Ingeniería Económica por una resolución rectoral del 18 de enero de 2016, tras hallar indicios de irregularidades en la compra de tres buses en 2010; él integró la comisión de adquisición. En diciembre de 2015 el rector de entonces dijo a Perú21 que estaba suspendido cuatro meses desde noviembre y que podía apelar. No se conoce una resolución final (apelación, SERVIR o Poder Judicial). En 2026 su candidatura figura en la publicación definitiva del CEUNI.",
-          "status": "controvertido",
-          "sourceIds": [
-            "src-rx-peru21-humala-2016",
-            "src-rx-peru21-alva-2015",
-            "src-ceuni-listas-definitivas"
-          ],
-          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -1731,6 +1815,93 @@
             "src-servir-rnssc-2026-10-16"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Según el acta del Consejo Universitario N.° 07 (15-05-2024), la jefa de Asesoría Jurídica opinó que el procedimiento disciplinario repuesto “ya habría prescrito”; el Consejo acordó por mayoría no concederle el pago de remuneraciones por el periodo de la destitución y encargó a Recursos Humanos evaluar el reconocimiento de sus años de servicio. En esta revisión no se encontró una nueva sanción posterior a la sentencia de 2018.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-int-uni-acta-cu07-2024"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según la Resolución Rectoral N.° 2578-2023-UNI (04-09-2023), la Sentencia N.° 007 del 30-01-2018 del 28.° Juzgado Especializado de Trabajo Permanente de Lima declaró fundada en parte su demanda; como consecuencia, la UNI precisó que las RR N.° 039 (18-01-2016) y N.° 1272 (17-08-2016) “devienen en nulas” y que el procedimiento disciplinario debía reponerse hasta la notificación del Informe N.° 04-CEID-UNI-2015. La RR N.° 039-2016 es la resolución que le impuso la destitución (caso de la comisión de compra de buses de 2010).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-int-uni-rr2578-2023",
+            "src-int-uni-acta-cu11-2023",
+            "src-int-cgr-017-2017-2-0209"
+          ],
+          "kind": "hecho"
+        }
+      ],
+      "control": [
+        {
+          "text": "Según Perú21 (21-01-2016), la UNI lo destituyó como docente de la Facultad de Ingeniería Económica por una resolución rectoral del 18 de enero de 2016, tras hallar indicios de irregularidades en la compra de tres buses en 2010; él integró la comisión de adquisición. En diciembre de 2015 el rector de entonces dijo a Perú21 que estaba suspendido cuatro meses desde noviembre y que podía apelar. No se conoce una resolución final (apelación, SERVIR o Poder Judicial). En 2026 su candidatura figura en la publicación definitiva del CEUNI. Esa destitución fue declarada nula: la RR N.° 2578-2023-UNI precisa que la RR N.° 039-2016 \"deviene en nula\" como consecuencia de la Sentencia N.° 007 (30-01-2018) del 28.° Juzgado de Trabajo de Lima, que declaró fundada en parte su demanda; ver \"Proceso electoral\".",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-rx-peru21-humala-2016",
+            "src-rx-peru21-alva-2015",
+            "src-ceuni-listas-definitivas",
+            "src-int-uni-rr2578-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 017-2017-2-0209 (OCI-UNI, 15-12-2017), sobre bajas y control de vehículos de la UNI, se le identificó presunta responsabilidad administrativa (a cargo de la entidad) como director general de Administración (designado en 2008, hasta el 18-12-2014), “por no supervisar los actos de administración previos” a las resoluciones de baja de vehículos sin informes de tasación (2013-2014). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-017-2017-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 001-2016-2-0209 (OCI-UNI, 07-09-2016), sobre convenios con la UNE y el Banco de la Nación, se le identificó presunta responsabilidad administrativa (de la entidad y en el procedimiento sancionador de la Contraloría, PAS) como decano de la FIEECS (2013-2015) y como director general de Administración. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-001-2016-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 007-2017-2-0209 (OCI-UNI, 04-07-2017), sobre pagos que superaron el tope de ingresos del DU 038-2006 entre 2011 y 2014, se le identificó presunta responsabilidad civil y administrativa (PAS) como docente de la UNI, por un exceso de S/ 157 392,72 según el informe. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-007-2017-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de auditoría N.° 334-2018-CG/UNIC (Contraloría, 03-05-2018), sobre pagos adicionales a personal CAS en 2015-2016, se le identificó presunta responsabilidad civil y administrativa (PAS) como miembro del Consejo Universitario (2013-2016). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-334-2018-cg-unic"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 001-2017-2-0209 (OCI-UNI), sobre un préstamo bancario de S/ 1,5 millones a la FIIS (2013-2014), se le identificó presunta responsabilidad civil y administrativa (PAS) como jefe (e) de la Dirección General de Administración. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-001-2017-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 016-2019-2-0209 (OCI-UNI, 17-12-2019), sobre pagos adicionales a personal CAS, se le identificó presunta responsabilidad civil y administrativa (de la entidad) como decano de la FIEECS y miembro del Consejo Universitario, y como jefe (e) de la DIGA. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-016-2019-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 004-2022-2-0209 (OCI-UNI, 17-06-2022), sobre el uso de recursos directamente recaudados, se le identificó presunta responsabilidad civil y administrativa (de la entidad) como decano de la FIEECS (12-04-2013 a 12-11-2015), en relación con un diplomado de 2013 que, según el informe, no cumplió el plazo ofrecido y llevó a una multa de Indecopi de S/ 12 900. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-004-2022-2-0209"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -1767,7 +1938,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Cobertura de prensa de 2019 (Perú21) sobre su paso por la administración de la UNI: no se pudo acceder al texto completo; pendiente de revisión con la fuente original y la resolución que cerró el caso.",
       "No se halló la resolución final sobre la sanción de enero de 2016 (apelación interna, Tribunal del Servicio Civil o Poder Judicial). Buscar en el Tribunal del Servicio Civil o en las resoluciones de la UNI de 2016-2017. Precisar desde cuándo es docente principal ordinario.",
-      "Doctorado en la URP sólo según prensa (Caretas): el repositorio de la URP exige un desafío anti-bot (BunkerWeb/Cap.js) que no se sorteó; consultar manualmente o mediante ALICIA cuando se indexe."
+      "Doctorado en la URP sólo según prensa (Caretas): el repositorio de la URP exige un desafío anti-bot (BunkerWeb/Cap.js) que no se sorteó; consultar manualmente o mediante ALICIA cuando se indexe.",
+      "Leer la Sentencia N.° 007 (30-01-2018) del 28.° Juzgado Especializado de Trabajo de Lima y la RR N.° 1272 (17-08-2016), que sólo se conocen por la RR 2578-2023-UNI. Confirmar si se emitió alguna resolución que declare la prescripción o el archivo del PAD repuesto."
     ],
     "corrections": [
       {
@@ -1908,6 +2080,16 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ],
+      "control": [
+        {
+          "text": "Según el informe de control N.° 016-2019-2-0209 (OCI-UNI, 17-12-2019), sobre pagos adicionales a personal CAS, se le identificó presunta responsabilidad civil y administrativa (de la entidad) como decano de la FIEE y miembro del Consejo Universitario (periodo 21-01-2009 a 20-01-2012). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-016-2019-2-0209"
           ],
           "kind": "hecho"
         }
@@ -2071,7 +2253,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -2228,7 +2411,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -2411,7 +2595,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -2599,7 +2784,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -2790,7 +2976,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -2932,7 +3119,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -3069,7 +3257,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -3241,7 +3430,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -3391,7 +3581,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -3537,7 +3728,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -3735,7 +3927,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -3897,6 +4090,16 @@
           ],
           "kind": "hecho"
         }
+      ],
+      "control": [
+        {
+          "text": "Según el informe de control N.° 004-2022-2-0209 (OCI-UNI, 17-06-2022), se le identificó presunta responsabilidad administrativa (a cargo de la entidad) como decano (e) de la Facultad de Ingeniería Civil (13-11-2019 a 08-08-2021), por aprobar en 2020 órdenes de servicio para contratar docentes de pregrado y maestría sin hacer cumplir, según el informe, los requisitos del artículo 82 de la Ley Universitaria. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-004-2022-2-0209"
+          ],
+          "kind": "hecho"
+        }
       ]
     },
     "researchLeads": [
@@ -4044,7 +4247,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [
       {
@@ -4251,6 +4455,32 @@
           ],
           "kind": "hecho"
         }
+      ],
+      "control": [
+        {
+          "text": "Según el informe de control N.° 001-2016-2-0209 (OCI-UNI, 07-09-2016), sobre convenios con la UNE y el Banco de la Nación, se le identificó presunta responsabilidad administrativa (de la entidad y PAS) como decano (e) de la FIEECS desde el 13-11-2015, entre otras cosas por autorizar desembolsos y no disponer la custodia de documentación técnica. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-001-2016-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de auditoría N.° 334-2018-CG/UNIC (Contraloría, 03-05-2018), sobre pagos adicionales a personal CAS, se le identificó presunta responsabilidad civil y administrativa (PAS) como director (e) general de Administración (26-01-2015 a 31-07-2015). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-334-2018-cg-unic"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 016-2019-2-0209 (OCI-UNI, 17-12-2019), sobre pagos adicionales a personal CAS, se le identificó presunta responsabilidad civil y administrativa (de la entidad) como director general de Administración (designado por RR N.° 93 del 26-01-2015). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-016-2019-2-0209"
+          ],
+          "kind": "hecho"
+        }
       ]
     },
     "researchLeads": [
@@ -4421,7 +4651,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "control": []
     },
     "researchLeads": [],
     "pendingSources": [
@@ -4563,6 +4794,32 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ],
+      "control": [
+        {
+          "text": "Según el informe de control N.° 015-2022-2-0209 (OCI-UNI, 07-12-2022), sobre contrataciones de servicios de mantenimiento en la FIQT, se le identificó presunta responsabilidad administrativa (a cargo de la entidad) como decano de la FIQT (27-04-2016 a 2021). Según el informe, se contrataron servicios similares por S/ 754 456,30 con órdenes de servicio de menos de 8 UIT cada una, sin procedimiento de selección. No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-015-2022-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 034-2023-2-0209 (OCI-UNI, 29-11-2023), sobre el pago de movilidad como condición de trabajo al personal CAS en 2021, se le identificó presunta responsabilidad civil y administrativa (PAS) como miembro del Consejo Universitario y de su Comisión Permanente de Economía y Presupuesto (08-12-2020 a 11-11-2021). No se conoce resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-034-2023-2-0209"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el informe de control N.° 018-2025-2-0209 (OCI-UNI, 02-12-2025), sobre la compra en 2019 de tres equipos para el Laboratorio Textil 24 de la FIQT (S/ 1 011 158), que según el informe se pagaron sin haberse completado la instalación y puesta en funcionamiento, se le identificó presunta responsabilidad penal como decano de la FIQT y funcionario responsable del área usuaria. No se conoce acusación ni resolución final.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-int-cgr-018-2025-2-0209"
           ],
           "kind": "hecho"
         }

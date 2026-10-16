@@ -13,9 +13,9 @@ const sources = read('sources.json')
 const proposals = read('proposals.json')
 const plans = read('government-plans.json')
 const site = read('site.json')
-for (const c of candidates) c.claims.proceso ??= []
+for (const c of candidates) { c.claims.proceso ??= []; c.claims.control ??= [] }
 const byId = new Map(candidates.map((c) => [c.id, c]))
-const SECTIONS = ['formacion', 'docencia', 'investigacion', 'gestion', 'proyectos', 'propuestas', 'declaraciones', 'proceso']
+const SECTIONS = ['formacion', 'docencia', 'investigacion', 'gestion', 'proyectos', 'propuestas', 'declaraciones', 'proceso', 'control']
 const PII = /(linkedin\.com|facebook\.com\/[a-z]|\bDNI\b|\b\d{8}\b(?!-)|@[a-z0-9-]+\.[a-z]|\b9\d{8}\b|domicilio|afiliad[oa] a|partido pol[ií]tico)/i
 
 const report = { added: {}, rejected: [] }

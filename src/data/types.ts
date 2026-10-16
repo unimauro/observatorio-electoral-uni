@@ -75,6 +75,7 @@ export const CLAIM_SECTIONS = [
   'propuestas',
   'declaraciones',
   'proceso',
+  'control',
 ] as const
 export type ClaimSection = (typeof CLAIM_SECTIONS)[number]
 
@@ -87,6 +88,7 @@ export const SECTION_LABEL: Record<ClaimSection, string> = {
   propuestas: 'Propuestas relacionadas con su cargo',
   declaraciones: 'Declaraciones públicas relevantes',
   proceso: 'Proceso electoral (tachas y resoluciones del CEUNI)',
+  control: 'Informes de control (Contraloría)',
 }
 
 export interface FieldVerification {

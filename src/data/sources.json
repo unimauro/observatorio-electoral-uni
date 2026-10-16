@@ -3094,5 +3094,305 @@
     "type": "portal_institucional",
     "locator": "Presidente del Tribunal de Honor Universitario · Universidad Nacional de Ingeniería · Fecha de inicio: 01 set 2025",
     "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales/4622602-2578-2023-uni",
+    "identifier": "RR N.° 2578-2023-UNI",
+    "publishedAt": "2023-09-04",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1",
+      "c-2-1"
+    ],
+    "notes": "Documento oficial firmado digitalmente por el rector y la secretaria general. Confirma que la RR N.° 039 del 18-01-2016 es la resolución del 18 de enero citada por Perú21 (src-rx-peru21-humala-2016). La sentencia judicial no se leyó directamente; se conoce por esta resolución. La RR sólo trata la demanda de Humala; no dice nada sobre los demás sancionados.",
+    "id": "src-int-uni-rr2578-2023",
+    "title": "Resolución Rectoral N.° 2578-2023-UNI (aclara la RR N.° 2120-2023-UNI sobre el docente Ulises Humala Tasso)",
+    "author": "Universidad Nacional de Ingeniería – Rectorado",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/5119228/RR%202578-2023.pdf",
+    "type": "documento_institucional",
+    "locator": "“Aclarar el contenido de la Resolución Rectoral N.° 2120-2023-UNI … en el extremo que la Resolución Rectoral N.° 1272 del 17 de agosto de 2016 y la Resolución Rectoral N.° 039 del 18 de enero de 2016, devienen en nulas como consecuencia de lo resuelto en la Sentencia N.° 007 del 30 de enero de 2018 expedido por el 28° Juzgado Especializado de Trabajo Permanente de la Corte Superior de Justicia de Lima, que declaró fundada en parte de la demanda interpuesta por el Sr. Ulises Humala Tasso” (Art. 1°).",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/4620604-acta-de-consejo-universitario-ordinario-presencial-n-11-2023",
+    "identifier": "C.U.O. N.° 11-2023",
+    "publishedAt": "2023-08-02",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1"
+    ],
+    "notes": "",
+    "id": "src-int-uni-acta-cu11-2023",
+    "title": "Acta de Consejo Universitario, sesión ordinaria presencial N.° 11 (02-08-2023)",
+    "author": "Universidad Nacional de Ingeniería – Secretaría General",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/5112138/ACTA%20DE%20CONSEJO%20UNIVERSITARIO%20N%C2%B0%2011.PDF",
+    "type": "documento_institucional",
+    "locator": "Despacho, ítem 32, RR N.° 2120 del 20/07/2023: “Disponer que se reponga el procedimiento administrativo hasta el acto de notificación del docente Ulises Humala Tasso, desde el informe N.° 04-CEID-UNI-2015 del 27 de octubre de 2015 emitido por la Comisión Especial Instructora para Funcionarios … que conllevó la imposición de sanción disciplinaria de destitución con la subsecuente inhabilitación.”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/6667931-acta-de-consejo-universitario-ordinario-presencial-n-07-2024",
+    "identifier": "C.U.O. N.° 07-2024",
+    "publishedAt": "2024-05-15",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1"
+    ],
+    "notes": "La frase sobre la prescripción es una opinión de la asesora jurídica recogida en el acta; no es una resolución que declare la prescripción.",
+    "id": "src-int-uni-acta-cu07-2024",
+    "title": "Acta de Consejo Universitario, sesión ordinaria presencial N.° 07 (15-05-2024)",
+    "author": "Universidad Nacional de Ingeniería – Secretaría General",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/7922488/6667931-07-acta-de-consejo-universitario-sesion-ordinaria-presencial-n-07-15-05-24.PDF",
+    "type": "documento_institucional",
+    "locator": "Punto 19 (pp. 78-82): Jefa de Asesoría Jurídica: “El señor Humala Tasso tuvo un procedimiento administrativo disciplinario en su oportunidad cuando él era jefe de la DIGA y como tal se lo destituyó. Él recurrió al Poder Judicial…”; “a la fecha ya habría prescrito el expediente, la causa, la presunta falta”. Acuerdos: “aprobaron por mayoría no conceder el derecho remunerativo del docente Ulises Humala Tasso” y “que la Unidad de Recursos Humanos, evalué el reconocimiento de años de servicio”.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/6668290-acta-de-consejo-universitario-ordinario-presencial-n-04-2025",
+    "identifier": "C.U.O. N.° 04-2025",
+    "publishedAt": "2025-01-29",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-3"
+    ],
+    "notes": "El acta no describe la falta imputada en el PAD. No se halló el resultado del procedimiento retrotraído.",
+    "id": "src-int-uni-acta-cu04-2025",
+    "title": "Acta de Consejo Universitario, sesión ordinaria presencial N.° 04-2025 (29-01-2025)",
+    "author": "Universidad Nacional de Ingeniería – Secretaría General",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/7923025/6668290-04-acta-de-consejo-universitario-sesion-ordinaria-presencial-n-04-2025-29-01-25.pdf",
+    "type": "documento_institucional",
+    "locator": "Despacho, “Otros”, ítem 1, RR N.° 176 del 22/01/2025: “Oficializar la declaratoria de nulidad de la RD N° 003-2021 del 25 de enero de 2021, a través del cual se sancionó al exdecano LUIS ANTONIO LASTRA ESPINOZA con el cese temporal en el cargo sin goce de remuneraciones por el plazo de doce (12) meses, en el marco del proceso del PAD instaurado en su contra, en consecuencia, retrotrayendo los actuados hasta la conformación del órgano instructor (Comisión Especial Instructora) … en virtud del requerimiento judicial contenido en la Resolución N° 15 del 02 de diciembre de 2024, expedido por el 24º Juzgado Especializado de Trabajo Permanente de la Corte Superior de Justicia de Lima.”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.gob.pe/institucion/ipen/informes-publicaciones/2581796-informe-de-los-primeros-100-dias-de-gestion-del-dr-modesto-montoya",
+    "identifier": null,
+    "publishedAt": "2021-12-20",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "Se usa sólo para verificar el cargo (presidente del IPEN) con el que figura en el informe de control 001-2022-2-0067.",
+    "id": "src-int-ipen-100dias-2021",
+    "title": "Informe de los primeros 100 días de gestión del Dr. Modesto Montoya (IPEN)",
+    "author": "Instituto Peruano de Energía Nuclear",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/2643370/Informe%20de%20100%20di%CC%81as%20de%20gestio%CC%81n%2020%2012%2021.pdf.pdf",
+    "type": "documento_institucional",
+    "locator": "“durante los cien primeros días de la gestión del Dr. Modesto Edilberto Montoya Zavaleta”; “el Presidente del IPEN, Dr. Modesto Montoya”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "017-2017-2-0209",
+    "publishedAt": "2017-12-15",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1",
+      "c-2-1"
+    ],
+    "notes": "El informe también menciona una denuncia penal presentada en 2015 (carpeta fiscal); no se registra por no tener acusación ni resolución conocida. Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2021CPO020900013.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-017-2017-2-0209",
+    "title": "Informe de control N.° 017-2017-2-0209: Proceso de bajas, uso y control de las unidades de transportes (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2021CPO020900013&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen, sección 3: “ULISES HUMALA TASSO” con X en la columna Adm. ENT. Informe, p. 14-15: “Con Resolución Rectoral n.° 507 de 30 de abril de 2010 se designó a los integrantes de la ‘Comisión de Trabajo Encargada de evaluar la compra de buses…’ … lo que motivó que mediante Resolución Rectoral n.° 039 de 18 de enero de 2016 … se resuelva imponer sanciones disciplinarias a los funcionarios responsables”; nota al pie: “Imponer sanción disciplinaria de DESTITUCIÓN con la subsecuente inhabilitación, a los procesados: Dr. Aurelio Marcelo Pa[d]illa Ríos, Dr. Ulises Humala Tasso…”. Responsabilidad de Humala (p. 54 aprox.): “ULISES HUMALA TASSO, Director General de Administración – DIGA designado con Resolución Rectoral n.° 716 de 23 de mayo de 2008 hasta el 18 de diciembre de 2014 … Por no supervisar los actos de administración previos a la emisión de las Resoluciones Rectorales … que carecieron de Informes de Tasación … de los vehículos dados de baja en el periodo 2013-2014”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "001-2016-2-0209",
+    "publishedAt": "2016-09-07",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1",
+      "c-9-1"
+    ],
+    "notes": "Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2018CPO020900001.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-001-2016-2-0209",
+    "title": "Informe de control N.° 001-2016-2-0209: Convenios interinstitucionales n.° 06-2012 y n.° 03-2013 con la UNE y convenio marco n.° 02-2013 con el Banco de la Nación (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2018CPO020900001&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen, sección 3: “ULISES HUMALA TASSO” (X en Adm. ENT y Adm. PAS); “RAYMUNDO ILDEFONZO ARNAO RONDAN” (X en Adm. ENT y Adm. PAS). Informe: “Dr. Ulises Humala Tasso … en calidad de Decano de la Facultad de Ingeniería Económica y Finanzas, desde 12 de abril de 2013 hasta el 7 de agosto de 2015, Por haber autorizado los desembolsos para la adquisición de Bienes y Servicios…”; también “en calidad de Director General de Administración – DIGA – Proyectos: PROYECTO 9039”; “Dr. Raymundo Ildefonzo Arnao Rondán … en calidad de Decano (e) de la Facultad de Ingeniería Económica, Estadística y Ciencias Sociales, desde el 13 de noviembre de 2015 … Por haber autorizado los desembolsos…” y “Por no haber dispuesto se custodie la documentación técnica relacionada a la implementación de los cajeros automáticos”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "007-2017-2-0209",
+    "publishedAt": "2017-07-04",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1",
+      "c-2-1"
+    ],
+    "notes": "La recomendación 7 de la ficha menciona una denuncia penal en trámite; no se registra (sin acusación ni resolución conocida). Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2018CPO020900002.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-007-2017-2-0209",
+    "title": "Informe de control N.° 007-2017-2-0209: Pagos adicionales por servicios diversos con recursos directamente recaudados a funcionarios y/o servidores (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2018CPO020900002&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen, observación 1: pagos a funcionarios y/o servidores “en los periodos 2011, 2012, 2013 y 2014, excedieron el tope de ingreso establecido en el Decreto de Urgencia n.° 038-2006, que generó un perjuicio económico a la entidad por S/. 411 314.74”; sección 3: “ULISES HUMALA TASSO” y “AURELIO MARCELO PADILLA RIOS” con X en Civil y Adm. PAS. Informe: “Aurelio Marcelo Padilla Ríos … en su calidad de funcionario público de la Universidad Nacional de Ingeniería, según Resolución Rectoral n.° 970 de 3 de julio de 2009 (rige a partir de 4 de agosto de 2009 hasta el 3 de agosto de 2014)”; “Ulises Humala Tasso … docente de la Universidad Nacional de Ingeniería … superase el tope de ingreso mensual … por la suma ascendente a S/ 157 392,72, correspondiente a los periodos 2011 – 2014”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "334-2018-CG/UNIC",
+    "publishedAt": "2018-05-03",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1",
+      "c-2-1",
+      "c-9-1"
+    ],
+    "notes": "Emitido por la Subgerencia de Control de Universidades y Sector Cultura de la Contraloría. Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2018CPOL35300004.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-334-2018-cg-unic",
+    "title": "Informe de control N.° 334-2018-CG/UNIC: Otorgamiento de beneficios económicos adicionales al monto contractual del personal CAS (UNI, 2015-2016)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2018CPOL35300004&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen, observaciones: pagos adicionales a servidores CAS “ocasionó un perjuicio económico por S/ 2 462 400,00” y “por S/ 9 499 541,32”; sección 3: Humala Tasso, Padilla Ríos y Arnao Rondán con X en Civil y Adm. PAS. Informe: “Aurelio Marcelo Padilla Ríos … en calidad de Presidente del Consejo Universitario desde el 3 de julio de 2009 hasta 3 de agosto de 2014 y desde 4 de agosto de 2014 hasta el 15 de diciembre de 2014 (interino)”; “Ulises Humala Tasso … en calidad de Miembro del Consejo Universitario desde el 12 de abril de 2013 hasta el 12 de abril de 2016”; “Raymundo Ildefonzo Arnao Rondán … en su calidad de Director (e) General de Administración, desde el 26 de enero de 2015 hasta el 31 de julio de 2015”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "001-2017-2-0209",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1",
+      "c-2-2"
+    ],
+    "notes": "La ficha resumen indica fecha de emisión 16/01/2017, pero el texto del informe está fechado “Lima, 29 de marzo de 2019”; por eso publishedAt queda en null. El OCR del informe consigna en un pasaje “Licitación Pública n.° 004-2016”; la ficha y otros pasajes dicen 004-2013. Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2019CPO020900027.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-001-2017-2-0209",
+    "title": "Informe de control N.° 001-2017-2-0209: Préstamo bancario de S/ 1 500 000 a la Facultad de Ingeniería Industrial y de Sistemas, 2013-2014 (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2019CPO020900027&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen: “SE OTORGÓ LA BUENA PRO A POSTOR QUE NO PRESENTÓ DOCUMENTACIÓN OBLIGATORIA ESTABLECIDA EN LAS BASES INTEGRADAS…”; sección 3: “ULISES HUMALA TASSO” (X en Civil y Adm. PAS) y “JAVIER CONCEPCION SANCHEZ ESPINOZA” (X en Adm. PAS). Informe: “ULISES HUMALA TASSO … jefe (e) de la Dirección General de Administración, designado mediante Resolución Rectoral n.° 716 de 23 de mayo de 2008”; “JAVIER CONCEPCIÓN SÁNCHEZ ESPINOZA … tercer miembro titular y especialista en el objeto de la convocatoria del comité especial de la Licitación Pública n.° 004-2013 ‘Computadoras’, designado mediante Resolución Rectoral n.° 1172 de 2 de agosto de 2013”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "016-2019-2-0209",
+    "publishedAt": "2019-12-17",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1",
+      "c-4-1",
+      "c-4-2",
+      "c-9-1"
+    ],
+    "notes": "Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2021CPO020900006.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-016-2019-2-0209",
+    "title": "Informe de control N.° 016-2019-2-0209: Otorgamiento de beneficios económicos adicionales al monto contractual del personal CAS (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2021CPO020900006&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen, observaciones: pagos adicionales a servidores CAS “ocasionando presunto perjuicio económico por S/ 12 398 321,62” y “S/ 2 181 050,00”; sección 3: Padilla Ríos, Cáceres Cárdenas, Humala Tasso y Arnao Rondán con X en Civil y Adm. ENT. Informe: “Aurelio Marcelo Padilla Ríos … en su calidad de Rector de la Universidad Nacional de Ingeniería y Presidente del Consejo Universitario, designado mediante Resolución Rectoral n.° 970 de 3 de julio de 2009”; “Félix Víctor Cáceres Cárdenas … en su calidad de Decano de la Facultad de Ingeniería Eléctrica y Electrónica, miembro del Consejo Universitario, designado mediante Resolución Rectoral n.° 087 de 28 de enero de 2009 … periodo: 21 de enero de 2009 hasta 20 de enero de 2012”; “Ulises Humala Tasso … en su calidad de Decano de la Facultad de Ingeniería Económica, Estadística y Ciencias Sociales … y miembro del Consejo Universitario” y como “Jefe (e) de la Dirección General de Administración”; “Raymundo Ildefonzo Arnao Rondán … en su calidad de Director General de Administración … designado mediante la Resolución Rectoral n.° 93 de 26 de enero de 2015”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "008-2017-2-0209",
+    "publishedAt": "2017-07-21",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "notes": "El informe no permite afirmar a quién corresponde la ‘cuenta personal de funcionario’; no se infiere. Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2021CPO020900011.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-008-2017-2-0209",
+    "title": "Informe de control N.° 008-2017-2-0209: Diplomados y/o programas ejecutados por la Oficina Central de Posgrado con instituciones privadas (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2021CPO020900011&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen, observación 1: diplomados 2011-2015 “se efectuaron sin contar con autorización debida, contratos suscritos por funcionario no autorizado … y se realicen depósitos en cuenta personal de funcionario y servidora CAS por S/. 162 603.00”; sección 3: “AURELIO MARCELO PADILLA RIOS” con X en Penal y Adm. PAS. Informe: “Aurelio Marcelo Padilla Ríos … en calidad de Rector de la Universidad Nacional de Ingeniería, desde el 04 de agosto de 2009 hasta el 3 de agosto de 2014 y desde el 4 de agosto de 2014 hasta el 16 de diciembre de 2014”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "001-2022-2-0067-SCE",
+    "publishedAt": "2022-12-07",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "Informe de Control Específico (servicio de control específico a hechos con presunta irregularidad). El adjunto descargable es la cédula de notificación del OCI; el informe íntegro no se leyó. El cargo se verificó con src-int-ipen-100dias-2021. Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2022CPO006700001.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-001-2022-2-0067",
+    "title": "Informe de control N.° 001-2022-2-0067-SCE: Designación y aceptación en cargos de confianza de funcionarios públicos (IPEN)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2022CPO006700001&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen: “el Presidente del IPEN designó en cargos de confianza a dos (2) directores que no cumplían con los requisitos mínimos de formación profesional previstos en el Clasificador de Cargos aprobado … ejerciendo los cargos en períodos comprendidos del 18 de octubre de 2021 al 31 de marzo de 2022”; “Los hechos expuestos se originaron por el accionar deliberado del Presidente del IPEN”; sección 3: “MODESTO EDILBERTO MONTOYA ZAVALETA” con X en Penal y Adm. ENT.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "004-2022-2-0209",
+    "publishedAt": "2022-06-17",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1",
+      "c-8-2"
+    ],
+    "notes": "Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2022CPO020900004.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-004-2022-2-0209",
+    "title": "Informe de control N.° 004-2022-2-0209: Uso de los fondos públicos de recursos directamente recaudados de la UNI – periodo 2020",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2022CPO020900004&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen, sección 3: “RAFAEL ROLANDO SALINAS BASUALDO” (X en Adm. ENT); “ULISES HUMALA TASSO” (X en Civil y Adm. ENT). Informe, p. 116: “Señor Rafael Rolando Salinas Basualdo … decano (e) de la Facultad de Ingeniería Civil … durante el periodo del 13 de noviembre de 2019 hasta el 8 de agosto de 2021 … por haber aprobado las órdenes de servicio … por el que, se contrató docentes por orden de servicio para el dictado de los cursos de pregrado … no hizo cumplir las normas exigidas para la contratación de docentes”. Informe, pp. 73-74: “Señor Ulises Humala Tasso … decano de la Facultad de Ingeniería Económica y Ciencias Sociales … durante el periodo del 12 de abril de 2013 hasta el 12 de noviembre de 2015”, en relación con un diplomado de 2013 y una denuncia ante Indecopi que “ocasionó perjuicio económico de la entidad de S/ 12 900,00”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "015-2022-2-0209",
+    "publishedAt": "2022-12-07",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "Informe de servicio de control específico. El periodo de término del cargo difiere entre informes (25-09-2021 y 11-11-2021); se cita tal como lo escribe cada uno. Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2022CPO020900015.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-015-2022-2-0209",
+    "title": "Informe de control N.° 015-2022-2-0209: Contrataciones sin procedimiento de selección de servicios similares en la Facultad de Ingeniería Química y Textil (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2022CPO020900015&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen: “SE CONTRATÓ SERVICIOS SIMILARES PARA MANTENIMIENTO DE INFRAESTRUCTURA EN LA FACULTAD DE INGENIERÍA QUÍMICA Y TEXTIL … POR EL MONTO DE S/ 754 456,30 MEDIANTE ORDENES DE SERVICIO POR IMPORTES MENORES 8 UIT CADA UNO, EVADIENDO LA REALIZACIÓN DE PROCEDIMIENTO DE SELECCIÓN”; sección 3: “ABEL FERNANDO VERGARA SOTOMAYOR” (X en Adm. ENT). Informe: “Abel Fernando Vergara Sotomayor … Decano de la Facultad de Ingeniería Química y Textil (FIQT), periodo de 27 de abril de 2016 al 25 de setiembre de 2021”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "034-2023-2-0209",
+    "publishedAt": "2023-11-29",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2023CPO020900034.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-034-2023-2-0209",
+    "title": "Informe de control N.° 034-2023-2-0209: Pago de movilidad como condición de trabajo para el personal administrativo CAS, periodo 2021 (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2023CPO020900034&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen: “Aprobación y pago de movilidad como condición de trabajo para el personal administrativo CAS correspondiente al período 2021 … ocasionaron perjuicio económico a la entidad por S/ 904 105,68”; sección 3: “ABEL FERNANDO VERGARA SOTOMAYOR” (X en Civil y Adm. PAS). Informe: “Abel Fernando Vergara Sotomayor … miembro de la Comisión Permanente de Economía y Presupuesto del Consejo Universitario … desde el 8 de diciembre de 2020 hasta el 11 de noviembre de 2021 … Asimismo, se desempeñó como miembro del Consejo Universitario”.",
+    "status": "controvertido"
+  },
+  {
+    "landingUrl": "https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Avanzado.html",
+    "identifier": "018-2025-2-0209",
+    "publishedAt": "2025-12-02",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "Se leyó la ficha resumen (TIPOARCHIVO=RE) y el informe completo (escaneado, leído con OCR). Código CRES 2025CPO020900018.Contiene datos personales de terceros que no se reproducen. 'Presunta responsabilidad' no equivale a sanción firme; no se encontró en esta revisión el resultado del procedimiento sancionador ni de acciones legales derivadas.",
+    "id": "src-int-cgr-018-2025-2-0209",
+    "title": "Informe de control N.° 018-2025-2-0209: Adquisición de equipos para el Laboratorio Textil 24 de la Facultad de Ingeniería Química y Textil (UNI)",
+    "author": "Contraloría General de la República / Órgano de Control Institucional",
+    "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2025CPO020900018&TIPOARCHIVO=ADJUNTO",
+    "type": "documento_institucional",
+    "locator": "Ficha resumen: “LA ENTIDAD, EN EL AÑO 2019, ADQUIRIÓ PARA LA FACULTAD DE INGENIERÍA QUÍMICA Y TEXTIL 3 (TRES) EQUIPOS … POR UN MONTO TOTAL DE S/ 1 011 158,00, POR LOS CUALES OTORGÓ LA CONFORMIDAD DE FORMA INMEDIATA A SU RECEPCIÓN Y EFECTUÓ EL PAGO, A PESAR DE HABERSE INCUMPLIDO CON SU INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO”; sección 3: “ABEL FERNANDO VERGARA SOTOMAYOR” (X en Penal). Informe: “Abel Fernando Vergara Sotomayor … en su condición de Decano de la Facultad de Ingeniería Química y Textil … respecto de su participación como funcionario responsable del área usuaria en la adquisición de los equipos”.",
+    "status": "controvertido"
   }
 ]

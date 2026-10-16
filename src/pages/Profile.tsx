@@ -100,6 +100,13 @@ export default function Profile() {
                   : 'Que no esté aquí no significa que no exista: significa que todavía no se ha documentado.'}
               </EmptyState>
             )}
+            {s === 'control' && (
+              <p className="mt-2 rounded-md border-l-4 border-alert bg-card p-3 text-xs">
+                Una <strong>presunta responsabilidad</strong> identificada en un informe de control <strong>no es una sanción</strong>: da inicio a procedimientos
+                (administrativos, civiles o penales) cuyo resultado puede ser favorable o desfavorable. Estos informes sólo alcanzan a quienes ejercieron cargos de
+                gestión o integraron órganos colegiados, por lo que no figurar en ellos no indica nada sobre otras candidaturas.
+              </p>
+            )}
             {s === 'investigacion' && c.researchLeads.length > 0 && (
               <div className="mt-3 rounded-md border-2 border-dashed border-line p-3 text-sm">
                 <p className="kicker">Pistas de investigación (NO atribuidas)</p>
