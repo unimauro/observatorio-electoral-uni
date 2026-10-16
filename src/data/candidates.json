@@ -192,7 +192,25 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 4,434.91 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 4,434.91; y un ingreso mensual total de S/ 11,250.00 como Vicerrector de Investigación (Vicerrectorado de Investigación; Régimen 728/OTROS): remuneraciones S/ 11,250.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-1-1-10048-202609-r3",
+            "src-ing-c-1-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el PTE de la UNI (agosto de 2026), registra un ingreso mensual total de S/ 22,500.00 como Vicerrector de Investigación (Vicerrectorado de Investigación; Régimen 728/OTROS): remuneraciones S/ 22,500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-1-1-10048-202608-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -434,7 +452,25 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 4,434.91 como Profesor principal a tiempo completo (Facultad de Arquitectura, Urbanismo y Artes; Régimen 728/OTROS): remuneraciones S/ 4,434.91; y un ingreso mensual total de S/ 11,250.00 como Vicerrector Académico (Vicerrectorado Académico; Régimen 728/OTROS): remuneraciones S/ 11,250.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-1-2-10048-202609-r3",
+            "src-ing-c-1-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el PTE de la UNI (agosto de 2026), registra un ingreso mensual total de S/ 22,500.00 como Vicerrector Académico (Vicerrectorado Académico; Régimen 728/OTROS): remuneraciones S/ 22,500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-1-2-10048-202608-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -616,7 +652,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-1-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -924,7 +969,16 @@
           "kind": "hecho"
         }
       ],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-2-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1067,7 +1121,16 @@
           "kind": "hecho"
         }
       ],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Industrial y de Sistemas; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-2-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1244,7 +1307,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 5,934.91 como Profesor principal a tiempo parcial (Facultad de Ingeniería Química y Textil; Régimen 728/OTROS): remuneraciones S/ 4,434.91, otros ingresos S/ 1,500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-2-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1431,7 +1503,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,389.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Geológica, Minera y Metalúrgica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,520.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-3-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1607,7 +1688,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-3-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1839,7 +1929,24 @@
           "kind": "hecho"
         }
       ],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 13,304.73 como Profesor principal a tiempo completo (Facultad de Ciencias; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 4,434.91.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-3-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el PTE del MINAM (agosto de 2022), registra un ingreso mensual total de S/ 30,000.00 como Ministro (Despacho Ministerial; Altos Funcionarios): remuneraciones S/ 30,000.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-3-3-127-202208-r7"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2114,7 +2221,16 @@
           "kind": "hecho"
         }
       ],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 8,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Económica, Estadística y Ciencias Sociales; Régimen 728/OTROS): remuneraciones S/ 8,869.82.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-4-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2489,7 +2605,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Química y Textil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-4-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2648,7 +2773,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 13,030.57 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Industrial y de Sistemas; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 4,160.75.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-5-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2842,7 +2976,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,519.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 650.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-5-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3042,7 +3185,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 12,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Geológica, Minera y Metalúrgica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 3,500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-5-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3235,7 +3387,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,507.82 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,638.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-6-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3424,7 +3585,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 12,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 4,000.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-6-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3576,7 +3746,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ciencias; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-6-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3762,7 +3941,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 13,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Industrial y de Sistemas; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 5,000.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-7-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3923,7 +4111,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,825.53 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Civil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,955.71.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-7-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -4071,7 +4268,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 8,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-7-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -4302,7 +4508,24 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,554.19 como Profesor principal a tiempo completo (Facultad de Ciencias; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,684.37.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-8-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el PTE de PROCIENCIA (junio de 2024), registra un ingreso mensual total de S/ 15,600.00 como Director Ejecutivo (Dirección Ejecutiva; CAS): remuneraciones S/ 15,600.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-8-1-14258-202406-r1"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -4476,7 +4699,16 @@
           "kind": "hecho"
         }
       ],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Civil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-8-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -4634,7 +4866,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Geológica, Minera y Metalúrgica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-8-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -4877,7 +5118,16 @@
           "kind": "hecho"
         }
       ],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,519.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Económica, Estadística y Ciencias Sociales; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,650.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-9-1-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -5050,7 +5300,16 @@
         }
       ],
       "control": [],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-9-2-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [],
     "pendingSources": [
@@ -5222,7 +5481,16 @@
           "kind": "hecho"
         }
       ],
-      "ingresos": []
+      "ingresos": [
+        {
+          "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Química y Textil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ing-c-9-3-10048-202609-r3"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {

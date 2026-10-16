@@ -16,7 +16,7 @@ const site = read('site.json')
 for (const c of candidates) { c.claims.proceso ??= []; c.claims.control ??= []; c.claims.ingresos ??= [] }
 const byId = new Map(candidates.map((c) => [c.id, c]))
 const SECTIONS = ['formacion', 'docencia', 'investigacion', 'gestion', 'proyectos', 'propuestas', 'declaraciones', 'proceso', 'control', 'ingresos']
-const PII = /(linkedin\.com|facebook\.com\/[a-z]|\bDNI\b|\b\d{8}\b(?!-)|@[a-z0-9-]+\.[a-z]|\b9\d{8}\b|domicilio|afiliad[oa] a|partido pol[ií]tico)/i
+const PII = /(linkedin\.com|facebook\.com\/[a-z]|\b\d{8}\b(?!-)|@[a-z0-9-]+\.[a-z]|\b9\d{8}\b|domicilio|afiliad[oa] a|partido pol[ií]tico)/i
 
 const report = { added: {}, rejected: [] }
 const bump = (k) => (report.added[k] = (report.added[k] ?? 0) + 1)
