@@ -1880,5 +1880,22 @@
       "c-9-3"
     ],
     "notes": "El RNSSC muestra sólo sanciones VIGENTES (destitución, suspensión, inhabilitación, etc.). No incluye sanciones ya cumplidas, procesos en trámite ni investigaciones. El observatorio no guarda ni publica los DNI que devuelve el servicio. Script: scripts/consulta_rnssc.py."
+  },
+  {
+    "id": "src-ctivitae-arnao",
+    "title": "Ficha CTI Vitae – ARNAO RONDAN, RAYMUNDO ILDEFONZO (id_investigador 72854)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con fuente SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=72854",
+    "landingUrl": null,
+    "publishedAt": "2026-02-18",
+    "consultedAt": "2026-10-16",
+    "type": "registro_publico",
+    "identifier": "id_investigador 72854",
+    "locator": "Datos personales (Apellidos / Nombres); \"Formación Académica (Fuente: SUNEDU)\"; Experiencia laboral",
+    "status": "verificado_primaria",
+    "candidateIds": [
+      "c-9-1"
+    ],
+    "notes": "Ficha validada con RENIEC al registrarse; la tabla de grados proviene de SUNEDU. Fecha = última actualización de la ficha. No se reproducen datos personales."
   }
 ]

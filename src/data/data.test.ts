@@ -55,7 +55,7 @@ describe('integridad de datos', () => {
     const chirif = d.candidates.find((c) => c.slug === 'luis-humberto-chirif-rivera')!
     expect(chirif.corrections[0].before).toBe('Luis Humberto Chirich Rivera')
     const arnao = d.candidates.find((c) => c.listId === 'lista-9' && c.order === 1)!
-    expect(arnao.verification.name.status).toBe('pendiente_revision')
+    expect(arnao.verification.name.status).toBe("verificado_primaria")
   })
 
   it('no hay datos personales innecesarios en los JSON', () => {

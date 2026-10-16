@@ -3663,10 +3663,12 @@
         "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
       },
       "name": {
-        "status": "pendiente_revision",
+        "status": "verificado_primaria",
         "sourceIds": [
-          "src-ceuni-listas-definitivas"
-        ]
+          "src-ceuni-listas-definitivas",
+          "src-ctivitae-arnao"
+        ],
+        "note": "CTI Vitae separa Apellidos \"ARNAO RONDAN\" y Nombres \"RAYMUNDO ILDEFONZO\", lo que confirma el orden de la publicación definitiva."
       },
       "faculty": {
         "status": "verificado_primaria",
@@ -3679,6 +3681,14 @@
     "summary": null,
     "claims": {
       "formacion": [
+        {
+          "text": "Grados registrados en SUNEDU según su ficha CTI Vitae: Doctor en Ciencias Contables Empresariales (UNMSM); Ingeniero Economista y Bachiller en Ciencias, especialidad Ingeniería Económica (UNI); Maestro en Ciencias, especialidad Planificación Nacional del Desarrollo (UNI); y Master en Asesoría y Gestión Fiscal y de Inversiones (la ficha lo asocia a la UNI; su ORCID lo atribuye a la Universidad Politécnica de Madrid–CEPADE).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-ctivitae-arnao"
+          ],
+          "kind": "hecho"
+        },
         {
           "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
           "status": "parcialmente_verificado",
@@ -3734,6 +3744,15 @@
             "src-orcid-arnao"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Decano de la FIEECS-UNI (nov. 2015 – nov. 2019) y director (e) de la Dirección General de Administración de la UNI, según su ficha CTI Vitae, que coincide con lo declarado en su ORCID.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-ctivitae-arnao",
+            "src-orcid-arnao"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -3808,6 +3827,17 @@
         "after": "FIEECS",
         "reason": "La tabla del CEUNI usa la sigla \"FIEECS\".",
         "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ]
+      },
+      {
+        "date": "2026-10-16",
+        "field": "nombre (resolución)",
+        "before": "Pendiente de revisión: orden de nombres y apellidos",
+        "after": "Raymundo Ildefonzo Arnao Rondán (verificado)",
+        "reason": "La ficha CTI Vitae (CONCYTEC, validada con RENIEC) consigna Apellidos \"ARNAO RONDAN\" y Nombres \"RAYMUNDO ILDEFONZO\". La variante de la publicación provisional (\"ARNAO RONDAN ILDEFONZO\") era un error de orden.",
+        "sourceIds": [
+          "src-ctivitae-arnao",
           "src-ceuni-tabla-facultades"
         ]
       }
