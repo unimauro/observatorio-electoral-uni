@@ -174,8 +174,10 @@ export function Privacy() {
         </Section>
         <Section title="Este sitio no recolecta datos">
           <p>
-            Es un sitio estático: no hay formularios que guarden información, ni cuentas, ni cookies de seguimiento. Tu navegador puede guardar localmente el tema
-            (claro/oscuro) y los pesos que elijas en la matriz; nunca se envían a ningún servidor.
+            Es un sitio estático: no hay formularios que guarden información ni cuentas. Usamos Google Analytics para contar visitas de forma agregada
+            (páginas vistas, país, tipo de dispositivo); Google coloca cookies para ello. No enviamos a Analytics nombres, búsquedas ni otros datos que escribas.
+            Puedes bloquearlo con cualquier bloqueador de rastreadores sin que el sitio deje de funcionar. Tu navegador también guarda localmente el tema
+            (claro/oscuro) y los pesos que elijas en la matriz; eso nunca se envía a ningún servidor.
           </p>
         </Section>
         <Section title="Cómo pedir una corrección">
