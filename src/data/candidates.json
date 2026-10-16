@@ -3483,20 +3483,7 @@
       "declaraciones": [],
       "proceso": []
     },
-    "researchLeads": [
-      {
-        "citedByCount": null,
-        "consultedAt": "2026-10-16",
-        "orcid": null,
-        "worksCount": null,
-        "candidateId": "c-9-2",
-        "provider": "otro",
-        "profileId": "https://www.linkedin.com/in/agustin-gutierrez-paucar-35330636/",
-        "displayName": "Agustin Gutierrez Paucar",
-        "status": "pendiente",
-        "note": "Perfil LinkedIn (sólo snippet de buscador, no leído): menciona doctorado en Educación y jefatura de Grados y Títulos FIEE. Requiere fuente institucional."
-      }
-    ],
+    "researchLeads": [],
     "pendingSources": [
       "Ficha CTI Vitae / RENACYT (CONCYTEC)",
       "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
