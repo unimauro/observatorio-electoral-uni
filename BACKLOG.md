@@ -18,6 +18,11 @@
 - [x] Vicerrectores: 8 ORCID + CV gob.pe (Palma) → 22 afirmaciones; RENACYT vía CONCYTEC para Osorio, Montoya, Rosales, Vergara (Mosquera parcial)
 - [x] Pista OpenAlex de Lastra descartada (ORCID de otra persona)
 
+## Hecho (16-oct-2026) — ronda multiagente
+- [x] 4 agentes: vicerrectores (42 fuentes/39 datos), rectores (21/17), resultados (cronograma Gaceta 175, 11 tachas infundadas), auditor (103 fuentes revisadas)
+- [x] Auditoría aplicada (35 cambios): facultades verificadas con la publicación provisional pública del CEUNI (22-09); prensa = fuente secundaria; Perú21 vía Internet Archive; citas exactas ("carpetas" = pupitres); discrepancias explícitas (Lazo, Sánchez Espinoza); propuestas personales de Montoya separadas de la lista
+- [x] El merge rechaza PII y perfiles de redes sociales
+
 ## Pendiente
 - [ ] Contrastar la fecha de votación con el cronograma oficial (Gaceta N.º 175-2026)
 - [ ] Resultados y proclamación del CEUNI tras la votación
@@ -26,10 +31,13 @@
 - [ ] Vicerrectores sin fuente aún: Cacho Cruz, Sánchez Espinoza, Cáceres Cárdenas, Gamarra Chinchay, Lazo Jara, Guimaray Huerta, Villavicencio Chávez, Gutiérrez Paucar
 - [ ] Lista 5: sin propuestas registradas (no figura en la nota de RPP)
 - [ ] Ver el video de propuestas de la Lista 3 (YouTube) y del debate CEUNI, si existe grabación
-- [ ] Facultades: conseguir el enlace público de la tabla con FACULTAD (la carpeta del CEUNI pide login)
 - [ ] Lista 9: definir el orden correcto de nombres y apellidos de Raymundo Ildefonzo Arnao Rondán
 - [ ] Verificar las pistas OpenAlex vía ORCID / CTI Vitae, una por una
 - [ ] SUNEDU: especialidad y universidad del doctorado de las 27 candidaturas
 - [ ] Localizar los planes de gobierno (redes de las listas, debate CEUNI) y extraer propuestas
 - [ ] Revisar las resoluciones de tachas del CEUNI (sin presumir culpabilidad)
 - [ ] Code-split de Recharts (bundle de 714 kB)
+- [ ] Resultados 1.ª vuelta (16-10, después de las 16:00) y 2.ª vuelta (28-10); proclamación 04-11
+- [ ] Ubicar la RR del 18-01-2016 (sanción buses 2010) en transparencia UNI para reemplazar la fuente de prensa
+- [ ] Videos: propuestas Lista 3 (YouTube) y grabación del debate CEUNI del 07-10 (YouTube bloquea acceso automático)
+- [ ] Repositorio UNI: paginar conteos de asesorías/jurados (Gamarra, Villavicencio >100)

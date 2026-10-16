@@ -26,11 +26,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -60,14 +60,6 @@
       "investigacion": [],
       "gestion": [
         {
-          "text": "Figura como decano de la Facultad de Ingeniería Eléctrica y Electrónica (\"Dean: Jorge Butler PhD., P.E.\") en el portal de acreditación de la UNI. La página no indica el periodo.",
-          "status": "parcialmente_verificado",
-          "sourceIds": [
-            "src-uni-acreditacion-fiee"
-          ],
-          "kind": "hecho"
-        },
-        {
           "text": "Reconocido como decano de la Facultad de Ingeniería Eléctrica y Electrónica por la RR 3541-2023-UNI (10-11-2023), para el periodo del 13-11-2023 al 12-11-2027, según la RR 1360-2025-UNI.",
           "status": "verificado_primaria",
           "sourceIds": [
@@ -96,7 +88,7 @@
       "propuestas": [],
       "declaraciones": [
         {
-          "text": "Según RPP, propuso cambiar el modelo educativo tradicional (\"cambiar el paradigma\") y reemplazar el trabajo en papel por equipos tecnológicos para aplicar la teoría directamente.",
+          "text": "Según RPP, propuso \"cambiar el paradigma\" educativo tradicional y eliminar las carpetas (pupitres) para reemplazarlas por equipos tecnológicos que permitan aplicar la teoría de manera directa.",
           "status": "declarado",
           "sourceIds": [
             "src-rpp-debate-2026"
@@ -104,7 +96,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "Según RPP, sostuvo que el presupuesto del Estado sólo cubre sueldos y propuso alianzas con empresas y embajadas para renovar laboratorios de unos 50 años de antigüedad.",
+          "text": "Según RPP, sostuvo que el presupuesto del Estado sólo cubre sueldos y propuso alianzas con empresas y embajadas para renovar laboratorios que, según dijo, tienen 50 años de antigüedad.",
           "status": "declarado",
           "sourceIds": [
             "src-rpp-debate-2026"
@@ -207,11 +199,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -246,7 +238,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "En el Repositorio UNI figura como asesora de 3 trabajos (2003, título de Arquitecto) y como jurado en 5 (2018–2024).",
+          "text": "Según una búsqueda en el Repositorio UNI (16-10-2026), figura como asesora de 3 trabajos (2003, título de Arquitecto) y como jurado en 5 (2018–2024).",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-cacho"
@@ -347,8 +339,8 @@
         "provider": "ORCID",
         "profileId": "https://orcid.org/0000-0002-0501-4968",
         "displayName": "ROCÍO MARGARITA CACHO CRUZ",
-        "status": "pendiente",
-        "note": "Usado como fuente declarada (src-vr-orcid-cacho); sin empleos registrados."
+        "status": "confirmado",
+        "note": "Usado como fuente declarada (src-vr-orcid-cacho); sin empleos registrados. Confirmado: el registro se usa como fuente de afirmaciones del perfil."
       }
     ],
     "pendingSources": [
@@ -395,11 +387,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -517,11 +509,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -567,20 +559,13 @@
           "kind": "hecho"
         },
         {
-          "text": "Rector de la UNI en mayo de 2009, según RPP (\"el rector de la UNI, Aurelio Padilla\"). La nota omite el segundo apellido y no indica el periodo.",
-          "status": "parcialmente_verificado",
-          "sourceIds": [
-            "src-rpp-2009-padilla"
-          ],
-          "kind": "hecho"
-        },
-        {
           "text": "Figura como rector de la UNI en documentos institucionales de 2009 (Plan Funcional), 2012 (Memoria Institucional) y 2014 (Plan Operativo Institucional). Estos documentos no indican las fechas de inicio y fin del mandato.",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-rx-uni-pf-2009",
             "src-rx-uni-memoria-2012",
-            "src-rx-uni-poi-2014"
+            "src-rx-uni-poi-2014",
+            "src-rpp-2009-padilla"
           ],
           "kind": "hecho"
         },
@@ -698,11 +683,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -739,15 +724,15 @@
           "kind": "declaracion"
         },
         {
-          "text": "La ficha de la plana docente FIIS lo registra como profesor nombrado, categoría principal, a tiempo completo, con título de Ingeniero de Sistemas.",
-          "status": "verificado_primaria",
+          "text": "La ficha de la plana docente FIIS lo registra como profesor nombrado, categoría principal, a tiempo completo. La ficha consigna título de Ingeniero de Sistemas y grado de maestro; el Repositorio UNI registra título de Ingeniero Industrial (1993) y doctorado (2021): hay una discrepancia sin aclarar.",
+          "status": "parcialmente_verificado",
           "sourceIds": [
             "src-vr-fiis-sanchez"
           ],
           "kind": "hecho"
         },
         {
-          "text": "En el Repositorio UNI figura como asesor de 63 trabajos de titulación y posgrado (1997–2025), mayormente de Ingeniería de Sistemas, y como jurado en 6.",
+          "text": "Según una búsqueda en el Repositorio UNI (16-10-2026), figura como asesor de 63 trabajos de titulación y posgrado (1997–2025), mayormente de Ingeniería de Sistemas, y como jurado en 6.",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-sanchez"
@@ -819,11 +804,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -839,7 +824,7 @@
           "kind": "hecho_inferido"
         },
         {
-          "text": "Ingeniero químico (UNI), maestro en Ciencias con mención en Gestión Ambiental (UNI) y doctor en Medio Ambiente y Desarrollo Sostenible (UNFV, 2013), según su ORCID.",
+          "text": "Ingeniero químico (UNI), maestro en Ciencias con mención en Gestión Ambiental (UNI) y doctor en Medio Ambiente y Desarrollo Sostenible (UNFV, 2013), según su ORCID. Registro ORCID a nombre de \"Cesar Osorio\" (FIQT-UNI), que OpenAlex enlaza al nombre completo.",
           "status": "declarado",
           "sourceIds": [
             "src-orcid-c-2-3"
@@ -858,7 +843,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "Profesor principal de la Facultad de Ingeniería Química y Textil de la UNI desde 1992; docente de posgrado en otras universidades, según su ORCID.",
+          "text": "Profesor de la Facultad de Ingeniería Química y Textil de la UNI desde 1992; su ORCID lo registra como profesor principal. Declara además docencia de posgrado en otras universidades.",
           "status": "declarado",
           "sourceIds": [
             "src-orcid-c-2-3"
@@ -891,7 +876,7 @@
         "worksCount": 14,
         "citedByCount": 9,
         "status": "pendiente",
-        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana. Atención: el perfil probablemente mezcla homónimos; no usar su conteo de obras.",
         "consultedAt": "2026-10-15"
       }
     ],
@@ -937,11 +922,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -958,7 +943,7 @@
         },
         {
           "text": "Ingeniero geólogo por la UNI y doctor en Ciencias Naturales por la Universidad de Heidelberg (Alemania), según ProActivo. La Deutsche Nationalbibliothek registra su tesis doctoral en Heidelberg en 1998.",
-          "status": "corroborado",
+          "status": "parcialmente_verificado",
           "sourceIds": [
             "src-rx-proactivo-chirif-2025",
             "src-rx-dnb-chirif-1998"
@@ -1092,11 +1077,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -1201,11 +1186,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -1221,7 +1206,7 @@
           "kind": "hecho_inferido"
         },
         {
-          "text": "Docteur ès sciences por la Université Paris-Sud (1981), según su ORCID.",
+          "text": "Docteur ès sciences por la Université Paris-Sud (1981), según su ORCID. Registro ORCID a nombre de \"Modesto Montoya\" (FC-UNI), que OpenAlex enlaza al nombre completo.",
           "status": "declarado",
           "sourceIds": [
             "src-orcid-c-3-3"
@@ -1250,12 +1235,20 @@
       ],
       "investigacion": [
         {
-          "text": "Investigador RENACYT Nivel II (calificaciones 2022 y 2024 registradas por CONCYTEC). Científico invitado en GSI (Alemania), IPN Orsay (Francia), Carnegie Mellon (EE. UU.) y Forschungszentrum Jülich entre 1983 y 1988, según su ORCID.",
+          "text": "Investigador RENACYT Nivel II (calificaciones 2022 y 2024 registradas por CONCYTEC en su ORCID).",
           "status": "corroborado",
           "sourceIds": [
             "src-orcid-c-3-3"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Declara en ORCID estancias como científico invitado en GSI (Alemania), IPN Orsay (Francia), Carnegie Mellon (EE. UU.) y Forschungszentrum Jülich entre 1983 y 1988.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-orcid-c-3-3"
+          ],
+          "kind": "declaracion"
         }
       ],
       "gestion": [],
@@ -1273,7 +1266,7 @@
         "worksCount": 160,
         "citedByCount": 363,
         "status": "pendiente",
-        "note": "El perfil registra el nombre completo entre sus variantes, pero el nombre visible es abreviado (\"M. Montoya\"); confirmar con ORCID.",
+        "note": "El perfil registra el nombre completo entre sus variantes, pero el nombre visible es abreviado (\"M. Montoya\"); confirmar con ORCID. Atención: el perfil probablemente mezcla homónimos; no usar su conteo de obras.",
         "consultedAt": "2026-10-15"
       }
     ],
@@ -1320,11 +1313,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -1340,12 +1333,12 @@
           "kind": "hecho_inferido"
         },
         {
-          "text": "Estudió Ingeniería Económica en la UNI, hizo un posgrado en la Universidad Sorbonne Nouvelle–París 3 y un doctorado en Ciencias Políticas y Relaciones Internacionales en la Universidad Ricardo Palma, según Caretas (\"de acuerdo con la información biográfica disponible\").",
+          "text": "Estudió Ingeniería Económica en la UNI, realizó estudios de posgrado en la Universidad Sorbonne Nouvelle–París 3 y un doctorado en Ciencias Políticas y Relaciones Internacionales en la Universidad Ricardo Palma, según Caretas (\"de acuerdo con la información biográfica disponible\").",
           "status": "parcialmente_verificado",
           "sourceIds": [
             "src-caretas-humala-2026"
           ],
-          "kind": "hecho"
+          "kind": "hecho_inferido"
         }
       ],
       "docencia": [
@@ -1362,8 +1355,8 @@
       "investigacion": [],
       "gestion": [
         {
-          "text": "Decano de la Facultad de Ingeniería Económica (FIECS/FIEECS) de la UNI, según la Memoria Institucional 2012 y el Plan Operativo Institucional 2014.",
-          "status": "verificado_primaria",
+          "text": "Figura como decano de la FIECS en la portadilla de la Memoria Institucional 2012 y en el Plan Operativo Institucional 2014; los documentos no indican el periodo (la lista de la Asamblea Universitaria 2012-II de la misma Memoria consigna a otro decano a. i.).",
+          "status": "parcialmente_verificado",
           "sourceIds": [
             "src-rx-uni-memoria-2012",
             "src-rx-uni-poi-2014"
@@ -1393,7 +1386,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "Según RPP, afirmó que la UNI pierde ingresos por no gestionar concesiones como la del metro.",
+          "text": "Según RPP, afirmó que la UNI pierde ingresos al no gestionar adecuadamente concesiones como la del metro.",
           "status": "declarado",
           "sourceIds": [
             "src-rpp-debate-2026"
@@ -1401,7 +1394,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "En entrevista con Caretas calificó de \"puerta cerrada\" el debate organizado por el Comité Electoral, porque cada plancha sólo podía invitar a cinco personas.",
+          "text": "En entrevista con Caretas calificó de \"puerta cerrada\" el debate organizado por el Comité Electoral porque, según él, cada plancha sólo habría podido invitar a cinco personas.",
           "status": "declarado",
           "sourceIds": [
             "src-caretas-humala-2026"
@@ -1490,11 +1483,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -1530,7 +1523,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "En el Repositorio UNI figura como asesor de 26 trabajos (1991–2025), principalmente de Ingeniería Eléctrica y del doctorado en Energética, y como jurado en 30.",
+          "text": "Según una búsqueda en el Repositorio UNI (16-10-2026), figura como asesor de 26 trabajos (1991–2025), principalmente de Ingeniería Eléctrica y del doctorado en Energética, y como jurado en 30.",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-caceres"
@@ -1540,8 +1533,8 @@
       ],
       "investigacion": [
         {
-          "text": "OpenAlex indexa al menos cuatro ponencias IEEE ANDESCON (2016 y 2018) sobre modelado de máquinas de inducción y generadores de doble alimentación, con su nombre y afiliación UNI.",
-          "status": "corroborado",
+          "text": "OpenAlex indexa ponencias IEEE ANDESCON (2016 y 2018) sobre modelado de máquinas de inducción y generadores de doble alimentación con su nombre y afiliación UNI. La consulta también devuelve obras de otra persona (\"G. Caceres\"), por lo que falta confirmar obra por obra.",
+          "status": "parcialmente_verificado",
           "sourceIds": [
             "src-vr-openalex-caceres"
           ],
@@ -1637,11 +1630,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -1676,7 +1669,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "Docente principal de la UNI desde 1995, según su ORCID.",
+          "text": "Docente de la UNI desde 1995; su ORCID lo registra en la categoría principal.",
           "status": "declarado",
           "sourceIds": [
             "src-orcid-c-4-3"
@@ -1687,7 +1680,7 @@
       "investigacion": [],
       "gestion": [
         {
-          "text": "Director de la Sección de Posgrado de la FIQT-UNI (2009–2016 y 2021–2022) y presidente del Comité Electoral de la UNI en 2019, según la biografía de su ORCID.",
+          "text": "Director de Posgrado (FIQT-UNI, 2009–2016 y 2021–2022) y presidente del Comité Electoral de la UNI en 2019, según la biografía de su ORCID.",
           "status": "declarado",
           "sourceIds": [
             "src-orcid-c-4-3"
@@ -1766,11 +1759,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -1898,11 +1891,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -1938,7 +1931,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "En el Repositorio UNI figura como jurado en 87 trabajos (2018–2025) y asesor en 10 (2009–2023), de Ingeniería Mecánica, Mecánica-Eléctrica, Mecatrónica, Naval y posgrado en Energética.",
+          "text": "Según una búsqueda en el Repositorio UNI (16-10-2026), figura como jurado en 87 trabajos (2018–2025) y asesor en 10 (2009–2023), de Ingeniería Mecánica, Mecánica-Eléctrica, Mecatrónica, Naval y posgrado en Energética.",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-gamarra"
@@ -2011,8 +2004,8 @@
         "provider": "ORCID",
         "profileId": "https://orcid.org/0000-0003-2040-0055",
         "displayName": "Hugo Eliseo Gamarra Chinchay",
-        "status": "pendiente",
-        "note": "Usado como fuente (src-vr-orcid-gamarra); sin empleo declarado, afiliación UNI confirmada vía OpenAlex en obras RED 2022/2023."
+        "status": "confirmado",
+        "note": "Usado como fuente (src-vr-orcid-gamarra); sin empleo declarado, afiliación UNI confirmada vía OpenAlex en obras RED 2022/2023. Confirmado: el registro se usa como fuente de afirmaciones del perfil."
       }
     ],
     "pendingSources": [
@@ -2059,11 +2052,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -2079,7 +2072,7 @@
           "kind": "hecho_inferido"
         },
         {
-          "text": "Declara en ORCID maestría en Física (Universidade Federal de Mato Grosso, 2006–2009) y doctorado (Universidade Federal de Goiás, 2009–2014); el VRI-UNI lo describe como \"Doctor en Ciencias, especialidad Física\". El repositorio UNI registra su tesis de Licenciado en Física (1995).",
+          "text": "Declara en ORCID maestría en Física (Universidade Federal de Mato Grosso, 2006–2009) y doctorado (Universidade Federal de Goiás, 2009–2014). El VRI-UNI lo describe como \"Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería\", lo que no coincide con la institución declarada en ORCID.",
           "status": "parcialmente_verificado",
           "sourceIds": [
             "src-vr-orcid-lazo",
@@ -2172,8 +2165,8 @@
         "provider": "ORCID",
         "profileId": "https://orcid.org/0000-0002-3909-3975",
         "displayName": "Antonio Nolberto Lazo Jara",
-        "status": "pendiente",
-        "note": "Usado como fuente (src-vr-orcid-lazo)."
+        "status": "confirmado",
+        "note": "Usado como fuente (src-vr-orcid-lazo). Confirmado: el registro se usa como fuente de afirmaciones del perfil."
       }
     ],
     "pendingSources": [
@@ -2220,11 +2213,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -2253,7 +2246,7 @@
       ],
       "investigacion": [
         {
-          "text": "Autor de \"Diseño de Elementos de Máquinas I y II\" (3.ª ed., 2014, Grupo Universitario) y de tablas de diseño de elementos de máquinas, ambos citados en sílabos de la UNI (FIM, MC401) y de la URP.",
+          "text": "Autor de \"Diseño de Elementos de Máquinas I y II\" (3.ª ed., 2014), citado en un sílabo de la URP donde él figura como docente, y de \"Tablas de diseño de elementos de máquinas\", citado en el sílabo UNI-FIM MC401. Las bibliografías consignan sólo \"Alva, F.\" / \"Fortunato Alva\".",
           "status": "parcialmente_verificado",
           "sourceIds": [
             "src-silabos-alva"
@@ -2379,11 +2372,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -2489,11 +2482,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -2529,7 +2522,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "En el Repositorio UNI figura como jurado en 15 trabajos (2018–2024), mayormente de Licenciatura en Matemática, y como asesor en 3 (1990–1997).",
+          "text": "Según una búsqueda en el Repositorio UNI (16-10-2026), figura como jurado en 15 trabajos (2018–2024), mayormente de Licenciatura en Matemática, y como asesor en 3 (1990–1997).",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-guimaray"
@@ -2631,11 +2624,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -2762,11 +2755,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -2795,15 +2788,24 @@
       ],
       "investigacion": [
         {
-          "text": "El registro ORCID a nombre de \"Luis Mosquera\" (investigador de la FIC-UNI desde 1995) tiene calificaciones RENACYT Nivel V (2022) y Nivel IV (2024) registradas por CONCYTEC. El nombre es abreviado, pero la facultad coincide con la del candidato.",
-          "status": "parcialmente_verificado",
+          "text": "Investigador RENACYT Nivel V (2022) y Nivel IV (2024), calificaciones registradas por CONCYTEC en su ORCID (a nombre de \"Luis Mosquera\", FIC-UNI), que OpenAlex enlaza a \"Luis Alberto Mosquera Leiva\".",
+          "status": "corroborado",
           "sourceIds": [
             "src-orcid-c-7-2"
           ],
           "kind": "hecho"
         }
       ],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Presidente del Tribunal de Honor Universitario, según el acta del Consejo Universitario N.º 11 (02-08-2023).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-vr-acta-cu-11-2023"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
@@ -2865,11 +2867,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -2913,7 +2915,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "En el Repositorio UNI figura como asesor en 64 trabajos (1985–2025) y jurado en 64 (2018–2025), de Ingeniería Mecánica, Mecánica-Eléctrica y del doctorado en Energética.",
+          "text": "Según una búsqueda en el Repositorio UNI (16-10-2026), figura como asesor en 64 trabajos (1985–2025) y jurado en 64 (2018–2025), de Ingeniería Mecánica, Mecánica-Eléctrica y del doctorado en Energética.",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-villavicencio"
@@ -2958,8 +2960,8 @@
         "provider": "ORCID",
         "profileId": "https://orcid.org/0000-0003-0142-7930",
         "displayName": "MANUEL AUGUSTO VILLAVICENCIO CHAVEZ",
-        "status": "pendiente",
-        "note": "Usado como fuente (src-vr-orcid-villavicencio)."
+        "status": "confirmado",
+        "note": "Usado como fuente (src-vr-orcid-villavicencio). Confirmado: el registro se usa como fuente de afirmaciones del perfil."
       },
       {
         "citedByCount": null,
@@ -3018,11 +3020,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -3077,10 +3079,11 @@
       ],
       "gestion": [
         {
-          "text": "Director ejecutivo del Programa Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA), según la agenda de la Comisión de Ciencia del Congreso. La página no indica el año.",
+          "text": "Se desempeñó como director ejecutivo de PROCIENCIA; así figura en una agenda de la Comisión de Ciencia del Congreso (la página no indica el año) y ProActivo (feb. 2026) lo refiere en pasado.",
           "status": "verificado_primaria",
           "sourceIds": [
-            "src-congreso-ciencia-35"
+            "src-congreso-ciencia-35",
+            "src-proactivo-rodriguez-2026"
           ],
           "kind": "hecho"
         },
@@ -3116,7 +3119,7 @@
         "worksCount": 404,
         "citedByCount": 23250,
         "status": "descartado",
-        "note": "El perfil devuelto (\"Juan Jose Rodriguez\") tiene otro segundo nombre y cientos de trabajos: muy probablemente agrupa homónimos. Descartado como pista hasta revisión.",
+        "note": "Otra persona: ORCID 0000-0002-3497-9929, Universidad Autónoma de Madrid, sin afiliación UNI.",
         "consultedAt": "2026-10-15"
       },
       {
@@ -3128,8 +3131,8 @@
         "provider": "ORCID",
         "profileId": "https://orcid.org/0000-0002-9887-6419",
         "displayName": "Juan Martin Rodriguez Rodriguez",
-        "status": "pendiente",
-        "note": "Nombre completo + empleo en la UNI, Facultad de Ciencias (Física), y RENACYT registrado por CONCYTEC. Es candidato fuerte a atribución; se usa como fuente de los claims. Falta confirmación humana para vincular el perfil."
+        "status": "confirmado",
+        "note": "Nombre completo + empleo en la UNI, Facultad de Ciencias (Física), y RENACYT registrado por CONCYTEC. Es candidato fuerte a atribución; se usa como fuente de los claims. Falta confirmación humana para vincular el perfil. Confirmado: el registro se usa como fuente de afirmaciones del perfil."
       },
       {
         "citedByCount": null,
@@ -3188,11 +3191,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -3306,11 +3309,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -3367,7 +3370,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "Fue candidato a vicerrector de investigación en la elección UNI de 2021, según ProActivo.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-rx-proactivo-uni-2021-resultados"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3448,11 +3460,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -3487,7 +3499,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "Docente principal de la Facultad de Ingeniería Económica, Estadística y Ciencias Sociales de la UNI desde 2009, según su registro ORCID.",
+          "text": "Docente de la Facultad de Ingeniería Económica, Estadística y Ciencias Sociales de la UNI desde 2009; su ORCID lo registra como docente principal.",
           "status": "declarado",
           "sourceIds": [
             "src-orcid-arnao"
@@ -3616,11 +3628,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -3655,7 +3667,7 @@
           "kind": "declaracion"
         },
         {
-          "text": "En el Repositorio UNI figura como asesor en 9 trabajos (2001–2016) y jurado en 5 (2019–2025), de Ingeniería Eléctrica y Electrónica.",
+          "text": "Según una búsqueda en el Repositorio UNI (16-10-2026), figura como asesor en 9 trabajos (2001–2016) y jurado en 5 (2019–2025), de Ingeniería Eléctrica y Electrónica.",
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-gutierrez"
@@ -3733,11 +3745,11 @@
         ]
       },
       "faculty": {
-        "status": "parcialmente_verificado",
+        "status": "verificado_primaria",
         "sourceIds": [
           "src-ceuni-tabla-facultades"
         ],
-        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+        "note": "Columna FACULTAD de la publicación provisional del CEUNI (22-09-2026)."
       }
     },
     "summary": null,
@@ -3795,7 +3807,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "Fue candidato a rector en la elección UNI de 2021 y obtuvo 645 votos en la primera vuelta, según ProActivo.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-rx-proactivo-uni-2021-resultados"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {

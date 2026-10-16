@@ -43,6 +43,10 @@ export function membersOf(listId: string): Candidate[] {
   return (listById.get(listId)?.members ?? []).map((id) => candidateById.get(id)!).sort((a, b) => a.order - b.order)
 }
 
+/** Propuestas atribuidas a la lista (plan o exposición del candidato a rector). Excluye las personales de integrantes. */
 export function proposalsOf(listId: string): Proposal[] {
-  return proposals.filter((p) => p.listId === listId)
+  return proposals.filter((p) => p.listId === listId && p.planId !== null)
 }
+
+export const listProposals = proposals.filter((p) => p.planId !== null)
+export const personalProposals = proposals.filter((p) => p.planId === null)

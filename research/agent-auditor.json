@@ -579,149 +579,149 @@
     {
       "sourceId": "src-rx-uni-rr0593-2025",
       "url": "https://cdn.www.gob.pe/uploads/document/file/7714905/6527923-0593-2025-uni.pdf",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "Confirmado: RR 038-2024-UNI (15-01-2024) encargo; CU 26-02-2025; designación 'por el periodo de dos (02) años' (RR 593-2025, 28-02-2025)."
     },
     {
       "sourceId": "src-rx-uni-directorio-jul2025",
       "url": "https://portal.uni.edu.pe/images/archivospdf/OCII_-_DIRECTORIO_UNI_8_DE_JULIO_DE_2025.pdf",
       "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "locatorFound": true,
+      "note": "portal.uni.edu.pe da timeout (000) desde aquí. Se leyó la copia de Wayback (landingUrl, 200): Butler figura en Vicerrectorado Académico (e) y en Vicerrectorado de Investigación; Huamán Sánchez es 'Director (e)' del CEPRE. El documento trae correos y teléfonos (no reproducidos). Sugerido: poner la copia de archivo como url principal."
     },
     {
       "sourceId": "src-rx-gaceta-historia-uni-22",
       "url": "https://press.uni.edu.pe/index.php/historiauni/catalog/download/81/63/199?inline=1",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Alejandro Huamán Sánchez 2013-2015' encontrado."
     },
     {
       "sourceId": "src-rx-uni-rr1360-2025",
       "url": "https://cdn.www.gob.pe/uploads/document/file/8121826/6805519-1360-2025-uni.pdf",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "Confirmado: RR 3541-2023 (decano del 13-11-2023 al 12-11-2027), elección como VRI por la AU (periodo 07-05-2025 a 11-11-2026) y encargo del decanato FIEE a otro docente."
     },
     {
       "sourceId": "src-rx-uni-pf-2009",
       "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/PFUNI2009.pdf",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Mag. Ing. AURELIO PADILLA RÍOS / RECTOR'."
     },
     {
       "sourceId": "src-rx-uni-memoria-2012",
       "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2012.pdf",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "Portadilla: 'RECTOR Dr. Aurelio Padilla Ríos'; 'Facultad de Ingeniería Economía y Ciencias Sociales (FIECS) Mag. Ulises Humala Tasso'. Ojo: en la misma memoria, la lista de la AU 2012-II da 'Mag. Víctor Valdivieso Benavides FIECS (a.i.)' y a Humala como profesor principal, así que el periodo del decanato no está claro. Es el mismo PDF que src-vr-memoria-uni-2012 (fuente duplicada)."
     },
     {
       "sourceId": "src-rx-uni-poi-2014",
       "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/POI_UNI2014.pdf",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Mag. ULISES HUMALA TASSO – Facultad de Ingeniería Económica, Estadística y Ciencias Sociales' en la lista de decanos."
     },
     {
       "sourceId": "src-rx-peru21-humala-2016",
       "url": "https://peru21.pe/politica/ulises-humala-destituido-uni-irregularidades-compra-buses-209029-noticia/",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 403,
+      "locatorFound": true,
+      "note": "peru21.pe responde 403 a curl y a WebFetch. La copia de Wayback (landingUrl, 200) confirma literalmente el locator: 'destituyó del cargo de docente…', 'resolución del 18 de enero…', 'Aurelio Padilla (ex rector)…', 'encontró responsabilidades…'. Sugerido: usar la copia de archivo como url. La nota también incluye parentesco del candidato y nombres de terceros: no reproducir (correcto)."
     },
     {
       "sourceId": "src-rx-peru21-alva-2015",
       "url": "https://peru21.pe/opinion/jorge-alva-hurtado-rector-uni-ulises-humala-suspendido-uni-206459-noticia/",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 403,
+      "locatorFound": true,
+      "note": "403 directo; Wayback (landingUrl, 200) confirma 'Son cuatro meses. Él puede apelar… Nosotros decidimos suspenderlo en noviembre'. Las afirmaciones del entrevistado sobre Padilla ('Lo hemos enjuiciado…') no se registran: correcto, son acusaciones de un tercero sin documento."
     },
     {
       "sourceId": "src-rx-elperuano-rs021-2025-em",
       "url": "https://busquedas.elperuano.pe/dispositivo/NL/2471857-3/",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "RS 021-2025-EM, Lima 24-12-2025: 'Dar por concluida la designación del señor Luis Humberto Chirif Rivera…'. Confirmado."
     },
     {
       "sourceId": "src-rx-gestion-ingemmet-2025",
       "url": "https://gestion.pe/economia/ingemmet-minem-retira-al-presidente-de-su-consejo-directivo-sin-asignar-reemplazo-noticia/",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "'ocupaba ese puesto desde el 4 de junio del 2024'; 'ingeniero geólogo de profesión'."
     },
     {
       "sourceId": "src-rx-proactivo-chirif-2025",
       "url": "https://proactivo.com.pe/luis-humberto-chirif-deja-la-presidencia-del-ingemmet/",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Ingeniero Geólogo por la UNI y Doctor en Ciencias Naturales por la Universidad de Heidelberg'."
     },
     {
       "sourceId": "src-rx-dnb-chirif-1998",
       "url": "https://d-nb.info/95499874X",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": false,
+      "note": "d-nb.info responde con una página anti-bot ('Making sure you're not a bot'); el auditor no pudo leer el registro. No refuta el dato, pero el 'corroborado' de la formación de c-3-1 depende de esta fuente sin verificación independiente."
     },
     {
       "sourceId": "src-rx-orcid-rodriguez",
       "url": "https://orcid.org/0000-0002-9887-6419",
-      "http": null,
+      "http": 200,
       "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "note": "No revisado en detalle por el auditor (registro accesible)."
     },
     {
       "sourceId": "src-rx-congreso-ciencia-17so-2024",
       "url": "https://comunicaciones.congreso.gob.pe/wpuploads/2024/04/Ciencia.17SO.29.04.2024-1.pdf",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "'5.1. Presentación del señor Juan Martin Rodríguez Rodríguez, presidente Ejecutivo del Programa Nacional de Investigación Científica- PROCIE…' (sesión 29-04-2024). Fecha útil para la claim de PROCIENCIA de c-8-1, que hoy cita la agenda sin año."
     },
     {
       "sourceId": "src-rx-elperuano-rp101-2024",
       "url": "https://busquedas.elperuano.pe/dispositivo/NL/2321862-1",
-      "http": null,
+      "http": 200,
       "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "note": "Accesible; ya marcada pendiente_revision por la fuente."
     },
     {
       "sourceId": "src-rx-elperuano-rs132-2018-pcm",
       "url": "https://busquedas.elperuano.pe/dispositivo/NL/1661070-3",
-      "http": null,
+      "http": 200,
       "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "note": "Accesible; pista correctamente no usada como claim."
     },
     {
       "sourceId": "src-rx-proactivo-uni-2021-planes",
       "url": "https://proactivo.com.pe/la-universidad-nacional-de-ingenieria-uni-elegira-nuevo-rector-este-martes-26-de-octubre/",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "Lista los planes 2021 de 'Fortunato Alva Dávila' y 'Raymundo Ildefonso Arnao Rondan' (con 's')."
     },
     {
       "sourceId": "src-rx-proactivo-uni-2021-resultados",
       "url": "https://proactivo.com.pe/elecciones-uni-alfonso-lopez-chau-y-elmar-javier-franco-pasan-a-segunda-vuelta/",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": true,
+      "note": "'Raymundo Arnao Rondan (727 votos), Abel Vergara Sotomayor (645 votos), Fortunato Alva Dávila (644 votos)'. También dice que 'el Dr. Jimmy Rosales (FIGMM)' fue candidato a VRI en 2021 en la lista de Franco: refuerza la identidad del ORCID 'Jimmy Rosales' (c-8-3). Vergara (c-9-3) también fue candidato a rector en 2021 (645 votos) y no se registra; si se registra para Alva y Arnao, por equidad debería registrarse también."
     },
     {
       "sourceId": "src-rx-plan-alva-2021",
       "url": "https://drive.google.com/file/d/1e2CcLQZG_WhzCPHKCIJJv9bSPevVJ9lD/view",
-      "http": null,
-      "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "http": 200,
+      "locatorFound": false,
+      "note": "Google Drive devuelve el visor ('Cargando… Acceder') sin el contenido del PDF a curl; el auditor no pudo verificar la portada citada."
     },
     {
       "sourceId": "src-rx-youtube-lista3-2026",
       "url": "https://www.youtube.com/watch?v=pYCV_tPxoNI",
-      "http": null,
+      "http": 429,
       "locatorFound": null,
-      "note": "No revisado por el auditor."
+      "note": "YouTube 429 (rate limit). Sin contenido transcrito; correctamente en pendiente_revision."
     }
   ],
   "claimIssues": [
@@ -745,16 +745,16 @@
       "candidateId": "c-1-1",
       "section": "gestion",
       "textStart": "Figura como decano de la Facultad de Ingeniería Eléctrica y E",
-      "problem": "Hay fuentes primarias ya registradas que precisan el dato: la Res. 038-2026-CEUNI consigna su renuncia irrevocable a 'Decano y Vicerrector de Investigación' (26-08-2026), y la nota VRI del 29-07-2026 (src-vr-vri-sesquicentenario) lo nombra vicerrector de Investigación. La claim sigue diciendo 'no indica el periodo'.",
-      "suggestedFix": "Añadir: 'Según la nota del VRI-UNI del 29-07-2026 era vicerrector de Investigación; en su expediente obra renuncia irrevocable a los cargos de Decano y Vicerrector de Investigación del 26-08-2026 (Res. 038-2026-CEUNI)'. Status: corroborado.",
-      "severity": "media"
+      "problem": "Claim redundante y desactualizada: ahora hay claims primarias (RR 1360-2025: decano del 13-11-2023 al 12-11-2027 y VRI desde el 07-05-2025). Ésta todavía dice 'La página no indica el periodo'.",
+      "suggestedFix": "Eliminarla o fusionarla con la claim de la RR 1360-2025, y añadir la renuncia del 26-08-2026 (Res. 038-2026-CEUNI) como cierre de ambos cargos.",
+      "severity": "baja"
     },
     {
       "candidateId": "c-2-1",
       "section": "gestion",
       "textStart": "Rector de la UNI en mayo de 2009, según RPP (\"el rector de la",
-      "problem": "Fuente sólo de prensa y sin segundo apellido, cuando la Memoria UNI 2012 (src-vr-memoria-uni-2012, ya registrada) lista 'Dr. Aurelio Padilla Ríos – Rector' entre los integrantes de la AU 2012-II.",
-      "suggestedFix": "Citar también src-vr-memoria-uni-2012 y subir el status a corroborado (prensa 2009 + memoria institucional 2012).",
+      "problem": "Redundante: ya existe la claim primaria (PF 2009, Memoria 2012, POI 2014) que lo registra como rector. Ésta, basada en prensa y sin segundo apellido, sobra.",
+      "suggestedFix": "Eliminarla o citar RPP 2009 como fuente adicional de la claim primaria.",
       "severity": "baja"
     },
     {
@@ -842,7 +842,7 @@
       "section": "gestion",
       "textStart": "Director ejecutivo del Programa Nacional de Investigación Cie",
       "problem": "En presente y sin fecha, puede leerse como cargo actual. ProActivo (2026) usa pasado ('se ha desempeñado') y la agenda del Congreso no tiene año.",
-      "suggestedFix": "Se desempeñó como director ejecutivo de PROCIENCIA (agenda de la Comisión de Ciencia del Congreso, 'martes 6 de junio', sin año; ProActivo, 2026). Citar ambas fuentes; status corroborado.",
+      "suggestedFix": "Se desempeñó como director/presidente ejecutivo de PROCIENCIA; figura con ese cargo en la sesión de la Comisión de Ciencia del 29-04-2024 (src-rx-congreso-ciencia-17so-2024) y ProActivo (2026) lo refiere en pasado. Citar esas fuentes y la agenda sin año sólo como apoyo; status corroborado.",
       "severity": "media"
     },
     {
@@ -868,6 +868,38 @@
       "problem": "Los conteos salen de una búsqueda de texto en el repositorio. Coinciden con mi recuento, pero son 'según búsqueda del <fecha>' y no un hecho estable. En Gamarra (120 ítems) y Villavicencio (130) la URL citada sólo muestra 100. En Gutiérrez Paucar la búsqueda trae a otra persona con los mismos apellidos.",
       "suggestedFix": "Redactar 'Una búsqueda en el Repositorio UNI (16-10-2026) lo registra como…' y paginar las URL. Vale para todas las claims src-vr-repouni-*.",
       "severity": "baja"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "gestion",
+      "textStart": "Según Perú21 (21-01-2016), la UNI lo destituyó como docente de",
+      "problem": "El texto coincide con la copia archivada y la redacción es neutral. Hay tres problemas formales: (a) la url principal da 403 y sólo funciona la de Wayback; (b) kind 'hecho' con status controvertido para un reporte de prensa sobre un acto administrativo; mejor 'hecho_inferido' o explicitar que es 'según Perú21'; (c) para publicar el día de la votación, la regla 7 pide prudencia: lo ideal es la resolución rectoral del 18-01-2016 (primaria) o una respuesta del candidato. Lo mismo para la claim análoga de c-2-1.",
+      "suggestedFix": "Usar la copia de Wayback como url y ubicar la RR del 18-01-2016 en el portal de transparencia. Si no se ubica, mantener controvertido con la frase 'según Perú21'. No ampliar con las afirmaciones del rector de 2015 sobre Padilla.",
+      "severity": "media"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "gestion",
+      "textStart": "Decano de la Facultad de Ingeniería Económica (FIECS/FIEECS) d",
+      "problem": "Sin periodo, y la Memoria 2012 es internamente inconsistente: la portadilla lo pone como decano de FIECS, pero la lista de la AU 2012-II pone a otro decano (a.i.) y a él como profesor principal.",
+      "suggestedFix": "'Figura como decano de la FIECS en la portadilla de la Memoria 2012 y en el POI 2014; los documentos no indican el periodo'.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "formacion",
+      "textStart": "Ingeniero geólogo por la UNI y doctor en Ciencias Naturales p",
+      "problem": "El 'corroborado' depende de src-rx-dnb-chirif-1998, que el auditor no pudo abrir (página anti-bot de la DNB). La otra fuente es prensa.",
+      "suggestedFix": "Mantener si el agente de rectores guardó copia del registro de la DNB; si no, usar parcialmente_verificado.",
+      "severity": "baja"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "gestion",
+      "textStart": "(sin claim)",
+      "problem": "Equidad: la misma fuente (ProActivo 2021) se usó para registrar las candidaturas 2021 de Alva (644) y Arnao (727), pero no la de Vergara Sotomayor (645 votos), que también fue candidato a rector en 2021.",
+      "suggestedFix": "Agregar a c-9-3 una claim 'proceso' paralela: 'Fue candidato a rector en la elección UNI de 2021 y obtuvo 645 votos en la primera vuelta' (src-rx-proactivo-uni-2021-resultados).",
+      "severity": "media"
     }
   ],
   "proposalIssues": [
@@ -1006,6 +1038,12 @@
     },
     {
       "candidateId": "c-8-3",
+      "profileId": "https://orcid.org/0000-0002-3737-8694",
+      "problem": "No es otra persona: ProActivo 2021 (src-rx-proactivo-uni-2021-resultados) nombra al 'Dr. Jimmy Rosales (Facultad de Ingeniería Geológica, Minera y Metalúrgica)' como candidato a VRI. Eso da la facultad que faltaba en el ORCID abreviado y refuerza la atribución de las claims.",
+      "suggestedStatus": "pendiente"
+    },
+    {
+      "candidateId": "c-8-3",
       "profileId": "https://openalex.org/A5137060211",
       "problem": "Nombre invertido ('Huamani Jimmy Rosales'), 1 obra, sin ORCID. Los otros dos perfiles (A5025491879, A5128043214) sí enlazan al ORCID 0000-0002-3737-8694. Este tiene la evidencia más débil.",
       "suggestedStatus": "pendiente"
@@ -1048,5 +1086,5 @@
     "src-silabos-alva (PDF URP) y src-vr-vri-docentes-investigadores contienen correos: no reproducidos (correcto).",
     "src-vr-tesis-5190: el asesor comparte apellidos con c-9-2. No inferir ni publicar parentesco."
   ],
-  "summary": "Auditoría del 16-10-2026 sobre 83 fuentes y todas las claims y propuestas publicadas. Todas las URL responden 200; las de SharePoint del CEUNI necesitan cookies, como cualquier navegador, pero son públicas. Lo más grave: (1) la fuente de facultades (src-ceuni-tabla-facultades) se presenta como 'captura con login', cuando el PDF oficial de listas provisionales del 22-09-2026 es público y confirma las 27 facultades: la verificación de facultad puede pasar a verificado_primaria; (2) la claim y la propuesta de Butler ('trabajo en papel') distorsionan la fuente: RPP dice 'eliminar las carpetas'; (3) varias claims mezclan dato registrado por CONCYTEC con autodeclaración bajo 'corroborado' (Montoya) o dan 'corroborado' a un índice único (Cáceres/OpenAlex, cuya consulta trae sobre todo a otra persona); (4) PROCIENCIA (c-8-1) está en presente sin fecha; (5) Lazo Jara (cita parcial del VRI que oculta la discrepancia de institución del doctorado) y Sánchez Espinoza (título de Sistemas vs Industrial) tienen contradicciones no señaladas; (6) las 14 propuestas del blog de Montoya cuelgan de plan-lista-3, lo que infla visualmente a la Lista 3; (7) las fuentes de prensa tienen status verificado_primaria, contra lo que dice el brief. Los nombres de las 9 facultades son correctos (publicación definitiva del CEUNI y sitios de cada facultad). Pistas: se confirman los descartes de Lastra y Rodríguez; Osorio y Montoya en OpenAlex pueden mezclar homónimos. No hay PII prohibida publicada. Fuentes ya registradas aportan datos sin usar: Butler VRI (nota VRI 29-07-2026), Padilla rector 2012 (Memoria 2012), Mosquera presidente del Tribunal de Honor (acta CU 11-2023)."
+  "summary": "Auditoría del 16-10-2026 sobre las 103 fuentes de sources.json (estado 00:55) y todas las claims y propuestas publicadas. Todas las URL responden 200; las de SharePoint del CEUNI necesitan cookies, como cualquier navegador, pero son públicas. Lo más grave: (1) la fuente de facultades (src-ceuni-tabla-facultades) se presenta como 'captura con login', cuando el PDF oficial de listas provisionales del 22-09-2026 es público y confirma las 27 facultades: la verificación de facultad puede pasar a verificado_primaria; (2) la claim y la propuesta de Butler ('trabajo en papel') distorsionan la fuente: RPP dice 'eliminar las carpetas'; (3) varias claims mezclan dato registrado por CONCYTEC con autodeclaración bajo 'corroborado' (Montoya) o dan 'corroborado' a un índice único (Cáceres/OpenAlex, cuya consulta trae sobre todo a otra persona); (4) PROCIENCIA (c-8-1) está en presente sin fecha; (5) Lazo Jara (cita parcial del VRI que oculta la discrepancia de institución del doctorado) y Sánchez Espinoza (título de Sistemas vs Industrial) tienen contradicciones no señaladas; (6) las 14 propuestas del blog de Montoya cuelgan de plan-lista-3, lo que infla visualmente a la Lista 3; (7) las fuentes de prensa tienen status verificado_primaria, contra lo que dice el brief. Los nombres de las 9 facultades son correctos (publicación definitiva del CEUNI y sitios de cada facultad). Pistas: se confirman los descartes de Lastra y Rodríguez; Osorio y Montoya en OpenAlex pueden mezclar homónimos. No hay PII prohibida publicada. Fuentes ya registradas aportan datos sin usar: Butler VRI (nota VRI 29-07-2026), Mosquera presidente del Tribunal de Honor (acta CU 11-2023), Rosales candidato VRI 2021 por FIGMM y Vergara candidato a rector 2021 (645 votos, omitido mientras Alva y Arnao sí figuran). Claims de Perú21 sobre Humala y Padilla (controvertido): texto fiel a la copia de Wayback, pero la url principal da 403 y falta la resolución primaria."
 }

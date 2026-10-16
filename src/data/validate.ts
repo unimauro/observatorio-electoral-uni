@@ -112,12 +112,13 @@ export function validateDataset(d: Dataset): string[] {
 
   for (const p of d.proposals) {
     if (!listIds.has(p.listId)) err(`propuesta ${p.id}: lista inexistente`)
-    if (!planIds.has(p.planId)) err(`propuesta ${p.id}: plan inexistente`)
+    if (p.planId !== null && !planIds.has(p.planId)) err(`propuesta ${p.id}: plan inexistente`)
+    if (p.planId === null && !p.candidateId) err(`propuesta ${p.id}: propuesta personal sin candidato`)
     if (!(PROPOSAL_CATEGORIES as readonly string[]).includes(p.category)) err(`propuesta ${p.id}: categoría inválida`)
     checkSources(`propuesta ${p.id}`, [p.sourceId])
     if (!['plan', 'debate', 'declaracion_publica'].includes(p.origin)) err(`propuesta ${p.id}: origen inválido`)
     if (p.candidateId && !candidateIds.has(p.candidateId)) err(`propuesta ${p.id}: candidato inexistente`)
-    if (p.origin === 'plan' && d.plans.find((x) => x.id === p.planId)?.status !== 'publicado') err(`propuesta ${p.id}: origen plan sin plan publicado`)
+    if (p.origin === 'plan' && (p.planId === null || d.plans.find((x) => x.id === p.planId)?.status !== 'publicado')) err(`propuesta ${p.id}: origen plan sin plan publicado`)
   }
 
   const criterionIds = new Set(d.criteria.map((c) => c.id))

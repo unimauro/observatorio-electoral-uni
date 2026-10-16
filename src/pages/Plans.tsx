@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { lists, plans, proposals, site, sourceById } from '../data'
+import { candidateById, listProposals, lists, personalProposals, plans, proposals, site, sourceById } from '../data'
 import { ORIGIN_LABEL, PROPOSAL_CATEGORIES, type Proposal } from '../data/types'
 import { EmptyState, PageHeader, Section, StatusBadge } from '../components/ui'
 
@@ -35,7 +35,8 @@ export default function Plans() {
               <tr className="border-b-2 border-ink text-left">
                 <th className="py-2 pr-3">Lista</th>
                 <th className="py-2 pr-3">Estado</th>
-                <th className="py-2 pr-3">Propuestas</th>
+                <th className="py-2 pr-3">Propuestas de la lista</th>
+                <th className="py-2 pr-3">Personales de integrantes</th>
                 <th className="py-2">Documento</th>
               </tr>
             </thead>
@@ -48,7 +49,8 @@ export default function Plans() {
                     <td className={`py-2 pr-3 font-semibold ${p.status === 'no_localizado' ? 'text-alert' : ''}`}>
                       {p.status === 'publicado' ? 'Publicado' : p.status === 'en_revision' ? 'En revisión' : 'No localizado'}
                     </td>
-                    <td className="py-2 pr-3 font-mono">{proposals.filter((x) => x.listId === p.listId).length}</td>
+                    <td className="py-2 pr-3 font-mono">{listProposals.filter((x) => x.listId === p.listId).length}</td>
+                    <td className="py-2 pr-3 font-mono text-muted">{personalProposals.filter((x) => x.listId === p.listId).length || '—'}</td>
                     <td className="py-2">{p.url ? <a className="link" href={p.url} target="_blank" rel="noreferrer">{p.title}</a> : '—'}</td>
                   </tr>
                 )
@@ -81,8 +83,8 @@ export default function Plans() {
                 <tr key={c} className="border-b border-line">
                   <th scope="row" className="py-1.5 pr-2 text-left font-normal">{c}</th>
                   {lists.map((l) => {
-                    const n = proposals.filter((p) => p.listId === l.id && p.category === c).length
-                    const any = proposals.some((p) => p.listId === l.id)
+                    const n = listProposals.filter((p) => p.listId === l.id && p.category === c).length
+                    const any = listProposals.some((p) => p.listId === l.id)
                     return (
                       <td key={l.id} className={`px-1 py-1.5 text-center font-mono ${n ? 'bg-signal font-bold text-[#111]' : ''}`} title={any ? `${n} propuestas` : 'Sin plan ni propuestas registradas'}>
                         {any ? n : <span className="text-muted">s/d</span>}
@@ -94,7 +96,7 @@ export default function Plans() {
             </tbody>
           </table>
         </div>
-        <p className="mt-2 text-xs text-muted">"s/d" = sin plan ni propuestas registradas para la lista. Un 0 indica que la lista tiene propuestas registradas, pero ninguna en esa categoría (lo que no prueba que no la aborde). Hoy todas las propuestas vienen del debate según la prensa; ninguna de un plan de gobierno.</p>
+        <p className="mt-2 text-xs text-muted">"s/d" = sin plan ni propuestas registradas para la lista. Un 0 indica que la lista tiene propuestas registradas, pero ninguna en esa categoría (lo que no prueba que no la aborde). Cuenta sólo propuestas de la lista (planes o exposición del candidato a rector); las publicaciones personales de otros integrantes se muestran aparte. La cantidad refleja las fuentes disponibles, no la calidad de una lista.</p>
       </Section>
 
       <Section title="Explorador de propuestas">
@@ -122,6 +124,9 @@ export default function Plans() {
             <article key={p.id} className="card p-4 text-sm">
               <p className="kicker">Lista {p.listId.split('-')[1]} · {p.category}</p>
               <span className="chip mt-1">{ORIGIN_LABEL[p.origin]}</span>
+              {p.planId === null && p.candidateId && (
+                <span className="chip ml-1 mt-1">Propuesta personal de {candidateById.get(p.candidateId)?.name}, no presentada como plan de la lista</span>
+              )}
               <h3 className="mt-1 font-semibold">{p.title}</h3>
               <p className="mt-1">{p.description}</p>
               <dl className="mt-3 grid gap-x-4 gap-y-1 sm:grid-cols-3">

@@ -238,7 +238,8 @@ export const ORIGIN_LABEL: Record<ProposalOrigin, string> = {
 export interface Proposal {
   id: string
   listId: string
-  planId: string
+  /** null = propuesta personal de un integrante, no atribuida al plan de la lista. */
+  planId: string | null
   origin: ProposalOrigin
   /** Candidatura que la expuso, si consta. */
   candidateId: string | null

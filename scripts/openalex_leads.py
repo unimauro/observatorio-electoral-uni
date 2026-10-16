@@ -6,7 +6,7 @@ for full in names:
     parts = full.split()
     # search with first given name + two surnames
     q = f"{parts[0]} {parts[-2]} {parts[-1]}"
-    url = "https://api.openalex.org/authors?per-page=10&mailto=unimauro@gmail.com&search=" + urllib.parse.quote(q)
+    url = "https://api.openalex.org/authors?per-page=10&search=" + urllib.parse.quote(q)
     r = subprocess.run(["curl","-s","-m","40",url],capture_output=True,text=True)
     try: res = json.loads(r.stdout).get("results",[])
     except Exception: res=[]

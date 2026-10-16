@@ -44,16 +44,16 @@
   },
   {
     "id": "src-ceuni-tabla-facultades",
-    "title": "Tabla \"I. Rector y vicerrectores\" con columna FACULTAD (CEUNI)",
+    "title": "Publicación provisional de candidaturas – I. Rector y vicerrectores (con columna FACULTAD)",
     "author": "Comité Electoral Universitario (CEUNI) – UNI",
-    "url": null,
-    "landingUrl": "https://acortar.link/oEwqKV",
-    "publishedAt": null,
-    "consultedAt": "2026-10-15",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgDacJ_9ird3R5txnoKINFjFAXh7bpd-RO0rXJLEfCORqMg?e=OA0dI1",
+    "landingUrl": "https://www.ceuni.uni.edu.pe/eleccion-de-autoridades-y-elecciones-generales-2026/",
+    "publishedAt": "2026-09-22",
+    "consultedAt": "2026-10-16",
     "type": "documento_electoral",
-    "identifier": "Captura provista por el equipo editorial",
+    "identifier": "Listas provicionales 22.09 publicación[R].pdf (carpeta LISTAS PROVISIONALES)",
     "locator": "Sección I. Rector y vicerrectores",
-    "status": "pendiente_revision",
+    "status": "verificado_primaria",
     "candidateIds": [
       "c-1-1",
       "c-1-2",
@@ -83,7 +83,7 @@
       "c-9-2",
       "c-9-3"
     ],
-    "notes": "Probablemente la publicación provisional de listas; la carpeta del CEUNI enlazada requiere inicio de sesión de Microsoft. Única fuente para la facultad de cada candidato."
+    "notes": "Carpeta pública del CEUNI (botón \"Publicación provisional de listas\"). Las 27 facultades coinciden con las registradas. Consigna \"CHIRIF\" y el orden \"RAYMUNDO ARNAO RONDAN ILDEFONZO\". Contiene códigos de docentes que el observatorio no reproduce."
   },
   {
     "id": "src-ceuni-portal-2026",
@@ -192,7 +192,7 @@
     "publishedAt": "2026-10-15",
     "type": "prensa",
     "locator": "Nota completa; recoge a 8 candidatos a rector",
-    "status": "verificado_primaria",
+    "status": "parcialmente_verificado",
     "notes": "Cobertura periodística de las exposiciones de los candidatos. Lo que dice cada candidato es una declaración, no un hecho verificado. Fecha = última actualización de la página. No menciona a la Lista 5."
   },
   {
@@ -209,7 +209,7 @@
     "publishedAt": "2026-10-12",
     "type": "prensa",
     "locator": "Perfil y entrevista",
-    "status": "verificado_primaria",
+    "status": "parcialmente_verificado",
     "notes": "Los datos biográficos se presentan \"de acuerdo con la información biográfica disponible\". No se reproducen aquí las acusaciones contra terceros."
   },
   {
@@ -243,7 +243,7 @@
     "publishedAt": "2026-02-10",
     "type": "prensa",
     "locator": "Nota completa",
-    "status": "verificado_primaria",
+    "status": "parcialmente_verificado",
     "notes": "Nota de prensa; no indica la facultad ni las fechas de los cargos."
   },
   {
@@ -328,7 +328,7 @@
     "publishedAt": "2009-05-09",
     "type": "prensa",
     "locator": "\"Lo dijo el rector de la UNI, Aurelio Padilla…\"",
-    "status": "verificado_primaria",
+    "status": "parcialmente_verificado",
     "notes": "Nombra a \"Aurelio Padilla\" sin segundo apellido."
   },
   {
@@ -1238,7 +1238,8 @@
     "publishedAt": "2023-08-02",
     "consultedAt": "2026-10-16",
     "candidateIds": [
-      "c-5-3"
+      "c-5-3",
+      "c-7-2"
     ],
     "notes": "",
     "id": "src-vr-acta-cu-11-2023",
@@ -1593,7 +1594,7 @@
     "status": "verificado_primaria"
   },
   {
-    "landingUrl": "https://web.archive.org/web/20160122154107/http://peru21.pe/politica/ulises-humala-fue-destituido-uni-irregularidades-2237109",
+    "landingUrl": "https://peru21.pe/politica/ulises-humala-destituido-uni-irregularidades-compra-buses-209029-noticia/",
     "identifier": null,
     "publishedAt": "2016-01-21",
     "consultedAt": "2026-10-16",
@@ -1601,28 +1602,28 @@
       "c-4-1",
       "c-2-1"
     ],
-    "notes": "Texto completo leído en Internet Archive (copia del 22-01-2016 y del 20-04-2021). La fecha real de publicación es 21-01-2016 (meta article:published_time); la página de etiqueta de Perú21 la muestra con fecha 2019 por migración del sitio. peru21.pe devuelve 403 al acceso directo. No se encontró resolución final (apelación, SERVIR o Poder Judicial).",
+    "notes": "Texto completo leído en Internet Archive (copia del 22-01-2016 y del 20-04-2021). La fecha real de publicación es 21-01-2016 (meta article:published_time); la página de etiqueta de Perú21 la muestra con fecha 2019 por migración del sitio. peru21.pe devuelve 403 al acceso directo. No se encontró resolución final (apelación, SERVIR o Poder Judicial). URL principal: copia en Internet Archive (la original responde 403).",
     "author": "Redacción Perú21",
     "id": "src-rx-peru21-humala-2016",
     "title": "Ulises Humala fue destituido de la UNI por irregularidades en compra de buses",
-    "url": "https://peru21.pe/politica/ulises-humala-destituido-uni-irregularidades-compra-buses-209029-noticia/",
+    "url": "https://web.archive.org/web/20160122154107/http://peru21.pe/politica/ulises-humala-fue-destituido-uni-irregularidades-2237109",
     "type": "prensa",
     "locator": "“La Universidad Nacional de Ingeniería (UNI) destituyó del cargo de docente de la Facultad de Ingeniería Económica… a Ulises Humala… al encontrar indicios de irregularidades en la compra de tres buses”; “De acuerdo con la resolución del 18 de enero, el rector de la UNI… emitió la medida sancionadora contra Ulises Humala, Aurelio Padilla (ex rector)… quienes conformaron la comisión de adquisición de los buses y ejercían altos cargo[s] en la universidad en el 2010”; “La comisión que investigó la compra, encontró responsabilidades por haberse vulnerado las normas de contrataciones con el Estado”.",
     "status": "controvertido"
   },
   {
-    "landingUrl": "https://web.archive.org/web/20151216092126/http://peru21.pe:80/opinion/jorge-alva-hurtado-ulises-humala-esta-suspendido-uni-2234425",
+    "landingUrl": "https://peru21.pe/opinion/jorge-alva-hurtado-rector-uni-ulises-humala-suspendido-uni-206459-noticia/",
     "identifier": null,
     "publishedAt": "2015-12-15",
     "consultedAt": "2026-10-16",
     "candidateIds": [
       "c-4-1"
     ],
-    "notes": "Declaraciones del rector de entonces (tercero). Contiene además afirmaciones sobre el exrector Padilla que no se registran como claim (ver pending).",
+    "notes": "Declaraciones del rector de entonces (tercero). Contiene además afirmaciones sobre el exrector Padilla que no se registran como claim (ver pending). URL principal: copia en Internet Archive (la original responde 403).",
     "author": "Perú21",
     "id": "src-rx-peru21-alva-2015",
     "title": "Jorge Alva Hurtado: “Ulises Humala está suspendido de la UNI” (entrevista)",
-    "url": "https://peru21.pe/opinion/jorge-alva-hurtado-rector-uni-ulises-humala-suspendido-uni-206459-noticia/",
+    "url": "https://web.archive.org/web/20151216092126/http://peru21.pe:80/opinion/jorge-alva-hurtado-ulises-humala-esta-suspendido-uni-2234425",
     "type": "prensa",
     "locator": "“¿Cuánto tiempo está suspendido Ulises Humala? Son cuatro meses. Él puede apelar y yo puedo ratificar la acusación. Nosotros decidimos suspenderlo en noviembre.”; “Yo no lo puedo afirmar. Tenemos hallazgos. Que determine eso el Poder Judicial…”",
     "status": "controvertido"
@@ -1788,7 +1789,9 @@
     "consultedAt": "2026-10-16",
     "candidateIds": [
       "c-6-1",
-      "c-9-1"
+      "c-9-1",
+      "c-9-3",
+      "c-8-3"
     ],
     "notes": "",
     "author": "ProActivo",

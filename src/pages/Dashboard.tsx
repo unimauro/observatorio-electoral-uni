@@ -131,7 +131,7 @@ export default function Dashboard() {
               Sólo <strong>{candidates.filter((c) => hasVerifiedIn(c, 'gestion') || hasVerifiedIn(c, 'investigacion')).length} de {candidates.length}</strong> candidaturas
               tienen algún cargo o logro confirmado con documento; el resto es declaración o está pendiente.
             </li>
-            <li>La facultad de cada candidato proviene de una tabla del CEUNI cuyo enlace original pide iniciar sesión.</li>
+            <li>La votación de hoy: el CEUNI aún no publica resultados; la proclamación está prevista para el 04-11-2026.</li>
           </ul>
           <Link to="/planes" className="link mt-3 inline-block text-sm font-semibold">¿Tienes un plan publicado? Envíalo →</Link>
         </div>
