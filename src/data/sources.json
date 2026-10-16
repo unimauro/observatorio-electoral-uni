@@ -751,5 +751,723 @@
     "type": "documento_electoral",
     "locator": "'PRIMERO: Declarar INFUNDADO el Recurso de Reconsideración planteado ... contra la Resolución Nº 035-2026-CEUNI'",
     "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "0000-0002-0501-4968",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "Leído vía https://pub.orcid.org/v3.0/0000-0002-0501-4968/record; 1 obra registrada (capítulo 2019).",
+    "id": "src-vr-orcid-cacho",
+    "title": "Registro ORCID 0000-0002-0501-4968 (Rocío Margarita Cacho Cruz)",
+    "author": "",
+    "url": "https://orcid.org/0000-0002-0501-4968",
+    "type": "registro_publico",
+    "locator": "Biografía: \"Doctora en Ordenamiento Territorial – Universidad de Oviedo- España, Arquitecta por la Universidad Nacional de Ingeniería-UNI. Docente principal, investigadora y coordinadora del Grupo de Investigación Urbanismo y Territorio\"",
+    "status": "declarado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2026-07-29",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "",
+    "id": "src-vr-vri-sesquicentenario",
+    "title": "UNI iza banderas, rinde homenaje y entierra Cápsula del Tiempo como legado histórico por su Sesquicentenario",
+    "author": "Vicerrectorado de Investigación UNI",
+    "url": "https://vri.uni.edu.pe/uni-iza-banderas-rinde-homenaje-y-entierra-capsula-del-tiempo-como-legado-historico-por-su-sesquicentenario/",
+    "type": "portal_institucional",
+    "locator": "\"la vicerrectora académica, Dra. Rocío Cacho Cruz\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2026-10-05",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "",
+    "id": "src-vr-larepublica-urbanismo-2027",
+    "title": "De Valladolid a Lima: UNI consiguió la sede de congreso internacional de urbanismo para 2027",
+    "author": "Isabel Nomberto (La República)",
+    "url": "https://larepublica.pe/sociedad/2026/10/05/de-valladolid-a-lima-uni-consiguio-la-sede-de-congreso-internacional-de-urbanismo-para-2027-390245",
+    "type": "prensa",
+    "locator": "\"Cacho, profesora principal del Departamento de Urbanismo de la FAUA y exvicerrectora académica de la UNI\"",
+    "status": "corroborado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "",
+    "id": "src-vr-faua-inifaua",
+    "title": "Reseña INIFAUA – grupos de investigación",
+    "author": "FAUA-UNI",
+    "url": "https://faua.uni.edu.pe/resena-inifaua/",
+    "type": "portal_institucional",
+    "locator": "Grupo Urbanismo y Territorio: \"Líder del grupo: Cacho Cruz, Rocío Margarita\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-cacho",
+    "title": "Repositorio Institucional UNI – búsqueda \"Cacho Cruz\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Cacho+Cruz%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Cacho Cruz, Rocío Margarita: autora 2 (artículos 2008 y 2013), asesora 3 (2003), jurado 5 (2018–2024)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-2"
+    ],
+    "notes": "La ficha no actualiza el grado de doctor registrado en el repositorio (2021). Enlace al CV no expuesto en HTML.",
+    "id": "src-vr-fiis-sanchez",
+    "title": "Mg. Sánchez Espinoza, Javier Concepción – Plana docente FIIS",
+    "author": "FIIS-UNI",
+    "url": "https://www.fiis.uni.edu.pe/plana-docente/121-sanchez-espinoza-javier-concepcion",
+    "type": "portal_institucional",
+    "locator": "Grado Académico: Maestro; Título: Ingeniero de Sistemas; Condición: Nombrado; Categoría: Principal; Dedicación: Tiempo Completo",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/22134",
+    "publishedAt": "2021",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-22134",
+    "title": "Modelo de arquitectura de almacenamiento de datos aplicando inteligencia de negocios para las pequeñas y medianas empresas (tesis doctoral)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/22134",
+    "type": "documento_institucional",
+    "locator": "Grado: Doctor en Ingeniería de Sistemas; FIIS, Unidad de Posgrado; 2021",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/14729",
+    "publishedAt": "2008",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-14729",
+    "title": "El desarrollo rápido de aplicaciones mejorado para un sistema de compras en una empresa de servicios (tesis de maestría)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/14729",
+    "type": "documento_institucional",
+    "locator": "Grado: Maestro en Ciencias con Mención en Ingeniería de Sistemas; FIIS, Unidad de Posgrado; 2008",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/8209",
+    "publishedAt": "1993",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-8209",
+    "title": "Sistema de facturación, liquidación y estadístico de la red peruana de transmisión de datos (informe para título)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/8209",
+    "type": "documento_institucional",
+    "locator": "Título: Ingeniero Industrial; Facultad de Ingeniería Industrial y de Sistemas; 1993",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-2"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-sanchez",
+    "title": "Repositorio Institucional UNI – búsqueda \"Sanchez Espinoza, Javier\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Sanchez+Espinoza%2C+Javier%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Sánchez Espinoza, Javier Concepción: asesor 63 (1997–2025), jurado 6 (2018–2025); grados asesorados: Ingeniero de Sistemas 52, Ingeniero Industrial 14, Maestro 3",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2010",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2",
+      "c-5-2"
+    ],
+    "notes": "",
+    "id": "src-vr-memoria-uni-2010",
+    "title": "Memoria Institucional UNI 2010",
+    "author": "UNI – OCPLA",
+    "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2010.pdf",
+    "type": "documento_institucional",
+    "locator": "\"Decano Titular/ Facultad de Ingeniería Eléctrica y Electrónica/ Magíster/ Félix Víctor Cáceres Cárdenas\"; proyectos FIM con \"Ing. Gamarra Chinchay, Hugo Eliseo\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2011",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2",
+      "c-5-2"
+    ],
+    "notes": "",
+    "id": "src-vr-memoria-uni-2011",
+    "title": "Memoria UNI 2011",
+    "author": "UNI – OCPLA",
+    "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2011.pdf",
+    "type": "documento_institucional",
+    "locator": "Sesión ordinaria Nº 33 05/10/2011: \"Designar al MSc. Ing. Víctor Cáceres Cárdenas, Decano de la Facultad de Ingeniería Eléctrica y Electrónica y miembro del Comité Directivo, como INTERVENTOR del Centro de Infraestructura y Proyectos - CENIP\"; \"Ing. Gamarra Chinchay, Hugo Eliseo(Jefe) Control del comportamiento dinámico de una embarcación pesquera\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2012",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2",
+      "c-5-2"
+    ],
+    "notes": "",
+    "id": "src-vr-memoria-uni-2012",
+    "title": "Memoria Institucional UNI 2012",
+    "author": "UNI – OCPLA",
+    "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2012.pdf",
+    "type": "documento_institucional",
+    "locator": "Consejo Universitario 04/01/2012: \"Encargar al Interventor del CENIP, MSc. Félix Víctor Cáceres Cárdenas, la Jefatura del Centro de Infraestructura y Proyectos – CENIP\"; Integrantes de la Asamblea semestre 2012-II: Profesor Principal \"Mag. Félix Víctor Cáceres Cárdenas\", Profesor Asociado \"Dr. Hugo Gamarra Chinchay\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/18140",
+    "publishedAt": "2018",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-18140",
+    "title": "Modelo no lineal para el análisis dinámico del motor de inducción trifásico (tesis doctoral)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/18140",
+    "type": "documento_institucional",
+    "locator": "Grado: Doctor en Ciencias con Mención en Energética; FIM, Unidad de Posgrado; 2018",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1188",
+    "publishedAt": "1993",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-1188",
+    "title": "Estudio generalizado de las máquinas eléctricas rotativas de corriente alterna mediante vectores espaciales (tesis de maestría)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1188",
+    "type": "documento_institucional",
+    "locator": "Grado: Maestro en Ciencias con Mención en Sistemas de Potencia; FIEE, Unidad de Posgrado; 1993",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2"
+    ],
+    "notes": "",
+    "id": "src-vr-openalex-caceres",
+    "title": "OpenAlex – obras UNI con autor 'Felix Victor Caceres Cardenas'",
+    "author": "OpenAlex",
+    "url": "https://api.openalex.org/works?filter=institutions.id:I62520931,raw_author_name.search:Felix%20Caceres",
+    "type": "base_bibliografica",
+    "locator": "Obras IEEE ANDESCON 2016 y 2018 (p.ej. doi:10.1109/andescon.2016.7836188, 10.1109/andescon.2018.8564721) con autor 'Felix V. Caceres Cardenas', afiliación National University of Engineering",
+    "status": "corroborado"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-caceres",
+    "title": "Repositorio Institucional UNI – búsqueda \"Caceres Cardenas\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Caceres+Cardenas%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Cáceres Cárdenas, Félix Víctor: asesor 26 (1991–2025), jurado 30 (2018–2025); grados asesorados: Ingeniero Electricista 46, Doctor en Energética 6",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "0000-0003-2040-0055",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2"
+    ],
+    "notes": "El registro no declara empleo; atribución por nombre completo y por afiliación UNI de las mismas obras en OpenAlex (doi:10.6018/red.540091, 10.6018/red.509931).",
+    "id": "src-vr-orcid-gamarra",
+    "title": "Registro ORCID 0000-0003-2040-0055 (Hugo Eliseo Gamarra Chinchay)",
+    "author": "",
+    "url": "https://orcid.org/0000-0003-2040-0055",
+    "type": "registro_publico",
+    "locator": "4 obras: Impulso 2026 (energía eólica CAN), RED 2023 (realidad virtual), RED 2022 (realidad aumentada), LACCEI 2019",
+    "status": "declarado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2022-12-29",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2"
+    ],
+    "notes": "",
+    "id": "src-vr-fim-graduacion-2022",
+    "title": "Primera graduación con bachiller del siglo XXI",
+    "author": "FIM-UNI",
+    "url": "https://fim.uni.edu.pe/noticias/estudiantes/promocion-de-la-fim-se-convirte-en-la-primera-graduacion-con-bachiller-del-siglo-xxi/",
+    "type": "portal_institucional",
+    "locator": "\"el Director de Escuelas de Mecánica el Dr. Hugo Gamarra\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2022-05-09",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2"
+    ],
+    "notes": "",
+    "id": "src-vr-fim-madres-2022",
+    "title": "Facultad de Ingeniería Mecánica celebra a todas las madres FIM",
+    "author": "FIM-UNI",
+    "url": "https://fim.uni.edu.pe/noticias/vanguardia/facultad-de-ingenieria-mecanica-celebra-a-todas-las-madres-fim/",
+    "type": "portal_institucional",
+    "locator": "\"con la presencia de los directores de escuela el Dr. Hugo Gamarra Chinchay\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/587",
+    "publishedAt": "2010",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-587",
+    "title": "Evaluación del plan de masificación del consumo del GNV en el parque automotor liviano de Lima Metropolitana (tesis de maestría)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/587",
+    "type": "documento_institucional",
+    "locator": "Grado: Maestro en Ingeniería con Mención en Aplicación Energética del Gas Natural; FIM, Unidad de Posgrado; 2010",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/2698",
+    "publishedAt": "1993",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-2698",
+    "title": "Diseño de una prensa hidráulica de 50 Tm. de capacidad... (tesis de título)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/2698",
+    "type": "documento_institucional",
+    "locator": "Título: Ingeniero Mecánico; FIM; 1993",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-gamarra",
+    "title": "Repositorio Institucional UNI – búsqueda \"Gamarra Chinchay\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Gamarra+Chinchay%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Gamarra Chinchay, Hugo Eliseo: autor 6 (1993–2015; 4 artículos TECNIA), asesor 10 (2009–2023), jurado 87 (2018–2025)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "0000-0002-3909-3975",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "8 obras (1995–2018), p.ej. Physica B 2018 (YCrO3).",
+    "id": "src-vr-orcid-lazo",
+    "title": "Registro ORCID 0000-0002-3909-3975 (Antonio Nolberto Lazo Jara)",
+    "author": "",
+    "url": "https://orcid.org/0000-0002-3909-3975",
+    "type": "registro_publico",
+    "locator": "Empleo: UNI, FIGMM, \"Principal Professor\", desde 1989; Educación: Universidade Federal de Goiás, Instituto de Física, Dr. 2009–2014; Universidade Federal de Mato Grosso, Master of Physics 2006–2009",
+    "status": "declarado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "",
+    "id": "src-vr-vri-docentes-investigadores",
+    "title": "Docentes Investigadores UNI",
+    "author": "Vicerrectorado de Investigación UNI",
+    "url": "https://vri.uni.edu.pe/docentes-investigadores-uni/",
+    "type": "portal_institucional",
+    "locator": "\"LAZO JARA, ANTONIO NOLBERTO / Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería. Docente Investig. FIGMM.\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3",
+      "c-7-3"
+    ],
+    "notes": "",
+    "id": "src-vr-vri-formativa-2023",
+    "title": "Concurso de proyectos de investigación formativa 2023 – resultados",
+    "author": "Vicerrectorado de Investigación UNI",
+    "url": "https://vri.uni.edu.pe/concurso-proyectos-formativa-2023/",
+    "type": "portal_institucional",
+    "locator": "RESULTADOS ... Monto otorgado: \"FIGMM-PFR-23-2023 Batería gravitacional, diseño, construcción y evaluación Lazo Jara, Antonio Nolberto S/.50,000\"; \"FIM-PFR-47-2023 Formación de investigadores con enfoque sistémico relacionados al tema de la generación, almacenamiento y distribución de hidrógeno verde Villavicencio Chavez, Manuel Augusto S/.30,000\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2022-07-15",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "",
+    "id": "src-vr-acta-au-03-2022",
+    "title": "Acta de Asamblea Universitaria Extraordinaria Virtual N.º 03 (15.07.22)",
+    "author": "UNI – Secretaría General",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/5104890/Acta%20de%20Asamblea%20Universitaria%2003-2022.pdf",
+    "type": "documento_institucional",
+    "locator": "\"Oficio N° 369/2022/CEUNI-UNI ... del Dr. Antonio Lazo Jara, Presidente del CEUNI\"; \"El Dr. Antonio Norberto Lazo Jara explicó, en calidad de Presidente del Comité Electoral, de la UNI, el Informe de Actividades\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2022-10-04",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "",
+    "id": "src-vr-acta-au-06-2022",
+    "title": "Acta de Asamblea Universitaria Ordinaria Virtual N.º 06 (04.10.2022)",
+    "author": "UNI – Secretaría General",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/5104911/Acta%20de%20Asamblea%20Universitaria%2006-2022.pdf",
+    "type": "documento_institucional",
+    "locator": "\"El Dr. Antonio Nolberto Lazo Jara, Presidente del Comité Electoral, expresó su extrañeza...\"; \"el Dr. Lazo agregó que se va a presentar una propuesta para cambiar el Reglamento\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2023-08-02",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "",
+    "id": "src-vr-acta-cu-11-2023",
+    "title": "Acta de Consejo Universitario Ordinario N.º 11 (02.08.2023)",
+    "author": "UNI – Secretaría General",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/5112138/ACTA%20DE%20CONSEJO%20UNIVERSITARIO%20N%C2%B0%2011.PDF",
+    "type": "documento_institucional",
+    "locator": "Tribunal de Honor Universitario (RR N.º 2167-2023): \"SECRETARIO DR. ANTONIO NOLBERTO LAZO JARA\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1904",
+    "publishedAt": "1995",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-1904",
+    "title": "Diseño y construcción de un módulo de electromagnetismo (tesis de licenciatura)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1904",
+    "type": "documento_institucional",
+    "locator": "Título: Licenciado en Física; Facultad de Ciencias; 1995",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-lazo",
+    "title": "Repositorio Institucional UNI – búsqueda \"Lazo Jara\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Lazo+Jara%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Lazo Jara, Antonio Nolberto: asesor 7 (2017–2022, Maestría en Física), jurado 5 (2019–2021)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2023-11-21",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-3"
+    ],
+    "notes": "",
+    "id": "src-vr-occu-fc-reacreditacion",
+    "title": "Facultad de Ciencias avanza en la reacreditación de sus carreras profesionales",
+    "author": "UNI – OCCU",
+    "url": "https://occu.uni.edu.pe/index.php?Itemid=138&catid=41&id=632&option=com_content&view=article",
+    "type": "portal_institucional",
+    "locator": "\"De acuerdo con el Dr. Héctor Guimaray Huerta, Coordinador de la Oficina de Acreditación de la Facultad de Ciencias\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/22478",
+    "publishedAt": "2021",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-3"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-22478",
+    "title": "Métodos variacionales aplicados a ecuaciones elípticas no lineales y ecuaciones evolutivas no lineales (tesis doctoral)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/22478",
+    "type": "documento_institucional",
+    "locator": "Grado: Doctor en Ciencias con Mención en Matemática; FC, Unidad de Posgrado; 2021",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/335",
+    "publishedAt": "1989",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-3"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-335",
+    "title": "Optimización no diferenciable (tesis de maestría)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/335",
+    "type": "documento_institucional",
+    "locator": "Grado: Maestro en Ciencias con Mención en Matemática; FC, Unidad de Posgrado; 1989",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-3"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-guimaray",
+    "title": "Repositorio Institucional UNI – búsqueda \"Guimaray Huerta\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Guimaray+Huerta%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Guimaray Huerta, Héctor Carlos: autor 4 (tesis 1989 y 2021; artículos TECNIA 2012), asesor 3 (1990–1997), jurado 15 (2018–2024)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "0000-0003-0142-7930",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-3"
+    ],
+    "notes": "0 obras registradas en ORCID.",
+    "id": "src-vr-orcid-villavicencio",
+    "title": "Registro ORCID 0000-0003-0142-7930 (Manuel Augusto Villavicencio Chávez)",
+    "author": "",
+    "url": "https://orcid.org/0000-0003-0142-7930",
+    "type": "registro_publico",
+    "locator": "Empleo: UNI, Facultad de Ingeniería Mecánica y Eléctrica, \"Profesor Principal\", desde 1987; Educación: Ingeniero Mecánico (UNI, 1977); Magister (UNI, 2000–2002)",
+    "status": "declarado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1331",
+    "publishedAt": "2012",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-3"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-1331",
+    "title": "Identificación de un modelo térmico y control de la temperatura para el ahorro de combustible en un horno rotatorio (tesis de maestría)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1331",
+    "type": "documento_institucional",
+    "locator": "Grado: Maestro en Ciencias con Mención en Energética; FIM, Unidad de Posgrado; 2012",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/23687",
+    "publishedAt": "1979",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-3"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-23687",
+    "title": "Cálculo y diseño de una cámara experimental para ensayar secado por convección (tesis de título)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/23687",
+    "type": "documento_institucional",
+    "locator": "Título: Ingeniero Mecánico; FIM; 1979",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-3"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-villavicencio",
+    "title": "Repositorio Institucional UNI – búsqueda \"Villavicencio Chavez\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Villavicencio+Chavez%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Villavicencio Chávez, Manuel Augusto: asesor 64 (1985–2025), jurado 64 (2018–2025); grados: Ingeniero Mecánico 78, Mecánico Electricista 32, Doctor en Energética 10",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/5190",
+    "publishedAt": "1987",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-2"
+    ],
+    "notes": "",
+    "id": "src-vr-tesis-5190",
+    "title": "Estudio de la máquina de inducción incluyendo el efecto de saturación transversal... (tesis de título)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/5190",
+    "type": "documento_institucional",
+    "locator": "Título: Ingeniero Electricista; FIEE; 1987",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.12867/1475",
+    "publishedAt": "2018",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-2"
+    ],
+    "notes": "",
+    "id": "src-vr-alicia-gutierrez-2018",
+    "title": "Propuesta de un plan curricular globalizado de la carrera de Ingeniería Eléctrica en la FIEE de la UNI (ALICIA/CONCYTEC)",
+    "author": "CONCYTEC – ALICIA",
+    "url": "https://alicia.concytec.gob.pe/vufind/Record/UTPD_0d70bb1e685a32dcf33fd9eecac9b355",
+    "type": "base_bibliografica",
+    "locator": "Autor: Gutiérrez Paúcar, Agustín Adalberto; objeto de conferencia; 2018; Institución: Universidad Tecnológica del Perú; hdl:20.500.12867/1475",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://repositorio.uni.edu.pe/",
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-2"
+    ],
+    "notes": "Consulta vía API pública DSpace; conteos con nombre completo exacto, al 2026-10-16; pueden variar.",
+    "id": "src-vr-repouni-gutierrez",
+    "title": "Repositorio Institucional UNI – búsqueda \"Gutierrez Paucar\" (autor/asesor/jurado)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://repositorio.uni.edu.pe/server/api/discover/search/objects?query=%22Gutierrez+Paucar%22&dsoType=ITEM&size=100",
+    "type": "base_bibliografica",
+    "locator": "Gutiérrez Paucar, Agustín Adalberto: autor 3 (tesis 1987; artículos TECNIA 2002 y 2003), asesor 9 (2001–2016), jurado 5 (2019–2025)",
+    "status": "verificado_primaria"
   }
 ]
