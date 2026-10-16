@@ -65,7 +65,8 @@ describe('integridad de datos', () => {
   })
 
   it('no hay datos personales innecesarios en los JSON', () => {
-    const raw = JSON.stringify(dataset)
+    // Se excluyen URL: los identificadores de archivos de gob.pe tienen 8 dígitos y no son DNI.
+    const raw = JSON.stringify(dataset, (_k, v) => (typeof v === 'string' && /^https?:\/\//.test(v) ? '' : v))
     expect(raw).not.toMatch(/\b19\d{6}[A-K]\b/) // códigos de docente del CEUNI
     expect(raw).not.toMatch(/\b\d{8}\b(?!-)/) // posibles DNI
   })

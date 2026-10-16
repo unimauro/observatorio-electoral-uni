@@ -1,0 +1,854 @@
+{
+  "agent": "trayectoria-pte",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "id": "src-pte-rr-3541-2023",
+      "title": "Resolución Rectoral N.° 3541-2023-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5688236/5051449-resolucion-rectoral-nro-3541-2023-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2023-11-10",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 3541-2023-UNI",
+      "locator": "Artículo único: Reconocer al Dr. Jorge Gustavo Butler Blacker como Decano de la Facultad Ingeniería Eléctrica y Electrónica ... a partir del 13 de noviembre de 2023 hasta el 12 de noviembre de 2027.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-1315-2025",
+      "title": "Resolución Rectoral N.° 1315-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8029701/6743399-1315-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-04-28",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 1315-2025-UNI",
+      "locator": "Artículo 3°.- Designar a partir del 07 de mayo de 2025 hasta el 11 de noviembre de 2026, al Dr. Jorge Gustavo Butler Blacker, en el cargo de Vicerrector de Investigación ... con la reserva de su cargo.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": "Documento escaneado (OCR con errores tipográficos menores)."
+    },
+    {
+      "id": "src-pte-rr-1403-2025",
+      "title": "Resolución Rectoral N.° 1403-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8304378/6922198-1403-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-05-30",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 1403-2025-UNI",
+      "locator": "Artículo 2°.- Encargar las funciones del Vicerrectorado Académico al Dr. Jorge Butler Blacker, Vicerrector de Investigación. Funciones que ejercerá en adición a las que corresponde como Vicerrector de Investigación.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rau-0022-2026",
+      "title": "Resolución de Asamblea Universitaria N.° 0022-2026-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/10649305/8618268-0022-2026-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2026-09-11",
+      "type": "documento_institucional",
+      "identifier": "Resolución de Asamblea Universitaria 0022-2026-UNI",
+      "locator": "mediante Resolución de Asamblea Universitaria N° 0021-2026-UNI, de fecha 11 de setiembre de 2026, se resolvió declarar la vacancia del Dr. Jorge Gustavo Butler Blacker al cargo de Vicerrector de Investigación, al haber presentado su renuncia irrevocable al citado cargo, la misma que se hará efectiva a partir del 16 de setiembre de 2026",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": "PDF escaneado; texto leído por OCR. El documento contiene DNI de un tercero: no copiado."
+    },
+    {
+      "id": "src-pte-rr-0548-2025",
+      "title": "Resolución Rectoral N.° 0548-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8032005/6745209-0548-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-02-14",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0548-2025-UNI",
+      "locator": "Artículo 1°.- Aprobar la conformación de la Comisión Ad Hoc de Reforma Estatutaria ... 3 Dr. JORGE GUSTAVO BUTLER BLACKER Decano FIEE ... 6 Dr. FORTUNATO ALVA DAVILA Miembro de la Comisión Ejecutiva AU",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1",
+        "c-6-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0804-2025",
+      "title": "Resolución Rectoral N.° 0804-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8032063/6745250-0804-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-03-26",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0804-2025-UNI",
+      "locator": "Comisión de Bienestar Universitario, Proyección Social y Extensión Universitaria de la Asamblea Universitaria para el Periodo 2025-2026 ... Dr. JORGE GUSTAVO BUTLER BLACKER PR TITULAR",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rau-0012-2026",
+      "title": "Resolución de Asamblea Universitaria N.° 0012-2026-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/10665431/8629095-0012-2026-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2026-06-17",
+      "type": "documento_institucional",
+      "identifier": "Resolución de Asamblea Universitaria 0012-2026-UNI",
+      "locator": "Comisión encargada de conducir el procedimiento de elección del Defensor Universitario ... 1 Dr. Jorge Gustavo Butler Blacker Vicerrector de Investigación - Presidente; 2 Dr. Fortunato Alva Dávila Docente FIM",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1",
+        "c-6-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rau-002-2026",
+      "title": "Resolución de Asamblea Universitaria N.° 002-2026-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9609532/7864019-002-2026-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2026-02-25",
+      "type": "documento_institucional",
+      "identifier": "Resolución de Asamblea Universitaria 002-2026-UNI",
+      "locator": "la Asamblea Universitaria en su Sesión Extraordinaria N° 1 continuada del 24 de febrero de 2026, acordó por mayoría designar a la Dra. ROCIO MARGARITA CACHO CRUZ como Vicerrectora Académica ... Artículo 2°.- Dejar sin efecto el artículo 2 de la Resolución Rectoral N° 1403-2025-UNI",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2",
+        "c-1-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rau-0020-2026",
+      "title": "Resolución de Asamblea Universitaria N.° 0020-2026-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/10649133/8617961-0020-2026-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2026-09-11",
+      "type": "documento_institucional",
+      "identifier": "Resolución de Asamblea Universitaria 0020-2026-UNI",
+      "locator": "mediante Resolución de Asamblea Universitaria N° 0019-2026-UNI, de fecha 11 de setiembre de 2026, se resolvió declarar la vacancia de la Dra. Rocío Margarita Cacho Cruz al cargo de Vicerrectora Académica, al haber presentado su renuncia irrevocable al citado cargo, la misma que se hará efectiva a partir del 16 de setiembre de 2026",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2"
+      ],
+      "notes": "PDF escaneado; texto leído por OCR. Contiene DNI de un tercero: no copiado."
+    },
+    {
+      "id": "src-pte-rr-3398-2025",
+      "title": "Resolución Rectoral N.° 3398-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9613404/7866874-3398-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-11-20",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 3398-2025-UNI",
+      "locator": "Comisión Permanente de Fiscalización ... Dra. Arq. ROCIO MARGARITA CACHO CRUZ SECRETARIA Hasta el 12/01/2028",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0549-2025",
+      "title": "Resolución Rectoral N.° 0549-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8032027/6745225-0549-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-02-17",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0549-2025-UNI",
+      "locator": "Comisión de Investigación y Posgrado de la Asamblea Universitaria para el Periodo 2025-2026 ... Dra. ROCIO MARGARITA CACHO CRUZ PR TITULAR",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0043-2024",
+      "title": "Resolución Rectoral N.° 0043-2024-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5805603/5150556-rr-0043-2024.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2024-01-15",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0043-2024-UNI",
+      "locator": "Artículo 3°: Encargar al Dr. Luis Antonio Lastra Espinoza el cargo de Director de la Dirección de Admisión ... a partir del 22 de enero de 2024. Artículo 4°: Encargar, en adición a sus funciones, al Dr. Alejandro Apolinario Huamán Sánchez ... el despacho de la Dirección de Admisión ... del 15 de enero de 2024 hasta el 21 de enero de 2024.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3",
+        "c-5-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0090-2024",
+      "title": "Resolución Rectoral N.° 0090-2024-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5805600/5150554-rr-0090-2024.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2024-01-23",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0090-2024-UNI",
+      "locator": "Artículo 1°: Aceptar la declinación formulada por el DR. LUIS ANTONIO LASTRA ESPINOZA, al cargo de Director de la Dirección de Admisión",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0812-2025",
+      "title": "Resolución Rectoral N.° 0812-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7929674/6672600-0812-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-03-28",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0812-2025-UNI",
+      "locator": "Prorrogar la encargatura del Dr. LUIS ANTONIO LASTRA ESPINOZA en el cargo de director de la Direccion de Admision ... a partir del 01 de abril de 2025 hasta el 31 de julio de 2025.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-1998-2025",
+      "title": "Resolución Rectoral N.° 1998-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8472718/7029231-1998-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-07-25",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 1998-2025-UNI",
+      "locator": "Extender la encargatura del Dr. LUIS ANTONIO LASTRA ESPINOZA, en el cargo de director de la Dirección de Admisión ... por el periodo del 01 de agosto de 2025 hasta el 31 de octubre de 2025.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-2657-2025",
+      "title": "Resolución Rectoral N.° 2657-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9614853/7867828-2657-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-10-01",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 2657-2025-UNI",
+      "locator": "PERIODO SETIEMBRE 2025 - AGOSTO 2026: Dr. LUIS ANTONIO LASTRA ESPINOZA PRESIDENTE; Dr. FERNANDO HUAMAN PEREZ SECRETARIO ... PERIODO SETIEMBRE 2026 - AGOSTO 2027: ... Dr. FERNANDO HUAMAN PEREZ SECRETARIO; Dr. LUIS ANTONIO LASTRA ESPINOZA VOCAL",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3",
+        "c-4-3"
+      ],
+      "notes": "Considerando: miembros docentes del THU designados por R.R. N.° 2330-2025-UNI del 09-09-2025 por dos años no renovables."
+    },
+    {
+      "id": "src-pte-gobpe-uni-lastra",
+      "title": "Luis Antonio Lastra Espinoza – Presidente del Tribunal de Honor Universitario (Directorio de funcionarios gob.pe, UNI)",
+      "author": "Plataforma gob.pe / UNI",
+      "url": "https://www.gob.pe/institucion/uni/funcionarios/251971-luis-antonio-lastra-espinoza",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": null,
+      "locator": "Presidente del Tribunal de Honor Universitario · Universidad Nacional de Ingeniería · Fecha de inicio: 01 set 2025",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": "Capturado también en peru-transparente/data/autoridades.csv (2026-06-09). El enlace a la DJ de intereses de esa página incluye DNI en la URL: no se registra."
+    },
+    {
+      "id": "src-pte-rr-4147-2023",
+      "title": "Resolución Rectoral N.° 4147-2023-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5688253/5051473-resolucion-rectoral-nro-4147-2023-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2023-12-29",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 4147-2023-UNI",
+      "locator": "Mediante Resolución Rectoral N.° 2961-2023-UNI del 25 de setiembre de 2023, se encargó al Dr. Luis Humberto Chirif Rivera, como Director de la Unidad de Centro Pre Universitario ... a partir del 26 de septiembre de 2023 hasta el 31 de diciembre de 2023. ... Artículo único: Encargar ... a partir del 01 de enero de 2024 hasta el 31 de enero de 2024.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0038-2024",
+      "title": "Resolución Rectoral N.° 0038-2024-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5805586/5150544-rr-0038-2024.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2024-01-15",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0038-2024-UNI",
+      "locator": "Artículo 1°: Aceptar la renuncia formulada por el Dr. Luis Humberto Chirif Rivera, al cargo de Director de la Unidad de Centro Pre Universitario ... Artículo 4°: Encargar al Dr. Alejandro Apolinario Huamán Sánchez, el cargo de Director de la Unidad de Centro Pre Universitario ... a partir del 15 de enero de 2024.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-1",
+        "c-5-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-1276-2023",
+      "title": "Resolución Rectoral N.° 1276-2023-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5066180/RR%201276-2023.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2023-05-09",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 1276-2023-UNI",
+      "locator": "Prorrogar, la encargatura del Dr. JOSÉ ANÍBAL PÁUYAC HUAMÁN como Director de Admisión ... por el período de 03 (tres) meses, a partir del 11 de mayo hasta el 10 de agosto de 2023.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-2"
+      ],
+      "notes": "Considerando cita la R.R. N.° 0206-2023-UNI (10-02-2023) que dispuso el encargo inicial."
+    },
+    {
+      "id": "src-pte-dj-intereses-2022",
+      "title": "Declaraciones Juradas de Intereses de funcionarios (Contraloría) – dataset abierto, corte 21-12-2022",
+      "author": "Contraloría General de la República / Plataforma Nacional de Datos Abiertos",
+      "url": "https://www.datosabiertos.gob.pe/sites/default/files/DJIC_FUNCIONARIOS_21122022.json",
+      "landingUrl": null,
+      "publishedAt": "2022-12-21",
+      "type": "registro_publico",
+      "identifier": "DJIC código 434786",
+      "locator": "Registro código 434786: MONTOYA ZAVALETA, MODESTO EDILBERTO – MINISTERIO DEL AMBIENTE – MINISTRO – inicio de cargo 2022-02-09 – fin 2022-08-24 – presentación 2022-08-26",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-3"
+      ],
+      "notes": "Leído desde la copia local peru-transparente/data/dj_intereses.csv (mismo archivo). Sólo se registra entidad/cargo/fechas; no se registran familiares ni datos personales."
+    },
+    {
+      "id": "src-pte-proactivo-montoya-2022",
+      "title": "Modesto Montoya es el nuevo ministro del Ambiente",
+      "author": "ProActivo",
+      "url": "https://proactivo.com.pe/modesto-montoya-es-el-nuevo-ministro-del-ambiente/",
+      "landingUrl": null,
+      "publishedAt": "2022-02-09",
+      "type": "prensa",
+      "identifier": null,
+      "locator": "fue designado como ministro de Estado en la cartera del Ambiente ... Resolución Suprema n.° 096-2022-PCM",
+      "status": "corroborado",
+      "candidateIds": [
+        "c-3-3"
+      ],
+      "notes": "La nota menciona que fue profesor principal de la Universidad Nacional de Ingeniería."
+    },
+    {
+      "id": "src-pte-rr-4038-2023",
+      "title": "Resolución Rectoral N.° 4038-2023-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5688239/5051459-resolucion-rectoral-nro-4038-2023-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2023-12-28",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 4038-2023-UNI",
+      "locator": "Mediante Resolución Rectoral N.° 2962-2023-UNI del 25 de setiembre de 2023, se encargó al Dr. Alejandro Apolinario Huamán Sánchez, el cargo de Director de la Dirección de Admisión ... a partir del 26 de setiembre de 2023 ... Artículo único: Encargar ... a partir del 01 de enero de 2024 hasta el 31 de diciembre de 2024.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0593-2025",
+      "title": "Resolución Rectoral N.° 0593-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7714904/6527923-0593-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-02-28",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0593-2025-UNI",
+      "locator": "Artículo 2°.- Designar a partir de la emisión de la presente resolución rectoral, al Dr. Alejandro Apolinario Huamán Sánchez como Director de Centro de Estudios Preuniversitarios de la Universidad Nacional de Ingeniería – CEPRE-UNI, por el periodo de dos (02) años",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rcu-1610-2026",
+      "title": "Resolución de Consejo Universitario N.° 1610-2026-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/10706195/8656518-1610-2026-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2026-09-24",
+      "type": "documento_institucional",
+      "identifier": "Resolución de Consejo Universitario 1610-2026-UNI",
+      "locator": "Artículo 1. - ACEPTAR la renuncia del Dr. ALEJANDRO APOLINARIO HUAMAN SANCHEZ, al cargo de jefe de la Unidad de Centro Pre Universitario ... Siendo su último día de labores el 11 de setiembre de 2026",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-1"
+      ],
+      "notes": "PDF escaneado; leído por OCR. La renuncia irrevocable fue presentada con Carta N.° 020-2026-J-UCP-UNI del 11-09-2026."
+    },
+    {
+      "id": "src-pte-rr-0870-2024",
+      "title": "Resolución Rectoral N.° 0870-2024-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/6956668/6001326-0870-2024.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2024-03-12",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0870-2024-UNI",
+      "locator": "Por Resolución Rectoral N.° 2137-2023-UNI del 21 de julio de 2023, se resolvió designar como nuevos miembros del Tribunal de Honor Universitario ... a: Dr. Antonio Nolberto Lazo Jara y Dr. Luis Alberto Mosquera Leiva ... Artículo 1°: Dejar sin efecto la designación del Dr. Luis Alberto Mosquera Leiva ... Artículo 2°: Agradecer ... por los servicios prestados durante su permanencia como Presidente",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-3",
+        "c-7-2"
+      ],
+      "notes": "Mosquera presentó su renuncia como Presidente del THU con carta del 16-01-2024."
+    },
+    {
+      "id": "src-pte-rr-0158-2025",
+      "title": "Resolución Rectoral N.° 0158-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8031807/6745087-0158-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-01-14",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0158-2025-UNI",
+      "locator": "Artículo 1°. – Conformar la Comisión Ejecutiva de la Asamblea Universitaria para el Periodo 2025-2026 ... Dr. FORTUNATO ALVA DÁVILA PR TITULAR",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-0551-2025",
+      "title": "Resolución Rectoral N.° 0551-2025-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8032048/6745240-0551-2025-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2025-02-17",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0551-2025-UNI",
+      "locator": "Comisión Académica y de Calidad Universitaria de la Asamblea Universitaria para el Periodo 2025-2026 ... Dr. FORTUNATO ALVA DAVILA PR TITULAR",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pte-rr-1290-2023",
+      "title": "Resolución Rectoral N.° 1290-2023-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5066330/RR%201290-2023.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2023-05-11",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 1290-2023-UNI",
+      "locator": "Artículo 1°.– Autorizar la subvención económica en favor del docente Dr. Ing. RODOLFO ELÍAS FALCONÍ VÁSQUEZ ... de la Facultad de Ingeniería Industrial y de Sistemas",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-1"
+      ],
+      "notes": "Contiene código UNI del docente: no copiado."
+    },
+    {
+      "id": "src-pte-ocds-osce-77064",
+      "title": "OCDS ocds-dgv273-seacev3-77064 – ADS-CLASICO-6-2015-OSCE-1",
+      "author": "OECE – Portal de Contrataciones Abiertas (OCDS)",
+      "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/record/ocds-dgv273-seacev3-77064",
+      "landingUrl": null,
+      "publishedAt": "2015-03-27",
+      "type": "registro_publico",
+      "identifier": "ocds-dgv273-seacev3-77064",
+      "locator": "buyer: ORGANISMO SUPERVISOR DE LAS CONTRATACIONES DEL ESTADO; tenderers: FALCONI VASQUEZ RODOLFO ELIAS; 'CONSULTORIA PARA COORDINAR LA INTERVENCION DEL EQUIPO DE ESPECIALISTAS DURANTE LA FASE DE CONSTRUCCION, EJECUCION, SEGUIMIENTO Y CONTROL DEL SISTEMA RNP 5.0'; contrato 019-2015-OSCE, dateSigned 2015-03-27, amount 71800.0 PEN; Adjudicación Directa Selectiva",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-1"
+      ],
+      "notes": "También en peru-transparente/data/ordenes_servicio.csv. RUC del proveedor (persona natural) omitido."
+    },
+    {
+      "id": "src-pte-ocds-osce-62982",
+      "title": "OCDS ocds-dgv273-seacev3-62982 – AMC-CLASICO-71-2014-OSCE-3",
+      "author": "OECE – Portal de Contrataciones Abiertas (OCDS)",
+      "url": "https://contratacionesabiertas.oece.gob.pe/api/v1/record/ocds-dgv273-seacev3-62982",
+      "landingUrl": null,
+      "publishedAt": "2014-12-12",
+      "type": "registro_publico",
+      "identifier": "ocds-dgv273-seacev3-62982",
+      "locator": "buyer: ORGANISMO SUPERVISOR DE LAS CONTRATACIONES DEL ESTADO; tenderers: FALCONI VASQUEZ RODOLFO ELIAS; 'SERVICIO DE CONSULTORIA PARA COORDINAR LAS INTERVENCIONES AL EQUIPO DE ESPECIALISTAS DURANTE LA ETAPA DE CONSTRUCCION DEL SISTEMA RNP - 1A ITERACION'; dateSigned 2014-12-12, amount 39800.0 PEN; Adjudicación de Menor Cuantía",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-1"
+      ],
+      "notes": "RUC del proveedor (persona natural) omitido."
+    },
+    {
+      "id": "src-pte-prociencia-2022-12",
+      "title": "Portal de Transparencia Estándar – Personal de PROCIENCIA, diciembre 2022 (régimen CAS)",
+      "author": "Programa Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA) / PTE",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=14258&in_anno_consulta=2022&ch_mes_consulta=12&vc_nombre_funcionario=&vc_dni_funcionario=&ch_tipo_regimen=1&id_tema=32&Ver=&pag=1",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": "PTE id_entidad=14258, 2022-12",
+      "locator": "CAS | RODRÍGUEZ RODRÍGUEZ, JUAN MARTÌN | Director Ejecutivo | Direcciòn Ejecutiva (listado de personal de diciembre del 2022)",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ],
+      "notes": "Página reconsultada el 2026-10-16. Remuneración omitida a propósito. En el barrido local, PROCIENCIA sólo tiene cortes 2021-12 (parcial), 2022-12, 2024-12, 2025-12 y 2026-01; el nombre aparece sólo en 2022-12."
+    },
+    {
+      "id": "src-pte-rr-0681-2026",
+      "title": "Resolución Rectoral N.° 0681-2026-UNI",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/10047002/8188389-0681-2026-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales",
+      "publishedAt": "2026-05-26",
+      "type": "documento_institucional",
+      "identifier": "Resolución Rectoral 0681-2026-UNI",
+      "locator": "Artículo 1°. – Encargar con eficacia anticipada en el cargo de Decano de la Facultad de Ingeniería Química y Textil ... al Dr. ABEL FERNANDO VERGARA SOTOMAYOR, a partir del 24 de mayo al 30 de mayo de 2026.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3"
+      ],
+      "notes": ""
+    }
+  ],
+  "claims": [
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Decano de la Facultad de Ingeniería Eléctrica y Electrónica (FIEE) de la UNI, reconocido por la R.R. N.° 3541-2023-UNI para el periodo 13-11-2023 a 12-11-2027.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-3541-2023"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Designado Vicerrector de Investigación de la UNI desde el 07-05-2025 hasta el 11-11-2026, con reserva de su cargo (R.R. N.° 1315-2025-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-1315-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Por R.R. N.° 1403-2025-UNI (30-05-2025) se le encargaron las funciones del Vicerrectorado Académico, en adición a las de Vicerrector de Investigación; ese encargo quedó sin efecto con la designación de la Vicerrectora Académica por R.A.U. N.° 002-2026-UNI (25-02-2026).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-1403-2025",
+        "src-pte-rau-002-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Según la R.A.U. N.° 0022-2026-UNI, la Asamblea Universitaria declaró la vacancia de su cargo de Vicerrector de Investigación por renuncia irrevocable, efectiva a partir del 16-09-2026 (R.A.U. N.° 0021-2026-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rau-0022-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Integró, como Decano de la FIEE, la Comisión Ad Hoc de Reforma Estatutaria (R.R. N.° 0548-2025-UNI) y la Comisión de Bienestar Universitario, Proyección Social y Extensión de la Asamblea Universitaria 2025-2026 (R.R. N.° 0804-2025-UNI); presidió como Vicerrector de Investigación la comisión para la elección del Defensor Universitario (R.A.U. N.° 0012-2026-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0548-2025",
+        "src-pte-rr-0804-2025",
+        "src-pte-rau-0012-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "gestion",
+      "text": "Designada Vicerrectora Académica de la UNI por acuerdo por mayoría de la Asamblea Universitaria (sesión extraordinaria continuada del 24-02-2026), formalizado en la R.A.U. N.° 002-2026-UNI del 25-02-2026.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rau-002-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "gestion",
+      "text": "Según la R.A.U. N.° 0020-2026-UNI, la Asamblea Universitaria declaró la vacancia de su cargo de Vicerrectora Académica por renuncia irrevocable, efectiva a partir del 16-09-2026 (R.A.U. N.° 0019-2026-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rau-0020-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "gestion",
+      "text": "Como docente principal, integró la Comisión de Investigación y Posgrado de la Asamblea Universitaria 2025-2026 (R.R. N.° 0549-2025-UNI) y figura como Secretaria de la Comisión Permanente de Fiscalización de la Asamblea Universitaria, con periodo hasta el 12-01-2028 (R.R. N.° 3398-2025-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0549-2025",
+        "src-pte-rr-3398-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "gestion",
+      "text": "Encargado de la Dirección de Admisión de la UNI a partir del 22-01-2024 (R.R. N.° 0043-2024-UNI); declinó ese encargo, aceptado por R.R. N.° 0090-2024-UNI (23-01-2024).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0043-2024",
+        "src-pte-rr-0090-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "gestion",
+      "text": "Director (encargado) de la Dirección de Admisión de la UNI en 2025: prórroga del 01-04-2025 al 31-07-2025 (R.R. N.° 0812-2025-UNI) y extensión del 01-08-2025 al 31-10-2025 (R.R. N.° 1998-2025-UNI). Las resoluciones hablan de 'prorrogar' la encargatura; el acto inicial de 2025 no fue ubicado.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0812-2025",
+        "src-pte-rr-1998-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "gestion",
+      "text": "Presidente del Tribunal de Honor Universitario de la UNI para el periodo setiembre 2025 – agosto 2026 y vocal para setiembre 2026 – agosto 2027 (R.R. N.° 2657-2025-UNI); el directorio gob.pe lo registra como Presidente del THU con fecha de inicio 01-09-2025.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-2657-2025",
+        "src-pte-gobpe-uni-lastra"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-3",
+      "section": "gestion",
+      "text": "Secretario del Tribunal de Honor Universitario de la UNI para los periodos setiembre 2025 – agosto 2026 y setiembre 2026 – agosto 2027 (R.R. N.° 2657-2025-UNI, que lo nombra 'Dr. FERNANDO HUAMAN PEREZ').",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-2657-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "gestion",
+      "text": "Director (encargado) de la Unidad de Centro Pre Universitario (CEPRE-UNI) desde el 26-09-2023 (R.R. N.° 2961-2023-UNI, citada en la R.R. N.° 4147-2023-UNI), encargo prorrogado hasta el 31-01-2024; su renuncia fue aceptada por R.R. N.° 0038-2024-UNI (15-01-2024).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-4147-2023",
+        "src-pte-rr-0038-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-2",
+      "section": "gestion",
+      "text": "Director (encargado) de la Dirección de Admisión de la UNI en 2023: encargo dispuesto por R.R. N.° 0206-2023-UNI (10-02-2023) y prorrogado del 11-05-2023 al 10-08-2023 por R.R. N.° 1276-2023-UNI.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-1276-2023"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-3",
+      "section": "gestion",
+      "text": "Ministro del Ambiente del 09-02-2022 al 24-08-2022 (Declaración Jurada de Intereses registrada ante la Contraloría; designación por R.S. N.° 096-2022-PCM según ProActivo).",
+      "status": "corroborado",
+      "sourceIds": [
+        "src-pte-dj-intereses-2022",
+        "src-pte-proactivo-montoya-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-1",
+      "section": "gestion",
+      "text": "Director (encargado) de la Dirección de Admisión de la UNI desde el 26-09-2023 (R.R. N.° 2962-2023-UNI, citada en la R.R. N.° 4038-2023-UNI); el encargo para 2024 quedó sin efecto el 15-01-2024 (R.R. N.° 0043-2024-UNI), que le encargó el despacho de Admisión del 15 al 21-01-2024.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-4038-2023",
+        "src-pte-rr-0043-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-1",
+      "section": "gestion",
+      "text": "Director/jefe del Centro Pre Universitario (CEPRE-UNI): encargado desde el 15-01-2024 (R.R. N.° 0038-2024-UNI), designado por dos años mediante R.R. N.° 0593-2025-UNI (28-02-2025); renuncia aceptada por R.C.U. N.° 1610-2026-UNI, con último día de labores el 11-09-2026.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0038-2024",
+        "src-pte-rr-0593-2025",
+        "src-pte-rcu-1610-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-2",
+      "section": "gestion",
+      "text": "Miembro del Tribunal de Honor Universitario de la UNI designado por R.R. N.° 2137-2023-UNI (21-07-2023), del que fue Presidente; renunció con carta del 16-01-2024 y su designación quedó sin efecto por R.R. N.° 0870-2024-UNI (12-03-2024).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0870-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-3",
+      "section": "gestion",
+      "text": "Designado miembro del Tribunal de Honor Universitario de la UNI por R.R. N.° 2137-2023-UNI (21-07-2023), según el considerando de la R.R. N.° 0870-2024-UNI, que lo mantiene en la conformación del Tribunal a marzo de 2024.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0870-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "gestion",
+      "text": "Miembro (profesor principal, titular) de la Comisión Ejecutiva de la Asamblea Universitaria 2025-2026 (R.R. N.° 0158-2025-UNI) y de la Comisión Académica y de Calidad Universitaria de la AU 2025-2026 (R.R. N.° 0551-2025-UNI); integró la Comisión Ad Hoc de Reforma Estatutaria (R.R. N.° 0548-2025-UNI) y la comisión para la elección del Defensor Universitario como docente FIM (R.A.U. N.° 0012-2026-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0158-2025",
+        "src-pte-rr-0551-2025",
+        "src-pte-rr-0548-2025",
+        "src-pte-rau-0012-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-1",
+      "section": "docencia",
+      "text": "Docente de la Facultad de Ingeniería Industrial y de Sistemas de la UNI; la R.R. N.° 1290-2023-UNI le autorizó una subvención económica para participar como expositor en un evento (modalidad virtual).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-1290-2023"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-1",
+      "section": "proyectos",
+      "text": "Contratado como persona natural por el OSCE para consultorías de coordinación del equipo de especialistas del sistema RNP: S/ 39,800 (contrato firmado 12-12-2014, 'Sistema RNP - 1a iteración') y S/ 71,800 (contrato 019-2015-OSCE, firmado 27-03-2015, 'Sistema RNP 5.0'). El registro OCDS no menciona la UNI; la atribución se basa en coincidencia exacta de nombre completo y en la especialidad (sistemas).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-ocds-osce-62982",
+        "src-pte-ocds-osce-77064"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "gestion",
+      "text": "Director Ejecutivo de PROCIENCIA (Programa Nacional de Investigación Científica y Estudios Avanzados, adscrito a CONCYTEC), régimen CAS, según el listado de personal del PTE de diciembre de 2022; ProActivo, que lo identifica como profesor principal de la UNI, también señala que se desempeñó como director ejecutivo de PROCIENCIA.",
+      "status": "corroborado",
+      "sourceIds": [
+        "src-pte-prociencia-2022-12",
+        "src-proactivo-rodriguez-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "gestion",
+      "text": "Encargado del Decanato de la Facultad de Ingeniería Química y Textil (FIQT) de la UNI del 24-05-2026 al 30-05-2026, con eficacia anticipada (R.R. N.° 0681-2026-UNI). El directorio de funcionarios gob.pe lo listaba como 'Decano de la Facultad de Ingeniería Química y Textil' en la captura del 2026-06-09 (peru-transparente/data/autoridades.csv); esa ficha ya no está disponible (404 al 2026-10-16) y no se halló el acto que lo designe decano más allá de ese encargo.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pte-rr-0681-2026"
+      ],
+      "kind": "hecho"
+    }
+  ],
+  "proposals": [],
+  "leads": [
+    {
+      "candidateId": "c-1-3",
+      "provider": "otro",
+      "profileId": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=14119&in_anno_consulta=2021&ch_mes_consulta=12&vc_nombre_funcionario=LASTRA&vc_dni_funcionario=&ch_tipo_regimen=1&id_tema=32&Ver=",
+      "displayName": "LASTRA ESPINOZA, LUIS ANTONIO (PTE – Universidad Nacional José María Arguedas, dic-2021, CAS)",
+      "orcid": null,
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "Coincidencia exacta de nombre en el PTE de UNAJMA (Andahuaylas), sólo en el corte 2021-12, régimen CAS, con cargo y dependencia en blanco. Entidad distinta a la UNI y sin cargo legible: posible homónimo o posible integración de comisión organizadora; no se encontró fuente que lo vincule a la UNI. Verificar en resoluciones de SUNEDU/MINEDU sobre la comisión organizadora de UNAJMA."
+    }
+  ],
+  "pending": [
+    {
+      "candidateId": null,
+      "text": "Cobertura PTE: en el barrido local (peru-transparente) la UNI (id_entidad=10048) sólo tiene personal CAS (cortes 2021-12, 2022-12, 2024-12, 2025-12 y 2026-04); el régimen docente universitario no fue descargado. Por eso no se pudo verificar desde el PTE la condición/categoría docente de ningún candidato. Consultar el PTE de la UNI con ch_tipo_regimen de docentes (276/Ley Universitaria) por año-mes."
+    },
+    {
+      "candidateId": null,
+      "text": "Designaciones El Peruano (designaciones.csv, 1,640 filas, 2026) no contiene a ningún candidato ni a la UNI; contratos.csv y sanciones_rnssc.csv sin coincidencias exactas de nombre completo."
+    },
+    {
+      "candidateId": "c-9-3",
+      "text": "Ubicar el acto (R.R./R.A.U.) por el que fue designado o encargado como Decano de la FIQT después del 30-05-2026 (gob.pe lo listaba como decano en junio de 2026)."
+    },
+    {
+      "candidateId": "c-1-3",
+      "text": "Ubicar la R.R. que dispuso el encargo inicial de la Dirección de Admisión en 2025 (antes del 01-04-2025) y la R.R. N.° 2330-2025-UNI (designación de miembros del THU)."
+    },
+    {
+      "candidateId": "c-5-3",
+      "text": "Confirmar la fecha de término de su membresía en el Tribunal de Honor Universitario (designado por R.R. N.° 2137-2023-UNI); el THU fue recompuesto en setiembre de 2025 (R.R. N.° 2657-2025-UNI) sin su nombre."
+    },
+    {
+      "candidateId": "c-8-1",
+      "text": "Ubicar la Resolución de Presidencia de CONCYTEC que lo designó y la que concluyó su designación como Director Ejecutivo de PROCIENCIA, para fijar el periodo exacto (el PTE local sólo lo observa en 2022-12)."
+    },
+    {
+      "candidateId": "c-3-3",
+      "text": "Opcional: enlazar el texto de la R.S. N.° 096-2022-PCM (El Peruano) y la R.S. que aceptó su renuncia o dio por concluida su designación como Ministro del Ambiente."
+    }
+  ],
+  "siteUpdates": {},
+  "rejected": [
+    "PTE OEFA: 'HUAMAN PEREZ, FERNANDO ALEJANDRO' – nombre distinto (segundo nombre) al de c-4-3 'Fernando Huamán Pérez'; descartado.",
+    "Autoridades gob.pe: 'ARTURO PERCEY GAMARRA CHINCHAY' (UNAC) – nombre distinto al de c-5-2; descartado.",
+    "PTE: 'SANCHEZ ESPINOZA, JAVIER ANTONIO' (IMARPE) y 'SANCHEZ ESPINOZA, JAVIER OMAR' (INO) – no coinciden con 'Javier Concepción Sánchez Espinoza' (c-2-2); descartados.",
+    "PTE MPFN: 'RODRIGUEZ RODRIGUEZ, JUAN CARLOS' – no coincide con c-8-1; descartado. Otras coincidencias sólo de apellidos (decenas, p.ej. Rodríguez Rodríguez, Huamán Sánchez, Huamán Pérez) descartadas por regla de nombre completo.",
+    "Fichas gob.pe de Cacho Cruz (Vicerrectora Académica), Butler Blacker (Vicerrector de Investigación) y Vergara Sotomayor (Decano FIQT) capturadas el 2026-06-09 en autoridades.csv devuelven 404 al 2026-10-16; no se citan como fuente (sus cargos se respaldan con resoluciones).",
+    "Enlace de la DJ de intereses en la ficha gob.pe de Lastra Espinoza (appdji.contraloria.gob.pe) contiene DNI en la URL: no se registra. No se registran familiares ni montos de remuneración de ninguna fuente.",
+    "Remuneraciones individuales del PTE (PROCIENCIA, UNAJMA) omitidas por regla."
+  ],
+  "summary": "Cruce por nombre completo exacto de los 27 candidatos contra el barrido local del PTE (funcionarios 2026 e histórico 2015–2026), autoridades gob.pe, designaciones El Peruano 2026, DJ de intereses 2022, órdenes/contratos OCDS y sanciones RNSSC, complementado con la búsqueda de normas de la UNI en gob.pe para respaldar con resolución primaria los cargos hallados. Resultados: 14 candidatos con trayectoria documentada (Butler, Cacho, Lastra, Chirif, Páuyac, Montoya, F. Huamán Pérez, A. Huamán Sánchez, Lazo, Alva, Falconí, Mosquera, J. M. Rodríguez y Vergara). Hallazgos fuera de la UNI: Montoya Ministro del Ambiente (feb–ago 2022), J. M. Rodríguez Director Ejecutivo de PROCIENCIA (PTE dic-2022), Falconí con dos consultorías para OSCE (2014–2015). El PTE local no cubre el régimen docente de la UNI, por lo que la condición docente no pudo verificarse desde esa fuente."
+}

@@ -92,6 +92,49 @@
             "src-rx-uni-directorio-jul2025"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Decano de la Facultad de Ingeniería Eléctrica y Electrónica (FIEE) de la UNI, reconocido por la R.R. N.° 3541-2023-UNI para el periodo 13-11-2023 a 12-11-2027.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-3541-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Designado Vicerrector de Investigación de la UNI desde el 07-05-2025 hasta el 11-11-2026, con reserva de su cargo (R.R. N.° 1315-2025-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-1315-2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Por R.R. N.° 1403-2025-UNI (30-05-2025) se le encargaron las funciones del Vicerrectorado Académico, en adición a las de Vicerrector de Investigación; ese encargo quedó sin efecto con la designación de la Vicerrectora Académica por R.A.U. N.° 002-2026-UNI (25-02-2026).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-1403-2025",
+            "src-pte-rau-002-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Integró, como Decano de la FIEE, la Comisión Ad Hoc de Reforma Estatutaria (R.R. N.° 0548-2025-UNI) y la Comisión de Bienestar Universitario, Proyección Social y Extensión de la Asamblea Universitaria 2025-2026 (R.R. N.° 0804-2025-UNI); presidió como Vicerrector de Investigación la comisión para la elección del Defensor Universitario (R.A.U. N.° 0012-2026-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0548-2025",
+            "src-pte-rr-0804-2025",
+            "src-pte-rau-0012-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según la R.A.U. N.° 0022-2026-UNI, la Asamblea Universitaria declaró la vacancia de su cargo de Vicerrector de Investigación por renuncia irrevocable, efectiva a partir del 16-09-2026 (R.A.U. N.° 0021-2026-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rau-0022-2026"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -322,6 +365,31 @@
             "src-vr-vri-sesquicentenario"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Designada Vicerrectora Académica de la UNI por acuerdo por mayoría de la Asamblea Universitaria (sesión extraordinaria continuada del 24-02-2026), formalizado en la R.A.U. N.° 002-2026-UNI del 25-02-2026.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rau-002-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Como docente principal, integró la Comisión de Investigación y Posgrado de la Asamblea Universitaria 2025-2026 (R.R. N.° 0549-2025-UNI) y figura como Secretaria de la Comisión Permanente de Fiscalización de la Asamblea Universitaria, con periodo hasta el 12-01-2028 (R.R. N.° 3398-2025-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0549-2025",
+            "src-pte-rr-3398-2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según la R.A.U. N.° 0020-2026-UNI, la Asamblea Universitaria declaró la vacancia de su cargo de Vicerrectora Académica por renuncia irrevocable, efectiva a partir del 16-09-2026 (R.A.U. N.° 0019-2026-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rau-0020-2026"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -467,7 +535,35 @@
         }
       ],
       "investigacion": [],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Encargado de la Dirección de Admisión de la UNI a partir del 22-01-2024 (R.R. N.° 0043-2024-UNI); declinó ese encargo, aceptado por R.R. N.° 0090-2024-UNI (23-01-2024).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0043-2024",
+            "src-pte-rr-0090-2024"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Director (encargado) de la Dirección de Admisión de la UNI en 2025: prórroga del 01-04-2025 al 31-07-2025 (R.R. N.° 0812-2025-UNI) y extensión del 01-08-2025 al 31-10-2025 (R.R. N.° 1998-2025-UNI). Las resoluciones hablan de 'prorrogar' la encargatura; el acto inicial de 2025 no fue ubicado.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0812-2025",
+            "src-pte-rr-1998-2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Presidente del Tribunal de Honor Universitario de la UNI para el periodo setiembre 2025 – agosto 2026 y vocal para setiembre 2026 – agosto 2027 (R.R. N.° 2657-2025-UNI); el directorio gob.pe lo registra como Presidente del THU con fecha de inicio 01-09-2025.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-2657-2025",
+            "src-pte-gobpe-uni-lastra"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
@@ -520,6 +616,18 @@
         "status": "pendiente",
         "note": "Registro ORCID con empleo declarado en la FIM-UNI (coincide con la facultad del candidato); sin publicaciones listadas.",
         "consultedAt": "2026-10-16"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-1-3",
+        "provider": "otro",
+        "profileId": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=14119&in_anno_consulta=2021&ch_mes_consulta=12&vc_nombre_funcionario=LASTRA&vc_dni_funcionario=&ch_tipo_regimen=1&id_tema=32&Ver=",
+        "displayName": "LASTRA ESPINOZA, LUIS ANTONIO (PTE – Universidad Nacional José María Arguedas, dic-2021, CAS)",
+        "status": "pendiente",
+        "note": "Coincidencia exacta de nombre en el PTE de UNAJMA (Andahuaylas), sólo en el corte 2021-12, régimen CAS, con cargo y dependencia en blanco. Entidad distinta a la UNI y sin cargo legible: posible homónimo o posible integración de comisión organizadora; no se encontró fuente que lo vincule a la UNI. Verificar en resoluciones de SUNEDU/MINEDU sobre la comisión organizadora de UNAJMA."
       }
     ],
     "pendingSources": [
@@ -530,7 +638,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
-      "Doctorado no identificado: sin tesis en ALICIA ni Repositorio UNI; ORCID 0009-0005-5173-9213 vacío. Sus coautorías con N. Patrakhaltsev (1998) sugieren formación en Rusia: buscar en el catálogo de la Biblioteca Estatal Rusa (RSL) o pedir la hoja de vida al CEUNI/lista 1."
+      "Doctorado no identificado: sin tesis en ALICIA ni Repositorio UNI; ORCID 0009-0005-5173-9213 vacío. Sus coautorías con N. Patrakhaltsev (1998) sugieren formación en Rusia: buscar en el catálogo de la Biblioteca Estatal Rusa (RSL) o pedir la hoja de vida al CEUNI/lista 1.",
+      "Ubicar la R.R. que dispuso el encargo inicial de la Dirección de Admisión en 2025 (antes del 01-04-2025) y la R.R. N.° 2330-2025-UNI (designación de miembros del THU)."
     ],
     "corrections": [],
     "meta": {
@@ -1105,6 +1214,15 @@
             "src-rx-gestion-ingemmet-2025"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Director (encargado) de la Unidad de Centro Pre Universitario (CEPRE-UNI) desde el 26-09-2023 (R.R. N.° 2961-2023-UNI, citada en la R.R. N.° 4147-2023-UNI), encargo prorrogado hasta el 31-01-2024; su renuncia fue aceptada por R.R. N.° 0038-2024-UNI (15-01-2024).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-4147-2023",
+            "src-pte-rr-0038-2024"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -1258,7 +1376,16 @@
         }
       ],
       "investigacion": [],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Director (encargado) de la Dirección de Admisión de la UNI en 2023: encargo dispuesto por R.R. N.° 0206-2023-UNI (10-02-2023) y prorrogado del 11-05-2023 al 10-08-2023 por R.R. N.° 1276-2023-UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-1276-2023"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
@@ -1404,7 +1531,17 @@
           "kind": "declaracion"
         }
       ],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Ministro del Ambiente del 09-02-2022 al 24-08-2022 (Declaración Jurada de Intereses registrada ante la Contraloría; designación por R.S. N.° 096-2022-PCM según ProActivo).",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-pte-dj-intereses-2022",
+            "src-pte-proactivo-montoya-2022"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
@@ -1452,7 +1589,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Video YouTube 'ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3' (https://www.youtube.com/watch?v=pYCV_tPxoNI), canal de Modesto Montoya (@cienciayfuturo) según oEmbed: no se pudo ver el contenido (YouTube exige inicio de sesión / bloqueo anti-bot). Transcribir propuestas de Chirif, Páuyac y Montoya cuando sea posible.",
-      "Confirmar la tesis de Doctorat d'État de 1981 (Paris-11, Orsay) en SUDOC/theses.fr; SUDOC devolvió una redirección no legible por script."
+      "Confirmar la tesis de Doctorat d'État de 1981 (Paris-11, Orsay) en SUDOC/theses.fr; SUDOC devolvió una redirección no legible por script.",
+      "Opcional: enlazar el texto de la R.S. N.° 096-2022-PCM (El Peruano) y la R.S. que aceptó su renuncia o dio por concluida su designación como Ministro del Ambiente."
     ],
     "corrections": [],
     "meta": {
@@ -1911,6 +2049,14 @@
             "src-orcid-c-4-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Secretario del Tribunal de Honor Universitario de la UNI para los periodos setiembre 2025 – agosto 2026 y setiembre 2026 – agosto 2027 (R.R. N.° 2657-2025-UNI, que lo nombra 'Dr. FERNANDO HUAMAN PEREZ').",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-2657-2025"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -2047,6 +2193,25 @@
           "status": "parcialmente_verificado",
           "sourceIds": [
             "src-rx-gaceta-historia-uni-22"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Director (encargado) de la Dirección de Admisión de la UNI desde el 26-09-2023 (R.R. N.° 2962-2023-UNI, citada en la R.R. N.° 4038-2023-UNI); el encargo para 2024 quedó sin efecto el 15-01-2024 (R.R. N.° 0043-2024-UNI), que le encargó el despacho de Admisión del 15 al 21-01-2024.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-4038-2023",
+            "src-pte-rr-0043-2024"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Director/jefe del Centro Pre Universitario (CEPRE-UNI): encargado desde el 15-01-2024 (R.R. N.° 0038-2024-UNI), designado por dos años mediante R.R. N.° 0593-2025-UNI (28-02-2025); renuncia aceptada por R.C.U. N.° 1610-2026-UNI, con último día de labores el 11-09-2026.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0038-2024",
+            "src-pte-rr-0593-2025",
+            "src-pte-rcu-1610-2026"
           ],
           "kind": "hecho"
         }
@@ -2412,6 +2577,14 @@
             "src-vr-acta-cu-11-2023"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Designado miembro del Tribunal de Honor Universitario de la UNI por R.R. N.° 2137-2023-UNI (21-07-2023), según el considerando de la R.R. N.° 0870-2024-UNI, que lo mantiene en la conformación del Tribunal a marzo de 2024.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0870-2024"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -2461,7 +2634,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
-      "Precisar la institución que otorgó el doctorado: ORCID declara UFG (Brasil, 2009–2014) y el VRI-UNI escribe 'Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería'. Verificar en SUNEDU."
+      "Precisar la institución que otorgó el doctorado: ORCID declara UFG (Brasil, 2009–2014) y el VRI-UNI escribe 'Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería'. Verificar en SUNEDU.",
+      "Confirmar la fecha de término de su membresía en el Tribunal de Honor Universitario (designado por R.R. N.° 2137-2023-UNI); el THU fue recompuesto en setiembre de 2025 (R.R. N.° 2657-2025-UNI) sin su nombre."
     ],
     "corrections": [],
     "meta": {
@@ -2547,7 +2721,19 @@
           "kind": "hecho"
         }
       ],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Miembro (profesor principal, titular) de la Comisión Ejecutiva de la Asamblea Universitaria 2025-2026 (R.R. N.° 0158-2025-UNI) y de la Comisión Académica y de Calidad Universitaria de la AU 2025-2026 (R.R. N.° 0551-2025-UNI); integró la Comisión Ad Hoc de Reforma Estatutaria (R.R. N.° 0548-2025-UNI) y la comisión para la elección del Defensor Universitario como docente FIM (R.A.U. N.° 0012-2026-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0158-2025",
+            "src-pte-rr-0551-2025",
+            "src-pte-rr-0548-2025",
+            "src-pte-rau-0012-2026"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [
@@ -2995,6 +3181,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Docente de la Facultad de Ingeniería Industrial y de Sistemas de la UNI; la R.R. N.° 1290-2023-UNI le autorizó una subvención económica para participar como expositor en un evento (modalidad virtual).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-1290-2023"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -3016,7 +3210,17 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Contratado como persona natural por el OSCE para consultorías de coordinación del equipo de especialistas del sistema RNP: S/ 39,800 (contrato firmado 12-12-2014, 'Sistema RNP - 1a iteración') y S/ 71,800 (contrato 019-2015-OSCE, firmado 27-03-2015, 'Sistema RNP 5.0'). El registro OCDS no menciona la UNI; la atribución se basa en coincidencia exacta de nombre completo y en la especialidad (sistemas). Atribución por nombre completo exacto y especialidad: el registro de contratación no menciona a la UNI.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-pte-ocds-osce-62982",
+            "src-pte-ocds-osce-77064"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [
         {
@@ -3163,6 +3367,14 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-acta-cu-11-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Miembro del Tribunal de Honor Universitario de la UNI designado por R.R. N.° 2137-2023-UNI (21-07-2023), del que fue Presidente; renunció con carta del 16-01-2024 y su designación quedó sin efecto por R.R. N.° 0870-2024-UNI (12-03-2024).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0870-2024"
           ],
           "kind": "hecho"
         }
@@ -3491,6 +3703,15 @@
             "src-rx-congreso-ciencia-17so-2024"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Director Ejecutivo de PROCIENCIA (Programa Nacional de Investigación Científica y Estudios Avanzados, adscrito a CONCYTEC), régimen CAS, según el listado de personal del PTE de diciembre de 2022; ProActivo, que lo identifica como profesor principal de la UNI, también señala que se desempeñó como director ejecutivo de PROCIENCIA.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-pte-prociencia-2022-12",
+            "src-proactivo-rodriguez-2026"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -3561,7 +3782,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Fechas de la gestión en PROCIENCIA (resoluciones de designación y cese).",
-      "Leer la RP 064-2021-CONCYTEC-P (fecha de designación) y la resolución que dio por concluida su designación como director ejecutivo de PROCIENCIA (antes del 01-09-2024, cuando la dirección ya estaba encargada a otra persona). La RS 132-2018-PCM lo nombra representante de las universidades públicas ante el Consejo Directivo del CONCYTEC, pero no menciona la UNI: confirmar. Doctorado: institución pendiente."
+      "Leer la RP 064-2021-CONCYTEC-P (fecha de designación) y la resolución que dio por concluida su designación como director ejecutivo de PROCIENCIA (antes del 01-09-2024, cuando la dirección ya estaba encargada a otra persona). La RS 132-2018-PCM lo nombra representante de las universidades públicas ante el Consejo Directivo del CONCYTEC, pero no menciona la UNI: confirmar. Doctorado: institución pendiente.",
+      "Ubicar la Resolución de Presidencia de CONCYTEC que lo designó y la que concluyó su designación como Director Ejecutivo de PROCIENCIA, para fijar el periodo exacto (el PTE local sólo lo observa en 2022-12)."
     ],
     "corrections": [],
     "meta": {
@@ -4314,6 +4536,14 @@
             "src-orcid-c-9-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Encargado del Decanato de la Facultad de Ingeniería Química y Textil (FIQT) de la UNI del 24-05-2026 al 30-05-2026, con eficacia anticipada (R.R. N.° 0681-2026-UNI). El directorio de funcionarios gob.pe lo listaba como 'Decano de la Facultad de Ingeniería Química y Textil' en la captura del 2026-06-09 (peru-transparente/data/autoridades.csv); esa ficha ya no está disponible (404 al 2026-10-16) y no se halló el acto que lo designe decano más allá de ese encargo.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pte-rr-0681-2026"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -4357,7 +4587,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Ubicar el acto (R.R./R.A.U.) por el que fue designado o encargado como Decano de la FIQT después del 30-05-2026 (gob.pe lo listaba como decano en junio de 2026)."
     ],
     "corrections": [],
     "meta": {
