@@ -128,6 +128,14 @@
             "src-rs-ceuni-res-038-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -303,6 +311,14 @@
             "src-rs-ceuni-res-042-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -437,6 +453,14 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-rs-ceuni-res-040-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
           ],
           "kind": "hecho"
         }
@@ -623,6 +647,14 @@
             "src-rs-ceuni-res-046-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -745,7 +777,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -865,7 +906,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -995,7 +1045,16 @@
           "kind": "declaracion"
         }
       ],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1129,7 +1188,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1255,7 +1323,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1402,7 +1479,16 @@
           "kind": "declaracion"
         }
       ],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1571,7 +1657,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1691,7 +1786,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. La consulta devolvió 4 registro(s) de otras personas con los mismos apellidos, que no coinciden con su nombre completo. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1820,7 +1924,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. La consulta devolvió 8 registro(s) de otras personas con los mismos apellidos, que no coinciden con su nombre completo. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -1981,7 +2094,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2142,7 +2264,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2302,6 +2433,14 @@
             "src-rx-plan-alva-2021"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -2425,7 +2564,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2553,7 +2701,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2686,7 +2843,16 @@
           "kind": "declaracion"
         }
       ],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2809,7 +2975,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2937,7 +3112,16 @@
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3108,7 +3292,16 @@
           "kind": "declaracion"
         }
       ],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. La consulta devolvió 7 registro(s) de otras personas con los mismos apellidos, que no coinciden con su nombre completo. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -3251,6 +3444,14 @@
             "src-rs-ceuni-res-031-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -3376,6 +3577,14 @@
           "status": "parcialmente_verificado",
           "sourceIds": [
             "src-rx-proactivo-uni-2021-resultados"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
           ],
           "kind": "hecho"
         }
@@ -3548,6 +3757,14 @@
             "src-rx-proactivo-uni-2021-resultados"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -3698,7 +3915,16 @@
       ],
       "propuestas": [],
       "declaraciones": [],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [],
     "pendingSources": [
@@ -3813,6 +4039,14 @@
           "status": "parcialmente_verificado",
           "sourceIds": [
             "src-rx-proactivo-uni-2021-resultados"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-servir-rnssc-2026-10-16"
           ],
           "kind": "hecho"
         }
