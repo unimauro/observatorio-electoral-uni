@@ -6,25 +6,30 @@
   </defs>
   <rect width="1200" height="630" fill="#F4F1EA"/>
   <rect width="1200" height="44" fill="#111111"/>
-  <text x="60" y="29" font-family="Menlo, monospace" font-size="17" letter-spacing="3" fill="#F4F1EA">PROYECTO CIUDADANO INDEPENDIENTE · NO OFICIAL · CADA DATO CON SU FUENTE</text>
-  <text x="60" y="118" font-family="Menlo, monospace" font-size="22" letter-spacing="2" fill="#58554F">OBSERVATORIO ELECTORAL UNIVERSITARIO · UNI 2026</text>
-  <text x="56" y="240" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="104" fill="#111111">VOTAR A CIEGAS</text>
-  <rect x="56" y="285" width="885" height="62" fill="#FFD400"/>
-  <text x="56" y="350" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="104" fill="#111111">NO ES OPCIÓN.</text>
+  <text x="60" y="29" font-family="Menlo, monospace" font-size="17" letter-spacing="3" fill="#F4F1EA">OBSERVATORIO CIUDADANO · INDEPENDIENTE · CADA DATO CON SU FUENTE</text>
+  <text x="56" y="168" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="122" fill="#111111">ELECCIONES</text>
+  <rect x="56" y="196" width="640" height="118" fill="#FFD400"/>
+  <text x="70" y="298" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="122" fill="#111111">UNI 2026</text>
+  <text x="60" y="372" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="31" fill="#111111">INFÓRMATE ANTES DE VOTAR · RECTOR Y VICERRECTORES</text>
   <g font-family="Arial Black, Arial, sans-serif" font-weight="900" fill="#111111">
-    <text x="60" y="490" font-size="88">9</text>
+    <text x="60" y="490" font-size="84">9</text>
     <text x="60" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">LISTAS</text>
-    <text x="250" y="490" font-size="88">27</text>
-    <text x="250" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">CANDIDATURAS</text>
-    <text x="520" y="490" font-size="88" fill="#BE1E18">0/9</text>
-    <text x="520" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">PLANES LOCALIZADOS (AÚN)</text>
+    <text x="230" y="490" font-size="84">27</text>
+    <text x="230" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">CANDIDATURAS</text>
+    <text x="490" y="490" font-size="84">100+</text>
+    <text x="490" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">FUENTES CITADAS</text>
   </g>
-  <g transform="translate(960 380)">
-    <rect width="170" height="170" rx="14" fill="#111111"/>
-    <rect x="24" y="24" width="122" height="122" rx="4" fill="#FFD400"/>
-    <circle cx="85" cy="85" r="34" fill="none" stroke="#111111" stroke-width="13"/>
-    <circle cx="85" cy="85" r="12" fill="#111111"/>
-    <path d="M24 85h27M119 85h27M85 24v27M85 119v27" stroke="#111111" stroke-width="13"/>
+  <g transform="translate(880 455) rotate(-6)">
+    <rect width="240" height="74" rx="6" fill="none" stroke="#BE1E18" stroke-width="6"/>
+    <text x="120" y="50" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="34" fill="#BE1E18">NO OFICIAL</text>
+  </g>
+  <g transform="translate(960 64) scale(2.9)">
+    <rect width="64" height="64" rx="8" fill="#111111"/>
+    <rect x="22" y="6" width="20" height="22" rx="1.5" fill="#F4F1EA" transform="rotate(-8 32 17)"/>
+    <path d="M27 17l4 4 7-9" fill="none" stroke="#111111" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-8 32 17)"/>
+    <rect x="8" y="24" width="48" height="34" rx="3" fill="#FFD400"/>
+    <rect x="17" y="27" width="30" height="4" rx="2" fill="#111111"/>
+    <text x="32" y="53" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="18" fill="#111111">UNI</text>
   </g>
   <rect y="600" width="1200" height="30" fill="url(#tape)"/>
 </svg>

@@ -92,7 +92,7 @@ export default function Dashboard() {
         {site.electionDate === new Date().toLocaleDateString('en-CA', { timeZone: 'America/Lima' }) && (
           <p className="mb-4 inline-block bg-alert px-2 py-1 font-mono text-xs font-semibold uppercase tracking-widest text-paper">Hoy se vota · {site.electionDate}</p>
         )}
-        <p className="kicker">{site.university} · {site.period}</p>
+        <p className="kicker">{site.university} · {site.period} · Infórmate antes de votar</p>
         <h1 className="h-display mt-3 text-[2.6rem] sm:text-7xl">
           Votar a ciegas<br />
           <span className="mark">no es opción.</span>
