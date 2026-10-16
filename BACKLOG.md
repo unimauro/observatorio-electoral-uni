@@ -49,3 +49,6 @@
 - [ ] Planes 2026 de listas 2, 6 y 9: no localizados en fuentes públicas; pedir a las listas o al CEUNI (Ley 27806).
 - [ ] Resoluciones decanales no publicadas: solicitud de acceso a la información a la UNI.
 - [ ] Afiliación partidaria: solo si llega consulta manual del ROP para los 27.
+- [x] Resultados 1.ª vuelta (preliminar, imágenes difundidas 16-10): acta pregrado + cómputo ponderado; L8 25.70 % vs L1 20.93 % → 2.ª vuelta 28-10.
+- [ ] Reemplazar fuente de resultados por la resolución/publicación oficial del CEUNI cuando salga; pasar status a "oficial".
+- [ ] 2.ª vuelta 28-10: comparativa L8 vs L1 (planes, propuestas, trayectorias) y resultados.
