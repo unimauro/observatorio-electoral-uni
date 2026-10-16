@@ -207,6 +207,18 @@
         "approx": false
       },
       {
+        "kind": "gestion_uni",
+        "title": "Presidente del Comité Electoral Universitario (CEUNI)",
+        "org": "UNI - CEUNI",
+        "from": "2022-12-29",
+        "to": "2023-12-28",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-rr-0047-2023"
+        ],
+        "approx": false
+      },
+      {
         "from": "2024-01-22",
         "to": "2024-01-23",
         "kind": "gestion_uni",
@@ -216,6 +228,19 @@
         "sourceIds": [
           "src-pte-rr-0043-2024",
           "src-pte-rr-0090-2024"
+        ],
+        "approx": false
+      },
+      {
+        "kind": "gestion_uni",
+        "title": "Director de Admisión (encargado)",
+        "org": "UNI",
+        "from": "2024-07-01",
+        "to": "2025-03-31",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-rr-2220-2024",
+          "src-pte-rr-0812-2025"
         ],
         "approx": false
       },
@@ -403,6 +428,18 @@
           "src-int-cgr-016-2019-2-0209"
         ],
         "approx": false
+      },
+      {
+        "kind": "gestion_uni",
+        "title": "Decano (e) de la FIM (registrado en sesión del CU)",
+        "org": "UNI - FIM",
+        "from": "2024-06-27",
+        "to": null,
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-11-2024"
+        ],
+        "approx": true
       }
     ]
   },
@@ -697,6 +734,33 @@
           "src-orcid-c-3-2"
         ],
         "approx": true
+      },
+      {
+        "kind": "gestion_uni",
+        "title": "Miembro (presidente) del Tribunal de Honor Universitario",
+        "org": "UNI",
+        "from": "2022-02-07",
+        "to": "2022-05-10",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-07-2022",
+          "src-cg-acta-cu-06-2022"
+        ],
+        "approx": false
+      },
+      {
+        "kind": "gestion_uni",
+        "title": "Jefe de la Oficina Central de Admisión (encargado)",
+        "org": "UNI",
+        "from": "2022-05-11",
+        "to": "2023-02-10",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-06-2022",
+          "src-cg-acta-cu-10-2022",
+          "src-cg-acta-cu-21-2022"
+        ],
+        "approx": false
       },
       {
         "from": "2023-02-10",
@@ -1285,6 +1349,18 @@
         "approx": true
       },
       {
+        "kind": "gestion_uni",
+        "title": "Miembro de la Comisión de Bienestar Universitario, Proyección Social y Extensión (AU)",
+        "org": "UNI - Asamblea Universitaria",
+        "from": "2024-08-05",
+        "to": null,
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-au-04-2024"
+        ],
+        "approx": true
+      },
+      {
         "from": "2025-09",
         "to": "2027-08",
         "kind": "gestion_uni",
@@ -1586,6 +1662,19 @@
         "approx": true
       },
       {
+        "kind": "cargo_publico",
+        "title": "Presidente de la Comisión Organizadora",
+        "org": "Universidad Nacional Tecnológica de Lima Sur (MINEDU)",
+        "from": "2020-01-24",
+        "to": "2022-06-03",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-rvm-025-2020-minedu",
+          "src-cg-rvm-066-2022-minedu"
+        ],
+        "approx": false
+      },
+      {
         "from": "2021",
         "to": null,
         "kind": "candidatura",
@@ -1596,6 +1685,18 @@
           "src-rx-proactivo-uni-2021-planes",
           "src-rx-proactivo-uni-2021-resultados",
           "src-rx-plan-alva-2021"
+        ],
+        "approx": true
+      },
+      {
+        "kind": "gestion_uni",
+        "title": "Jefe de la Oficina Central de Admisión (cargo concluido el 10-05-2022; inicio sin fecha en la fuente)",
+        "org": "UNI",
+        "from": "2022-05-10",
+        "to": null,
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-06-2022"
         ],
         "approx": true
       },
@@ -2507,6 +2608,18 @@
           "src-orcid-arnao"
         ],
         "approx": false
+      },
+      {
+        "kind": "gestion_uni",
+        "title": "Miembro de la Comisión Ad-hoc de revisión del Estatuto (AU)",
+        "org": "UNI - Asamblea Universitaria",
+        "from": "2016-01-29",
+        "to": "2019-07-09",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-au-03-2023"
+        ],
+        "approx": true
       },
       {
         "from": "2016-09-07",

@@ -678,6 +678,23 @@
             "src-pte-gobpe-uni-lastra"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Designado presidente del Comité Electoral Universitario (CEUNI), conformado por RR N.º 2706-2022-UNI y precisado por RR N.º 0047-2023-UNI (18-01-2023), para el periodo del 29-12-2022 al 28-12-2023.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-rr-0047-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Encargado como director de la Dirección de Admisión de la UNI, por RR N.º 2220-2024-UNI (27-06-2024), desde el 01-07-2024 hasta el 31-12-2024; según la RR N.º 0812-2025-UNI, la encargatura se renovó por RR N.º 4030-2024-UNI (27-12-2024) del 01-01-2025 al 31-03-2025, antes de las prórrogas ya registradas desde el 01-04-2025.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-rr-2220-2024",
+            "src-pte-rr-0812-2025"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [
@@ -826,6 +843,18 @@
         "displayName": "LASTRA ESPINOZA, LUIS ANTONIO – Presidente, Comisión Organizadora, UNAJMA (CAS)",
         "status": "pendiente",
         "note": "El PTE de la Universidad Nacional José María Arguedas registra a 'LASTRA ESPINOZA, LUIS ANTONIO' como Presidente de la Comisión Organizadora (CAS) con S/ 14,500.00 mensuales de 2022-01 a 2022-06 (y 2021-12 en el barrido local). Coincide el nombre completo, pero ninguna fuente leída vincula esa designación con el docente de la UNI-FIM; no se publica hasta confirmar identidad (p. ej., RVM 323-2021-MINEDU)."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-1-3",
+        "provider": "otro",
+        "profileId": "https://www.gob.pe/institucion/minedu/normas-legales/2501880-323-2021-minedu",
+        "displayName": "LUIS ANTONIO LASTRA ESPINOZA (Presidente, Comisión Organizadora UNAJMA, 30-11-2021 a 07-07-2022)",
+        "status": "pendiente",
+        "note": "Coincide el nombre completo en las RVM N.º 323-2021-MINEDU y N.º 085-2022-MINEDU (src-cg-rvm-323-2021-minedu, src-cg-rvm-085-2022-minedu), pero ninguna menciona a la UNI. Falta una fuente que vincule al docente de la FIM con ese cargo (p. ej. licencia por designación en un acta del CU, CV en hoja de vida CEUNI o declaración del candidato). El agente integridad dejó un lead similar sobre informes de la UNAJMA."
       }
     ],
     "pendingSources": [
@@ -841,7 +870,8 @@
       "Identificar la falta imputada en el PAD que terminó en la RD N.° 003-2021 (anulada) y el resultado del procedimiento retrotraído en 2025. Confirmar la identidad respecto a los informes de control de la UNAJMA (ver leads).",
       "Leer la RVM 323-2021-MINEDU (designación de Luis Antonio Lastra Espinoza en la UNAJMA) y buscar el CV que lo vincule con la UNI.",
       "Confirmar si el Presidente de la Comisión Organizadora de la UNAJMA (PTE 2021-12 a 2022-06, S/ 14,500.00 CAS) es el candidato; ver lead.",
-      "Confirmar en el reporte de ejecución 2019 de facultades el monto asignado al proyecto del motor para vehículo aéreo no tripulado (las columnas del PDF no permiten asignarlo con certeza)."
+      "Confirmar en el reporte de ejecución 2019 de facultades el monto asignado al proyecto del motor para vehículo aéreo no tripulado (las columnas del PDF no permiten asignarlo con certeza).",
+      "Confirmar si el presidente de la Comisión Organizadora de la UNAJMA (RVM 323-2021 y 085-2022-MINEDU) es el candidato: buscar licencia por designación en actas de CU de fines de 2021 y 2022 (en gob.pe no se encontró) o su hoja de vida en el expediente CEUNI. El acta CU N.º 04-2025 lo llama 'exdecano' al anular la RD N.º 003-2021: falta la resolución y el periodo de ese decanato (FIM)."
     ],
     "corrections": [],
     "meta": {
@@ -969,6 +999,14 @@
             "src-deb-video-uni"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "En el acta del Consejo Universitario N.º 11-2024 (sesión del 27-06-2024) figura como 'Decano (e) FIM' (Facultad de Ingeniería Mecánica). La fuente no indica la resolución ni el periodo de la encargatura.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-acta-cu-11-2024"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [
@@ -1149,7 +1187,8 @@
       "Situación final de la destitución impuesta por la RR N.° 039 del 18-01-2016 (caso compra de buses 2010). La nulidad conocida (RR 2578-2023-UNI) proviene de la demanda de Humala. Buscar si Padilla impugnó ante el TSC o el Poder Judicial, o si la sanción quedó firme. Hay que tener en cuenta que en 2022 fue reincorporado como docente principal en aplicación de la Ley 31542 (acta CU N.° 22-2022) y en 2024 fue decano (e) de la FIM.",
       "Padilla Ríos mostró en el debate su 'plan de gestión de gobierno para los próximos cinco años' (00:51:25); buscar versión pública.",
       "Lista 2 (Padilla): en el debate CEUNI dijo 'El plan de gestión de gobierno para los próximos cinco años está acá, debidamente desarrollado' [00:51:25], sin citar URL ni nombre de movimiento. No localizado al 2026-10-16 en: portal CEUNI (página de la elección 2026, sitemap, búsqueda WP y API de medios: solo padrones, formatos e inscripciones), nota de RPP sobre el debate (sin enlaces a planes), web de FIM (API de medios), WebSearch abierto y por Scribd/Issuu/Drive. Siguiente paso: pedir el PDF a la lista o al CEUNI (Ley 27806); revisar redes de la lista con navegador si el enlace es público sin login.",
-      "En el debate declaró que el CISMID ganó un proyecto JICA de USD 5 millones durante su gestión; no se encontró documento del VRI que lo registre como responsable."
+      "En el debate declaró que el CISMID ganó un proyecto JICA de USD 5 millones durante su gestión; no se encontró documento del VRI que lo registre como responsable.",
+      "Resolución y periodo de su encargatura como decano (e) de la FIM en 2024 (sólo consta en la lista de asistencia del acta CU N.º 11-2024). El acta CU N.º 09-2024 (29-05-2024) y la N.º 25-2024 (27-11-2024) lo registran como 'Representante FIM'."
     ],
     "corrections": [],
     "meta": {
@@ -1877,6 +1916,25 @@
             "src-tp-ep-rvm012-2025-minedu"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Encargado de la jefatura de la Oficina Central de Admisión de la UNI por RR N.º 0880-2022 (11-05-2022), desde el 11-05-2022; prorrogado por RR N.º 1570-2022 (hasta el 10-11-2022) y RR N.º 2281-2022 (hasta el 10-02-2023), según las actas del Consejo Universitario N.º 06, 10 y 21 de 2022.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-acta-cu-06-2022",
+            "src-cg-acta-cu-10-2022",
+            "src-cg-acta-cu-21-2022"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Integrante del Tribunal de Honor Universitario conformado por RR N.º 0164-2022 (07-02-2022); presentó su renuncia irrevocable el 10-05-2022, según el acta del Consejo Universitario N.º 07-2022. El acta N.º 06-2022 lo menciona como presidente del Tribunal de Honor al dar cuenta de esa renuncia.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-acta-cu-07-2022",
+            "src-cg-acta-cu-06-2022"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [
@@ -1934,7 +1992,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Ph.D. RUDN 2005 sólo declarado en ORCID: buscar la disertación en el catálogo de la Biblioteca Estatal Rusa (dissercat/RSL) con transliteración del nombre.",
-      "Sin entrada de asesor 'Páuyac Huamán, José Aníbal' (ni variantes Pauyac/Páuyac) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor ('Páuyac Huamán, J. Anibal'). Revisar RENATI o variantes abreviadas."
+      "Sin entrada de asesor 'Páuyac Huamán, José Aníbal' (ni variantes Pauyac/Páuyac) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor ('Páuyac Huamán, J. Anibal'). Revisar RENATI o variantes abreviadas.",
+      "El acta de AU N.º 05-2023 (20-12-2023) recoge una propuesta de la vicerrectora académica que lo describe como 'miembro del Consejo de Facultad, ... coordinador del programa de tutoría de la FIEE, director de la ...' (texto cortado por OCR). Es una descripción de un tercero, sin resolución, y no se registró. Revisar si hay RD de la FIEE."
     ],
     "corrections": [],
     "meta": {
@@ -2870,6 +2929,14 @@
             "src-pte-rr-2657-2025"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Elegido miembro titular (docente principal) de la Comisión de Bienestar Universitario, Proyección Social y Extensión Universitaria de la Asamblea Universitaria, según el acta de la Asamblea Universitaria N.º 04-2024 (sesiones de julio-agosto de 2024).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-acta-au-04-2024"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -3668,6 +3735,24 @@
             "src-pte-rau-0012-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Designado presidente de la Comisión Organizadora de la Universidad Nacional Tecnológica de Lima Sur (UNTELS) por RVM N.º 025-2020-MINEDU (24-01-2020); presentó su renuncia el 23-11-2021 y esta fue aceptada por RVM N.º 066-2022-MINEDU (03-06-2022).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-rvm-025-2020-minedu",
+            "src-cg-rvm-066-2022-minedu",
+            "src-deb-video-uni"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Se desempeñó como jefe de la Oficina Central de Admisión de la UNI hasta mayo de 2022: la RR N.º 0880-2022 (11-05-2022) le agradece 'por su desempeño en el cargo' y encarga la jefatura a otro docente desde el 11-05-2022, según el acta del Consejo Universitario N.º 06-2022. La fecha de inicio no figura en esa fuente.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-acta-cu-06-2022"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [
@@ -3816,7 +3901,8 @@
       "Buscar un CV en gob.pe de Electro Puno o Electro Sur Este, o en el portal de transparencia de la UNTELS, que vincule a 'Fortunato Alva Dávila' con la FIM-UNI. Confirmar si sigue en el directorio de Electro Sur Este (nombrado el 22-05-2026).",
       "Alva Dávila dijo en el debate que su plan de trabajo tiene 25 páginas (02:04:22); buscar el documento publicado por la Lista 6.",
       "Lista 6 (Alva): en el debate dijo 'nuestro plan de trabajo hemos presentado, hay 25 páginas, lo pueden leer' [02:04:18]; lema de cierre 'una UNI innovadora, inteligente y socialmente responsable' [03:47:19]. No localizado al 2026-10-16 en: portal CEUNI, RPP, WebSearch (nombre, lema, vicerrectores Palma/Guimaray), Scribd/Issuu/Drive. El único plan suyo hallado es el de 2021 (src-rx-plan-alva-2021, 20 páginas), que NO es el de 2026. Siguiente paso: solicitar el plan 2026 a la lista o al CEUNI.",
-      "Declaró en debate tener una patente; buscar en INDECOPI/VRI \"concurso de patentes\" y en reportes de facultades FIM."
+      "Declaró en debate tener una patente; buscar en INDECOPI/VRI \"concurso de patentes\" y en reportes de facultades FIM.",
+      "Fecha de inicio de la jefatura de la Oficina Central de Admisión (concluida con RR N.º 0880-2022). Buscar en actas de CU de fines de 2021 o comienzos de 2022 (no están en gob.pe) o pedirla por transparencia a la UNI."
     ],
     "corrections": [],
     "meta": {
@@ -5217,7 +5303,16 @@
         }
       ],
       "investigacion": [],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Reconocido por RR N.º 460-2021 (05-05-2021) para asumir interinamente las funciones de decano de la Facultad de Ingeniería Civil desde el 09-05-2021, por un máximo de 90 días o hasta la elección del decano; la RR N.º 0917-2021-UNI (11-08-2021) le agradece su labor como decano interino al reconocer al decano electo desde el 09-08-2021.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-rr-0917-2021"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
@@ -5653,6 +5748,14 @@
             "src-deb-video-uni"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Integrante de la Comisión Ad-hoc de la Asamblea Universitaria encargada de revisar el Estatuto de la UNI, conformada por RR N.º 0152-2016 (29-01-2016) y mantenido en las recomposiciones por RR N.º 1631-2017 (30-10-2017) y RR N.º 0968-2019 (09-07-2019), según el recuento leído en el acta de la Asamblea Universitaria N.º 03-2023.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-cg-acta-au-03-2023"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [

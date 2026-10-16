@@ -1,0 +1,511 @@
+{
+  "agent": "cargos",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "id": "src-cg-rr-0047-2023",
+      "title": "Resolución Rectoral N.° 0047-2023-UNI (conformación del Comité Electoral Universitario 2023)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5614716/4978961-resolucion-rectoral-nro-0047-2023-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales/4978961-0047-2023-uni",
+      "publishedAt": "2023-01-18",
+      "type": "normativa",
+      "identifier": "RR N.° 0047-2023-UNI",
+      "locator": "Art. 1°: 'El Comité Electoral Universitario ... conformado para el período del 29 de diciembre de 2022 al 28 de diciembre de 2023 mediante Resolución Rectoral N° 2706-2022-UNI, quedará constituido de la siguiente manera: Dr. Luis Antonio Lastra Espinoza Presidente'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-rr-2220-2024",
+      "title": "Resolución Rectoral N.° 2220-2024-UNI (encargatura de la Dirección de Admisión)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/6890394/5954270-2220-2024-uni.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales/5954270-2220-2024-uni",
+      "publishedAt": "2024-06-27",
+      "type": "normativa",
+      "identifier": "RR N.° 2220-2024-UNI",
+      "locator": "Art. 2°: 'Encargar al Dr. LUIS ANTONIO LASTRA ESPINOZA como director de la Dirección de Admisión de la Universidad Nacional de Ingeniería, a partir del 01 de julio de 2024 hasta el 31 de diciembre de 2024.'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-acta-cu-06-2022",
+      "title": "Acta de Consejo Universitario Ordinario Virtual N.° 06-2022 (20-05-2022)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5129090/Acta%20de%20Consejo%20Universitario%20Ordinario%20Virtual%20N%C2%B0%2006-2022.PDF",
+      "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/4621258-acta-de-consejo-universitario-ordinario-virtual-n-06-2022",
+      "publishedAt": "2022-05-20",
+      "type": "documento_institucional",
+      "identifier": "Acta CU N.° 06-2022",
+      "locator": "Despacho, ítem 60: 'Resolución Rectoral N° 0880 de fecha 11 de mayo de 2022, que resuelve: 1.- Agradecer al Dr. Fortunato Alva Dávila por su desempeño en el cargo de Jefe de la Oficina Central de Admisión ... 2.- Encargar al Dr. José Aníbal Páuyac Huamán la jefatura de la Oficina Central de Admisión ... a partir del 11 de mayo de 2022 hasta el 10 de agosto del presente año.' También: 'se ha recepcionado la renuncia del presidente del Tribunal de Honor, Dr. José Aníbal Páuyac Huamán'.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-2",
+        "c-6-1"
+      ],
+      "notes": "Texto extraído del PDF (capa de texto). El acta resume resoluciones rectorales; la RR 0880-2022 no está publicada por separado en gob.pe."
+    },
+    {
+      "id": "src-cg-acta-cu-07-2022",
+      "title": "Acta de Consejo Universitario Ordinario Virtual N.° 07-2022 (30-05-2022)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5129094/Acta%20de%20Consejo%20Universitario%20Ordinario%20Virtual%20N%C2%B0%2007-2022.PDF",
+      "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/4621259-acta-de-consejo-universitario-ordinario-virtual-n-07-2022",
+      "publishedAt": "2022-05-30",
+      "type": "documento_institucional",
+      "identifier": "Acta CU N.° 07-2022",
+      "locator": "'Mediante la Resolución Rectoral N° 0164 de fecha 07 de febrero de 2022, se aprobó la conformación del Tribunal de Honor ... integrado por la Dra. Ruth Elena Maldonado Alata (FIM), el Dr. José Aníbal Páuyac Huamán (FIEE) y la Dra. Lupe Nerida Pizán Toscano. Que, mediante el documento S/N de fecha 10 de mayo de 2022, el Dr. José Aníbal Páuyac Huamán presentó su renuncia irrevocable como miembro del Tribunal de Honor.'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-acta-cu-10-2022",
+      "title": "Acta de Consejo Universitario Ordinario Virtual N.° 10-2022 (24-08-2022)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5129107/Acta%20de%20Consejo%20Universitario%20Ordinario%20Virtual%20N%C2%B0%2010-2022.PDF",
+      "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/4621262-acta-de-consejo-universitario-ordinario-virtual-n-10-2022",
+      "publishedAt": "2022-08-24",
+      "type": "documento_institucional",
+      "identifier": "Acta CU N.° 10-2022",
+      "locator": "Ítem 22: 'Resolución Rectoral N° 1570 de fecha 09 de agosto de 2022, que resuelve prorrogar la encargatura del Dr. José Aníbal Páuyac Huamán en la jefatura de la Oficina Central de Admisión de la UNI por el periodo de 03 (tres) meses, a partir del 11 de agosto hasta el 10 de noviembre de 2022.'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-acta-cu-21-2022",
+      "title": "Acta de Consejo Universitario Ordinario Virtual N.° 21-2022 (11-11-2022)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5129900/Acta%20de%20Consejo%20Universitario%20Ordinario%20Virtual%20N%C2%B0%2021-2022.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/4621272-acta-de-consejo-universitario-ordinario-virtual-n-21-2022",
+      "publishedAt": "2022-11-11",
+      "type": "documento_institucional",
+      "identifier": "Acta CU N.° 21-2022",
+      "locator": "Ítem 14: 'Resolución Rectoral N° 2281 de fecha 02 de noviembre de 2022, que resuelve: prorrogar la encargatura del Dr. José Aníbal Páuyac Huamán en la jefatura de la Oficina Central de Admisión de la UNI por el periodo de 03 (tres) meses, a partir del 11 de noviembre de 2022 hasta el 10 de febrero de 2023.'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-rvm-025-2020-minedu",
+      "title": "Resolución Viceministerial N.° 025-2020-MINEDU (reconformación de la Comisión Organizadora de la UNTELS)",
+      "author": "Ministerio de Educación",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/496325/RVM_N__025-2020-MINEDU.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/minedu/normas-legales/414713-025-2020-minedu",
+      "publishedAt": "2020-01-24",
+      "type": "normativa",
+      "identifier": "RVM N.° 025-2020-MINEDU",
+      "locator": "Art. 2: 'Reconformar la Comisión Organizadora de la Universidad Nacional Tecnológica de Lima Sur, la misma que estará integrada por: - FORTUNATO ALVA DAVILA, Presidente'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-1"
+      ],
+      "notes": "PDF escaneado; texto leído por OCR. La RVM no menciona a la UNI; la identidad se corrobora con la presentación del candidato en el debate CEUNI (src-deb-video-uni: 'Fue rector de la Universidad Nacional Tecnológica de Lima Sur del 2020 al 2021')."
+    },
+    {
+      "id": "src-cg-rvm-066-2022-minedu",
+      "title": "Resolución Viceministerial N.° 066-2022-MINEDU (renuncia en la Comisión Organizadora de la UNTELS)",
+      "author": "Ministerio de Educación",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/3205678/RVM_N%C2%B0_066-2022-MINEDU.pdf.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/minedu/normas-legales/3078171-066-2022-minedu",
+      "publishedAt": "2022-06-03",
+      "type": "normativa",
+      "identifier": "RVM N.° 066-2022-MINEDU",
+      "locator": "Considerando: 'con Carta s/n del 23 de noviembre de 2021, el señor FORTUNATO ALVA DÁVILA, presenta su renuncia al cargo de presidente de la Comisión Organizadora de la UNTELS'; Art. 1: 'Aceptar la renuncia presentada por el señor FORTUNATO ALVA DAVILA, al cargo de Presidente de la Comisión Organizadora de la Universidad Nacional Tecnológica de Lima Sur'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-acta-cu-11-2024",
+      "title": "Acta de Consejo Universitario Ordinario Presencial N.° 11-2024 (27-06-2024)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7922628/6668013-11-acta-de-consejo-universitario-sesion-ordinaria-presencial-n-11-27-06-24.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/6668013-acta-de-consejo-universitario-ordinario-presencial-n-11-2024",
+      "publishedAt": "2024-06-27",
+      "type": "documento_institucional",
+      "identifier": "Acta CU N.° 11-2024",
+      "locator": "Lista de asistencia, invitados: 'Dr. Aurelio Padilla Ríos – Decano (e) FIM'; intervenciones registradas como 'Dr. Aurelio Padilla Ríos. Decano (e) FIM'.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-acta-au-04-2024",
+      "title": "Acta de Asamblea Universitaria Ordinaria Presencial N.° 04-2024 (15-07, 24-07 y 05-08-2024)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7923504/6668541-04-acta-de-asamblea-universitaria-sesion-ordinaria-presencial-n-04-2024-inic-15-07-2024-cont-24-07-2024-culm-05-08-2024.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/6668541-acta-de-asamblea-universitaria-ordinaria-presencial-n-04-2024",
+      "publishedAt": "2024-08-15",
+      "type": "documento_institucional",
+      "identifier": "Acta AU N.° 04-2024",
+      "locator": "'acordaron que la conformación de la Comisión de Bienestar Universitario, Proyección Social y Extensión Universitaria, sería la siguiente: ... M.Sc. Juan Francisco Tisza Contreras PR Presidente; Dr. Fernando Huamán Pérez PR Titular ...'",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-4-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-cg-acta-au-03-2023",
+      "title": "Acta de Asamblea Universitaria Extraordinaria Presencial N.° 03-2023 (10-08-2023)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7923109/6668340-03-acta-de-asamblea-universitaria-sesion-extraordinaria-presencial-n-03-10-08-23.PDF",
+      "landingUrl": "https://www.gob.pe/institucion/uni/informes-publicaciones/6668340-acta-de-asamblea-universitaria-extraordinaria-presencial-n-03-2023",
+      "publishedAt": "2023-08-10",
+      "type": "documento_institucional",
+      "identifier": "Acta AU N.° 03-2023",
+      "locator": "'Línea de tiempo de las comisiones ad-hoc de reforma del Estatuto UNI. 1. Resolución Rectoral N.° 0152 de 29 de enero de 2016 ... se resuelve conformar la Comisión Ad-hoc de la Asamblea Universitaria encargada de revisar el Estatuto de la UNI. Siendo sus integrantes: 1. Dr. Jorge Elías Alva Hurtado (Presidente) 2. Dr. Raymundo Ildefonzo Arnao Rondán ...'; se repite en la RR N.° 1631 (30-10-2017) y la RR N.° 0968 (09-07-2019).",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-1"
+      ],
+      "notes": "gob.pe publica el acta con fecha 10-09-2023; el nombre del archivo indica sesión del 10-08-2023."
+    },
+    {
+      "id": "src-cg-rr-0917-2021",
+      "title": "Resolución Rectoral N.° 0917-2021-UNI (reconocimiento del decano electo de la FIC)",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5676658/5038893-rr-0917-2021.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/uni/normas-legales/5038893-0917-2021-uni",
+      "publishedAt": "2021-08-11",
+      "type": "normativa",
+      "identifier": "RR N.° 0917-2021-UNI",
+      "locator": "'por Resolución Rectoral N° 460, de fecha 05 de mayo de 2021, se reconoció al profesor principal Dr. Rafael Rolando Salinas Basualdo, para que asuma interina y transitoriamente, las funciones de Decano de la Facultad de Ingeniería Civil ... a partir del 09 de mayo del 2021, por un periodo máximo de 90 días, o hasta la elección del decano'; Art. 2: 'Agradecer al Dr. Rafael Rolando Salinas Basualdo por su labor desempeñada como Decano Interino de la Facultad de Ingeniería Civil'.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-2"
+      ],
+      "notes": "PDF escaneado; texto leído por OCR. Complementa el evento ya registrado 'Decano (e) de la FIC' (2019-11-13 a 2021-08-08, fuente CGR)."
+    },
+    {
+      "id": "src-cg-rvm-323-2021-minedu",
+      "title": "Resolución Viceministerial N.° 323-2021-MINEDU (reconformación de la Comisión Organizadora de la UNAJMA)",
+      "author": "Ministerio de Educación",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/2548408/RVM_N%C2%B0_323-2021-MINEDU.pdf.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/minedu/normas-legales/2501880-323-2021-minedu",
+      "publishedAt": "2021-11-30",
+      "type": "normativa",
+      "identifier": "RVM N.° 323-2021-MINEDU",
+      "locator": "Art. 3: 'RECONFORMAR la Comisión Organizadora de la Universidad Nacional José María Arguedas, la misma que estará integrada por: - LUIS ANTONIO LASTRA ESPINOZA, Presidente'",
+      "status": "pendiente_revision",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": "PDF escaneado (OCR). Coincide el nombre completo, pero la RVM no menciona a la UNI ni otro dato que permita confirmar la identidad; no se registra como claim."
+    },
+    {
+      "id": "src-cg-rvm-085-2022-minedu",
+      "title": "Resolución Viceministerial N.° 085-2022-MINEDU (conclusión de designaciones en la Comisión Organizadora de la UNAJMA)",
+      "author": "Ministerio de Educación",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/3383152/20220708_73239_RVM_N%C2%B0_085-2022-MINEDU.pdf.pdf",
+      "landingUrl": "https://www.gob.pe/institucion/minedu/normas-legales/3243684-085-2022-minedu",
+      "publishedAt": "2022-07-07",
+      "type": "normativa",
+      "identifier": "RVM N.° 085-2022-MINEDU",
+      "locator": "Art. 1: 'Dar por concluidas las designaciones de los señores LUIS ANTONIO LASTRA ESPINOZA, en el cargo de Presidente; ... de la Comisión Organizadora de la Universidad Nacional “José María Arguedas”.'",
+      "status": "pendiente_revision",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": "Igual que la RVM 323-2021: sin dato de vínculo con la UNI."
+    }
+  ],
+  "claims": [
+    {
+      "candidateId": "c-1-3",
+      "section": "gestion",
+      "text": "Designado presidente del Comité Electoral Universitario (CEUNI), conformado por RR N.º 2706-2022-UNI y precisado por RR N.º 0047-2023-UNI (18-01-2023), para el periodo del 29-12-2022 al 28-12-2023.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-rr-0047-2023"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "gestion",
+      "text": "Encargado como director de la Dirección de Admisión de la UNI, por RR N.º 2220-2024-UNI (27-06-2024), desde el 01-07-2024 hasta el 31-12-2024; según la RR N.º 0812-2025-UNI, la encargatura se renovó por RR N.º 4030-2024-UNI (27-12-2024) del 01-01-2025 al 31-03-2025, antes de las prórrogas ya registradas desde el 01-04-2025.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-rr-2220-2024",
+        "src-pte-rr-0812-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-2",
+      "section": "gestion",
+      "text": "Encargado de la jefatura de la Oficina Central de Admisión de la UNI por RR N.º 0880-2022 (11-05-2022), desde el 11-05-2022; prorrogado por RR N.º 1570-2022 (hasta el 10-11-2022) y RR N.º 2281-2022 (hasta el 10-02-2023), según las actas del Consejo Universitario N.º 06, 10 y 21 de 2022.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-acta-cu-06-2022",
+        "src-cg-acta-cu-10-2022",
+        "src-cg-acta-cu-21-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-2",
+      "section": "gestion",
+      "text": "Integrante del Tribunal de Honor Universitario conformado por RR N.º 0164-2022 (07-02-2022); presentó su renuncia irrevocable el 10-05-2022, según el acta del Consejo Universitario N.º 07-2022. El acta N.º 06-2022 lo menciona como presidente del Tribunal de Honor al dar cuenta de esa renuncia.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-acta-cu-07-2022",
+        "src-cg-acta-cu-06-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "gestion",
+      "text": "Designado presidente de la Comisión Organizadora de la Universidad Nacional Tecnológica de Lima Sur (UNTELS) por RVM N.º 025-2020-MINEDU (24-01-2020); presentó su renuncia el 23-11-2021 y esta fue aceptada por RVM N.º 066-2022-MINEDU (03-06-2022).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-rvm-025-2020-minedu",
+        "src-cg-rvm-066-2022-minedu",
+        "src-deb-video-uni"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "gestion",
+      "text": "Se desempeñó como jefe de la Oficina Central de Admisión de la UNI hasta mayo de 2022: la RR N.º 0880-2022 (11-05-2022) le agradece 'por su desempeño en el cargo' y encarga la jefatura a otro docente desde el 11-05-2022, según el acta del Consejo Universitario N.º 06-2022. La fecha de inicio no figura en esa fuente.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-acta-cu-06-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "gestion",
+      "text": "En el acta del Consejo Universitario N.º 11-2024 (sesión del 27-06-2024) figura como 'Decano (e) FIM' (Facultad de Ingeniería Mecánica). La fuente no indica la resolución ni el periodo de la encargatura.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-acta-cu-11-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-3",
+      "section": "gestion",
+      "text": "Elegido miembro titular (docente principal) de la Comisión de Bienestar Universitario, Proyección Social y Extensión Universitaria de la Asamblea Universitaria, según el acta de la Asamblea Universitaria N.º 04-2024 (sesiones de julio-agosto de 2024).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-acta-au-04-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-1",
+      "section": "gestion",
+      "text": "Integrante de la Comisión Ad-hoc de la Asamblea Universitaria encargada de revisar el Estatuto de la UNI, conformada por RR N.º 0152-2016 (29-01-2016) y mantenido en las recomposiciones por RR N.º 1631-2017 (30-10-2017) y RR N.º 0968-2019 (09-07-2019), según el recuento leído en el acta de la Asamblea Universitaria N.º 03-2023.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-acta-au-03-2023"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-2",
+      "section": "gestion",
+      "text": "Reconocido por RR N.º 460-2021 (05-05-2021) para asumir interinamente las funciones de decano de la Facultad de Ingeniería Civil desde el 09-05-2021, por un máximo de 90 días o hasta la elección del decano; la RR N.º 0917-2021-UNI (11-08-2021) le agradece su labor como decano interino al reconocer al decano electo desde el 09-08-2021.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-cg-rr-0917-2021"
+      ],
+      "kind": "hecho"
+    }
+  ],
+  "proposals": [],
+  "leads": [
+    {
+      "candidateId": "c-1-3",
+      "provider": "otro",
+      "profileId": "https://www.gob.pe/institucion/minedu/normas-legales/2501880-323-2021-minedu",
+      "displayName": "LUIS ANTONIO LASTRA ESPINOZA (Presidente, Comisión Organizadora UNAJMA, 30-11-2021 a 07-07-2022)",
+      "orcid": null,
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "Coincide el nombre completo en las RVM N.º 323-2021-MINEDU y N.º 085-2022-MINEDU (src-cg-rvm-323-2021-minedu, src-cg-rvm-085-2022-minedu), pero ninguna menciona a la UNI. Falta una fuente que vincule al docente de la FIM con ese cargo (p. ej. licencia por designación en un acta del CU, CV en hoja de vida CEUNI o declaración del candidato). El agente integridad dejó un lead similar sobre informes de la UNAJMA."
+    }
+  ],
+  "pending": [
+    {
+      "candidateId": "c-1-3",
+      "text": "Confirmar si el presidente de la Comisión Organizadora de la UNAJMA (RVM 323-2021 y 085-2022-MINEDU) es el candidato: buscar licencia por designación en actas de CU de fines de 2021 y 2022 (en gob.pe no se encontró) o su hoja de vida en el expediente CEUNI. El acta CU N.º 04-2025 lo llama 'exdecano' al anular la RD N.º 003-2021: falta la resolución y el periodo de ese decanato (FIM)."
+    },
+    {
+      "candidateId": "c-6-1",
+      "text": "Fecha de inicio de la jefatura de la Oficina Central de Admisión (concluida con RR N.º 0880-2022). Buscar en actas de CU de fines de 2021 o comienzos de 2022 (no están en gob.pe) o pedirla por transparencia a la UNI."
+    },
+    {
+      "candidateId": "c-2-1",
+      "text": "Resolución y periodo de su encargatura como decano (e) de la FIM en 2024 (sólo consta en la lista de asistencia del acta CU N.º 11-2024). El acta CU N.º 09-2024 (29-05-2024) y la N.º 25-2024 (27-11-2024) lo registran como 'Representante FIM'."
+    },
+    {
+      "candidateId": "c-3-2",
+      "text": "El acta de AU N.º 05-2023 (20-12-2023) recoge una propuesta de la vicerrectora académica que lo describe como 'miembro del Consejo de Facultad, ... coordinador del programa de tutoría de la FIEE, director de la ...' (texto cortado por OCR). Es una descripción de un tercero, sin resolución, y no se registró. Revisar si hay RD de la FIEE."
+    },
+    {
+      "candidateId": null,
+      "text": "Candidatos sin nuevos cargos en resoluciones públicas, pese a haber revisado las 1 273 normas de la UNI en gob.pe (texto completo de las 657 que no tratan de grados o títulos), las 105 actas de CU y AU de 2022-2025 y búsquedas nacionales en gob.pe por nombre completo: c-2-2, c-2-3, c-4-2, c-5-2, c-6-2, c-6-3, c-7-3, c-8-3 y c-9-2. Las resoluciones decanales de FIEE, FIM, FC, FIQT y FIGMM no están publicadas en sus webs (la API de medios de WordPress de FIEE y FIM sólo expone 7 PDF; FC, FIQT, FIGMM y FIIS no la exponen). Siguiente paso: pedido de acceso a la información (Ley 27806) a Secretaría General de la UNI por RD y RR de 2015-2022, que gob.pe no tiene completas (el 82 % de lo publicado es de 2023)."
+    }
+  ],
+  "siteUpdates": {
+    "timeline": [
+      {
+        "candidateId": "c-1-3",
+        "kind": "gestion_uni",
+        "title": "Presidente del Comité Electoral Universitario (CEUNI)",
+        "org": "UNI - CEUNI",
+        "from": "2022-12-29",
+        "to": "2023-12-28",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-rr-0047-2023"
+        ],
+        "approx": false
+      },
+      {
+        "candidateId": "c-1-3",
+        "kind": "gestion_uni",
+        "title": "Director de Admisión (encargado)",
+        "org": "UNI",
+        "from": "2024-07-01",
+        "to": "2025-03-31",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-rr-2220-2024",
+          "src-pte-rr-0812-2025"
+        ],
+        "approx": false
+      },
+      {
+        "candidateId": "c-3-2",
+        "kind": "gestion_uni",
+        "title": "Jefe de la Oficina Central de Admisión (encargado)",
+        "org": "UNI",
+        "from": "2022-05-11",
+        "to": "2023-02-10",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-06-2022",
+          "src-cg-acta-cu-10-2022",
+          "src-cg-acta-cu-21-2022"
+        ],
+        "approx": false
+      },
+      {
+        "candidateId": "c-3-2",
+        "kind": "gestion_uni",
+        "title": "Miembro (presidente) del Tribunal de Honor Universitario",
+        "org": "UNI",
+        "from": "2022-02-07",
+        "to": "2022-05-10",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-07-2022",
+          "src-cg-acta-cu-06-2022"
+        ],
+        "approx": false
+      },
+      {
+        "candidateId": "c-6-1",
+        "kind": "cargo_publico",
+        "title": "Presidente de la Comisión Organizadora",
+        "org": "Universidad Nacional Tecnológica de Lima Sur (MINEDU)",
+        "from": "2020-01-24",
+        "to": "2022-06-03",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-rvm-025-2020-minedu",
+          "src-cg-rvm-066-2022-minedu"
+        ],
+        "approx": false
+      },
+      {
+        "candidateId": "c-6-1",
+        "kind": "gestion_uni",
+        "title": "Jefe de la Oficina Central de Admisión (cargo concluido el 10-05-2022; inicio sin fecha en la fuente)",
+        "org": "UNI",
+        "from": "2022-05-10",
+        "to": null,
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-06-2022"
+        ],
+        "approx": true
+      },
+      {
+        "candidateId": "c-2-1",
+        "kind": "gestion_uni",
+        "title": "Decano (e) de la FIM (registrado en sesión del CU)",
+        "org": "UNI - FIM",
+        "from": "2024-06-27",
+        "to": null,
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-cu-11-2024"
+        ],
+        "approx": true
+      },
+      {
+        "candidateId": "c-4-3",
+        "kind": "gestion_uni",
+        "title": "Miembro de la Comisión de Bienestar Universitario, Proyección Social y Extensión (AU)",
+        "org": "UNI - Asamblea Universitaria",
+        "from": "2024-08-05",
+        "to": null,
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-au-04-2024"
+        ],
+        "approx": true
+      },
+      {
+        "candidateId": "c-9-1",
+        "kind": "gestion_uni",
+        "title": "Miembro de la Comisión Ad-hoc de revisión del Estatuto (AU)",
+        "org": "UNI - Asamblea Universitaria",
+        "from": "2016-01-29",
+        "to": "2019-07-09",
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-cg-acta-au-03-2023"
+        ],
+        "approx": true
+      }
+    ],
+    "notes": "Complemento sin evento nuevo: src-cg-rr-0917-2021 puede añadirse como fuente primaria al evento existente de c-8-2 'Decano (e) de la Facultad de Ingeniería Civil' (RR 460-2021: interino desde el 09-05-2021; concluye al reconocerse al decano electo desde el 09-08-2021)."
+  },
+  "rejected": [
+    "Lastra Espinoza como presidente de la Comisión Organizadora de la UNAJMA: el nombre completo coincide, pero la fuente no tiene vínculo con la UNI. Pasa a leads (regla 3).",
+    "Ulises Humala Tasso: los padrones y la RD N.º 102-FIEECS-2026 publicados en fieecs.uni.edu.pe lo listan como docente principal con código y DNI. No es un cargo y contiene PII; no se usó.",
+    "Manuel Augusto Villavicencio Chávez: el acta CU N.º 02-2022 trata un duplicado de diploma y contiene DNI. No es un cargo; no se usó.",
+    "César Javier Osorio Carrera: las resoluciones CONCYTEC de 2011-2017 (encargatura de una plaza P-5, concurso, permisos, fuero sindical) son de trayectoria laboral o administrativa y no de cargos de gestión. El cargo pertinente, representante alterno ante la CNCC, ya está en el timeline.",
+    "Jurados de tesis de Arnao Rondán (avisos de sustentación de la FIEECS) y licencias o viajes de varios candidatos en actas de CU: no son cargos de gestión.",
+    "Alva Dávila, Comisión Ejecutiva de la AU (acta AU N.º 01-2025, 13-01-2025) y Cacho Cruz, Comisión de Investigación y Posgrado (acta AU N.º 02-2025): ya están en el timeline con las RR 0158-2025 y 0549-2025.",
+    "Paucar Cuba y Rodríguez Gutiérrez en la RR N.º 0183-2026 (CEUNI 2026): son homónimos parciales de Gutiérrez Paucar (c-9-2), no la misma persona."
+  ],
+  "summary": "Se revisó el texto completo (con OCR cuando fue necesario) de las normas de la UNI en gob.pe (1 273; se procesaron las 657 que no tratan de grados o títulos), de las 105 actas de Consejo y Asamblea Universitaria de 2022-2025 y de los PDF públicos de las webs de la FIEECS y la FAUA, además de búsquedas nacionales en gob.pe por nombre completo. Se agregan 9 eventos de gestión y 10 claims con fuente primaria: Lastra, presidente del CEUNI 2023 y director de Admisión (e) 07-2024 a 03-2025; Páuyac, jefe (e) de la Oficina Central de Admisión 05-2022 a 02-2023 y miembro o presidente del Tribunal de Honor 02-05-2022; Alva, presidente de la Comisión Organizadora de la UNTELS 2020-2022 y jefe de la OCAD hasta 05-2022; Padilla, decano (e) de la FIM en 2024; Huamán Pérez, comisión de Bienestar de la AU en 2024; Arnao, comisión ad hoc del Estatuto 2016-2019; Salinas, decano interino de la FIC en 2021. Lastra en la UNAJMA queda como lead pendiente porque falta el vínculo con la UNI. Para nueve candidatos no se halló ningún cargo nuevo en estas fuentes; eso no significa que no hayan tenido cargos."
+}
