@@ -5127,5 +5127,45 @@
     "url": "https://larepublica.pe/sociedad/2026/06/18/la-uni-fuera-del-ranking-qs-world-2027-esta-es-la-unica-universidad-publica-del-peru-que-figura-entre-las-mejores-1000-del-mundo-206874",
     "type": "prensa",
     "status": "parcialmente_verificado"
+  },
+  {
+    "landingUrl": "https://www.youtube.com/channel/UCMKCT_igPR2Jje8rSOEjCRw",
+    "identifier": "YouTube qgF4OktF9Xo",
+    "publishedAt": "2026-10-07",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1",
+      "c-2-1",
+      "c-3-1",
+      "c-4-1",
+      "c-5-1",
+      "c-6-1",
+      "c-7-1",
+      "c-8-1",
+      "c-9-1"
+    ],
+    "notes": "Transmisión oficial del debate (Teatro UNI, 07-10-2026). Audio descargado y transcrito localmente con Whisper large-v3-turbo; transcripción revisada parcialmente en research/debate-transcript.md. Orden por sorteo: L6, L4, L3, L2, L7, L8, L1, L5, L9. Sólo hablaron los candidatos a rector; los candidatos a vicerrector no intervinieron (sólo fueron mencionados).",
+    "id": "src-deb-video-uni",
+    "title": "🔴 EN VIVO | DEBATE DE CANDIDATOS A RECTOR",
+    "author": "Universidad Nacional de Ingeniería (canal de YouTube «UNI Oficial»); organizado por el Comité Electoral Universitario (CEUNI)",
+    "url": "https://www.youtube.com/watch?v=qgF4OktF9Xo",
+    "type": "documento_electoral",
+    "locator": "Duración 4:10:08. Descripción: 'DEBATE DE CANDIDATOS A RECTOR / Universidad Nacional de Ingeniería / #DebateDeCandidatosARector #CEUNI #EleccionesUNI'. Moderación (00:05:47): 'les damos la más cordial bienvenida a toda la comunidad universitaria de la UNI, al debate de candidatos para elegir al nuevo rector de la UNI para el periodo 2026-2030'. Música de espera 00:00–00:05; himnos 00:18–00:22; exposiciones desde 00:39:35; cierre 04:01.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.youtube.com/channel/UC1yeTKa6yaoDSb2vT70D_CA",
+    "identifier": "YouTube JCW1u41MrKg",
+    "publishedAt": "2026-10-07",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [],
+    "notes": "Copia parcial del mismo evento. Alineada por correlación de audio con src-deb-video-uni: desfase +3977 s hasta el seg. 6728 del stream CEUNI, +3984 s hasta el seg. 10460 y +3974 s después (cortes breves en el stream).",
+    "id": "src-deb-video-ceuni",
+    "title": "🔴 EN VIVO | DEBATE DE CANDIDATOS A RECTOR",
+    "author": "Comité Electoral Universitario (CEUNI) – canal de YouTube «Comite Electoral UNI - CEUNI»",
+    "url": "https://www.youtube.com/watch?v=JCW1u41MrKg",
+    "type": "documento_electoral",
+    "locator": "Duración 3:03:58; comienza durante la exposición de la Lista 5 (equivale al minuto 01:06:17 de src-deb-video-uni) y termina tras las palabras finales.",
+    "status": "verificado_primaria"
   }
 ]

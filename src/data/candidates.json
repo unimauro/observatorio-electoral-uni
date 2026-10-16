@@ -135,6 +135,22 @@
             "src-pte-rau-0022-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Declaró haber estado encargado o designado como vicerrector de investigación de la UNI durante \"un año y algo\" (debate CEUNI 07-10-2026, minuto 02:36:00).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Declaró que, como decano de la FIEE, se firmaron convenios con Corea por los que viajaron aproximadamente 15 alumnos y 10 profesores a capacitaciones (debate CEUNI 07-10-2026, minuto 03:32:20).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
         }
       ],
       "proyectos": [],
@@ -153,6 +169,14 @@
           "status": "declarado",
           "sourceIds": [
             "src-rpp-debate-2026"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Declaró haber trabajado 25 años en IBM del Perú (debate CEUNI 07-10-2026, minuto 01:04:01).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
           ],
           "kind": "declaracion"
         }
@@ -859,9 +883,26 @@
             "src-tp-ep-res0068-2012-anr"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Declaró haber diseñado el actual comedor universitario y haber construido el CRAI (Biblioteca Central) y el centro médico (debate CEUNI 07-10-2026, minuto 01:47:34).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Declaró que, durante su gestión, el centro de investigación sísmica (CISMID) ganó ante JICA un proyecto de 5 millones de dólares (debate CEUNI 07-10-2026, minuto 02:22:04).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [
         {
@@ -877,6 +918,14 @@
           "status": "declarado",
           "sourceIds": [
             "src-rpp-debate-2026"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Declaró que el plan de su lista \"está diseñado al año 2050\" e invocó a los demás candidatos a elaborar un plan estratégico conjunto tras la elección (debate CEUNI 07-10-2026, minuto 03:52:30).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
           ],
           "kind": "declaracion"
         }
@@ -1003,7 +1052,8 @@
       "Periodo exacto del rectorado (resoluciones o memoria institucional).",
       "Fechas exactas del rectorado (aprox. 2009-2014; ya era rector en mayo de 2009 según RPP). La Gaceta UNI o las resoluciones de la Asamblea Universitaria de 2009 podrían precisarlas. En una entrevista de Perú21 (15-12-2015), el rector de entonces hizo afirmaciones sobre el fin del mandato de Padilla y una denuncia contra él; no se registran por ser declaraciones de un tercero sin resolución conocida. La nota de La República del 03-08-2014 («Fiscalización seguirá con investigación al ex rector de la UNI Aurelio Padilla») sólo pudo leerse por su titular: el cuerpo es ilegible y queda pendiente. Revisar si el claim controvertido sobre los buses (Perú21 2016) debe mostrarse; menciona a Padilla como integrante de la comisión.",
       "Universidad y año del doctorado y la maestría en Administración (la Res. 035-2026-CEUNI sólo indica la mención): no figuran en ALICIA, UNMSM, UNFV, UNAC, ESAN, UNE ni UNI. Revisar la hoja de vida presentada al CEUNI.",
-      "Situación final de la destitución impuesta por la RR N.° 039 del 18-01-2016 (caso compra de buses 2010). La nulidad conocida (RR 2578-2023-UNI) proviene de la demanda de Humala. Buscar si Padilla impugnó ante el TSC o el Poder Judicial, o si la sanción quedó firme. Hay que tener en cuenta que en 2022 fue reincorporado como docente principal en aplicación de la Ley 31542 (acta CU N.° 22-2022) y en 2024 fue decano (e) de la FIM."
+      "Situación final de la destitución impuesta por la RR N.° 039 del 18-01-2016 (caso compra de buses 2010). La nulidad conocida (RR 2578-2023-UNI) proviene de la demanda de Humala. Buscar si Padilla impugnó ante el TSC o el Poder Judicial, o si la sanción quedó firme. Hay que tener en cuenta que en 2022 fue reincorporado como docente principal en aplicación de la Ley 31542 (acta CU N.° 22-2022) y en 2024 fue decano (e) de la FIM.",
+      "Padilla Ríos mostró en el debate su 'plan de gestión de gobierno para los próximos cinco años' (00:51:25); buscar versión pública."
     ],
     "corrections": [],
     "meta": {
@@ -1478,6 +1528,14 @@
             "src-tp-ep-rs014-2025-em"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Declaró haber aceptado la dirección del CEPREUNI a solicitud del rector anterior y haber renunciado a comienzos de enero, señalando por escrito que no se considera parte de esa gestión (debate CEUNI 07-10-2026, minuto 02:17:15).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
         }
       ],
       "proyectos": [],
@@ -2094,6 +2152,14 @@
             "src-caretas-humala-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Declaró haber sido director general de administración de la UNI de 2008 a 2014, haber sido destituido y haber ganado los procesos penales y administrativos posteriores (debate CEUNI 07-10-2026, minuto 03:49:22).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
         }
       ],
       "proyectos": [],
@@ -2267,7 +2333,8 @@
       "No se halló la resolución final sobre la sanción de enero de 2016 (apelación interna, Tribunal del Servicio Civil o Poder Judicial). Buscar en el Tribunal del Servicio Civil o en las resoluciones de la UNI de 2016-2017. Precisar desde cuándo es docente principal ordinario.",
       "Doctorado en la URP sólo según prensa (Caretas): el repositorio de la URP exige un desafío anti-bot (BunkerWeb/Cap.js) que no se sorteó; consultar manualmente o mediante ALICIA cuando se indexe.",
       "Leer la Sentencia N.° 007 (30-01-2018) del 28.° Juzgado Especializado de Trabajo de Lima y la RR N.° 1272 (17-08-2016), que sólo se conocen por la RR 2578-2023-UNI. Confirmar si se emitió alguna resolución que declare la prescripción o el archivo del PAD repuesto.",
-      "Infogob (JNE) exige reCAPTCHA para buscar por nombre. Hace falta revisar manualmente su ficha (historial de candidaturas y cargos de elección popular) para confirmar con fuente JNE la candidatura presidencial de 2006 y ver si tuvo otras candidaturas. No registrar la organización política."
+      "Infogob (JNE) exige reCAPTCHA para buscar por nombre. Hace falta revisar manualmente su ficha (historial de candidaturas y cargos de elección popular) para confirmar con fuente JNE la candidatura presidencial de 2006 y ver si tuvo otras candidaturas. No registrar la organización política.",
+      "La presentación biográfica de la Lista 4 por la moderación (≈00:11:03–00:12:03) es inaudible en la grabación; no se transcribió."
     ],
     "corrections": [
       {
@@ -2761,7 +2828,16 @@
       ],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": [],
+      "declaraciones": [
+        {
+          "text": "Declaró haber convocado a colegas de distintos grupos con el objetivo de \"formar la unidad en la universidad\" (debate CEUNI 07-10-2026, minuto 01:08:41).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "proceso": [
         {
           "text": "No figura con sanción vigente en el Registro Nacional de Sanciones contra Servidores Civiles (SERVIR), según consulta del 2026-10-16. La consulta devolvió 8 registro(s) de otras personas con los mismos apellidos, que no coinciden con su nombre completo. El registro no incluye sanciones ya cumplidas ni procesos en trámite.",
@@ -3329,7 +3405,16 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Declaró tener una patente en fase de producción y haber fabricado con recursos propios una despulpadora de café (debate CEUNI 07-10-2026, minuto 02:58:41).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [
         {
@@ -3337,6 +3422,14 @@
           "status": "declarado",
           "sourceIds": [
             "src-rpp-debate-2026"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Declaró que su plan de trabajo presentado tiene 25 páginas (debate CEUNI 07-10-2026, minuto 02:04:22).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
           ],
           "kind": "declaracion"
         }
@@ -3455,7 +3548,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Formación (doctorado) y cargos de gestión en la FIM no encontrados en fuentes abiertas. ORCID 0009-0008-8168-661X vacío. Revisar el portal de la FIM (sin respuesta) y SUNEDU.",
       "Doctorado no identificado: no hay tesis doctoral en ALICIA ni repositorios consultados. Las resoluciones 032 y 033-2026-CEUNI (tachas a su candidatura) podrían mencionar el grado: leerlas completas.",
-      "Buscar un CV en gob.pe de Electro Puno o Electro Sur Este, o en el portal de transparencia de la UNTELS, que vincule a 'Fortunato Alva Dávila' con la FIM-UNI. Confirmar si sigue en el directorio de Electro Sur Este (nombrado el 22-05-2026)."
+      "Buscar un CV en gob.pe de Electro Puno o Electro Sur Este, o en el portal de transparencia de la UNTELS, que vincule a 'Fortunato Alva Dávila' con la FIM-UNI. Confirmar si sigue en el directorio de Electro Sur Este (nombrado el 22-05-2026).",
+      "Alva Dávila dijo en el debate que su plan de trabajo tiene 25 páginas (02:04:22); buscar el documento publicado por la Lista 6."
     ],
     "corrections": [],
     "meta": {
@@ -3906,6 +4000,14 @@
             "src-fiis-rd034-2021"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Declaró haber trabajado en el área de planeamiento del Ministerio de Educación durante un año y medio (debate CEUNI 07-10-2026, minuto 02:28:41).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
         }
       ],
       "proyectos": [
@@ -4483,6 +4585,14 @@
             "src-tp-ep-rm158-2026-produce"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Declaró haber dirigido Prociencia, que impulsó escuelas doctorales de excelencia con 400 estudiantes en el Perú, dos de ellas en la UNI (debate CEUNI 07-10-2026, minuto 01:00:58).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
         }
       ],
       "proyectos": [],
@@ -5059,6 +5169,14 @@
             "src-orcid-arnao"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Declaró que al ingresar a la Oficina de Economía y Finanzas de la UNI en 2005 los recursos directamente recaudados eran poco más de 70 millones y que al salir en 2009 superaban los 140 millones (debate CEUNI 07-10-2026, minuto 02:45:03).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
         }
       ],
       "proyectos": [],
@@ -5069,6 +5187,22 @@
           "status": "declarado",
           "sourceIds": [
             "src-rpp-debate-2026"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Afirmó que un decreto supremo del MEF de agosto retiró 6.6 millones de soles a la UNI por no ejecutarlos, principalmente en proyectos de inversión (cifra del candidato, no verificada) (debate CEUNI 07-10-2026, minuto 01:11:06).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
+          ],
+          "kind": "declaracion"
+        },
+        {
+          "text": "Declaró que el plan presentado por la Lista 9 \"está con indicadores\" (debate CEUNI 07-10-2026, minuto 03:59:06).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-deb-video-uni"
           ],
           "kind": "declaracion"
         }
@@ -5150,7 +5284,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Doctorado UNMSM 1999 sólo declarado en ORCID: Cybertesis UNMSM (API backend) no devuelve tesis a su nombre; posible tesis no digitalizada.",
-      "Verificar con una fuente primaria (resolución SUNASS sobre el Consejo de Usuarios de Lima 2016-2018; resolución de la MML de 1997-1998) los cargos públicos que Arnao declara en su ORCID."
+      "Verificar con una fuente primaria (resolución SUNASS sobre el Consejo de Usuarios de Lima 2016-2018; resolución de la MML de 1997-1998) los cargos públicos que Arnao declara en su ORCID.",
+      "Arnao Rondán dijo que el plan de la Lista 9 'está con indicadores' (03:59:06); buscar el documento publicado."
     ],
     "corrections": [
       {
