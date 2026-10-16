@@ -50,6 +50,16 @@ export const STATUS_LABEL: Record<VerificationStatus, string> = {
   no_encontrado: 'No encontrado en las fuentes consultadas',
 }
 
+export const STATUS_SHORT: Record<VerificationStatus, string> = {
+  verificado_primaria: 'Verificado',
+  corroborado: 'Corroborado',
+  declarado: 'Declarado',
+  parcialmente_verificado: 'Parcial',
+  pendiente_revision: 'Pendiente',
+  controvertido: 'Controvertido',
+  no_encontrado: 'No encontrado',
+}
+
 export type ClaimKind = 'hecho' | 'hecho_inferido' | 'declaracion' | 'analisis'
 
 export const CLAIM_KIND_LABEL: Record<ClaimKind, string> = {

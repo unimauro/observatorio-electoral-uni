@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { AlertTriangle, BadgeCheck, CircleDashed, CircleHelp, FileQuestion, MessageSquareQuote, ShieldHalf } from 'lucide-react'
 import type { ReactNode } from 'react'
-import { STATUS_LABEL, type VerificationStatus } from '../data/types'
+import { STATUS_LABEL, STATUS_SHORT, type VerificationStatus } from '../data/types'
 import { sourceById } from '../data'
 
 const STATUS_ICON: Record<VerificationStatus, typeof BadgeCheck> = {
@@ -32,9 +32,10 @@ export function StatusBadge({ status, short = false }: { status: VerificationSta
     <span
       className={`inline-flex items-center gap-1 rounded border px-1.5 py-0.5 text-[11px] font-medium ${STATUS_STYLE[status]}`}
       title={label}
+      aria-label={label}
     >
       <Icon aria-hidden size={12} />
-      {short ? label.split(' ').slice(0, 2).join(' ') : label}
+      {short ? STATUS_SHORT[status] : label}
     </span>
   )
 }
