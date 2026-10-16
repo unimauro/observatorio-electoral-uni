@@ -133,7 +133,7 @@ export default function Dashboard() {
               Sólo <strong>{candidates.filter((c) => hasVerifiedIn(c, 'gestion') || hasVerifiedIn(c, 'investigacion')).length} de {candidates.length}</strong> candidaturas
               tienen algún cargo o logro confirmado con documento; el resto es declaración o está pendiente.
             </li>
-            <li>Votación del 16-10: ya circula el acta de escrutinio de estudiantes de pregrado (ver Resultados); faltan las de docentes, que pesan 2/3. Proclamación prevista: 04-11-2026.</li>
+            <li>Votación del 16-10 (preliminar): ninguna lista llegó al 50 % ponderado; según el cómputo difundido, irían a segunda vuelta el 28-10 la Lista 8 (25.70 %) y la Lista 1 (20.93 %). Ver Resultados.</li>
           </ul>
           <Link to="/planes" className="link mt-3 inline-block text-sm font-semibold">¿Tienes un plan publicado? Envíalo →</Link>
         </div>
@@ -182,22 +182,29 @@ export default function Dashboard() {
                     )
                   })}
                   {site.results.lists.some((r) => r.weightedPct != null) && (
-                    <table className="mt-3 w-full text-sm">
-                      <thead>
-                        <tr className="border-b border-ink text-left"><th className="py-1">Lista</th><th className="py-1 text-right">% ponderado</th><th className="py-1 pl-3">Nota</th></tr>
-                      </thead>
-                      <tbody>
-                        {site.results.lists.map((r) => (
-                          <tr key={r.listId} className="border-b border-line">
-                            <td className="py-1"><Link className="link" to={`/listas/${r.listId.split('-')[1]}`}>Lista {r.listId.split('-')[1]}</Link></td>
-                            <td className="py-1 text-right font-mono">{r.weightedPct == null ? '—' : `${r.weightedPct}%`}</td>
-                            <td className="py-1 pl-3 text-xs text-muted">{r.note}</td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
+                    <div className="mt-3">
+                      <p className="text-sm font-semibold">Cómputo general · % ponderado (2/3 docentes, 1/3 estudiantes)</p>
+                      <ul className="mt-2 space-y-1.5" aria-label="Porcentaje ponderado por lista">
+                        {[...site.results.lists].sort((x, y) => (y.weightedPct ?? 0) - (x.weightedPct ?? 0)).map((r, i) => {
+                          const n = r.listId.split('-')[1]
+                          const top = site.results!.secondRound?.lists.includes(r.listId)
+                          return (
+                            <li key={r.listId} className="text-xs">
+                              <div className="grid grid-cols-[4.5rem_1fr_3.5rem] items-center gap-2">
+                                <Link className={`link ${top ? 'font-bold' : ''}`} to={`/listas/${n}`}>{i + 1}. Lista {n}</Link>
+                                <span className={`h-3 rounded-r ${top ? 'bg-signal border border-ink' : 'bg-ink/70'}`} style={{ width: `${((r.weightedPct ?? 0) / 50) * 100}%` }} aria-hidden />
+                                <span className="text-right font-mono font-semibold">{r.weightedPct?.toFixed(2)}%</span>
+                              </div>
+                              <p className="pl-[5rem] font-mono text-[10px] text-muted">docentes {r.votesDocentes} · estudiantes {r.votesEstudiantes?.toLocaleString('es-PE')} ({r.note.replace('Estudiantes: ', '')})</p>
+                            </li>
+                          )
+                        })}
+                      </ul>
+                      <p className="mt-1 text-[11px] text-muted">La barra llega al 100 % del ancho en el 50 %: la mitad más uno necesaria para ganar en primera vuelta.</p>
+                      <Link className="link text-[11px]" to={`/fuentes#${site.results.source}`}>Fuente</Link>
+                    </div>
                   )}
-                  {site.results.secondRound && <p className="mt-2 text-sm">Segunda vuelta: {site.results.secondRound.lists.map((l) => `Lista ${l.split('-')[1]}`).join(' vs. ')}{site.results.secondRound.date ? ` · ${site.results.secondRound.date}` : ''}</p>}
+                  {site.results.secondRound && <p className="mt-3 border-2 border-ink bg-signal p-2 text-sm font-semibold text-[#111]">Segunda vuelta: {site.results.secondRound.lists.map((l) => `Lista ${l.split('-')[1]}`).join(' vs. ')}{site.results.secondRound.date ? ` · ${site.results.secondRound.date}` : ''}{site.results.secondRound.note && <span className="mt-1 block text-xs font-normal">{site.results.secondRound.note}</span>}</p>}
                   {site.results.proclaimed && <p className="mt-2 text-sm font-semibold">Proclamada: Lista {site.results.proclaimed.split('-')[1]}</p>}
                 </>
               )}

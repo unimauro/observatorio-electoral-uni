@@ -11,76 +11,83 @@
   "independenceNote": "Proyecto ciudadano independiente. No es un portal oficial de la UNI ni del CEUNI, y no está vinculado a ninguna lista.",
   "results": {
     "status": "preliminar",
-    "source": "src-ceuni-acta-estudiantes-pregrado-2026",
-    "asOf": "2026-10-16T16:24:00-05:00",
+    "source": "src-ceuni-tabla-resultados-2026",
+    "asOf": "2026-10-16T16:39:00-05:00",
     "lists": [
       {
         "listId": "lista-1",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 218,
+        "votesEstudiantes": 1984,
+        "weightedPct": 20.93,
+        "note": "Estudiantes: 62 posgrado + 1922 pregrado"
       },
       {
         "listId": "lista-2",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 200,
+        "votesEstudiantes": 1185,
+        "weightedPct": 17.18,
+        "note": "Estudiantes: 26 posgrado + 1159 pregrado"
       },
       {
         "listId": "lista-3",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 46,
+        "votesEstudiantes": 802,
+        "weightedPct": 5.63,
+        "note": "Estudiantes: 30 posgrado + 772 pregrado"
       },
       {
         "listId": "lista-4",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 21,
+        "votesEstudiantes": 557,
+        "weightedPct": 3.18,
+        "note": "Estudiantes: 11 posgrado + 546 pregrado"
       },
       {
         "listId": "lista-5",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 49,
+        "votesEstudiantes": 744,
+        "weightedPct": 5.65,
+        "note": "Estudiantes: 12 posgrado + 732 pregrado"
       },
       {
         "listId": "lista-6",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 41,
+        "votesEstudiantes": 700,
+        "weightedPct": 4.97,
+        "note": "Estudiantes: 10 posgrado + 690 pregrado"
       },
       {
         "listId": "lista-7",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 55,
+        "votesEstudiantes": 687,
+        "weightedPct": 5.87,
+        "note": "Estudiantes: 73 posgrado + 614 pregrado"
       },
       {
         "listId": "lista-8",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 246,
+        "votesEstudiantes": 2898,
+        "weightedPct": 25.7,
+        "note": "Estudiantes: 121 posgrado + 2777 pregrado"
       },
       {
         "listId": "lista-9",
-        "votesDocentes": null,
-        "votesEstudiantes": null,
-        "weightedPct": null,
-        "note": ""
+        "votesDocentes": 117,
+        "votesEstudiantes": 958,
+        "weightedPct": 10.89,
+        "note": "Estudiantes: 21 posgrado + 937 pregrado"
       }
     ],
-    "secondRound": null,
+    "secondRound": {
+      "lists": [
+        "lista-8",
+        "lista-1"
+      ],
+      "date": "2026-10-28",
+      "note": "Ninguna lista alcanzó el 50 % más uno de los votos válidos ponderados; pasan las dos de mayor votación ponderada (art. 50 del Reglamento). Pendiente de la resolución oficial del CEUNI."
+    },
     "proclaimed": null,
-    "note": "Hasta ahora sólo conocemos el acta de escrutinio de estudiantes de pregrado (cerrada a las 16:06). Faltan las actas de docentes y, si corresponde, de estudiantes de posgrado. El resultado final se calcula ponderando por estamento (art. 50 del Reglamento, RCU 0650-2026): el voto docente pesa 2/3 y el estudiantil 1/3, por lo que esta acta sola no define quién gana. Gana en primera vuelta quien obtenga el 50 % más uno de los votos válidos ponderados; si nadie lo logra, hay segunda vuelta entre las dos más votadas.",
+    "note": "Cómputo general difundido el 16-10-2026: votos válidos de docentes (993) y estudiantes (10515, pregrado + posgrado), ponderados 2/3 docentes y 1/3 estudiantes (art. 50 del Reglamento, RCU 0650-2026). Verificamos que los porcentajes de la tabla coinciden con esa fórmula. Es preliminar hasta que el CEUNI lo publique en su portal.",
     "actas": [
       {
         "estamento": "Estudiantes de pregrado",

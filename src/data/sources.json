@@ -6301,5 +6301,20 @@
     "candidateIds": [],
     "notes": "Imagen del acta difundida por mensajería el 16-10-2026; todavía no figura en el portal del CEUNI. Se transcriben sólo los votos; no se publica la imagen porque contiene datos personales de los miembros de mesa.",
     "consultedAt": "2026-10-16"
+  },
+  {
+    "id": "src-ceuni-tabla-resultados-2026",
+    "title": "Tabla de resultados – Rector y vicerrectores 2026 (votos válidos por estamento y porcentaje ponderado)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": null,
+    "landingUrl": "https://www.ceuni.uni.edu.pe/eleccion-de-autoridades-y-elecciones-generales-2026/",
+    "publishedAt": "2026-10-16",
+    "consultedAt": "2026-10-16",
+    "type": "documento_electoral",
+    "identifier": null,
+    "locator": "Lista 8: 246 docentes, 2898 estudiantes, 25.70 %; Lista 1: 218 docentes, 1984 estudiantes, 20.93 %; total 100.00 %.",
+    "status": "parcialmente_verificado",
+    "candidateIds": [],
+    "notes": "Imagen de la tabla de cómputo difundida el 16-10-2026; aún no figura en el portal del CEUNI. Los porcentajes ponderados se recalcularon con la fórmula del art. 50 (2/3 docentes, 1/3 estudiantes) y coinciden. En la imagen \"Lista B\" corresponde a las listas 6 y 8 por los nombres de los candidatos."
   }
 ]
