@@ -35,3 +35,14 @@ describe('índice', () => {
     expect(computeIndex(cs, (id) => s[id], { a: 3, b: 1 }).applicable).toBe(2)
   })
 })
+
+describe('evidencia por criterio', () => {
+  it('cada criterio de la matriz tiene un selector de evidencia que no falla', async () => {
+    const { EVIDENCE } = await import('./evidence')
+    const { criteria, candidates } = await import('../data')
+    for (const k of criteria) {
+      expect(EVIDENCE[k.id]).toBeTypeOf('function')
+      for (const c of candidates.filter((x) => x.role === k.role)) expect(Array.isArray(EVIDENCE[k.id](c))).toBe(true)
+    }
+  })
+})
