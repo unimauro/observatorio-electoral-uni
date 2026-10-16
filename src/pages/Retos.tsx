@@ -7,6 +7,7 @@ import { candidateById, lists, proposals, sourceById } from '../data'
 import type { Proposal } from '../data/types'
 import { fold } from '../lib/search'
 import { PageHeader, Section } from '../components/ui'
+import { HBar } from '../components/charts'
 
 interface Reto {
   id: string
@@ -119,7 +120,10 @@ function UniFigureCard({ u }: { u: UniFigure }) {
       {u.series?.map((s) => (
         <figure key={s.label} className="mt-3">
           <figcaption className="text-xs font-semibold">{s.label} ({s.unit})</figcaption>
-          <div className="mt-1 h-44 text-muted">
+          <div className={`mt-1 text-muted ${/^\d{4}/.test(s.points[0]?.x ?? '') ? 'h-44' : ''}`}>
+            {!/^\d{4}/.test(s.points[0]?.x ?? '') ? (
+              <HBar data={s.points.map((p) => ({ name: p.x, y: p.y }))} series={[{ key: 'y', label: s.unit, color: 'var(--chart-ink)' }]} yWidth={150} />
+            ) : (
             <ResponsiveContainer width="100%" height="100%">
               {s.points.length > 6 ? (
                 <LineChart data={s.points} margin={{ top: 6, right: 8, left: 0, bottom: 0 }}>
@@ -139,6 +143,7 @@ function UniFigureCard({ u }: { u: UniFigure }) {
                 </BarChart>
               )}
             </ResponsiveContainer>
+            )}
           </div>
         </figure>
       ))}

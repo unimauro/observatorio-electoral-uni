@@ -1089,7 +1089,7 @@
           ]
         },
         {
-          "label": "PIM",
+          "label": "PIM (2026: al 16-10-2026, ejercicio en curso)",
           "unit": "S/ millones",
           "points": [
             {
@@ -1147,6 +1147,10 @@
             {
               "x": "2025",
               "y": 370.6
+            },
+            {
+              "x": "2026",
+              "y": 348.6
             }
           ]
         },
@@ -1213,7 +1217,7 @@
           ]
         },
         {
-          "label": "Ejecución (devengado/PIM)",
+          "label": "Ejecución (devengado/PIM; 2026: al 16-10-2026, ejercicio en curso)",
           "unit": "%",
           "points": [
             {
@@ -1271,6 +1275,10 @@
             {
               "x": "2025",
               "y": 91.3
+            },
+            {
+              "x": "2026",
+              "y": 66.2
             }
           ]
         }
