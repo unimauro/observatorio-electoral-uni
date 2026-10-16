@@ -7,9 +7,11 @@ import proposalsJson from './proposals.json'
 import criteriaJson from './evaluation-criteria.json'
 import evaluationsJson from './evaluations.json'
 import siteJson from './site.json'
+import degreesJson from './degrees.json'
 import type {
   Candidate,
   Criterion,
+  DegreeRow,
   ElectoralList,
   Evaluation,
   Faculty,
@@ -29,6 +31,7 @@ export const proposals = proposalsJson as Proposal[]
 export const criteria = criteriaJson as Criterion[]
 export const evaluations = evaluationsJson as Evaluation[]
 export const site = siteJson as SiteConfig
+export const degrees = degreesJson as DegreeRow[]
 
 const byId = <T extends { id: string }>(arr: T[]) => new Map(arr.map((x) => [x.id, x]))
 export const candidateById = byId(candidates)

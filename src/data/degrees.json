@@ -1,0 +1,518 @@
+[
+  {
+    "candidateId": "c-1-1",
+    "doctorado": {
+      "denominacion": "Doctor en Ingeniería Eléctrica",
+      "universidad": "Universidad Nacional del Callao",
+      "anio": 2018,
+      "sourceId": "src-gr-unac-butler-2810",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias de la Electrónica, mención Telecomunicaciones",
+      "universidad": "Universidad Nacional del Callao",
+      "anio": 2011,
+      "sourceId": "src-gr-unac-butler-493",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Electrónico",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1981,
+      "sourceId": "src-gr-uni-butler-23365",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-1-2",
+    "doctorado": {
+      "denominacion": "Doctor (tesis \"Ordenación y planificación de los espacios naturales: un estudio comparado\"); ORCID: Doctora en Ordenamiento Territorial",
+      "universidad": "Universidad de Oviedo (España)",
+      "anio": 1997,
+      "sourceId": "src-gr-uniovi-cacho",
+      "status": "verificado_primaria"
+    },
+    "maestria": null,
+    "titulo": {
+      "denominacion": "Arquitecta",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": null,
+      "sourceId": "src-vr-orcid-cacho",
+      "status": "declarado"
+    }
+  },
+  {
+    "candidateId": "c-1-3",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": null
+  },
+  {
+    "candidateId": "c-2-1",
+    "doctorado": {
+      "denominacion": "Doctor (en Administración, según el CEUNI; universidad no indicada)",
+      "universidad": null,
+      "anio": null,
+      "sourceId": "src-rs-ceuni-res-035-2026",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestría en Administración (según el CEUNI; universidad no indicada)",
+      "universidad": null,
+      "anio": null,
+      "sourceId": "src-rs-ceuni-res-035-2026",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Mecánico Electricista",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1981,
+      "sourceId": "src-gr-uni-padilla-23431",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-2-2",
+    "doctorado": {
+      "denominacion": "Doctor en Ingeniería de Sistemas",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2021,
+      "sourceId": "src-vr-tesis-22134",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Ingeniería de Sistemas",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2008,
+      "sourceId": "src-vr-tesis-14729",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Industrial",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1993,
+      "sourceId": "src-vr-tesis-8209",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-2-3",
+    "doctorado": {
+      "denominacion": "Doctor en Medio Ambiente y Desarrollo Sostenible",
+      "universidad": "Universidad Nacional Federico Villarreal",
+      "anio": 2021,
+      "sourceId": "src-gr-unfv-osorio-4739",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Gestión Ambiental",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2008,
+      "sourceId": "src-gr-uni-osorio-640",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Químico",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1991,
+      "sourceId": "src-gr-uni-osorio-15929",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-3-1",
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias Naturales (tesis doctoral registrada por la DNB)",
+      "universidad": "Universidad de Heidelberg (Alemania)",
+      "anio": 1998,
+      "sourceId": "src-rx-dnb-chirif-1998",
+      "status": "corroborado"
+    },
+    "maestria": null,
+    "titulo": {
+      "denominacion": "Ingeniero Geólogo",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1991,
+      "sourceId": "src-gr-uni-chirif-15931",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-3-2",
+    "doctorado": {
+      "denominacion": "Ph.D. en Física Teórica",
+      "universidad": "Universidad Rusa de la Amistad de los Pueblos",
+      "anio": 2005,
+      "sourceId": "src-orcid-c-3-2",
+      "status": "declarado"
+    },
+    "maestria": {
+      "denominacion": "Master of Science en Radiofísica",
+      "universidad": "Universidad Rusa de la Amistad de los Pueblos",
+      "anio": 1987,
+      "sourceId": "src-orcid-c-3-2",
+      "status": "declarado"
+    },
+    "titulo": null
+  },
+  {
+    "candidateId": "c-3-3",
+    "doctorado": {
+      "denominacion": "Docteur ès sciences",
+      "universidad": "Université Paris-Sud (Paris-11, Orsay)",
+      "anio": 1981,
+      "sourceId": "src-orcid-c-3-3",
+      "status": "declarado"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1974,
+      "sourceId": "src-gr-uni-montoya-1720",
+      "status": "verificado_primaria"
+    },
+    "titulo": null
+  },
+  {
+    "candidateId": "c-4-1",
+    "doctorado": {
+      "denominacion": "Doctorado en Ciencias Políticas y Relaciones Internacionales",
+      "universidad": "Universidad Ricardo Palma",
+      "anio": null,
+      "sourceId": "src-caretas-humala-2026",
+      "status": "parcialmente_verificado"
+    },
+    "maestria": null,
+    "titulo": {
+      "denominacion": "Ingeniero Economista",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1983,
+      "sourceId": "src-gr-uni-humala-1832",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-4-2",
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias con Mención en Energética",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2018,
+      "sourceId": "src-vr-tesis-18140",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Sistemas de Potencia",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1993,
+      "sourceId": "src-vr-tesis-1188",
+      "status": "verificado_primaria"
+    },
+    "titulo": null
+  },
+  {
+    "candidateId": "c-4-3",
+    "doctorado": {
+      "denominacion": "Doctor en Administración",
+      "universidad": "Universidad Nacional Federico Villarreal",
+      "anio": 2012,
+      "sourceId": "src-gr-unfv-huamanperez-663",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1998,
+      "sourceId": "src-gr-uni-huamanperez-1591",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Licenciado en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1998,
+      "sourceId": "src-gr-uni-huamanperez-1258",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-5-1",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": null
+  },
+  {
+    "candidateId": "c-5-2",
+    "doctorado": null,
+    "maestria": {
+      "denominacion": "Maestro en Ingeniería con Mención en Aplicación Energética del Gas Natural",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2010,
+      "sourceId": "src-vr-tesis-587",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Mecánico",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1993,
+      "sourceId": "src-vr-tesis-2698",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-5-3",
+    "doctorado": {
+      "denominacion": "Doctorado en Física (Programa de Pós-graduação em Física)",
+      "universidad": "Universidade Federal de Goiás (Brasil)",
+      "anio": 2014,
+      "sourceId": "src-gr-ufg-lazo-4430",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Master of Physics",
+      "universidad": "Universidade Federal de Mato Grosso (Brasil)",
+      "anio": 2009,
+      "sourceId": "src-vr-orcid-lazo",
+      "status": "declarado"
+    },
+    "titulo": {
+      "denominacion": "Licenciado en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1995,
+      "sourceId": "src-vr-tesis-1904",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-6-1",
+    "doctorado": null,
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2008,
+      "sourceId": "src-gr-uni-alva-584",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Mecánico",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1988,
+      "sourceId": "src-gr-uni-alva-1758",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-6-2",
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias con Mención en Energética",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2020,
+      "sourceId": "src-gr-uni-palma-22172",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Sistemas de Potencia",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2019,
+      "sourceId": "src-gr-uni-palma-18138",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Electricista",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1985,
+      "sourceId": "src-gr-uni-palma-1651",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-6-3",
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias con Mención en Matemática",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2021,
+      "sourceId": "src-vr-tesis-22478",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Matemática",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1989,
+      "sourceId": "src-vr-tesis-335",
+      "status": "verificado_primaria"
+    },
+    "titulo": null
+  },
+  {
+    "candidateId": "c-7-1",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": null
+  },
+  {
+    "candidateId": "c-7-2",
+    "doctorado": null,
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2019,
+      "sourceId": "src-gr-uni-mosquera-21298",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Licenciado en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1997,
+      "sourceId": "src-gr-uni-mosquera-1844",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-7-3",
+    "doctorado": {
+      "denominacion": "Doctor en Medio Ambiente y Desarrollo Sostenible",
+      "universidad": "Universidad Nacional Federico Villarreal",
+      "anio": 2021,
+      "sourceId": "src-gr-unfv-villavicencio-4741",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Energética",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2012,
+      "sourceId": "src-vr-tesis-1331",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Mecánico",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1979,
+      "sourceId": "src-vr-tesis-23687",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-8-1",
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias con Mención en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2000,
+      "sourceId": "src-gr-uni-rodriguez-234",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1996,
+      "sourceId": "src-gr-uni-rodriguez-320",
+      "status": "verificado_primaria"
+    },
+    "titulo": null
+  },
+  {
+    "candidateId": "c-8-2",
+    "doctorado": {
+      "denominacion": "Doctorado (División de Estudios de Posgrado; denominación no indicada)",
+      "universidad": "Universidad Nacional Autónoma de México",
+      "anio": 2013,
+      "sourceId": "src-orcid-c-8-2",
+      "status": "declarado"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Ingeniería Estructural",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2008,
+      "sourceId": "src-gr-uni-salinas-770",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Civil",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1995,
+      "sourceId": "src-gr-uni-salinas-20202",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-8-3",
+    "doctorado": {
+      "denominacion": "Doctor en Ingeniería de Sistemas",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2017,
+      "sourceId": "src-gr-uni-rosales-5899",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Ingeniería de Sistemas",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2001,
+      "sourceId": "src-gr-uni-rosales-1814",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Químico (tesis de dos autores)",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1991,
+      "sourceId": "src-gr-uni-rosales-14707",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-9-1",
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias Contables Empresariales",
+      "universidad": "Universidad Nacional Mayor de San Marcos",
+      "anio": 1999,
+      "sourceId": "src-ctivitae-arnao",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1993,
+      "sourceId": "src-gr-uni-arnao-1754",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Economista",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1990,
+      "sourceId": "src-gr-uni-arnao-10242",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-9-2",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": {
+      "denominacion": "Ingeniero Electricista",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1987,
+      "sourceId": "src-vr-tesis-5190",
+      "status": "verificado_primaria"
+    }
+  },
+  {
+    "candidateId": "c-9-3",
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias con Mención en Química",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2020,
+      "sourceId": "src-gr-uni-vergara-21501",
+      "status": "verificado_primaria"
+    },
+    "maestria": {
+      "denominacion": "Maestro en Ingeniería de Procesos",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 2010,
+      "sourceId": "src-gr-uni-vergara-1065",
+      "status": "verificado_primaria"
+    },
+    "titulo": {
+      "denominacion": "Ingeniero Químico (tesis de dos autores)",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": 1989,
+      "sourceId": "src-gr-uni-vergara-16011",
+      "status": "verificado_primaria"
+    }
+  }
+]

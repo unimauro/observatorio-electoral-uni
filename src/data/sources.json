@@ -1897,5 +1897,634 @@
       "c-9-1"
     ],
     "notes": "Ficha validada con RENIEC al registrarse; la tabla de grados proviene de SUNEDU. Fecha = última actualización de la ficha. No se reproducen datos personales."
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/23365",
+    "publishedAt": "1981",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-butler-23365",
+    "title": "Diseño de una interfase en tiempo real hacia un microprocesador (tesis – Ingeniero Electrónico)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/23365",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Butler Blacker, Jorge Gustavo\"; thesis.degree.name \"Ingeniero Electrónico\"; dc.date.issued \"1981\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.12952/493",
+    "publishedAt": "2011",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1"
+    ],
+    "notes": "Metadatos sin thesis.degree.name; la denominación se tomó de la carátula del PDF (bitstream T.M.621.382.B97.pdf). Registro también en ALICIA (UNAC_c4cb0c1637a59de33bc34ea781040356).",
+    "id": "src-gr-unac-butler-493",
+    "title": "Implementación de calidad de servicio vía Multiprotocol Label Switching (MPLS) (tesis de maestría)",
+    "author": "Universidad Nacional del Callao – Repositorio Institucional",
+    "url": "https://repositorio.unac.edu.pe/handle/20.500.12952/493",
+    "type": "documento_institucional",
+    "locator": "Carátula del PDF: \"TESIS PARA OPTAR EL GRADO ACADÉMICO DE MAESTRO EN CIENCIAS DE LA ELECTRÓNICA MENCIÓN: TELECOMUNICACIONES / AUTOR: JORGE GUSTAVO BUTLER BLACKER / CALLAO - PERU 2011\"; acta de sustentación fechada \"Marzo 23, 2011\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.12952/2810",
+    "publishedAt": "2018",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1"
+    ],
+    "notes": "Hallado vía ALICIA (UNAC_d5b96765353d9c201e5a7ef819b4a8c6) y leído en la API DSpace de la UNAC.",
+    "id": "src-gr-unac-butler-2810",
+    "title": "\"Virtualización como herramienta para la enseñanza de redes de computadoras\" (tesis doctoral)",
+    "author": "Universidad Nacional del Callao – Repositorio Institucional",
+    "url": "https://repositorio.unac.edu.pe/handle/20.500.12952/2810",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Butler Blacker, Jorge Gustavo\"; thesis.degree.name \"Tesis para optar el grado académico de doctor en Ingeniería eléctrica\"; thesis.degree.level \"Doctorado\"; thesis.degree.grantor \"Universidad Nacional del Callao. Facultad de Ingeniería Eléctrica y Electrónica\"; dc.date.issued \"2018\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "1997",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "Portal CRIS institucional de la Universidad de Oviedo (España).",
+    "id": "src-gr-uniovi-cacho",
+    "title": "Portal de Investigación de la Universidad de Oviedo – ficha de Rocío Margarita Cacho Cruz",
+    "author": "Universidad de Oviedo",
+    "url": "https://portalinvestigacion.uniovi.es/investigadores/219396/detalle",
+    "type": "portal_institucional",
+    "locator": "Tesis: \"Ordenación y planificación de los espacios naturales un estudio comparado\"; grado \"Doctor\"; año 1997; dirigida por \"Dr. Fermín Rodríguez Gutiérrez\"; Universidad de Oviedo.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/23431",
+    "publishedAt": "1981",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-padilla-23431",
+    "title": "Proyecto de instalación de una torre de enfriamiento para el laboratorio de máquinas térmicas de la U.N.I. (tesis – Ingeniero Mecánico Electricista)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/23431",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Padilla Ríos, Aurelio Marcelo\"; thesis.degree.name \"Ingeniero Mecánico Electricista\"; dc.date.issued \"1981\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/25437",
+    "publishedAt": "1977",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-padilla-25437",
+    "title": "Análisis energético-exergético de una caldera (tesis – Ingeniero Mecánico)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/25437",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Padilla Ríos, Aurelio Marcelo\"; thesis.degree.name \"Ingeniero Mecánico\"; dc.date.issued \"1977\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\". dc.type \"monograph\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/640",
+    "publishedAt": "2008",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-osorio-640",
+    "title": "Cambio tecnológico y política ambiental: análisis para la promoción de tecnologías limpias en el sector manufacturero (tesis – Maestro en Ciencias con Mención en Gestión Ambiental)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/640",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Osorio Carrera, César Javier\"; thesis.degree.name \"Maestro en Ciencias con Mención en Gestión Ambiental\"; dc.date.issued \"2008\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/15929",
+    "publishedAt": "1991",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-osorio-15929",
+    "title": "Modelamiento de la unidad de destilación al vacío de refinería Talara y su aplicación en la optimización de sistemas - ahorro de energía (tesis – Ingeniero Químico)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/15929",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Osorio Carrera, César Javier; Castañeda Martínez, Filler Antonio\"; thesis.degree.name \"Ingeniero Químico\"; dc.date.issued \"1991\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería. Facultad de Ingeniería Química y Textil\". Tesis de dos autores.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.13084/4739",
+    "publishedAt": "2021",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-3"
+    ],
+    "notes": "Hallado vía ALICIA (RUNF_7912680108b4972da9d4214035ea5eb2). El ORCID declara el doctorado UNFV con fechas 2012–2013; el repositorio fecha la tesis en 2021.",
+    "id": "src-gr-unfv-osorio-4739",
+    "title": "Políticas de ciencia, tecnología e innovación tecnológica para el desarrollo sostenible del Perú (tesis doctoral)",
+    "author": "Universidad Nacional Federico Villarreal – Repositorio Institucional",
+    "url": "https://repositorio.unfv.edu.pe/handle/20.500.13084/4739",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Osorio Carrera, Cesar Javier\"; thesis.degree.name \"Doctor en Medio Ambiente y Desarrollo Sostenible\"; thesis.degree.grantor \"Universidad Nacional Federico Villarreal. Escuela Universitaria de Posgrado\"; dc.date.issued \"2021\"; renati.level \"doctor\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/15931",
+    "publishedAt": "1991",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-chirif-15931",
+    "title": "Petrología y geoquímica de las rocas ígneas de Hualgayoc - Cajamarca (tesis – Ingeniero Geólogo)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/15931",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Chirif Rivera, Luis Humberto\"; thesis.degree.name \"Ingeniero Geólogo\"; dc.date.issued \"1991\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1720",
+    "publishedAt": "1974",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-montoya-1720",
+    "title": "Análisis cronometricamente invariante de la Teoría unitaria del campo NO-SIMÉTRICO (tesis – Maestro en Ciencias con Mención en Física)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1720",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Montoya Zavaleta, Modesto E.\"; thesis.degree.name \"Maestro en Ciencias con Mención en Física\"; dc.date.issued \"1974\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "FRNC-TH--753",
+    "publishedAt": "1977",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "El registro no indica el tipo de doctorado. La atribución se apoya en apellido + nombre + especialidad (física nuclear, fisión) y en el ORCID del candidato (Université Paris-Sud).",
+    "id": "src-gr-inis-montoya-1977",
+    "title": "Monte-Carlo simulation of a fission experiment on the problem of the partition of the excitation energy between both fragments (INIS)",
+    "author": "OIEA – International Nuclear Information System (INIS)",
+    "url": "https://inis.iaea.org/records/x1q3w-x1280",
+    "type": "base_bibliografica",
+    "locator": "Creadores: \"Montoya, Modesto.\" y \"Paris-11 Univ., 91 - Orsay (France)\"; fecha 1977; iaea:resource_subtype \"Thesis\"; report number \"FRNC-TH--753\"; resumen en francés sobre la fisión espontánea de 252Cf.",
+    "status": "parcialmente_verificado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1832",
+    "publishedAt": "1983",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-humala-1832",
+    "title": "La evolución del subdesarrollo en el Perú (tesis – Ingeniero Economista)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1832",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Humala Tasso, Ulises\"; thesis.degree.name \"Ingeniero Economista\"; dc.date.issued \"1983\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1258",
+    "publishedAt": "1998",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-huamanperez-1258",
+    "title": "Detección de vapor de Etanol mediante recubrimiento poroso de Dióxido de Estaño (tesis – Licenciado en Física)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1258",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Huamán Pérez, Fernando\"; thesis.degree.name \"Licenciado en Física\"; dc.date.issued \"1998\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1591",
+    "publishedAt": "1998",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-huamanperez-1591",
+    "title": "Máquina turborrefrigeradora para el enfriamiento de una turbina de un turbofan de altas temperaturas (tesis – Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1591",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Huamán Pérez, Fernando\"; thesis.degree.name \"Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas\"; dc.date.issued \"1998\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.13084/663",
+    "publishedAt": "2012",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-3"
+    ],
+    "notes": "Tema de la tesis: la propia UNI (coherente con la atribución).",
+    "id": "src-gr-unfv-huamanperez-663",
+    "title": "Planeamiento estratégico como factor de eficiencia académica administrativa en la Universidad Nacional de Ingeniería (tesis doctoral)",
+    "author": "Universidad Nacional Federico Villarreal – Repositorio Institucional",
+    "url": "https://repositorio.unfv.edu.pe/handle/20.500.13084/663",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Huamán Pérez, Fernando\"; thesis.degree.name \"Doctor en Administración\"; thesis.degree.level \"Doctorado\"; thesis.degree.grantor \"Universidad Nacional Federico Villarreal. Escuela Universitaria de Posgrado\"; dc.date.issued \"2012\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "tede/4430",
+    "publishedAt": "2014-04-23",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.bc.ufg.br/tedeserver/api).",
+    "id": "src-gr-ufg-lazo-4430",
+    "title": "Síntesis y propiedades ópticas y magnéticas del YCrO3 preparado por los métodos precursor polimérico modificado y reacción de combustión (tesis doctoral)",
+    "author": "Universidade Federal de Goiás – Biblioteca Digital de Teses e Dissertações",
+    "url": "https://repositorio.bc.ufg.br/tede/handle/tede/4430",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace (TEDE-UFG): dc.creator \"Jara, Antonio Nolberto Lazo\"; dc.type \"doctoral thesis\"; dc.publisher \"Universidade Federal de Goiás\"; dc.publisher.program \"Programa de Pós-graduação em Fisica (IF)\"; dc.date.issued \"2014-04-23\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1758",
+    "publishedAt": "1988",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-alva-1758",
+    "title": "Diseño de una trefiladora múltiple para producir alambre a partir de alambrón de Cobre de 5/16\\\" de diámetro (tesis – Ingeniero Mecánico)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1758",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Alva Dávila, Fortunato\"; thesis.degree.name \"Ingeniero Mecánico\"; dc.date.issued \"1988\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/584",
+    "publishedAt": "2008",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-alva-584",
+    "title": "Evaluación de tensiones en un tanque cilíndrico para gas natural vehicular (tesis – Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/584",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Alva Dávila, Fortunato\"; thesis.degree.name \"Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas\"; dc.date.issued \"2008\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1651",
+    "publishedAt": "1985",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-palma-1651",
+    "title": "Sobrecarga óptima y simulación de la operación futura de transformadores sumergidos en aceite (tesis – Ingeniero Electricista)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1651",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Palma García, Modesto Tomás\"; thesis.degree.name \"Ingeniero Electricista\"; dc.date.issued \"1985\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/18138",
+    "publishedAt": "2019",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-palma-18138",
+    "title": "Análisis del motor de inducción utilizando elementos finitos (tesis – Maestro en Ciencias con Mención en Sistemas de Potencia)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/18138",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Palma García, Modesto Tomás\"; thesis.degree.name \"Maestro en Ciencias con Mención en Sistemas de Potencia\"; dc.date.issued \"2019\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/22172",
+    "publishedAt": "2020",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-palma-22172",
+    "title": "Optimización del desempeño energético del motor de inducción trifásico mediante el dimensionamiento de las ranuras del rotor, usando el método de elementos finitos y el criterio de óptimo de pareto (tesis – Doctor en Ciencias con Mención en Energética)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/22172",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Palma García, Modesto Tomás\"; thesis.degree.name \"Doctor en Ciencias con Mención en Energética\"; dc.date.issued \"2020\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1844",
+    "publishedAt": "1997",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-2"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-mosquera-1844",
+    "title": "Celda fotovoltaica de película delgada tipo schottky Au/CdS/Ag usando la técnica de evaporación al vacio (tesis – Licenciado en Física)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1844",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Mosquera Leiva, Luis Alberto\"; thesis.degree.name \"Licenciado en Física\"; dc.date.issued \"1997\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/21298",
+    "publishedAt": "2019",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-2"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-mosquera-21298",
+    "title": "Sensores de fibra óptica basados en redes de periodo largo (LPG) (tesis – Maestro en Ciencias con Mención en Física)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/21298",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Mosquera Leiva, Luis Alberto\"; thesis.degree.name \"Maestro en Ciencias con Mención en Física\"; dc.date.issued \"2019\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.13084/4741",
+    "publishedAt": "2021",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-3"
+    ],
+    "notes": "Hallado vía ALICIA (RUNF_02fe0207a1dfe33aa6cd292486f87646). Nombre completo y temática energética coherente con su maestría en Energética (UNI).",
+    "id": "src-gr-unfv-villavicencio-4741",
+    "title": "Generación de energía termoeléctrica y las emisiones de CO2 en el Perú 2019 (tesis doctoral)",
+    "author": "Universidad Nacional Federico Villarreal – Repositorio Institucional",
+    "url": "https://repositorio.unfv.edu.pe/handle/20.500.13084/4741",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Villavicencio Chavez, Manuel Augusto\"; thesis.degree.name \"Doctor en Medio Ambiente y Desarrollo Sostenible\"; thesis.degree.grantor \"Universidad Nacional Federico Villarreal. Escuela Universitaria de Posgrado\"; dc.date.issued \"2021\"; renati.level \"doctor\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/320",
+    "publishedAt": "1996",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-rodriguez-320",
+    "title": "Fabricación y caracterización de películas de SiOxNy para aplicaciones de enfriamiento por radiación (tesis – Maestro en Ciencias con Mención en Física)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/320",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Rodríguez Rodríguez, Juan Martín\"; thesis.degree.name \"Maestro en Ciencias con Mención en Física\"; dc.date.issued \"1996\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/234",
+    "publishedAt": "2000",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-rodriguez-234",
+    "title": "Sputter deposited titanium oxide films for photoelectrochemical water purification (tesis – Doctor en Ciencias con Mención en Física)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/234",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Rodríguez Rodríguez, Juan Martín\"; thesis.degree.name \"Doctor en Ciencias con Mención en Física\"; dc.date.issued \"2000\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/20202",
+    "publishedAt": "1995",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-2"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-salinas-20202",
+    "title": "Análisis y diseño de cimentaciones superficiales ante acciones vibratorios (tesis – Ingeniero Civil)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/20202",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Salinas Basualdo, Rafael Rolando\"; thesis.degree.name \"Ingeniero Civil\"; dc.date.issued \"1995\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/770",
+    "publishedAt": "2008",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-2"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-salinas-770",
+    "title": "Estudio de la estabilidad lateral de un puente de arco atirantado a partir de un modelo experimental a escala reducida (tesis – Maestro en Ciencias con Mención en Ingeniería Estructural)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/770",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Salinas Basualdo, Rafael Rolando\"; thesis.degree.name \"Maestro en Ciencias con Mención en Ingeniería Estructural\"; dc.date.issued \"2008\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1814",
+    "publishedAt": "2001",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-rosales-1814",
+    "title": "Recepción de una señal a distancia en tiempo real (tesis – Maestro en Ciencias con Mención en Ingeniería de Sistemas)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1814",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Rosales Huamaní, Jimmy Aurelio\"; thesis.degree.name \"Maestro en Ciencias con Mención en Ingeniería de Sistemas\"; dc.date.issued \"2001\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/5899",
+    "publishedAt": "2017",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-rosales-5899",
+    "title": "Propuesta de una plataforma semántica inteligente que utiliza el lenguaje natural con reconocimiento de voz para la inclusión de los discapacitados visuales en Perú (tesis – Doctor en Ingeniería de Sistemas)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/5899",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Rosales Huamaní, Jimmy Aurelio\"; thesis.degree.name \"Doctor en Ingeniería de Sistemas\"; dc.date.issued \"2017\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/14707",
+    "publishedAt": "1991",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-rosales-14707",
+    "title": "Estudio de la industrialización de la beterraga para la obtención de colorante rojo en polvo (tesis – Ingeniero Químico)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/14707",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Lozano Noriega, José Antonio; Rosales Huamaní, Jimmy Aurelio\"; thesis.degree.name \"Ingeniero Químico\"; dc.date.issued \"1991\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería. Facultad de Ingeniería Química y Textil\". Tesis de dos autores.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/10242",
+    "publishedAt": "1990",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-arnao-10242",
+    "title": "Aspectos de finanzas municipales : distribución del ingreso municipal en Lima un modelo para su equitativa asignación (tesis – Ingeniero Economista)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/10242",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Arnao Rondán, Raymundo Ildefonzo\"; thesis.degree.name \"Ingeniero Economista\"; dc.date.issued \"1990\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1754",
+    "publishedAt": "1993",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-1"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-arnao-1754",
+    "title": "Educación, estado y economía en el Perú problemas, perspectivas y propuestas (tesis – Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1754",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Arnao Rondán, Raymundo Ildefonzo; Pacheco Lay, Gonzalo\"; thesis.degree.name \"Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo\"; dc.date.issued \"1993\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/16011",
+    "publishedAt": "1989",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-vergara-16011",
+    "title": "Diseño y construcción de una planta piloto de un sistema de agua de enfriamiento para evaluación de inhibidores mediante el método de resistencia de polarización (tesis – Ingeniero Químico)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/16011",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Vergara Sotomayor, Abel Fernando; Zavaleta Reyes, José Luis\"; thesis.degree.name \"Ingeniero Químico\"; dc.date.issued \"1989\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\". Tesis de dos autores.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/1065",
+    "publishedAt": "2010",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-vergara-1065",
+    "title": "Influencia de las variables de operación del proceso de anodizado del aluminio sobre el comportamiento anticorrosivo de la película de óxido de aluminio (tesis – Maestro en Ingeniería de Procesos)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1065",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Vergara Sotomayor, Abel Fernando\"; thesis.degree.name \"Maestro en Ingeniería de Procesos\"; dc.date.issued \"2010\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "hdl:20.500.14076/21501",
+    "publishedAt": "2020",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects).",
+    "id": "src-gr-uni-vergara-21501",
+    "title": "Estudio de extractos etanólicos y acuosos de la Annona muricata L. (guanábana) como inhibidor ecológico de la corrosión del acero en medio ácido (tesis – Doctor en Ciencias con Mención en Química)",
+    "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+    "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/21501",
+    "type": "documento_institucional",
+    "locator": "Metadatos DSpace: dc.contributor.author \"Vergara Sotomayor, Abel Fernando\"; thesis.degree.name \"Doctor en Ciencias con Mención en Química\"; dc.date.issued \"2020\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+    "status": "verificado_primaria"
   }
 ]

@@ -44,6 +44,16 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Según el Repositorio Institucional de la Universidad Nacional del Callao (UNAC), obtuvo el grado de Doctor en Ingeniería Eléctrica (tesis de 2018, Facultad de Ingeniería Eléctrica y Electrónica de la UNAC) y el de Maestro en Ciencias de la Electrónica, mención Telecomunicaciones (tesis sustentada el 23-03-2011, UNAC). El Repositorio UNI registra su tesis para el título de Ingeniero Electrónico (1981).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-unac-butler-2810",
+            "src-gr-unac-butler-493",
+            "src-gr-uni-butler-23365"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -161,6 +171,18 @@
         "status": "pendiente",
         "note": "Registro ORCID con nombre abreviado y sin contenido público; confirmar que es el candidato.",
         "consultedAt": "2026-10-16"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-1-1",
+        "provider": "otro",
+        "profileId": "https://repositorio.uni.edu.pe/handle/20.500.14076/25739",
+        "displayName": "Butler Blacker, Jorge",
+        "status": "pendiente",
+        "note": "Repositorio UNI: monografía para Ingeniero Mecánico Electricista (1977) a nombre de \"Butler Blacker, Jorge\" (sin segundo nombre). Podría ser el candidato (segundo título profesional), pero el nombre no es completo; no se atribuye."
       }
     ],
     "pendingSources": [
@@ -171,7 +193,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Periodo del decanato de la FIEE (resolución de elección o designación).",
-      "Doctorado: especialidad e institución no encontradas (ORCID vacío; buscar en SUNEDU o en la hoja de vida de la lista). Leer la RR 3541-2023-UNI completa y la resolución de la Asamblea Universitaria de 2025 que lo eligió vicerrector de Investigación."
+      "Doctorado: especialidad e institución no encontradas (ORCID vacío; buscar en SUNEDU o en la hoja de vida de la lista). Leer la RR 3541-2023-UNI completa y la resolución de la Asamblea Universitaria de 2025 que lo eligió vicerrector de Investigación.",
+      "Las resoluciones 037 y 038-2026-CEUNI (tachas) podrían precisar la verificación del grado; leer texto completo."
     ],
     "corrections": [],
     "meta": {
@@ -233,6 +256,15 @@
             "src-vr-orcid-cacho"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Portal de Investigación de la Universidad de Oviedo (España) registra su tesis doctoral \"Ordenación y planificación de los espacios naturales: un estudio comparado\" (Doctor, 1997). Su ORCID la describe como doctora en Ordenamiento Territorial por esa universidad y arquitecta por la UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uniovi-cacho",
+            "src-vr-orcid-cacho"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -497,7 +529,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
+      "Doctorado no identificado: sin tesis en ALICIA ni Repositorio UNI; ORCID 0009-0005-5173-9213 vacío. Sus coautorías con N. Patrakhaltsev (1998) sugieren formación en Rusia: buscar en el catálogo de la Biblioteca Estatal Rusa (RSL) o pedir la hoja de vida al CEUNI/lista 1."
     ],
     "corrections": [],
     "meta": {
@@ -557,6 +590,15 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-rs-ceuni-res-035-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El Repositorio UNI registra dos trabajos para título profesional a su nombre: una monografía para Ingeniero Mecánico (1977) y una tesis para Ingeniero Mecánico Electricista (1981). No se halló en repositorios abiertos la tesis de su doctorado en Administración (mencionado por la Resolución N.º 035-2026-CEUNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-padilla-25437",
+            "src-gr-uni-padilla-23431"
           ],
           "kind": "hecho"
         }
@@ -679,7 +721,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Periodo exacto del rectorado (resoluciones o memoria institucional).",
-      "Fechas exactas del rectorado (aprox. 2009-2014; ya era rector en mayo de 2009 según RPP). La Gaceta UNI o las resoluciones de la Asamblea Universitaria de 2009 podrían precisarlas. En una entrevista de Perú21 (15-12-2015), el rector de entonces hizo afirmaciones sobre el fin del mandato de Padilla y una denuncia contra él; no se registran por ser declaraciones de un tercero sin resolución conocida. La nota de La República del 03-08-2014 («Fiscalización seguirá con investigación al ex rector de la UNI Aurelio Padilla») sólo pudo leerse por su titular: el cuerpo es ilegible y queda pendiente. Revisar si el claim controvertido sobre los buses (Perú21 2016) debe mostrarse; menciona a Padilla como integrante de la comisión."
+      "Fechas exactas del rectorado (aprox. 2009-2014; ya era rector en mayo de 2009 según RPP). La Gaceta UNI o las resoluciones de la Asamblea Universitaria de 2009 podrían precisarlas. En una entrevista de Perú21 (15-12-2015), el rector de entonces hizo afirmaciones sobre el fin del mandato de Padilla y una denuncia contra él; no se registran por ser declaraciones de un tercero sin resolución conocida. La nota de La República del 03-08-2014 («Fiscalización seguirá con investigación al ex rector de la UNI Aurelio Padilla») sólo pudo leerse por su titular: el cuerpo es ilegible y queda pendiente. Revisar si el claim controvertido sobre los buses (Perú21 2016) debe mostrarse; menciona a Padilla como integrante de la comisión.",
+      "Universidad y año del doctorado y la maestría en Administración (la Res. 035-2026-CEUNI sólo indica la mención): no figuran en ALICIA, UNMSM, UNFV, UNAC, ESAN, UNE ni UNI. Revisar la hoja de vida presentada al CEUNI."
     ],
     "corrections": [],
     "meta": {
@@ -799,6 +842,18 @@
         "status": "pendiente",
         "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-2-2",
+        "provider": "otro",
+        "profileId": "https://repositorio.uni.edu.pe/handle/20.500.14076/6873",
+        "displayName": "Sánchez Espinoza, Javier",
+        "status": "pendiente",
+        "note": "Repositorio UNI: informe para Ingeniero de Sistemas (2010) a nombre de \"Sánchez Espinoza, Javier\" (sin segundo nombre). La ficha FIIS del candidato (src-vr-fiis-sanchez) indica \"Título: Ingeniero de Sistemas\"; podría ser suyo, pero el nombre no es completo."
       }
     ],
     "pendingSources": [
@@ -871,6 +926,17 @@
             "src-orcid-c-2-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio de la UNFV registra su tesis para el grado de Doctor en Medio Ambiente y Desarrollo Sostenible (Escuela Universitaria de Posgrado, fechada 2021). El Repositorio UNI registra su tesis de Maestro en Ciencias con Mención en Gestión Ambiental (2008) y una tesis de dos autores para el título de Ingeniero Químico (1991). Su ORCID consigna el doctorado UNFV con fechas 2012–2013.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-unfv-osorio-4739",
+            "src-gr-uni-osorio-640",
+            "src-gr-uni-osorio-15929",
+            "src-orcid-c-2-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -997,6 +1063,14 @@
           "sourceIds": [
             "src-rx-proactivo-chirif-2025",
             "src-rx-dnb-chirif-1998"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Geólogo (\"Petrología y geoquímica de las rocas ígneas de Hualgayoc - Cajamarca\", 1991).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-chirif-15931"
           ],
           "kind": "hecho"
         }
@@ -1218,7 +1292,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Ph.D. RUDN 2005 sólo declarado en ORCID: buscar la disertación en el catálogo de la Biblioteca Estatal Rusa (dissercat/RSL) con transliteración del nombre."
     ],
     "corrections": [],
     "meta": {
@@ -1280,6 +1355,16 @@
             "src-orcid-c-3-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis de Maestro en Ciencias con Mención en Física (1974, a nombre de \"Montoya Zavaleta, Modesto E.\"). El INIS (OIEA) registra una tesis suya de 1977 en la Universidad Paris-11 (Orsay) sobre fisión nuclear; su ORCID declara el grado de Docteur ès sciences por la Université Paris-Sud (1981).",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-gr-uni-montoya-1720",
+            "src-gr-inis-montoya-1977",
+            "src-orcid-c-3-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -1345,6 +1430,18 @@
         "status": "pendiente",
         "note": "El perfil registra el nombre completo entre sus variantes, pero el nombre visible es abreviado (\"M. Montoya\"); confirmar con ORCID. Atención: el perfil probablemente mezcla homónimos; no usar su conteo de obras.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-3-3",
+        "provider": "otro",
+        "profileId": "https://arxiv.org/pdf/1503.06724",
+        "displayName": "M. Montoya (arXiv 1503.06724)",
+        "status": "pendiente",
+        "note": "Bibliografía de un artículo del propio candidato cita \"M. Montoya: Thesis, Doctorat d'Etat, Universidad París XI, Orsay (1981)\" (según buscador; PDF no abierto). Sirve como pista para ubicar la tesis de 1981 en SUDOC/theses.fr."
       }
     ],
     "pendingSources": [
@@ -1354,7 +1451,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Video YouTube 'ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3' (https://www.youtube.com/watch?v=pYCV_tPxoNI), canal de Modesto Montoya (@cienciayfuturo) según oEmbed: no se pudo ver el contenido (YouTube exige inicio de sesión / bloqueo anti-bot). Transcribir propuestas de Chirif, Páuyac y Montoya cuando sea posible."
+      "Video YouTube 'ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3' (https://www.youtube.com/watch?v=pYCV_tPxoNI), canal de Modesto Montoya (@cienciayfuturo) según oEmbed: no se pudo ver el contenido (YouTube exige inicio de sesión / bloqueo anti-bot). Transcribir propuestas de Chirif, Páuyac y Montoya cuando sea posible.",
+      "Confirmar la tesis de Doctorat d'État de 1981 (Paris-11, Orsay) en SUDOC/theses.fr; SUDOC devolvió una redirección no legible por script."
     ],
     "corrections": [],
     "meta": {
@@ -1416,6 +1514,14 @@
             "src-caretas-humala-2026"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Economista (\"La evolución del subdesarrollo en el Perú\", 1983).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-humala-1832"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -1522,7 +1628,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Cobertura de prensa de 2019 (Perú21) sobre su paso por la administración de la UNI: no se pudo acceder al texto completo; pendiente de revisión con la fuente original y la resolución que cerró el caso.",
-      "No se halló la resolución final sobre la sanción de enero de 2016 (apelación interna, Tribunal del Servicio Civil o Poder Judicial). Buscar en el Tribunal del Servicio Civil o en las resoluciones de la UNI de 2016-2017. Precisar desde cuándo es docente principal ordinario."
+      "No se halló la resolución final sobre la sanción de enero de 2016 (apelación interna, Tribunal del Servicio Civil o Poder Judicial). Buscar en el Tribunal del Servicio Civil o en las resoluciones de la UNI de 2016-2017. Precisar desde cuándo es docente principal ordinario.",
+      "Doctorado en la URP sólo según prensa (Caretas): el repositorio de la URP exige un desafío anti-bot (BunkerWeb/Cap.js) que no se sorteó; consultar manualmente o mediante ALICIA cuando se indexe."
     ],
     "corrections": [
       {
@@ -1679,6 +1786,18 @@
         "status": "pendiente",
         "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-4-2",
+        "provider": "confirmación",
+        "profileId": "https://alicia.concytec.gob.pe/vufind/Record/UUNI_a0a63b5494ecd7aea3bb9cc00849b5ba",
+        "displayName": "Cáceres Cárdenas, Félix Víctor",
+        "status": "pendiente",
+        "note": "ALICIA indexa la tesis doctoral 2018 (doctoralThesis); confirma la claim existente basada en src-vr-tesis-18140."
       }
     ],
     "pendingSources": [
@@ -1751,6 +1870,17 @@
             "src-orcid-c-4-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio de la UNFV registra su tesis para el grado de Doctor en Administración (2012), sobre planeamiento estratégico en la UNI. El Repositorio UNI registra su tesis de Licenciado en Física (1998) y la de Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas (1998). Coincide con la biografía de su ORCID (doctor en Administración, magíster en Ingeniería Aeronáutica, licenciado en Física).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-unfv-huamanperez-663",
+            "src-gr-uni-huamanperez-1258",
+            "src-gr-uni-huamanperez-1591",
+            "src-orcid-c-4-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -1958,6 +2088,18 @@
         "displayName": "Jose Alejandro Huaman Sanchez",
         "status": "descartado",
         "note": "Otro nombre (José Alejandro) y estudiante de la Universidad Nacional de San Martín: homónimo."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-5-1",
+        "provider": "otro",
+        "profileId": "https://repositorio.uni.edu.pe/handle/20.500.14076/12082",
+        "displayName": "Huamán Sánchez, Alejandro Apolinario",
+        "status": "pendiente",
+        "note": "Repositorio UNI: tesis para Licenciado en Física (Facultad de Ciencias, 2017) con nombre completo idéntico. El candidato es docente de la FIIS; el área no coincide con su facultad, por lo que no se registra como claim hasta confirmar con otra fuente."
       }
     ],
     "pendingSources": [
@@ -1968,7 +2110,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "No figura en la nota de RPP sobre las exposiciones de candidatos a rector (15-10-2026); sin otras fuentes públicas localizadas al 16-10-2026.",
-      "Sin propuestas públicas de la Lista 5 localizadas (prensa, ProActivo, YouTube). Buscar en redes de la lista o en el portal CEUNI. Formación doctoral (especialidad/universidad): consultar SUNEDU. Pista: el directorio UNI del 11-05-2026 (portal.uni.edu.pe, inaccesible desde aquí) podría confirmar si sigue en el CEPRE."
+      "Sin propuestas públicas de la Lista 5 localizadas (prensa, ProActivo, YouTube). Buscar en redes de la lista o en el portal CEUNI. Formación doctoral (especialidad/universidad): consultar SUNEDU. Pista: el directorio UNI del 11-05-2026 (portal.uni.edu.pe, inaccesible desde aquí) podría confirmar si sigue en el CEPRE.",
+      "Doctorado no identificado (ni ORCID localizado). Confirmar si la licenciatura en Física UNI 2017 le corresponde y buscar su doctorado en la hoja de vida del CEUNI."
     ],
     "corrections": [],
     "meta": {
@@ -2138,7 +2281,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
-      "Grado de doctor: las notas FIM lo llaman 'Dr.' pero no se halló tesis doctoral en el repositorio UNI; verificar en SUNEDU/RENATI. Periodo exacto como director de escuela (resoluciones FIM)."
+      "Grado de doctor: las notas FIM lo llaman 'Dr.' pero no se halló tesis doctoral en el repositorio UNI; verificar en SUNEDU/RENATI. Periodo exacto como director de escuela (resoluciones FIM).",
+      "Doctorado no identificado: no hay tesis doctoral en ALICIA, UNI, UNFV, UNAC ni UNMSM; ORCID sin educación."
     ],
     "corrections": [],
     "meta": {
@@ -2200,6 +2344,15 @@
             "src-vr-orcid-lazo",
             "src-vr-vri-docentes-investigadores",
             "src-vr-tesis-1904"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "La Biblioteca Digital de Tesis de la Universidade Federal de Goiás (Brasil) registra su tesis doctoral del Programa de Posgrado en Física (2014-04-23). Coincide con lo declarado en su ORCID (doctorado en la UFG, 2009–2014; maestría en Física en la Universidade Federal de Mato Grosso, 2006–2009).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-ufg-lazo-4430",
+            "src-vr-orcid-lazo"
           ],
           "kind": "hecho"
         }
@@ -2362,6 +2515,15 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Mecánico (1988) y su tesis de Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas (2008). No se halló su tesis doctoral en repositorios abiertos.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-alva-1758",
+            "src-gr-uni-alva-584"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -2475,7 +2637,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Formación (doctorado) y cargos de gestión en la FIM no encontrados en fuentes abiertas. ORCID 0009-0008-8168-661X vacío. Revisar el portal de la FIM (sin respuesta) y SUNEDU."
+      "Formación (doctorado) y cargos de gestión en la FIM no encontrados en fuentes abiertas. ORCID 0009-0008-8168-661X vacío. Revisar el portal de la FIM (sin respuesta) y SUNEDU.",
+      "Doctorado no identificado: no hay tesis doctoral en ALICIA ni repositorios consultados. Las resoluciones 032 y 033-2026-CEUNI (tachas a su candidatura) podrían mencionar el grado: leerlas completas."
     ],
     "corrections": [],
     "meta": {
@@ -2537,6 +2700,16 @@
             "src-cv-palma-gobpe"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Electricista (1985), su tesis de Maestro en Ciencias con Mención en Sistemas de Potencia (2019) y su tesis de Doctor en Ciencias con Mención en Energética (2020).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-palma-22172",
+            "src-gr-uni-palma-18138",
+            "src-gr-uni-palma-1651"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -2735,6 +2908,18 @@
         "displayName": "La Gaceta N.º 009-2021 – defensa de tesis doctoral",
         "status": "pendiente",
         "note": "portal.uni.edu.pe rechazó conexión (ECONNREFUSED); el dato (doctorado 2021) ya está respaldado por src-vr-tesis-22478."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-6-3",
+        "provider": "confirmación",
+        "profileId": "https://alicia.concytec.gob.pe/vufind/Record/UUNI_cf46aace0b37fa305209ca1488e069f4",
+        "displayName": "Guimaray Huerta, Héctor Carlos",
+        "status": "pendiente",
+        "note": "ALICIA indexa la tesis doctoral 2021; confirma la claim existente basada en src-vr-tesis-22478."
       }
     ],
     "pendingSources": [
@@ -2885,7 +3070,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Sin datos nuevos de formación ni cargos más allá de la RD 034-21 FIIS. ORCID vacío; fiis.uni.edu.pe devolvió 403. Revisar SUNEDU y las actas del Consejo Universitario de 2021-2022 sobre el encargo del Vicerrectorado Académico."
+      "Sin datos nuevos de formación ni cargos más allá de la RD 034-21 FIIS. ORCID vacío; fiis.uni.edu.pe devolvió 403. Revisar SUNEDU y las actas del Consejo Universitario de 2021-2022 sobre el encargo del Vicerrectorado Académico.",
+      "Ningún grado localizado en repositorios abiertos (ALICIA, UNI, UNMSM, UNFV, UNAC). Revisar hoja de vida en CEUNI o portal FIIS."
     ],
     "corrections": [],
     "meta": {
@@ -2939,6 +3125,15 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis de Licenciado en Física (1997) y su tesis de Maestro en Ciencias con Mención en Física (2019). No se halló su tesis doctoral en repositorios abiertos.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-mosquera-1844",
+            "src-gr-uni-mosquera-21298"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -3006,7 +3201,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026."
+      "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
+      "Doctorado no identificado (ALICIA y repositorios peruanos sin tesis doctoral; ORCID sólo con RENACYT)."
     ],
     "corrections": [],
     "meta": {
@@ -3067,6 +3263,14 @@
           "sourceIds": [
             "src-vr-tesis-23687",
             "src-vr-tesis-1331"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El Repositorio de la UNFV registra su tesis para el grado de Doctor en Medio Ambiente y Desarrollo Sostenible (Escuela Universitaria de Posgrado, 2021), sobre generación termoeléctrica y emisiones de CO2 en el Perú.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-unfv-villavicencio-4741"
           ],
           "kind": "hecho"
         }
@@ -3222,6 +3426,15 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis de Maestro en Ciencias con Mención en Física (1996) y su tesis de Doctor en Ciencias con Mención en Física (2000, \"Sputter deposited titanium oxide films for photoelectrochemical water purification\").",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-rodriguez-234",
+            "src-gr-uni-rodriguez-320"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -3410,6 +3623,15 @@
             "src-orcid-c-8-2"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Civil (1995) y su tesis de Maestro en Ciencias con Mención en Ingeniería Estructural (2008).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-salinas-20202",
+            "src-gr-uni-salinas-770"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -3474,7 +3696,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Doctorado UNAM (2010–2013) sólo declarado en ORCID: el catálogo TESIUNAM respondió HTTP 403 a la consulta automatizada; verificar manualmente en tesiunam.dgb.unam.mx."
     ],
     "corrections": [],
     "meta": {
@@ -3536,6 +3759,17 @@
             "src-orcid-c-8-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis de Doctor en Ingeniería de Sistemas (2017), su tesis de Maestro en Ciencias con Mención en Ingeniería de Sistemas (2001) y una tesis de dos autores para el título de Ingeniero Químico (1991). Su ORCID consigna el magíster con año 2011.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-rosales-5899",
+            "src-gr-uni-rosales-1814",
+            "src-gr-uni-rosales-14707",
+            "src-orcid-c-8-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -3705,6 +3939,16 @@
             "src-orcid-arnao"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Economista (fechada 1990) y su tesis de Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo (fechada 1993). Su ORCID consigna esos grados con años 1985 y 1988. No se halló en repositorios abiertos la tesis del doctorado en Ciencias Contables y Empresariales (UNMSM, 1999) que declara en ORCID.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-arnao-10242",
+            "src-gr-uni-arnao-1754",
+            "src-orcid-arnao"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -3806,7 +4050,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Doctorado UNMSM 1999 sólo declarado en ORCID: Cybertesis UNMSM (API backend) no devuelve tesis a su nombre; posible tesis no digitalizada."
     ],
     "corrections": [
       {
@@ -3965,7 +4210,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
-      "Grado de doctor (el reglamento exige doctorado presencial para vicerrector) y cargos de gestión en FIEE (p.ej. Oficina de Grados y Títulos); buscar en CTI Vitae, SUNEDU/RENATI y resoluciones FIEE. Representación docente ante órganos de gobierno 2018-2019 aparece en un post de rrppuni.blogspot.com cuyo texto no fue legible (imagen)."
+      "Grado de doctor (el reglamento exige doctorado presencial para vicerrector) y cargos de gestión en FIEE (p.ej. Oficina de Grados y Títulos); buscar en CTI Vitae, SUNEDU/RENATI y resoluciones FIEE. Representación docente ante órganos de gobierno 2018-2019 aparece en un post de rrppuni.blogspot.com cuyo texto no fue legible (imagen).",
+      "Doctorado y maestría no identificados en ALICIA, UNE, UNMSM, UNFV, UNAC ni UNI."
     ],
     "corrections": [],
     "meta": {
@@ -4027,6 +4273,16 @@
             "src-orcid-c-9-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "El Repositorio UNI registra su tesis de Doctor en Ciencias con Mención en Química (2020), su tesis de Maestro en Ingeniería de Procesos (2010) y una tesis de dos autores para el título de Ingeniero Químico (1989).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-uni-vergara-21501",
+            "src-gr-uni-vergara-1065",
+            "src-gr-uni-vergara-16011"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [

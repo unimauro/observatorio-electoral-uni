@@ -305,3 +305,18 @@ export interface SiteConfig {
   correctionsUrl: string
   independenceNote: string
 }
+
+export interface DegreeEntry {
+  denominacion: string
+  universidad: string
+  anio: number | null
+  sourceId: string
+  status: VerificationStatus
+}
+
+export interface DegreeRow {
+  candidateId: string
+  doctorado: DegreeEntry | null
+  maestria: DegreeEntry | null
+  titulo: DegreeEntry | null
+}

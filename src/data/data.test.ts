@@ -23,6 +23,12 @@ describe('integridad de datos', () => {
     expect(validateSite(d.site, dataset)).toEqual([])
   })
 
+  it('la tabla de grados cubre a los 27 y cita fuentes existentes', () => {
+    expect(new Set(d.degrees.map((x) => x.candidateId)).size).toBe(27)
+    for (const row of d.degrees)
+      for (const g of [row.doctorado, row.maestria, row.titulo]) if (g?.sourceId) expect(d.sourceById.has(g.sourceId)).toBe(true)
+  })
+
   it('hay exactamente 9 listas y 27 candidaturas', () => {
     expect(d.lists).toHaveLength(9)
     expect(d.candidates).toHaveLength(27)
