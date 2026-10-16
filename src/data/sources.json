@@ -3394,5 +3394,823 @@
     "type": "documento_institucional",
     "locator": "Ficha resumen: “LA ENTIDAD, EN EL AÑO 2019, ADQUIRIÓ PARA LA FACULTAD DE INGENIERÍA QUÍMICA Y TEXTIL 3 (TRES) EQUIPOS … POR UN MONTO TOTAL DE S/ 1 011 158,00, POR LOS CUALES OTORGÓ LA CONFORMIDAD DE FORMA INMEDIATA A SU RECEPCIÓN Y EFECTUÓ EL PAGO, A PESAR DE HABERSE INCUMPLIDO CON SU INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO”; sección 3: “ABEL FERNANDO VERGARA SOTOMAYOR” (X en Penal). Informe: “Abel Fernando Vergara Sotomayor … en su condición de Decano de la Facultad de Ingeniería Química y Textil … respecto de su participación como funcionario responsable del área usuaria en la adquisición de los equipos”.",
     "status": "controvertido"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 72854",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-1"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. La ficha atribuye el Master en Asesoría y Gestión Fiscal a la UNI; su ORCID lo atribuye a la Universidad Politécnica de Madrid (CEPADE). Ficha enlazada desde su ORCID. No muestra código RENACYT.",
+    "id": "src-gr-cti-arnao",
+    "title": "Ficha CTI Vitae de Raymundo Ildefonzo Arnao Rondán (id_investigador 72854)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=72854",
+    "type": "registro_publico",
+    "locator": "Apellidos: ARNAO RONDAN; Nombres: RAYMUNDO ILDEFONZO. \"Formación Académica (Fuente: SUNEDU)\": DOCTORADO – DOCTOR EN CIENCIAS CONTABLES EMPRESARIALES – UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS; LICENCIADO / TÍTULO – INGENIERO ECONOMISTA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: INGENIERIA ECONOMICA – UNI; MAGISTER – MAESTRO EN CIENCIAS, ESPECIALIDAD: PLANIFICACION NACIONAL DEL DESARROLLO – UNI; MAGISTER – MASTER EN ASESORIA Y GESTION FISCAL Y DE INVERSIONES – UNIVERSIDAD NACIONAL DE INGENIERÍA.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 31245",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-3"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde la página Docentes Investigadores del VRI-UNI. El código fuente de la ficha indica nivel VII, activo al 16/10/2026.",
+    "id": "src-gr-cti-lazo",
+    "title": "Ficha CTI Vitae de Antonio Nolberto Lazo Jara (id_investigador 31245)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=31245",
+    "type": "registro_publico",
+    "locator": "Apellidos: LAZO JARA; Nombres: ANTONIO NOLBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS, ESPECIALIDAD: FISICA – UNIVERSIDAD NACIONAL DE INGENIERÍA; LICENCIADO / TÍTULO – TITULO PROFESIONAL DE LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS CON MENCION EN FISICA – UNI. \"Fuente: Manual\": MAGISTER – MESTRE – UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL (UFMS) – BRASIL – Marzo 2006–Diciembre 2008. RENACYT: código P0031245.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 17546",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel II, activo al 16/10/2026.",
+    "id": "src-gr-cti-montoya",
+    "title": "Ficha CTI Vitae de Modesto Edilberto Montoya Zavaleta (id_investigador 17546)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17546",
+    "type": "registro_publico",
+    "locator": "Apellidos: MONTOYA ZAVALETA; Nombres: MODESTO EDILBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN GOBIERNO Y POLITICA PUBLICA – UNIVERSIDAD DE SAN MARTIN DE PORRES; DOCTORADO – DOCTOR DEL TERCER CICLO, ESPECIALIDAD: FISICA – UNI; DOCTORADO – DOCTOR, ESPECIALIDAD: FISICA – UNI; MAGISTER – MAESTRO EN CIENCIAS, ESPECIALIDAD: FISICA – UNI; LICENCIADO / TÍTULO – LICENCIADO, ESPECIALIDAD: FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: FISICA – UNI. RENACYT: código P0017546.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 247",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-2"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Las filas con \"UNI - NICARAGUA\" se transcriben como aparecen, sin interpretarlas. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel IV, activo al 16/10/2026.",
+    "id": "src-gr-cti-mosquera",
+    "title": "Ficha CTI Vitae de Luis Alberto Mosquera Leiva (id_investigador 247)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=247",
+    "type": "registro_publico",
+    "locator": "Apellidos: MOSQUERA LEIVA; Nombres: LUIS ALBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS, ESPECIALIDAD: FISICA – UNIVERSIDAD NACIONAL DE INGENIERÍA; MAGISTER – MAESTRO EN CIENCIAS EN FISICA – UNI; LICENCIADO / TÍTULO – TITULO PROFESIONAL, ESPECIALIDAD: LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: FISICA – UNI (y tres filas DOCTORADO/TÍTULO/BACHILLER con centro \"UNIVERSIDAD NACIONAL DE INGENIERÍA - NICARAGUA\", país PERÚ). \"Fuente: Manual\": DOCTORADO – DOCTOR EN CIENCIAS FÍSICA – UNIVERSIDADE ESTADUAL DE CAMPINAS – BRASIL – Julio 1999–Diciembre 2003. RENACYT: código P0000247.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-2"
+    ],
+    "notes": "Misma página ya citada como src-vr-vri-docentes-investigadores (para Lazo); se registra aparte por la entrada de Mosquera. El correo de la entrada no se copió.",
+    "id": "src-gr-vri-mosquera",
+    "title": "Docentes Investigadores UNI – entrada \"MOSQUERA LEIVA, LUIS ALBERTO\"",
+    "author": "Vicerrectorado de Investigación UNI",
+    "url": "https://vri.uni.edu.pe/docentes-investigadores-uni/",
+    "type": "portal_institucional",
+    "locator": "\"MOSQUERA LEIVA, LUIS ALBERTO / Doctor en Ciencias Física. Pontificia Universidade Estadual de Campiñas, Brasil. Docente Investigador FIC.\"",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 256",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel \"Investigador Distinguido\", activo al 16/10/2026.",
+    "id": "src-gr-cti-rodriguez",
+    "title": "Ficha CTI Vitae de Juan Martín Rodríguez Rodríguez (id_investigador 256)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=256",
+    "type": "registro_publico",
+    "locator": "Apellidos: RODRIGUEZ RODRIGUEZ; Nombres: JUAN MARTIN. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS CON MENCION EN FISICA – UNI; MAGISTER – MAESTRO EN CIENCIAS CON MENCION EN FISICA – UNI; LICENCIADO / TÍTULO – TITULO PROFESIONAL DE LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS CON MENCION EN FISICA – UNI. \"Fuente: Manual\": MAGISTER – FILOSOFIE LICENCIATEXAMEN – UPPSALA UNIVERSITY – SUECIA – 1999. RENACYT: código P0000256.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 4091",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-3"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel II, activo al 16/10/2026.",
+    "id": "src-gr-cti-rosales",
+    "title": "Ficha CTI Vitae de Jimmy Aurelio Rosales Huamaní (id_investigador 4091)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=4091",
+    "type": "registro_publico",
+    "locator": "Apellidos: ROSALES HUAMANI; Nombres: JIMMY AURELIO. \"Fuente: SUNEDU\": DOCTORADO – TÍTULO UNIVERSITARIO OFICIAL DE DOCTOR DENTRO DEL PROGRAMA DE DOCTORADO EN INGENIERÍA DE LA INFORMACIÓN Y DEL CONOCIMIENTO (GRADO DE DOCTOR) – UNIVERSIDAD DE ALCALÁ – ESPAÑA. \"Fuente: Manual\": MASTER EN TECNOLOGIAS DE APOYO ACCESIBILIDAD Y DISEÑO PARA TODOS – UC3M – 2011–2012; MAESTRO EN INGENIERIA DE SISTEMAS – UNI – 1999–2001; INGENIERO QUIMICO – UNI – 1991; BACHILLER – UNI; DOCTOR EN INGENIERÍA DE SISTEMAS – UNI – 2012–2014. RENACYT: código P0004091.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 11470",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-9-3"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel VII, activo al 16/10/2026.",
+    "id": "src-gr-cti-vergara",
+    "title": "Ficha CTI Vitae de Abel Fernando Vergara Sotomayor (id_investigador 11470)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11470",
+    "type": "registro_publico",
+    "locator": "Apellidos: VERGARA SOTOMAYOR; Nombres: ABEL FERNANDO. \"Fuente: SUNEDU\": BACHILLER EN CIENCIAS – UNI; TITULO PROFESIONAL, ESPECIALIDAD: INGENIERO QUIMICO – UNI; MAESTRO, ESPECIALIDAD: INGENIERIA DE PROCESOS – UNI; DOCTOR EN CIENCIAS CON MENCION EN QUIMICA – UNI. RENACYT: código P0011470.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "CTI Vitae 5093",
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-3"
+    ],
+    "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID (calificación RENACYT). El código fuente indica nivel V, activo al 16/10/2026.",
+    "id": "src-gr-cti-osorio",
+    "title": "Ficha CTI Vitae de César Javier Osorio Carrera (id_investigador 5093)",
+    "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+    "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=5093",
+    "type": "registro_publico",
+    "locator": "Apellidos: OSORIO CARRERA; Nombres: CESAR JAVIER. \"Fuente: SUNEDU\": BACHILLER, ESPECIALIDAD: INGENIERIA QUIMICA – UNI; TITULO, ESPECIALIDAD: INGENIERO QUIMICO – UNI; MAESTRO, ESPECIALIDAD: GESTION AMBIENTAL – UNI; DOCTOR EN MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE – UNIVERSIDAD NACIONAL FEDERICO VILLARREAL. RENACYT: código P0005093.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 009-2024-EM",
+    "publishedAt": "2024-06-05",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs009-2024-em",
+    "title": "Resolución Suprema N.º 009-2024-EM – Designan Presidente del Consejo Directivo del INGEMMET",
+    "author": "Presidencia de la República / MINEM",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2295210-9",
+    "type": "normativa",
+    "locator": "Artículo 2.- Designar al señor Luis Humberto Chirif Rivera como Presidente del Consejo Directivo del Instituto Geológico, Minero y Metalúrgico - INGEMMET. (Lima, 4 de junio de 2024)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 014-2025-EM",
+    "publishedAt": "2025-10-10",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs014-2025-em",
+    "title": "Resolución Suprema N.º 014-2025-EM – Encargan al Presidente Ejecutivo del INGEMMET las funciones del Presidente del IPEN",
+    "author": "Presidencia de la República / MINEM",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2446795-1",
+    "type": "normativa",
+    "locator": "Artículo 1.- Encargar al señor Luis Humberto Chirif Rivera, Presidente Ejecutivo del INGEMMET, las funciones del Presidente del Instituto Peruano de Energía Nuclear (IPEN), en adición a sus funciones a partir del 12 de octubre de 2025 y en tanto dure la ausencia del titular.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "Res. 0068-2012-ANR",
+    "publishedAt": "2012-01-26",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-res0068-2012-anr",
+    "title": "Resolución N.º 0068-2012-ANR – Designan Comisión de Seguimiento para la Universidad Nacional Pedro Ruiz Gallo",
+    "author": "Asamblea Nacional de Rectores",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/744973-1",
+    "type": "normativa",
+    "locator": "Artículo 1º.- Designar una Comisión de Seguimiento para la Universidad Nacional Pedro Ruiz Gallo [...] integrada por: [...] Dr. Aurelio Marcelo Padilla Ríos Rector de la Universidad Nacional de Ingeniería (Lima, 16 de enero de 2012)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RP 123-2016-CONCYTEC-P",
+    "publishedAt": "2016-08-30",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-3"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rp123-2016-concytec",
+    "title": "Resolución de Presidencia N.º 123-2016-CONCYTEC-P – Designan representantes del CONCYTEC ante la Comisión Nacional sobre el Cambio Climático",
+    "author": "CONCYTEC",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/1422405-1",
+    "type": "normativa",
+    "locator": "Artículo 1.- Designar a la señora Elizabeth Silvestre Espinoza [...] y al señor César Javier Osorio Carrera, Profesional de la Sub Dirección de Ciencia, Tecnología y Talentos, como representantes, titular y alterno, respectivamente, del CONCYTEC, ante la Comisión Nacional sobre el Cambio Climático.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RP 014-2012-CONCYTEC-P",
+    "publishedAt": "2012-01-18",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-3"
+    ],
+    "notes": "",
+    "id": "src-tp-gob-rp014-2012-concytec",
+    "title": "Resolución de Presidencia N.º 014-2012-CONCYTEC-P",
+    "author": "CONCYTEC",
+    "url": "https://www.gob.pe/institucion/concytec/normas-legales/604732-014-2012-concytec-p",
+    "type": "normativa",
+    "locator": "APROBAR como ganador del Concurso Publico de Merito al Sr. Cesar Javier Osorio Carrera, en el cargo de Profesional, Nivel Remuneraivo P-5 [...] de la DCYT",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RVM 068-2024-MINEDU",
+    "publishedAt": "2024-06-15",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2",
+      "c-3-2"
+    ],
+    "notes": "La resolución no menciona a la UNI; la identidad se infiere por el nombre completo de cuatro componentes de ambos candidatos de la UNI, que figuran juntos.",
+    "id": "src-tp-ep-rvm068-2024-minedu",
+    "title": "Resolución Viceministerial N.º 068-2024-MINEDU – Constituyen la Comisión Organizadora de la Universidad Nacional Tecnológica de San Juan de Lurigancho",
+    "author": "MINEDU",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2298159-1",
+    "type": "normativa",
+    "locator": "Artículo 1.- Constituir la Comisión Organizadora de la Universidad Nacional Tecnológica de San Juan de Lurigancho, la misma que estará integrada por: - HUGO ELISEO GAMARRA CHINCHAY, en el cargo de Presidente; - HIGINIO EXEQUIEL FLORES VIDAL, en el cargo de Vicepresidente Académico; y, - JOSE ANIBAL PAUYAC HUAMAN, en el cargo de Vicepresidente de Investigación (Lima, 14 de junio de 2024)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RVM 012-2025-MINEDU",
+    "publishedAt": "2025-02-12",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-5-2",
+      "c-3-2"
+    ],
+    "notes": "No menciona a la UNI.",
+    "id": "src-tp-ep-rvm012-2025-minedu",
+    "title": "Resolución Viceministerial N.º 012-2025-MINEDU – Reconforman la Comisión Organizadora de la Universidad Nacional Tecnológica de San Juan de Lurigancho",
+    "author": "MINEDU",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2370416-1",
+    "type": "normativa",
+    "locator": "Artículo 1.- Dar por concluidas las designaciones del señor HUGO ELISEO GAMARRA CHINCHAY, en el cargo de Presidente; del señor HIGINIO EXEQUIEL FLORES VIDAL, en el cargo de Vicepresidente Académico; y del señor JOSE ANIBAL PAUYAC HUAMAN, en el cargo de Vicepresidente de Investigación (Lima, 10 de febrero de 2025)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 080-2006-EM",
+    "publishedAt": "2006-12-27",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs080-2006-em",
+    "title": "Resolución Suprema N.º 080-2006-EM – Dan por concluida designación del Presidente del IPEN",
+    "author": "Presidencia de la República / MEM",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/10149-10",
+    "type": "normativa",
+    "locator": "Que, mediante Resolución Suprema Nº 146-2001-EM, publicada el 23 de agosto de 2001, se designó al ingeniero Modesto Edilberto Montoya Zavaleta, como Presidente del Instituto Peruano de Energía Nuclear - IPEN [...] Artículo 1º.- Dar por concluida la designación (Lima, 26 de diciembre de 2006)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RP 167-13-IPEN/PRES",
+    "publishedAt": "2013-08-16",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rp167-2013-ipen",
+    "title": "Resolución de Presidencia N.º 167-13-IPEN/PRES – Designan Director de la Dirección de Transferencia Tecnológica del IPEN",
+    "author": "IPEN",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/975325-1",
+    "type": "normativa",
+    "locator": "artículo segundo.- Designar a partir de la fecha, al señor Modesto Edilberto Montoya Zavaleta, en el cargo de confianza de Director de la Dirección de Transferencia Tecnológica, Nivel D-4 del Instituto Peruano de Energía Nuclear – IPEN",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RP 006-2015-IPEN/PRES",
+    "publishedAt": "2015-01-21",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-gob-rp006-2015-ipen",
+    "title": "Resolución de Presidencia N.º 006-2015-IPEN/PRES",
+    "author": "IPEN",
+    "url": "https://www.gob.pe/institucion/ipen/normas-legales/7536486-006-2015-ipen-pres",
+    "type": "normativa",
+    "locator": "Aceptar a partir de la fecha de la presente Resolución, la renuncia presentada por el señor Modesto Edilberto Montoya Zavaleta al cargo de confianza de Director de Transferencia Tecnológica del Instituto Peruano de Energía Nuclear – IPEN",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 010-2021-EM",
+    "publishedAt": "2021-08-28",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs010-2021-em",
+    "title": "Resolución Suprema N.º 010-2021-EM – Designan Presidente del IPEN",
+    "author": "Presidencia de la República / MINEM",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/1986590-3",
+    "type": "normativa",
+    "locator": "Artículo 1.- Designar al señor Modesto Edilberto Montoya Zavaleta como Presidente del Instituto Peruano de Energía Nuclear – IPEN. (Lima, 27 de agosto de 2021)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 004-2022-EM",
+    "publishedAt": "2022-02-09",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "Edición extraordinaria de El Peruano del 09-02-2022 (PDF en gob.pe).",
+    "id": "src-tp-gob-rs004-2022-em",
+    "title": "Resolución Suprema N.º 004-2022-EM – Aceptan renuncia al cargo de Presidente del IPEN",
+    "author": "Presidencia de la República / MINEM",
+    "url": "https://cdn.www.gob.pe/uploads/document/file/3561048/RS%20N%C2%B0%20004-2022-EM.pdf.pdf",
+    "type": "normativa",
+    "locator": "Artículo 1.- Aceptar, con eficacia al 08 de febrero de 2022, la renuncia formulada por el señor Modesto Edilberto Montoya Zavaleta al cargo de Presidente del Instituto Peruano de Energía Nuclear - IPEN",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 099-2021-PCM",
+    "publishedAt": "2021-09-09",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs099-2021-pcm",
+    "title": "Resolución Suprema N.º 099-2021-PCM – Designan Consejero Presidencial de la Comisión Consultiva del Despacho Presidencial en materia científica",
+    "author": "Presidencia de la República / PCM",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/1989875-1",
+    "type": "normativa",
+    "locator": "Artículo 1.- Designar al señor MODESTO EDILBERTO MONTOYA ZAVALETA en el cargo de Consejero Presidencial de la Comisión Consultiva del Despacho Presidencial en materia científica, cargo honorario. (Lima, 8 de setiembre de 2021)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 110-2022-PCM",
+    "publishedAt": "2022-03-14",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-gob-rs110-2022-pcm",
+    "title": "Resolución Suprema N.º 110-2022-PCM",
+    "author": "PCM",
+    "url": "https://www.gob.pe/institucion/pcm/normas-legales/2929445-110-2022-pcm",
+    "type": "normativa",
+    "locator": "Dar por concluida con eficacia anticipada al 08 de febrero de 2022, la designación del Señor MODESTO EDILBERTO MONTOYA ZAVALETA al cargo de Consejero Presidencial de la Comisión Consultiva del despacho Presidencial en materia científica",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 096-2022-PCM",
+    "publishedAt": "2022-02-09",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs096-2022-pcm",
+    "title": "Resolución Suprema N.º 096-2022-PCM – Nombran Ministro del Ambiente",
+    "author": "Presidencia de la República",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2037675-36",
+    "type": "normativa",
+    "locator": "SE RESUELVE: Nombrar Ministro de Estado en el Despacho del Ambiente, al señor Modesto Edilberto Montoya Zavaleta. (Lima, 8 de febrero de 2022)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 213-2022-PCM",
+    "publishedAt": "2022-08-24",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-gob-rs213-2022-pcm",
+    "title": "Resolución Suprema N.º 213-2022-PCM",
+    "author": "PCM",
+    "url": "https://www.gob.pe/institucion/pcm/normas-legales/3598946-213-2022-pcm",
+    "type": "normativa",
+    "locator": "Aceptar la renuncia que, al cargo de Ministro de Estado en el Despacho del Ambiente, formula el señor Modesto Edilberto Montoya Zavaleta",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": "2022-02-08",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "Vincula al ministro y expresidente del IPEN con la Facultad de Ciencias de la UNI.",
+    "id": "src-tp-actualidadambiental-montoya-2022",
+    "title": "¿Quién es Modesto Montoya, el nuevo ministro del Ambiente?",
+    "author": "Actualidad Ambiental (SPDA)",
+    "url": "https://www.actualidadambiental.pe/quien-es-modesto-montoya-nuevo-ministro-del-ambiente/",
+    "type": "prensa",
+    "locator": "“licenciado y magíster en física por la Universidad Nacional de Ingeniería (UNI)”; “profesor principal de la Facultad de Ciencias de la UNI”; “expresidente del Instituto Peruano de Energía Nuclear (IPEN)”",
+    "status": "corroborado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 018-2012-MC",
+    "publishedAt": "2012-08-21",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs018-2012-mc",
+    "title": "Resolución Suprema N.º 018-2012-MC – Designan miembros de la Comisión Consultiva Nacional de Cultura",
+    "author": "Presidencia de la República / Ministerio de Cultura",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/830708-3",
+    "type": "normativa",
+    "locator": "Lista de integrantes designados: “[...] - Modesto Edilberto Montoya Zavaleta - [...]”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "Res. 0244-2026-JNE",
+    "publishedAt": "2026-02-06",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "El texto identifica a la organización política; por regla del observatorio no se registra.",
+    "id": "src-tp-ep-res0244-2026-jne",
+    "title": "Resolución N.º 0244-2026-JNE – Elecciones Generales 2026, apelación sobre lista de candidatos a la Cámara de Diputados (distrito electoral de Lima Metropolitana)",
+    "author": "Jurado Nacional de Elecciones",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2486816-1",
+    "type": "registro_publico",
+    "locator": "“Asimismo, las renuncias de don Wilber Aduviri Calisaya y don Modesto Edilberto Montoya Zavaleta, de fecha 21 de diciembre de 2025, fueron presentadas recién en sede de apelación, por lo que el JEE se encontraba habilitado para declarar la improcedencia de dichas candidaturas.”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RR 692-2008",
+    "publishedAt": "2008-05-27",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rr692-2008-uni",
+    "title": "Resolución Rectoral N.º 692 (UNI) – Designan Director General de Administración de la Universidad Nacional de Ingeniería",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/204702-1",
+    "type": "normativa",
+    "locator": "artículo 1º.- Designar en el cargo de Director General de Administración de la Universidad Nacional de Ingeniería al Ing. Ulises Humala Tasso, a quien se le delega las atribuciones enumeradas en el artículo 8º de la Ley General del Sistema Nacional de Tesorería",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RR 1473-2008",
+    "publishedAt": "2008-11-08",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rr1473-2008-uni",
+    "title": "Resolución Rectoral N.º 1473 (UNI) – Designan Director General de Administración",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/274089-1",
+    "type": "normativa",
+    "locator": "Que por Resolución Rectoral Nº 716 de 23 de mayo del 2008 se resuelve delegar facultades al señor Mag. Ulises Humala Tasso, para que haga las veces de Director General de Administración de la UNI [...] Artículo 1º.- Designar a partir de la fecha al Mag. Ulises Humala Tasso como Director General de Administración de la Universidad Nacional de Ingeniería. (Lima, 3 de noviembre de 2008)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-1"
+    ],
+    "notes": "Reproduce resultados del JNE; la fila incluye el nombre de la organización política, que no se registra.",
+    "id": "src-tp-pdba-pres2006",
+    "title": "República del Perú – Elecciones presidenciales de 2006 (Political Database of the Americas)",
+    "author": "Georgetown University – Political Database of the Americas",
+    "url": "https://pdba.georgetown.edu/Elecdata/Peru/pres2006.html",
+    "type": "base_bibliografica",
+    "locator": "Fila: “Ulises Humala Tasso | 24.518 | 0,20 %” (primera vuelta); fuente declarada: Jurado Nacional de Elecciones",
+    "status": "corroborado"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RR 484-2010",
+    "publishedAt": "2010-05-02",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-4-2"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rr484-2010-uni",
+    "title": "Resolución Rectoral N.º 484 (UNI) – Modifican la Res. N.º 434 que autorizó viaje de autoridades a España, Francia e Italia",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/488390-1",
+    "type": "normativa",
+    "locator": "“los funcionarios MSc. Ing. Félix Víctor Cáceres Cárdenas y al MSc. Ing. Oscar Felipe Silva Campos, en su calidad de miembros del Consejo Directivo del INICTEL-UNI llevarán a cabo actividades relacionadas con el Instituto Nacional de Investigación y Capacitación de Telecomunicaciones - INICTEL”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RR 421-2008",
+    "publishedAt": "2008-04-10",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rr421-2008-uni",
+    "title": "Resolución Rectoral N.º 421 (UNI) – Designan Director del INICTEL (Unidad Ejecutora 002 INICTEL-UNI)",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/185610-2",
+    "type": "normativa",
+    "locator": "2º.- Designar como Director del Instituto Nacional de Investigación y Capacitación de Telecomunicaciones – INICTEL (Unidad Ejecutora 002 INICTEL-UNI) al Profesor Principal de la Facultad de Ingeniería Eléctrica y Electrónica, señor Ing. Modesto Tomás Palma García.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RR 1222-2013",
+    "publishedAt": "2013-08-22",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rr1222-2013-uni",
+    "title": "Resolución Rectoral N.º 1222 (UNI) – Autorizan viaje de profesionales del INICTEL-UNI a Uruguay",
+    "author": "Universidad Nacional de Ingeniería",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/977164-1",
+    "type": "normativa",
+    "locator": "“del Ing. Modesto Tomás Palma García -Director Ejecutivo y del Dr. Gilberto Becerra Arévalo Miembro del Comité Directivo”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "AD 001-2023/006-FONAFE",
+    "publishedAt": "2023-08-19",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-fonafe-001-2023-006",
+    "title": "Acuerdo de Directorio N.º 001-2023/006-FONAFE – Directores de empresas en las que FONAFE participa como accionista",
+    "author": "FONAFE",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2206559-1",
+    "type": "normativa",
+    "locator": "“Nombrar como presidente y directores a las siguientes personas: [...] 1 MODESTO TOMÁS PALMA GARCÍA ELECTROPUNO PRESIDENTE MINEM” (Sesión No Presencial N.º 006-2023 de 16 de agosto de 2023)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": null,
+    "publishedAt": null,
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-2"
+    ],
+    "notes": "Consultado el 2026-10-16.",
+    "id": "src-tp-gob-electropuno-palma",
+    "title": "Modesto Tomás Palma García – Presidente de Directorio – Funcionarios – Electro Puno S.A.A. (gob.pe)",
+    "author": "Electro Puno S.A.A.",
+    "url": "https://www.gob.pe/institucion/electropuno/funcionarios/124790-modesto-tomas-palma-garcia",
+    "type": "portal_institucional",
+    "locator": "“Modesto Tomás Palma García - Presidente de Directorio - Funcionarios - Empresa Regional de Servicio Publico de Electricidad de Puno S.A.A.”; enlaza el CV (src-cv-palma-gobpe): “Presidente del Directorio [...] Director Ejecutivo del INICTEL- UNIVERSIDAD NACIONAL DE INGENIERÍA (2008 - 2014)”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RM 0477-2011-ED",
+    "publishedAt": "2011-09-14",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-1"
+    ],
+    "notes": "",
+    "id": "src-tp-gob-rm0477-2011-ed",
+    "title": "Resolución Ministerial N.º 0477-2011-ED",
+    "author": "MINEDU",
+    "url": "https://www.gob.pe/institucion/minedu/normas-legales/166507-0477-2011-ed",
+    "type": "normativa",
+    "locator": "DESIGNAR AL SEÑOR RODOLFO ELIAS FALCONI VASQUEZ, COMO JEFE DE LA UNIDAD DE PROGRAMACION DEPENDIENTE DE LA OFICINA DE PLANIFICACION ESTRATEGICA Y MEDICION DE LA CALIDAD EDUCATIVA DE LA SECRETARIA DE PLANIFICACION ESTRATEGICA DEL MINISTERIO DE EDUCACION",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RM 0553-2011-ED",
+    "publishedAt": "2011-11-10",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rm0553-2011-ed",
+    "title": "Resolución Ministerial N.º 0553-2011-ED – Designan representante del Ministerio ante el Núcleo Ejecutor de Compra",
+    "author": "MINEDU",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/714154-2",
+    "type": "normativa",
+    "locator": "Artículo 1.- Designar al señor Rodolfo Elías Falconí Vásquez, como representante del Ministerio de Educación ante el Núcleo Ejecutor de Compra que se conforme para la adquisición de cada bien",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RM 0066-2012-ED",
+    "publishedAt": "2012-02-23",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rm0066-2012-ed",
+    "title": "Resolución Ministerial N.º 0066-2012-ED – Designan Jefe de la Oficina de Planificación Estratégica y Medición de la Calidad Educativa",
+    "author": "MINEDU",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/755782-1",
+    "type": "normativa",
+    "locator": "Artículo 2º.- Designar al señor Rodolfo Elías Falconí Vásquez, como Jefe de la Oficina de Planificación Estratégica y Medición de la Calidad Educativa del Ministerio de Educación, cargo considerado de confianza.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RM 0350-2012-ED",
+    "publishedAt": "2012-09-15",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-7-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rm0350-2012-ed",
+    "title": "Resolución Ministerial N.º 0350-2012-ED – Aceptan renuncia y encargan funciones de Jefa de la Oficina de Planificación Estratégica y Medición de la Calidad Educativa",
+    "author": "MINEDU",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/841862-2",
+    "type": "normativa",
+    "locator": "Que, mediante Resolución Ministerial Nº 0066-2012-ED se designó al señor Rodolfo Elías Falconí Vásquez, en el cargo de Jefe de la Oficina de Planificación Estratégica y Medición de la Calidad Educativa [...] Que, el citado funcionario ha formulado renuncia al cargo (Lima, 14 de setiembre de 2012)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RP 064-2021-CONCYTEC-P",
+    "publishedAt": "2021-06-23",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rp064-2021-concytec",
+    "title": "Resolución de Presidencia N.º 064-2021-CONCYTEC-P – Designan Director Ejecutivo de PROCIENCIA",
+    "author": "CONCYTEC",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/1965785-1",
+    "type": "normativa",
+    "locator": "Artículo 1.- Designar, a partir del 24 de junio de 2021, al señor Juan Martín Rodríguez Rodríguez en el cargo de Director Ejecutivo del Programa Nacional de Investigación Científica y Estudios Avanzados - PROCIENCIA, cargo considerado de confianza.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RP 061-2024-CONCYTEC-P",
+    "publishedAt": "2024-06-22",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rp061-2024-concytec",
+    "title": "Resolución de Presidencia N.º 061-2024-CONCYTEC-P – Aceptan renuncia de Director Ejecutivo de PROCIENCIA",
+    "author": "CONCYTEC",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2300344-1",
+    "type": "normativa",
+    "locator": "Artículo 1.- Aceptar, a partir del 22 de junio de 2024, la renuncia presentada por el señor Juan Martín Rodríguez Rodríguez, en el cargo de Director Ejecutivo del Programa Nacional de Investigación Científica y Estudios Avanzados - PROCIENCIA (Lima, 21 de junio de 2024)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RS 412-2012-PCM",
+    "publishedAt": "2012-12-22",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rs412-2012-pcm",
+    "title": "Resolución Suprema N.º 412-2012-PCM – Designan miembros del Consejo Directivo del CONCYTEC",
+    "author": "Presidencia de la República / PCM",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/881877-9",
+    "type": "normativa",
+    "locator": "“Representantes de las Universidades (públicas y privadas) Dr. Juan Martín Rodríguez Rodríguez Dr. Abraham Jaime Vaisberg Wolach”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RM 108-2013-PCM",
+    "publishedAt": "2013-05-03",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rm108-2013-pcm",
+    "title": "Resolución Ministerial N.º 108-2013-PCM – Conforman el Consejo Directivo del Proyecto Innovación para la Competitividad",
+    "author": "PCM",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/932509-1",
+    "type": "normativa",
+    "locator": "“- Señor Juan Martín Rodríguez Rodríguez, en representación del Ministerio de Educación;”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "Res. 195-2013-INDECOPI/COD",
+    "publishedAt": "2013-09-18",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-indecopi195-2013",
+    "title": "Resolución N.º 195-2013-INDECOPI/COD – Designan miembro de la Comisión de Invenciones y Nuevas Tecnologías",
+    "author": "INDECOPI",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/989415-4",
+    "type": "normativa",
+    "locator": "Artículo 3º.- Designar al señor Juan Martín Rodríguez Rodríguez como miembro de la Comisión de Invenciones y Nuevas Tecnologías.",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "Res. 164-2018-INDECOPI/COD",
+    "publishedAt": "2018-09-15",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-indecopi164-2018",
+    "title": "Resolución N.º 164-2018-INDECOPI/COD – Designan miembro de la Comisión de Invenciones y Nuevas Tecnologías",
+    "author": "INDECOPI",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/1692979-1",
+    "type": "normativa",
+    "locator": "“se designó al señor Juan Martín Rodríguez Rodríguez, como miembro de la Comisión de Invenciones y Nuevas Tecnologías; Que, estando próximo a cumplirse el plazo de cinco (5) años de la designación del referido comisionado [...] resulta pertinente efectuar la reconformación”; en gob.pe: “Dar por concluida la designación, por vencimiento de mandato”",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "RM 000158-2026-PRODUCE",
+    "publishedAt": "2026-06-06",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-1"
+    ],
+    "notes": "",
+    "id": "src-tp-ep-rm158-2026-produce",
+    "title": "Resolución Ministerial N.º 000158-2026-PRODUCE – Formalizan designación de representantes ante el Consejo Directivo de PROINNÓVATE",
+    "author": "PRODUCE",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2522988-1",
+    "type": "normativa",
+    "locator": "“JUAN MARTIN RODRIGUEZ RODRIGUEZ, representate de la Asociación de Universidades del Perú - ASUP Academia” (miembro ante el Consejo Directivo del Programa Nacional de Innovación y Desarrollo Productivo - PROINNÓVATE)",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": null,
+    "identifier": "Ord. 032-2008-AL/CPB",
+    "publishedAt": "2009-09-02",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "No menciona a la UNI.",
+    "id": "src-tp-ep-ord032-2008-barranca",
+    "title": "Ordenanza N.º 032-2008-AL/CPB – Reglamentan el Plan de Desarrollo Urbano de la Ciudad de Barranca 2008-2013",
+    "author": "Municipalidad Provincial de Barranca",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/390898-1",
+    "type": "normativa",
+    "locator": "“teniendo como proyecta a los siguientes profesionales: • Planificador Físico Arq. Jorge Ríos Velarde • Especialista Ambiental Dra. Rocío Margarita Cacho Cruz • [...]”",
+    "status": "verificado_primaria"
   }
 ]

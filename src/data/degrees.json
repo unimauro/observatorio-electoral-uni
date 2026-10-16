@@ -158,11 +158,11 @@
   {
     "candidateId": "c-3-3",
     "doctorado": {
-      "denominacion": "Docteur ès sciences",
-      "universidad": "Université Paris-Sud (Paris-11, Orsay)",
-      "anio": 1981,
-      "sourceId": "src-orcid-c-3-3",
-      "status": "declarado"
+      "denominacion": "Doctor, especialidad Física; Doctor del tercer ciclo, especialidad Física (registro SUNEDU); también Doctor en Gobierno y Política Pública (USMP). ORCID: Docteur ès sciences, Université Paris-Sud (1981)",
+      "universidad": "Universidad Nacional de Ingeniería (registro SUNEDU)",
+      "anio": null,
+      "sourceId": "src-gr-cti-montoya",
+      "status": "verificado_primaria"
     },
     "maestria": {
       "denominacion": "Maestro en Ciencias con Mención en Física",
@@ -171,7 +171,13 @@
       "sourceId": "src-gr-uni-montoya-1720",
       "status": "verificado_primaria"
     },
-    "titulo": null
+    "titulo": {
+      "denominacion": "Licenciado, especialidad Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": null,
+      "sourceId": "src-gr-cti-montoya",
+      "status": "verificado_primaria"
+    }
   },
   {
     "candidateId": "c-4-1",
@@ -260,8 +266,8 @@
   {
     "candidateId": "c-5-3",
     "doctorado": {
-      "denominacion": "Doctorado en Física (Programa de Pós-graduação em Física)",
-      "universidad": "Universidade Federal de Goiás (Brasil)",
+      "denominacion": "Doctor en Ciencias, especialidad Física (registro SUNEDU, UNI); tesis doctoral defendida en la Universidade Federal de Goiás",
+      "universidad": "Universidade Federal de Goiás (tesis, 2014) / Universidad Nacional de Ingeniería (registro SUNEDU)",
       "anio": 2014,
       "sourceId": "src-gr-ufg-lazo-4430",
       "status": "verificado_primaria"
@@ -349,7 +355,13 @@
   },
   {
     "candidateId": "c-7-2",
-    "doctorado": null,
+    "doctorado": {
+      "denominacion": "Doctor en Ciencias, especialidad Física (registro SUNEDU); declara haberlo cursado en la Universidade Estadual de Campinas, Brasil (1999–2003)",
+      "universidad": "Universidad Nacional de Ingeniería (registro SUNEDU)",
+      "anio": null,
+      "sourceId": "src-gr-cti-mosquera",
+      "status": "verificado_primaria"
+    },
     "maestria": {
       "denominacion": "Maestro en Ciencias con Mención en Física",
       "universidad": "Universidad Nacional de Ingeniería",
@@ -405,7 +417,13 @@
       "sourceId": "src-gr-uni-rodriguez-320",
       "status": "verificado_primaria"
     },
-    "titulo": null
+    "titulo": {
+      "denominacion": "Licenciado en Física",
+      "universidad": "Universidad Nacional de Ingeniería",
+      "anio": null,
+      "sourceId": "src-gr-cti-rodriguez",
+      "status": "verificado_primaria"
+    }
   },
   {
     "candidateId": "c-8-2",
@@ -434,8 +452,8 @@
   {
     "candidateId": "c-8-3",
     "doctorado": {
-      "denominacion": "Doctor en Ingeniería de Sistemas",
-      "universidad": "Universidad Nacional de Ingeniería",
+      "denominacion": "Doctor en Ingeniería de Sistemas (UNI, tesis 2017); además doctorado de la Universidad de Alcalá – Programa de Doctorado en Ingeniería de la Información y del Conocimiento (registro SUNEDU)",
+      "universidad": "Universidad Nacional de Ingeniería / Universidad de Alcalá (España)",
       "anio": 2017,
       "sourceId": "src-gr-uni-rosales-5899",
       "status": "verificado_primaria"
@@ -461,7 +479,7 @@
       "denominacion": "Doctor en Ciencias Contables Empresariales",
       "universidad": "Universidad Nacional Mayor de San Marcos",
       "anio": 1999,
-      "sourceId": "src-ctivitae-arnao",
+      "sourceId": "src-gr-cti-arnao",
       "status": "verificado_primaria"
     },
     "maestria": {

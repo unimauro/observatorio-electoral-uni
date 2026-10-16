@@ -238,7 +238,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Periodo del decanato de la FIEE (resolución de elección o designación).",
       "Doctorado: especialidad e institución no encontradas (ORCID vacío; buscar en SUNEDU o en la hoja de vida de la lista). Leer la RR 3541-2023-UNI completa y la resolución de la Asamblea Universitaria de 2025 que lo eligió vicerrector de Investigación.",
-      "Las resoluciones 037 y 038-2026-CEUNI (tachas) podrían precisar la verificación del grado; leer texto completo."
+      "Las resoluciones 037 y 038-2026-CEUNI (tachas) podrían precisar la verificación del grado; leer texto completo.",
+      "Para los 27 candidatos falta revisar en Infogob y Voto Informado (con captcha) si tuvieron candidaturas o cargos regionales o municipales. En El Peruano y gob.pe no aparecen cargos fuera de la UNI de Butler, Sánchez Espinoza, Huamán Pérez, Huamán Sánchez, Lazo, Guimaray, Mosquera, Villavicencio, Salinas, Rosales, Arnao, Gutiérrez Paucar ni Vergara. Esa ausencia no es un dato."
     ],
     "corrections": [],
     "meta": {
@@ -393,7 +394,16 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "La Ordenanza N.º 032-2008-AL/CPB de la Municipalidad Provincial de Barranca (publicada el 02-09-2009) menciona a la “Dra. Rocío Margarita Cacho Cruz” como especialista ambiental del equipo que elaboró la Propuesta Urbana de la ciudad de Barranca, base del Plan de Desarrollo Urbano 2008-2013. No menciona a la UNI.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-tp-ep-ord032-2008-barranca"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -651,6 +661,18 @@
         "displayName": "Luis Antonio Lastra Espinoza – presidente de la Comisión Organizadora de la Universidad Nacional José María Arguedas (01-12-2021 a 07-07-2022)",
         "status": "pendiente",
         "note": "Los informes de control N.° 002-2025-2-5571 (28-01-2025; Penal y Adm. PAS) y N.° 001-2026-2-5571 (20-02-2026; Civil), sobre pagos por exámenes de admisión y del CEPRE de la UNAJMA entre 2019 y 2022, incluyen a una persona con el mismo nombre completo, como presidente de la comisión organizadora designado por RVM N.° 0323-2021-MINEDU. Ningún documento oficial leído vincula ese cargo con el docente de la FIM-UNI (una resolución de la Univ. Nacional de Jaén lo mencionaría, pero no se pudo abrir). No se registra como claim hasta confirmar la identidad (p. ej., con la RVM 0323-2021-MINEDU)."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-1-3",
+        "provider": "otro",
+        "profileId": "https://busquedas.elperuano.pe/dispositivo/NL/2084428-1",
+        "displayName": "LUIS ANTONIO LASTRA ESPINOZA",
+        "status": "pendiente",
+        "note": "Según la RVM 085-2022-MINEDU, la RVM 323-2021-MINEDU lo designó presidente de la Comisión Organizadora de la Universidad Nacional José María Arguedas (Andahuaylas), y la RVM 085-2022-MINEDU (07-07-2022) dio por concluida esa designación. Ninguna menciona a la UNI y coincide solo el nombre, así que hace falta una fuente que vincule el cargo con el docente de la FIM-UNI."
       }
     ],
     "pendingSources": [
@@ -663,7 +685,8 @@
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
       "Doctorado no identificado: sin tesis en ALICIA ni Repositorio UNI; ORCID 0009-0005-5173-9213 vacío. Sus coautorías con N. Patrakhaltsev (1998) sugieren formación en Rusia: buscar en el catálogo de la Biblioteca Estatal Rusa (RSL) o pedir la hoja de vida al CEUNI/lista 1.",
       "Ubicar la R.R. que dispuso el encargo inicial de la Dirección de Admisión en 2025 (antes del 01-04-2025) y la R.R. N.° 2330-2025-UNI (designación de miembros del THU).",
-      "Identificar la falta imputada en el PAD que terminó en la RD N.° 003-2021 (anulada) y el resultado del procedimiento retrotraído en 2025. Confirmar la identidad respecto a los informes de control de la UNAJMA (ver leads)."
+      "Identificar la falta imputada en el PAD que terminó en la RD N.° 003-2021 (anulada) y el resultado del procedimiento retrotraído en 2025. Confirmar la identidad respecto a los informes de control de la UNAJMA (ver leads).",
+      "Leer la RVM 323-2021-MINEDU (designación de Luis Antonio Lastra Espinoza en la UNAJMA) y buscar el CV que lo vincule con la UNI."
     ],
     "corrections": [],
     "meta": {
@@ -765,6 +788,14 @@
             "src-rx-uni-memoria-2012",
             "src-rx-uni-poi-2014",
             "src-rpp-2009-padilla"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Como rector de la UNI, la Asamblea Nacional de Rectores lo designó integrante de la Comisión de Seguimiento para la Universidad Nacional Pedro Ruiz Gallo (Resolución N.º 0068-2012-ANR, 16-01-2012).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-res0068-2012-anr"
           ],
           "kind": "hecho"
         }
@@ -1043,6 +1074,18 @@
         "displayName": "Sánchez Espinoza, Javier",
         "status": "pendiente",
         "note": "Repositorio UNI: informe para Ingeniero de Sistemas (2010) a nombre de \"Sánchez Espinoza, Javier\" (sin segundo nombre). La ficha FIIS del candidato (src-vr-fiis-sanchez) indica \"Título: Ingeniero de Sistemas\"; podría ser suyo, pero el nombre no es completo."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0000-0002-5546-6356",
+        "worksCount": null,
+        "candidateId": "c-2-2",
+        "provider": "ORCID",
+        "profileId": "https://orcid.org/0000-0002-5546-6356",
+        "displayName": "Javier Concepción Sánchez Espinoza",
+        "status": "pendiente",
+        "note": "Enlazado como asesor en 5 tesis del Repositorio UNI; sin formación pública."
       }
     ],
     "pendingSources": [
@@ -1157,7 +1200,18 @@
           "kind": "hecho"
         }
       ],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Servidor del CONCYTEC: la RP 014-2012-CONCYTEC-P lo aprobó como ganador de un concurso público de méritos para el cargo de profesional de la Dirección de Ciencia y Tecnología, y la RP 123-2016-CONCYTEC-P, como profesional de la Sub Dirección de Ciencia, Tecnología y Talentos, lo designó representante alterno del CONCYTEC ante la Comisión Nacional sobre el Cambio Climático. En su ORCID declara ser especialista del CONCYTEC desde 1987.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-tp-gob-rp014-2012-concytec",
+            "src-tp-ep-rp123-2016-concytec",
+            "src-orcid-c-2-3"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
@@ -1184,6 +1238,18 @@
         "status": "pendiente",
         "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana. Atención: el perfil probablemente mezcla homónimos; no usar su conteo de obras.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0000-0002-2850-6420",
+        "worksCount": null,
+        "candidateId": "c-2-3",
+        "provider": "confirmación",
+        "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=5093",
+        "displayName": "OSORIO CARRERA, CESAR JAVIER",
+        "status": "pendiente",
+        "note": "CTI Vitae (fuente SUNEDU) confirma los grados de la claim verificado_primaria (doctorado UNFV, maestría y título UNI). RENACYT P0005093 (nivel V según la ficha)."
       }
     ],
     "pendingSources": [
@@ -1304,6 +1370,23 @@
             "src-pte-rr-0038-2024"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "La Resolución Suprema N.º 009-2024-EM (04-06-2024, publicada el 05-06-2024) lo designó presidente del Consejo Directivo del INGEMMET; la designación concluyó por la RS 021-2025-EM (24-12-2025). Confirma con la fuente primaria la fecha de designación del registro existente.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rs009-2024-em",
+            "src-rx-elperuano-rs021-2025-em"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "La Resolución Suprema N.º 014-2025-EM le encargó, como presidente ejecutivo del INGEMMET, las funciones del presidente del Instituto Peruano de Energía Nuclear (IPEN) a partir del 12-10-2025, en adición a sus funciones y mientras durara la ausencia del titular.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rs014-2025-em"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -1352,6 +1435,18 @@
         "status": "pendiente",
         "note": "Registro ORCID con nombre completo, sin contenido público.",
         "consultedAt": "2026-10-16"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-3-1",
+        "provider": "otro",
+        "profileId": "https://busquedas.elperuano.pe/dispositivo/NL/192038-1",
+        "displayName": "Luis Humberto Chirif Rivera",
+        "status": "pendiente",
+        "note": "La RP 049-2008-INGEMMET/PCD (publicada el 24-04-2008) lo nombra miembro titular de la Comisión Permanente de Procesos Administrativos Disciplinarios del INGEMMET. Esto sugiere que trabajó en el INGEMMET en 2008. El nombre es completo y la institución es coherente, pero el cargo es menor y no consta la UNI."
       }
     ],
     "pendingSources": [
@@ -1362,7 +1457,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Cargos dentro de la UNI (jefe de departamento, laboratorio de mineralogía): el perfil de IGI Global («Humberto Chiriff-Rivera») menciona la jefatura del laboratorio de mineralogía hasta 2005 y la docencia en la escuela de Geología desde 2012, pero devolvió 429 y no se leyó. Tampoco se halló evidencia de que haya sido decano de la FIGMM.",
-      "Ver y transcribir el video «ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3» (src-rx-youtube-lista3-2026) para registrar propuestas con origin «declaracion_publica»."
+      "Ver y transcribir el video «ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3» (src-rx-youtube-lista3-2026) para registrar propuestas con origin «declaracion_publica».",
+      "Leer la RS 146-2001-EM para el primer periodo de Montoya. Para Chirif: con el encargo del IPEN (RS 014-2025-EM), buscar la resolución que dio por concluido ese encargo al regresar el titular."
     ],
     "corrections": [
       {
@@ -1466,6 +1562,15 @@
             "src-pte-rr-1276-2023"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Una persona con su mismo nombre completo, “José Aníbal Páuyac Huamán”, fue vicepresidente de Investigación de la Comisión Organizadora de la Universidad Nacional Tecnológica de San Juan de Lurigancho: designado por la RVM 068-2024-MINEDU (14-06-2024) y cesado por la RVM 012-2025-MINEDU (10-02-2025). Las resoluciones no mencionan a la UNI. La atribución se basa en el nombre completo y en que en la misma comisión figura otro candidato de la UNI (Hugo Eliseo Gamarra Chinchay).",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-tp-ep-rvm068-2024-minedu",
+            "src-tp-ep-rvm012-2025-minedu"
+          ],
+          "kind": "hecho_inferido"
         }
       ],
       "proyectos": [],
@@ -1575,6 +1680,15 @@
             "src-orcid-c-3-3"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Según su ficha CTI Vitae (fuente SUNEDU), registra tres doctorados: Doctor, especialidad Física, y Doctor del tercer ciclo, especialidad Física, ambos a nombre de la UNI, y Doctor en Gobierno y Política Pública (Universidad de San Martín de Porres); además Maestro en Ciencias, Licenciado y Bachiller en Ciencias, especialidad Física (UNI). Su ORCID declara el Docteur ès sciences por la Université Paris-Sud (1981). Figura en RENACYT con código P0017546 (nivel II según la ficha).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-cti-montoya",
+            "src-orcid-c-3-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -1623,6 +1737,61 @@
             "src-pte-proactivo-montoya-2022"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Presidente del Instituto Peruano de Energía Nuclear (IPEN) en dos periodos. Primero, designado por la RS 146-2001-EM (publicada el 23-08-2001), con designación concluida por la RS 080-2006-EM (26-12-2006). Después, designado por la RS 010-2021-EM (27-08-2021), con renuncia aceptada por la RS 004-2022-EM con eficacia al 08-02-2022. Actualidad Ambiental lo identifica como expresidente del IPEN y profesor principal de la Facultad de Ciencias de la UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rs080-2006-em",
+            "src-tp-ep-rs010-2021-em",
+            "src-tp-gob-rs004-2022-em",
+            "src-tp-actualidadambiental-montoya-2022"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Director de la Dirección de Transferencia Tecnológica del IPEN (cargo de confianza): designado por la RP 167-13-IPEN/PRES (publicada el 16-08-2013), con renuncia aceptada por la RP 006-2015-IPEN/PRES (21-01-2015).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rp167-2013-ipen",
+            "src-tp-gob-rp006-2015-ipen"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Consejero presidencial ad honorem de la Comisión Consultiva del Despacho Presidencial en materia científica: designado por la RS 099-2021-PCM (08-09-2021); la designación concluyó con eficacia anticipada al 08-02-2022 por la RS 110-2022-PCM.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rs099-2021-pcm",
+            "src-tp-gob-rs110-2022-pcm"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Ministro del Ambiente: nombrado por la RS 096-2022-PCM (08-02-2022); la RS 213-2022-PCM (24-08-2022) aceptó su renuncia. Actualidad Ambiental (08-02-2022) lo presenta como profesor principal de la Facultad de Ciencias de la UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rs096-2022-pcm",
+            "src-tp-gob-rs213-2022-pcm",
+            "src-tp-actualidadambiental-montoya-2022"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "La RS 018-2012-MC lo designó integrante de la Comisión Consultiva Nacional de Cultura del Ministerio de Cultura (2012).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rs018-2012-mc"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "En las Elecciones Generales 2026, una persona con su mismo nombre completo figuró en una solicitud de inscripción de candidatos a la Cámara de Diputados por el distrito electoral de Lima Metropolitana. Según la Resolución N.º 0244-2026-JNE (06-02-2026), su renuncia, fechada el 21-12-2025, se presentó recién en la apelación, por lo que el JEE Lima Oeste 3 estaba habilitado para declarar improcedente esa candidatura. La resolución no menciona a la UNI.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-tp-ep-res0244-2026-jne"
+          ],
+          "kind": "hecho_inferido"
         }
       ],
       "proyectos": [],
@@ -1684,7 +1853,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Video YouTube 'ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3' (https://www.youtube.com/watch?v=pYCV_tPxoNI), canal de Modesto Montoya (@cienciayfuturo) según oEmbed: no se pudo ver el contenido (YouTube exige inicio de sesión / bloqueo anti-bot). Transcribir propuestas de Chirif, Páuyac y Montoya cuando sea posible.",
       "Confirmar la tesis de Doctorat d'État de 1981 (Paris-11, Orsay) en SUDOC/theses.fr; SUDOC devolvió una redirección no legible por script.",
-      "Opcional: enlazar el texto de la R.S. N.° 096-2022-PCM (El Peruano) y la R.S. que aceptó su renuncia o dio por concluida su designación como Ministro del Ambiente."
+      "Opcional: enlazar el texto de la R.S. N.° 096-2022-PCM (El Peruano) y la R.S. que aceptó su renuncia o dio por concluida su designación como Ministro del Ambiente.",
+      "Confirmar en Voto Informado / Plataforma Electoral del JNE (EG 2026) la hoja de vida del candidato a diputado 'Modesto Edilberto Montoya Zavaleta' (su experiencia en la UNI). Así se podría pasar el claim de 'parcialmente_verificado' a 'verificado_primaria'. Si la hoja de vida declara sentencias firmes, registrarlas con el texto exacto."
     ],
     "corrections": [],
     "meta": {
@@ -1775,6 +1945,24 @@
           "sourceIds": [
             "src-rx-uni-memoria-2012",
             "src-rx-uni-poi-2014"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Director general de Administración de la UNI en 2008. La RR 716 (23-05-2008) le delegó esas funciones, la RR 692 (publicada el 27-05-2008) lo designó y la RR 1473 (03-11-2008) lo designó de nuevo tras crearse formalmente la Dirección General de Administración.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rr692-2008-uni",
+            "src-tp-ep-rr1473-2008-uni"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Fue candidato presidencial en las Elecciones Generales de 2006 y obtuvo 24 518 votos (0,20 %) en la primera vuelta, según la tabla de la Political Database of the Americas basada en datos del JNE. Caretas (12-10-2026) también menciona esa candidatura. Confirma con una segunda fuente el dato que ya estaba registrado a partir de Caretas.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-tp-pdba-pres2006",
+            "src-caretas-humala-2026"
           ],
           "kind": "hecho"
         }
@@ -1939,7 +2127,8 @@
       "Cobertura de prensa de 2019 (Perú21) sobre su paso por la administración de la UNI: no se pudo acceder al texto completo; pendiente de revisión con la fuente original y la resolución que cerró el caso.",
       "No se halló la resolución final sobre la sanción de enero de 2016 (apelación interna, Tribunal del Servicio Civil o Poder Judicial). Buscar en el Tribunal del Servicio Civil o en las resoluciones de la UNI de 2016-2017. Precisar desde cuándo es docente principal ordinario.",
       "Doctorado en la URP sólo según prensa (Caretas): el repositorio de la URP exige un desafío anti-bot (BunkerWeb/Cap.js) que no se sorteó; consultar manualmente o mediante ALICIA cuando se indexe.",
-      "Leer la Sentencia N.° 007 (30-01-2018) del 28.° Juzgado Especializado de Trabajo de Lima y la RR N.° 1272 (17-08-2016), que sólo se conocen por la RR 2578-2023-UNI. Confirmar si se emitió alguna resolución que declare la prescripción o el archivo del PAD repuesto."
+      "Leer la Sentencia N.° 007 (30-01-2018) del 28.° Juzgado Especializado de Trabajo de Lima y la RR N.° 1272 (17-08-2016), que sólo se conocen por la RR 2578-2023-UNI. Confirmar si se emitió alguna resolución que declare la prescripción o el archivo del PAD repuesto.",
+      "Infogob (JNE) exige reCAPTCHA para buscar por nombre. Hace falta revisar manualmente su ficha (historial de candidaturas y cargos de elección popular) para confirmar con fuente JNE la candidatura presidencial de 2006 y ver si tuvo otras candidaturas. No registrar la organización política."
     ],
     "corrections": [
       {
@@ -2069,6 +2258,14 @@
             "src-vr-memoria-uni-2012"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "La RR 484 de la UNI (publicada el 02-05-2010) lo menciona, como decano de la FIEE, en su condición de miembro del Consejo Directivo del INICTEL-UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rr484-2010-uni"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -2118,6 +2315,18 @@
         "displayName": "Cáceres Cárdenas, Félix Víctor",
         "status": "pendiente",
         "note": "ALICIA indexa la tesis doctoral 2018 (doctoralThesis); confirma la claim existente basada en src-vr-tesis-18140."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0000-0002-3004-1984",
+        "worksCount": null,
+        "candidateId": "c-4-2",
+        "provider": "ORCID",
+        "profileId": "https://orcid.org/0000-0002-3004-1984",
+        "displayName": "fvictor Cáceres",
+        "status": "pendiente",
+        "note": "Enlazado a \"Cáceres Cárdenas, Félix Víctor\" como asesor en 9 tesis del Repositorio UNI; sin formación pública."
       }
     ],
     "pendingSources": [
@@ -2581,6 +2790,15 @@
             "src-vr-memoria-uni-2012"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Una persona con su mismo nombre completo, “Hugo Eliseo Gamarra Chinchay”, fue presidente de la primera Comisión Organizadora de la Universidad Nacional Tecnológica de San Juan de Lurigancho: designado por la RVM 068-2024-MINEDU (14-06-2024) y cesado por la RVM 012-2025-MINEDU (10-02-2025). Las resoluciones no mencionan a la UNI. La atribución se basa en el nombre completo de cuatro componentes y en que en la misma comisión figura otro candidato de la UNI (José Aníbal Páuyac Huamán).",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-tp-ep-rvm068-2024-minedu",
+            "src-tp-ep-rvm012-2025-minedu"
+          ],
+          "kind": "hecho_inferido"
         }
       ],
       "proyectos": [],
@@ -2632,7 +2850,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
       "Grado de doctor: las notas FIM lo llaman 'Dr.' pero no se halló tesis doctoral en el repositorio UNI; verificar en SUNEDU/RENATI. Periodo exacto como director de escuela (resoluciones FIM).",
-      "Doctorado no identificado: no hay tesis doctoral en ALICIA, UNI, UNFV, UNAC ni UNMSM; ORCID sin educación."
+      "Doctorado no identificado: no hay tesis doctoral en ALICIA, UNI, UNFV, UNAC ni UNMSM; ORCID sin educación.",
+      "Buscar una fuente (CV en gob.pe de la UNTSJL, nota institucional o CTI Vitae) que vincule a Hugo Eliseo Gamarra Chinchay y José Aníbal Páuyac Huamán, de la Comisión Organizadora de la UNTSJL, con la UNI."
     ],
     "corrections": [],
     "meta": {
@@ -2703,6 +2922,15 @@
           "sourceIds": [
             "src-gr-ufg-lazo-4430",
             "src-vr-orcid-lazo"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna el grado de Doctor en Ciencias, especialidad Física, a nombre de la UNI, además del título de Licenciado en Física y el bachillerato en Ciencias con mención en Física (UNI); la tesis doctoral está depositada en la Universidade Federal de Goiás (2014). Declara manualmente una maestría (Mestre) en la Universidade Federal de Mato Grosso do Sul (2006–2008). Figura en RENACYT con código P0031245 (nivel VII según la ficha).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-cti-lazo",
+            "src-gr-ufg-lazo-4430"
           ],
           "kind": "hecho"
         }
@@ -3001,6 +3229,30 @@
         "status": "pendiente",
         "note": "Registro ORCID con nombre completo, sin contenido público.",
         "consultedAt": "2026-10-16"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-6-1",
+        "provider": "otro",
+        "profileId": "https://busquedas.elperuano.pe/dispositivo/NL/2074336-1",
+        "displayName": "FORTUNATO ALVA DAVILA",
+        "status": "pendiente",
+        "note": "La RVM 066-2022-MINEDU (03-06-2022) aceptó la renuncia de 'FORTUNATO ALVA DAVILA' como presidente de la Comisión Organizadora de la UNTELS; la RVM 025-2020-MINEDU lo había designado. Ninguna menciona a la UNI y coincide solo el nombre (tres componentes)."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-6-1",
+        "provider": "otro",
+        "profileId": "https://busquedas.elperuano.pe/dispositivo/NL/2245630-1",
+        "displayName": "FORTUNATO ALVA DAVILA",
+        "status": "pendiente",
+        "note": "El Acuerdo de Directorio N.º 001-2023/012-FONAFE (14-12-2023) lo nombra director de Electro Puno S.A.A. a propuesta del MINEM, y el Acuerdo N.º 001-2026/015-FONAFE (22-05-2026; https://busquedas.elperuano.pe/dispositivo/NL/2519359-1) lo nombra director de Electro Sur Este S.A.A. a propuesta del MINEM. Ninguno menciona a la UNI y no hay CV en gob.pe, así que la atribución está pendiente."
       }
     ],
     "pendingSources": [
@@ -3011,7 +3263,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Formación (doctorado) y cargos de gestión en la FIM no encontrados en fuentes abiertas. ORCID 0009-0008-8168-661X vacío. Revisar el portal de la FIM (sin respuesta) y SUNEDU.",
-      "Doctorado no identificado: no hay tesis doctoral en ALICIA ni repositorios consultados. Las resoluciones 032 y 033-2026-CEUNI (tachas a su candidatura) podrían mencionar el grado: leerlas completas."
+      "Doctorado no identificado: no hay tesis doctoral en ALICIA ni repositorios consultados. Las resoluciones 032 y 033-2026-CEUNI (tachas a su candidatura) podrían mencionar el grado: leerlas completas.",
+      "Buscar un CV en gob.pe de Electro Puno o Electro Sur Este, o en el portal de transparencia de la UNTELS, que vincule a 'Fortunato Alva Dávila' con la FIM-UNI. Confirmar si sigue en el directorio de Electro Sur Este (nombrado el 22-05-2026)."
     ],
     "corrections": [],
     "meta": {
@@ -3105,6 +3358,26 @@
             "src-cv-palma-gobpe"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Director del INICTEL-UNI (Unidad Ejecutora 002): designado por la RR 421 de la UNI (publicada el 10-04-2008) como profesor principal de la FIEE. En 2013 figura como director ejecutivo (RR 1222-2013). Su CV en gob.pe consigna el periodo 2008-2014. Confirma con fuente primaria el dato del CV ya registrado.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rr421-2008-uni",
+            "src-tp-ep-rr1222-2013-uni",
+            "src-cv-palma-gobpe"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Presidente del Directorio de Electro Puno S.A.A., empresa bajo el ámbito de FONAFE, a propuesta del MINEM: nombrado por el Acuerdo de Directorio N.º 001-2023/006-FONAFE (16-08-2023). Figura como presidente de Directorio en el directorio de funcionarios de Electro Puno en gob.pe; su CV indica formación en la UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-fonafe-001-2023-006",
+            "src-tp-gob-electropuno-palma",
+            "src-cv-palma-gobpe"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -3133,6 +3406,18 @@
         "status": "pendiente",
         "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0009-0005-1371-7988",
+        "worksCount": null,
+        "candidateId": "c-6-2",
+        "provider": "ORCID",
+        "profileId": "https://orcid.org/0009-0005-1371-7988",
+        "displayName": "MODESTO PALMA",
+        "status": "pendiente",
+        "note": "Enlazado a \"Palma García, Modesto Tomás\" como asesor en 13 tesis del Repositorio UNI. Declara \"DOCTOR EN CIENCIAS CON MENCION EN ENERGÉTICA\", UNI, 2020: confirma la claim verificado_primaria basada en src-gr-uni-palma-22172."
       }
     ],
     "pendingSources": [
@@ -3141,7 +3426,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Buscar el acuerdo FONAFE que dio por concluida su presidencia del directorio de Electro Puno, si existe."
     ],
     "corrections": [],
     "meta": {
@@ -3397,6 +3683,18 @@
             "src-fiis-rd034-2021"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "En el Ministerio de Educación, una persona con su mismo nombre completo, “Rodolfo Elías Falconí Vásquez”, fue jefe de la Unidad de Programación de la Oficina de Planificación Estratégica y Medición de la Calidad Educativa (RM 0477-2011-ED, 14-09-2011). Luego fue jefe de esa oficina (RM 0066-2012-ED, 22-02-2012) hasta que la RM 0350-2012-ED (14-09-2012) aceptó su renuncia. Además fue representante del ministerio ante núcleos ejecutores de compra de bienes para escolares (RM 0553-2011-ED). Las resoluciones no mencionan a la UNI; la atribución se basa en el nombre completo y en la coherencia con su trayectoria en planificación en la FIIS-UNI.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-tp-gob-rm0477-2011-ed",
+            "src-tp-ep-rm0066-2012-ed",
+            "src-tp-ep-rm0350-2012-ed",
+            "src-tp-ep-rm0553-2011-ed",
+            "src-fiis-rd034-2021"
+          ],
+          "kind": "hecho_inferido"
         }
       ],
       "proyectos": [
@@ -3526,6 +3824,15 @@
           "sourceIds": [
             "src-gr-uni-mosquera-1844",
             "src-gr-uni-mosquera-21298"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna el grado de Doctor en Ciencias, especialidad Física, y el de Maestro en Ciencias en Física, el título de Licenciado en Física y el bachillerato, a nombre de la UNI. En la sección manual de la ficha y en el portal del VRI-UNI declara que su doctorado en Ciencias (Física) es de la Universidade Estadual de Campinas, Brasil (1999–2003). Figura en RENACYT con código P0000247 (nivel IV según la ficha).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-cti-mosquera",
+            "src-gr-vri-mosquera"
           ],
           "kind": "hecho"
         }
@@ -3839,6 +4146,14 @@
             "src-gr-uni-rodriguez-320"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Según su ficha CTI Vitae (fuente SUNEDU), registra Doctor en Ciencias con Mención en Física, Maestro en Ciencias con Mención en Física, Licenciado en Física y Bachiller en Ciencias con mención en Física, todos por la UNI; declara además una Filosofie licentiatexamen de la Universidad de Uppsala (Suecia, 1999). Figura en RENACYT con código P0000256 (nivel \"Investigador Distinguido\" según la ficha).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-cti-rodriguez"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -3904,6 +4219,29 @@
             "src-proactivo-rodriguez-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Director ejecutivo de PROCIENCIA: la RP 064-2021-CONCYTEC-P lo designó a partir del 24-06-2021 y la RP 061-2024-CONCYTEC-P aceptó su renuncia a partir del 22-06-2024. Así se completan las fechas que faltaban en el registro existente.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-tp-ep-rp064-2021-concytec",
+            "src-tp-ep-rp061-2024-concytec",
+            "src-proactivo-rodriguez-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Una persona con su mismo nombre completo integró varios órganos colegiados del Estado en materia de ciencia e innovación: el Consejo Directivo del CONCYTEC como representante de las universidades (RS 412-2012-PCM; de nuevo por RS 132-2018-PCM como representante de las universidades públicas); el Consejo Directivo del Proyecto Innovación para la Competitividad en representación del Ministerio de Educación (RM 108-2013-PCM); la Comisión de Invenciones y Nuevas Tecnologías del INDECOPI (Res. 195-2013-INDECOPI/COD, mandato concluido en 2018 por vencimiento según la Res. 164-2018-INDECOPI/COD); y el Consejo Directivo de PROINNÓVATE como representante de la Academia por la ASUP (RM 000158-2026-PRODUCE). Ninguna de estas resoluciones menciona a la UNI.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-tp-ep-rs412-2012-pcm",
+            "src-rx-elperuano-rs132-2018-pcm",
+            "src-tp-ep-rm108-2013-pcm",
+            "src-tp-ep-indecopi195-2013",
+            "src-tp-ep-indecopi164-2018",
+            "src-tp-ep-rm158-2026-produce"
+          ],
+          "kind": "hecho_inferido"
         }
       ],
       "proyectos": [],
@@ -3976,7 +4314,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Fechas de la gestión en PROCIENCIA (resoluciones de designación y cese).",
       "Leer la RP 064-2021-CONCYTEC-P (fecha de designación) y la resolución que dio por concluida su designación como director ejecutivo de PROCIENCIA (antes del 01-09-2024, cuando la dirección ya estaba encargada a otra persona). La RS 132-2018-PCM lo nombra representante de las universidades públicas ante el Consejo Directivo del CONCYTEC, pero no menciona la UNI: confirmar. Doctorado: institución pendiente.",
-      "Ubicar la Resolución de Presidencia de CONCYTEC que lo designó y la que concluyó su designación como Director Ejecutivo de PROCIENCIA, para fijar el periodo exacto (el PTE local sólo lo observa en 2022-12)."
+      "Ubicar la Resolución de Presidencia de CONCYTEC que lo designó y la que concluyó su designación como Director Ejecutivo de PROCIENCIA, para fijar el periodo exacto (el PTE local sólo lo observa en 2022-12).",
+      "Leer la resolución de 2013 que lo designa en el Consejo Directivo del Proyecto Innovación para la Competitividad en representación del MINEDU, y precisar en qué condición actuó."
     ],
     "corrections": [],
     "meta": {
@@ -4195,6 +4534,15 @@
             "src-orcid-c-8-3"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna un doctorado de la Universidad de Alcalá (España), programa de Doctorado en Ingeniería de la Información y del Conocimiento. En la sección manual declara además Doctor en Ingeniería de Sistemas (UNI, 2012–2014; tesis en el Repositorio UNI fechada 2017), Maestro en Ingeniería de Sistemas (UNI), Master en Tecnologías de Apoyo, Accesibilidad y Diseño para Todos (Universidad Carlos III de Madrid) e Ingeniero Químico (UNI). Figura en RENACYT con código P0004091 (nivel II según la ficha).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-cti-rosales",
+            "src-gr-uni-rosales-5899"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -4375,6 +4723,15 @@
             "src-orcid-arnao"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Según su ficha CTI Vitae (formación con fuente SUNEDU), registra el grado de Doctor en Ciencias Contables Empresariales (UNMSM), Maestro en Ciencias, especialidad Planificación Nacional del Desarrollo (UNI), Ingeniero Economista y Bachiller en Ciencias, especialidad Ingeniería Económica (UNI), y un Master en Asesoría y Gestión Fiscal y de Inversiones que la ficha atribuye a la UNI (su ORCID lo atribuye a la Universidad Politécnica de Madrid–CEPADE).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-gr-cti-arnao",
+            "src-orcid-arnao"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -4503,7 +4860,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Doctorado UNMSM 1999 sólo declarado en ORCID: Cybertesis UNMSM (API backend) no devuelve tesis a su nombre; posible tesis no digitalizada."
+      "Doctorado UNMSM 1999 sólo declarado en ORCID: Cybertesis UNMSM (API backend) no devuelve tesis a su nombre; posible tesis no digitalizada.",
+      "Verificar con una fuente primaria (resolución SUNASS sobre el Consejo de Usuarios de Lima 2016-2018; resolución de la MML de 1997-1998) los cargos públicos que Arnao declara en su ORCID."
     ],
     "corrections": [
       {
@@ -4836,6 +5194,18 @@
         "status": "pendiente",
         "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0000-0003-0964-4489",
+        "worksCount": null,
+        "candidateId": "c-9-3",
+        "provider": "confirmación",
+        "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11470",
+        "displayName": "VERGARA SOTOMAYOR, ABEL FERNANDO",
+        "status": "pendiente",
+        "note": "CTI Vitae (fuente SUNEDU) confirma los cuatro grados de la claim verificado_primaria del Repositorio UNI (doctor en Ciencias con mención en Química, maestro en Ingeniería de Procesos, Ingeniero Químico, bachiller). RENACYT P0011470 (nivel VII según la ficha)."
       }
     ],
     "pendingSources": [

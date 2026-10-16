@@ -1,0 +1,1827 @@
+{
+ "agent": "grados",
+ "consultedAt": "2026-10-16",
+ "sources": [
+  {
+   "id": "src-gr-uni-butler-23365",
+   "title": "Diseño de una interfase en tiempo real hacia un microprocesador (tesis – Ingeniero Electrónico)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/23365",
+   "landingUrl": null,
+   "publishedAt": "1981",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/23365",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Butler Blacker, Jorge Gustavo\"; thesis.degree.name \"Ingeniero Electrónico\"; dc.date.issued \"1981\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-unac-butler-493",
+   "title": "Implementación de calidad de servicio vía Multiprotocol Label Switching (MPLS) (tesis de maestría)",
+   "author": "Universidad Nacional del Callao – Repositorio Institucional",
+   "url": "https://repositorio.unac.edu.pe/handle/20.500.12952/493",
+   "landingUrl": null,
+   "publishedAt": "2011",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.12952/493",
+   "locator": "Carátula del PDF: \"TESIS PARA OPTAR EL GRADO ACADÉMICO DE MAESTRO EN CIENCIAS DE LA ELECTRÓNICA MENCIÓN: TELECOMUNICACIONES / AUTOR: JORGE GUSTAVO BUTLER BLACKER / CALLAO - PERU 2011\"; acta de sustentación fechada \"Marzo 23, 2011\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-1"
+   ],
+   "notes": "Metadatos sin thesis.degree.name; la denominación se tomó de la carátula del PDF (bitstream T.M.621.382.B97.pdf). Registro también en ALICIA (UNAC_c4cb0c1637a59de33bc34ea781040356)."
+  },
+  {
+   "id": "src-gr-unac-butler-2810",
+   "title": "\"Virtualización como herramienta para la enseñanza de redes de computadoras\" (tesis doctoral)",
+   "author": "Universidad Nacional del Callao – Repositorio Institucional",
+   "url": "https://repositorio.unac.edu.pe/handle/20.500.12952/2810",
+   "landingUrl": null,
+   "publishedAt": "2018",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.12952/2810",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Butler Blacker, Jorge Gustavo\"; thesis.degree.name \"Tesis para optar el grado académico de doctor en Ingeniería eléctrica\"; thesis.degree.level \"Doctorado\"; thesis.degree.grantor \"Universidad Nacional del Callao. Facultad de Ingeniería Eléctrica y Electrónica\"; dc.date.issued \"2018\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-1"
+   ],
+   "notes": "Hallado vía ALICIA (UNAC_d5b96765353d9c201e5a7ef819b4a8c6) y leído en la API DSpace de la UNAC."
+  },
+  {
+   "id": "src-gr-uniovi-cacho",
+   "title": "Portal de Investigación de la Universidad de Oviedo – ficha de Rocío Margarita Cacho Cruz",
+   "author": "Universidad de Oviedo",
+   "url": "https://portalinvestigacion.uniovi.es/investigadores/219396/detalle",
+   "landingUrl": null,
+   "publishedAt": "1997",
+   "type": "portal_institucional",
+   "identifier": null,
+   "locator": "Tesis: \"Ordenación y planificación de los espacios naturales un estudio comparado\"; grado \"Doctor\"; año 1997; dirigida por \"Dr. Fermín Rodríguez Gutiérrez\"; Universidad de Oviedo.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-2"
+   ],
+   "notes": "Portal CRIS institucional de la Universidad de Oviedo (España)."
+  },
+  {
+   "id": "src-gr-uni-padilla-23431",
+   "title": "Proyecto de instalación de una torre de enfriamiento para el laboratorio de máquinas térmicas de la U.N.I. (tesis – Ingeniero Mecánico Electricista)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/23431",
+   "landingUrl": null,
+   "publishedAt": "1981",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/23431",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Padilla Ríos, Aurelio Marcelo\"; thesis.degree.name \"Ingeniero Mecánico Electricista\"; dc.date.issued \"1981\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-padilla-25437",
+   "title": "Análisis energético-exergético de una caldera (tesis – Ingeniero Mecánico)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/25437",
+   "landingUrl": null,
+   "publishedAt": "1977",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/25437",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Padilla Ríos, Aurelio Marcelo\"; thesis.degree.name \"Ingeniero Mecánico\"; dc.date.issued \"1977\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\". dc.type \"monograph\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-osorio-640",
+   "title": "Cambio tecnológico y política ambiental: análisis para la promoción de tecnologías limpias en el sector manufacturero (tesis – Maestro en Ciencias con Mención en Gestión Ambiental)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/640",
+   "landingUrl": null,
+   "publishedAt": "2008",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/640",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Osorio Carrera, César Javier\"; thesis.degree.name \"Maestro en Ciencias con Mención en Gestión Ambiental\"; dc.date.issued \"2008\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-osorio-15929",
+   "title": "Modelamiento de la unidad de destilación al vacío de refinería Talara y su aplicación en la optimización de sistemas - ahorro de energía (tesis – Ingeniero Químico)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/15929",
+   "landingUrl": null,
+   "publishedAt": "1991",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/15929",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Osorio Carrera, César Javier; Castañeda Martínez, Filler Antonio\"; thesis.degree.name \"Ingeniero Químico\"; dc.date.issued \"1991\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería. Facultad de Ingeniería Química y Textil\". Tesis de dos autores.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-unfv-osorio-4739",
+   "title": "Políticas de ciencia, tecnología e innovación tecnológica para el desarrollo sostenible del Perú (tesis doctoral)",
+   "author": "Universidad Nacional Federico Villarreal – Repositorio Institucional",
+   "url": "https://repositorio.unfv.edu.pe/handle/20.500.13084/4739",
+   "landingUrl": null,
+   "publishedAt": "2021",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.13084/4739",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Osorio Carrera, Cesar Javier\"; thesis.degree.name \"Doctor en Medio Ambiente y Desarrollo Sostenible\"; thesis.degree.grantor \"Universidad Nacional Federico Villarreal. Escuela Universitaria de Posgrado\"; dc.date.issued \"2021\"; renati.level \"doctor\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-3"
+   ],
+   "notes": "Hallado vía ALICIA (RUNF_7912680108b4972da9d4214035ea5eb2). El ORCID declara el doctorado UNFV con fechas 2012–2013; el repositorio fecha la tesis en 2021."
+  },
+  {
+   "id": "src-gr-uni-chirif-15931",
+   "title": "Petrología y geoquímica de las rocas ígneas de Hualgayoc - Cajamarca (tesis – Ingeniero Geólogo)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/15931",
+   "landingUrl": null,
+   "publishedAt": "1991",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/15931",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Chirif Rivera, Luis Humberto\"; thesis.degree.name \"Ingeniero Geólogo\"; dc.date.issued \"1991\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-3-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-montoya-1720",
+   "title": "Análisis cronometricamente invariante de la Teoría unitaria del campo NO-SIMÉTRICO (tesis – Maestro en Ciencias con Mención en Física)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1720",
+   "landingUrl": null,
+   "publishedAt": "1974",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1720",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Montoya Zavaleta, Modesto E.\"; thesis.degree.name \"Maestro en Ciencias con Mención en Física\"; dc.date.issued \"1974\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-3-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-inis-montoya-1977",
+   "title": "Monte-Carlo simulation of a fission experiment on the problem of the partition of the excitation energy between both fragments (INIS)",
+   "author": "OIEA – International Nuclear Information System (INIS)",
+   "url": "https://inis.iaea.org/records/x1q3w-x1280",
+   "landingUrl": null,
+   "publishedAt": "1977",
+   "type": "base_bibliografica",
+   "identifier": "FRNC-TH--753",
+   "locator": "Creadores: \"Montoya, Modesto.\" y \"Paris-11 Univ., 91 - Orsay (France)\"; fecha 1977; iaea:resource_subtype \"Thesis\"; report number \"FRNC-TH--753\"; resumen en francés sobre la fisión espontánea de 252Cf.",
+   "status": "parcialmente_verificado",
+   "candidateIds": [
+    "c-3-3"
+   ],
+   "notes": "El registro no indica el tipo de doctorado. La atribución se apoya en apellido + nombre + especialidad (física nuclear, fisión) y en el ORCID del candidato (Université Paris-Sud)."
+  },
+  {
+   "id": "src-gr-uni-humala-1832",
+   "title": "La evolución del subdesarrollo en el Perú (tesis – Ingeniero Economista)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1832",
+   "landingUrl": null,
+   "publishedAt": "1983",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1832",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Humala Tasso, Ulises\"; thesis.degree.name \"Ingeniero Economista\"; dc.date.issued \"1983\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-4-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-huamanperez-1258",
+   "title": "Detección de vapor de Etanol mediante recubrimiento poroso de Dióxido de Estaño (tesis – Licenciado en Física)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1258",
+   "landingUrl": null,
+   "publishedAt": "1998",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1258",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Huamán Pérez, Fernando\"; thesis.degree.name \"Licenciado en Física\"; dc.date.issued \"1998\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-4-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-huamanperez-1591",
+   "title": "Máquina turborrefrigeradora para el enfriamiento de una turbina de un turbofan de altas temperaturas (tesis – Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1591",
+   "landingUrl": null,
+   "publishedAt": "1998",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1591",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Huamán Pérez, Fernando\"; thesis.degree.name \"Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas\"; dc.date.issued \"1998\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-4-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-unfv-huamanperez-663",
+   "title": "Planeamiento estratégico como factor de eficiencia académica administrativa en la Universidad Nacional de Ingeniería (tesis doctoral)",
+   "author": "Universidad Nacional Federico Villarreal – Repositorio Institucional",
+   "url": "https://repositorio.unfv.edu.pe/handle/20.500.13084/663",
+   "landingUrl": null,
+   "publishedAt": "2012",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.13084/663",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Huamán Pérez, Fernando\"; thesis.degree.name \"Doctor en Administración\"; thesis.degree.level \"Doctorado\"; thesis.degree.grantor \"Universidad Nacional Federico Villarreal. Escuela Universitaria de Posgrado\"; dc.date.issued \"2012\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-4-3"
+   ],
+   "notes": "Tema de la tesis: la propia UNI (coherente con la atribución)."
+  },
+  {
+   "id": "src-gr-ufg-lazo-4430",
+   "title": "Síntesis y propiedades ópticas y magnéticas del YCrO3 preparado por los métodos precursor polimérico modificado y reacción de combustión (tesis doctoral)",
+   "author": "Universidade Federal de Goiás – Biblioteca Digital de Teses e Dissertações",
+   "url": "https://repositorio.bc.ufg.br/tede/handle/tede/4430",
+   "landingUrl": null,
+   "publishedAt": "2014-04-23",
+   "type": "documento_institucional",
+   "identifier": "tede/4430",
+   "locator": "Metadatos DSpace (TEDE-UFG): dc.creator \"Jara, Antonio Nolberto Lazo\"; dc.type \"doctoral thesis\"; dc.publisher \"Universidade Federal de Goiás\"; dc.publisher.program \"Programa de Pós-graduação em Fisica (IF)\"; dc.date.issued \"2014-04-23\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-5-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.bc.ufg.br/tedeserver/api)."
+  },
+  {
+   "id": "src-gr-uni-alva-1758",
+   "title": "Diseño de una trefiladora múltiple para producir alambre a partir de alambrón de Cobre de 5/16\\\" de diámetro (tesis – Ingeniero Mecánico)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1758",
+   "landingUrl": null,
+   "publishedAt": "1988",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1758",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Alva Dávila, Fortunato\"; thesis.degree.name \"Ingeniero Mecánico\"; dc.date.issued \"1988\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-6-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-alva-584",
+   "title": "Evaluación de tensiones en un tanque cilíndrico para gas natural vehicular (tesis – Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/584",
+   "landingUrl": null,
+   "publishedAt": "2008",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/584",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Alva Dávila, Fortunato\"; thesis.degree.name \"Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas\"; dc.date.issued \"2008\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-6-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-palma-1651",
+   "title": "Sobrecarga óptima y simulación de la operación futura de transformadores sumergidos en aceite (tesis – Ingeniero Electricista)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1651",
+   "landingUrl": null,
+   "publishedAt": "1985",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1651",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Palma García, Modesto Tomás\"; thesis.degree.name \"Ingeniero Electricista\"; dc.date.issued \"1985\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-6-2"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-palma-18138",
+   "title": "Análisis del motor de inducción utilizando elementos finitos (tesis – Maestro en Ciencias con Mención en Sistemas de Potencia)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/18138",
+   "landingUrl": null,
+   "publishedAt": "2019",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/18138",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Palma García, Modesto Tomás\"; thesis.degree.name \"Maestro en Ciencias con Mención en Sistemas de Potencia\"; dc.date.issued \"2019\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-6-2"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-palma-22172",
+   "title": "Optimización del desempeño energético del motor de inducción trifásico mediante el dimensionamiento de las ranuras del rotor, usando el método de elementos finitos y el criterio de óptimo de pareto (tesis – Doctor en Ciencias con Mención en Energética)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/22172",
+   "landingUrl": null,
+   "publishedAt": "2020",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/22172",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Palma García, Modesto Tomás\"; thesis.degree.name \"Doctor en Ciencias con Mención en Energética\"; dc.date.issued \"2020\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-6-2"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-mosquera-1844",
+   "title": "Celda fotovoltaica de película delgada tipo schottky Au/CdS/Ag usando la técnica de evaporación al vacio (tesis – Licenciado en Física)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1844",
+   "landingUrl": null,
+   "publishedAt": "1997",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1844",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Mosquera Leiva, Luis Alberto\"; thesis.degree.name \"Licenciado en Física\"; dc.date.issued \"1997\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-7-2"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-mosquera-21298",
+   "title": "Sensores de fibra óptica basados en redes de periodo largo (LPG) (tesis – Maestro en Ciencias con Mención en Física)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/21298",
+   "landingUrl": null,
+   "publishedAt": "2019",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/21298",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Mosquera Leiva, Luis Alberto\"; thesis.degree.name \"Maestro en Ciencias con Mención en Física\"; dc.date.issued \"2019\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-7-2"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-unfv-villavicencio-4741",
+   "title": "Generación de energía termoeléctrica y las emisiones de CO2 en el Perú 2019 (tesis doctoral)",
+   "author": "Universidad Nacional Federico Villarreal – Repositorio Institucional",
+   "url": "https://repositorio.unfv.edu.pe/handle/20.500.13084/4741",
+   "landingUrl": null,
+   "publishedAt": "2021",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.13084/4741",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Villavicencio Chavez, Manuel Augusto\"; thesis.degree.name \"Doctor en Medio Ambiente y Desarrollo Sostenible\"; thesis.degree.grantor \"Universidad Nacional Federico Villarreal. Escuela Universitaria de Posgrado\"; dc.date.issued \"2021\"; renati.level \"doctor\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-7-3"
+   ],
+   "notes": "Hallado vía ALICIA (RUNF_02fe0207a1dfe33aa6cd292486f87646). Nombre completo y temática energética coherente con su maestría en Energética (UNI)."
+  },
+  {
+   "id": "src-gr-uni-rodriguez-320",
+   "title": "Fabricación y caracterización de películas de SiOxNy para aplicaciones de enfriamiento por radiación (tesis – Maestro en Ciencias con Mención en Física)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/320",
+   "landingUrl": null,
+   "publishedAt": "1996",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/320",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Rodríguez Rodríguez, Juan Martín\"; thesis.degree.name \"Maestro en Ciencias con Mención en Física\"; dc.date.issued \"1996\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-rodriguez-234",
+   "title": "Sputter deposited titanium oxide films for photoelectrochemical water purification (tesis – Doctor en Ciencias con Mención en Física)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/234",
+   "landingUrl": null,
+   "publishedAt": "2000",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/234",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Rodríguez Rodríguez, Juan Martín\"; thesis.degree.name \"Doctor en Ciencias con Mención en Física\"; dc.date.issued \"2000\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-salinas-20202",
+   "title": "Análisis y diseño de cimentaciones superficiales ante acciones vibratorios (tesis – Ingeniero Civil)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/20202",
+   "landingUrl": null,
+   "publishedAt": "1995",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/20202",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Salinas Basualdo, Rafael Rolando\"; thesis.degree.name \"Ingeniero Civil\"; dc.date.issued \"1995\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-2"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-salinas-770",
+   "title": "Estudio de la estabilidad lateral de un puente de arco atirantado a partir de un modelo experimental a escala reducida (tesis – Maestro en Ciencias con Mención en Ingeniería Estructural)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/770",
+   "landingUrl": null,
+   "publishedAt": "2008",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/770",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Salinas Basualdo, Rafael Rolando\"; thesis.degree.name \"Maestro en Ciencias con Mención en Ingeniería Estructural\"; dc.date.issued \"2008\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-2"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-rosales-1814",
+   "title": "Recepción de una señal a distancia en tiempo real (tesis – Maestro en Ciencias con Mención en Ingeniería de Sistemas)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1814",
+   "landingUrl": null,
+   "publishedAt": "2001",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1814",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Rosales Huamaní, Jimmy Aurelio\"; thesis.degree.name \"Maestro en Ciencias con Mención en Ingeniería de Sistemas\"; dc.date.issued \"2001\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-rosales-5899",
+   "title": "Propuesta de una plataforma semántica inteligente que utiliza el lenguaje natural con reconocimiento de voz para la inclusión de los discapacitados visuales en Perú (tesis – Doctor en Ingeniería de Sistemas)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/5899",
+   "landingUrl": null,
+   "publishedAt": "2017",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/5899",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Rosales Huamaní, Jimmy Aurelio\"; thesis.degree.name \"Doctor en Ingeniería de Sistemas\"; dc.date.issued \"2017\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-rosales-14707",
+   "title": "Estudio de la industrialización de la beterraga para la obtención de colorante rojo en polvo (tesis – Ingeniero Químico)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/14707",
+   "landingUrl": null,
+   "publishedAt": "1991",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/14707",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Lozano Noriega, José Antonio; Rosales Huamaní, Jimmy Aurelio\"; thesis.degree.name \"Ingeniero Químico\"; dc.date.issued \"1991\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería. Facultad de Ingeniería Química y Textil\". Tesis de dos autores.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-arnao-10242",
+   "title": "Aspectos de finanzas municipales : distribución del ingreso municipal en Lima un modelo para su equitativa asignación (tesis – Ingeniero Economista)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/10242",
+   "landingUrl": null,
+   "publishedAt": "1990",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/10242",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Arnao Rondán, Raymundo Ildefonzo\"; thesis.degree.name \"Ingeniero Economista\"; dc.date.issued \"1990\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-9-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-arnao-1754",
+   "title": "Educación, estado y economía en el Perú problemas, perspectivas y propuestas (tesis – Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1754",
+   "landingUrl": null,
+   "publishedAt": "1993",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1754",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Arnao Rondán, Raymundo Ildefonzo; Pacheco Lay, Gonzalo\"; thesis.degree.name \"Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo\"; dc.date.issued \"1993\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-9-1"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-vergara-16011",
+   "title": "Diseño y construcción de una planta piloto de un sistema de agua de enfriamiento para evaluación de inhibidores mediante el método de resistencia de polarización (tesis – Ingeniero Químico)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/16011",
+   "landingUrl": null,
+   "publishedAt": "1989",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/16011",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Vergara Sotomayor, Abel Fernando; Zavaleta Reyes, José Luis\"; thesis.degree.name \"Ingeniero Químico\"; dc.date.issued \"1989\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\". Tesis de dos autores.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-9-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-vergara-1065",
+   "title": "Influencia de las variables de operación del proceso de anodizado del aluminio sobre el comportamiento anticorrosivo de la película de óxido de aluminio (tesis – Maestro en Ingeniería de Procesos)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/1065",
+   "landingUrl": null,
+   "publishedAt": "2010",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/1065",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Vergara Sotomayor, Abel Fernando\"; thesis.degree.name \"Maestro en Ingeniería de Procesos\"; dc.date.issued \"2010\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-9-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-uni-vergara-21501",
+   "title": "Estudio de extractos etanólicos y acuosos de la Annona muricata L. (guanábana) como inhibidor ecológico de la corrosión del acero en medio ácido (tesis – Doctor en Ciencias con Mención en Química)",
+   "author": "Universidad Nacional de Ingeniería – Repositorio Institucional",
+   "url": "https://repositorio.uni.edu.pe/handle/20.500.14076/21501",
+   "landingUrl": null,
+   "publishedAt": "2020",
+   "type": "documento_institucional",
+   "identifier": "hdl:20.500.14076/21501",
+   "locator": "Metadatos DSpace: dc.contributor.author \"Vergara Sotomayor, Abel Fernando\"; thesis.degree.name \"Doctor en Ciencias con Mención en Química\"; dc.date.issued \"2020\"; thesis.degree.grantor \"Universidad Nacional de Ingeniería\".",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-9-3"
+   ],
+   "notes": "Leído vía API DSpace 7 (repositorio.uni.edu.pe/server/api/discover/search/objects)."
+  },
+  {
+   "id": "src-gr-cti-arnao",
+   "title": "Ficha CTI Vitae de Raymundo Ildefonzo Arnao Rondán (id_investigador 72854)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=72854",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 72854",
+   "locator": "Apellidos: ARNAO RONDAN; Nombres: RAYMUNDO ILDEFONZO. \"Formación Académica (Fuente: SUNEDU)\": DOCTORADO – DOCTOR EN CIENCIAS CONTABLES EMPRESARIALES – UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS; LICENCIADO / TÍTULO – INGENIERO ECONOMISTA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: INGENIERIA ECONOMICA – UNI; MAGISTER – MAESTRO EN CIENCIAS, ESPECIALIDAD: PLANIFICACION NACIONAL DEL DESARROLLO – UNI; MAGISTER – MASTER EN ASESORIA Y GESTION FISCAL Y DE INVERSIONES – UNIVERSIDAD NACIONAL DE INGENIERÍA.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-9-1"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. La ficha atribuye el Master en Asesoría y Gestión Fiscal a la UNI; su ORCID lo atribuye a la Universidad Politécnica de Madrid (CEPADE). Ficha enlazada desde su ORCID. No muestra código RENACYT."
+  },
+  {
+   "id": "src-gr-cti-lazo",
+   "title": "Ficha CTI Vitae de Antonio Nolberto Lazo Jara (id_investigador 31245)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=31245",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 31245",
+   "locator": "Apellidos: LAZO JARA; Nombres: ANTONIO NOLBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS, ESPECIALIDAD: FISICA – UNIVERSIDAD NACIONAL DE INGENIERÍA; LICENCIADO / TÍTULO – TITULO PROFESIONAL DE LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS CON MENCION EN FISICA – UNI. \"Fuente: Manual\": MAGISTER – MESTRE – UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL (UFMS) – BRASIL – Marzo 2006–Diciembre 2008. RENACYT: código P0031245.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-5-3"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde la página Docentes Investigadores del VRI-UNI. El código fuente de la ficha indica nivel VII, activo al 16/10/2026."
+  },
+  {
+   "id": "src-gr-cti-montoya",
+   "title": "Ficha CTI Vitae de Modesto Edilberto Montoya Zavaleta (id_investigador 17546)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17546",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 17546",
+   "locator": "Apellidos: MONTOYA ZAVALETA; Nombres: MODESTO EDILBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN GOBIERNO Y POLITICA PUBLICA – UNIVERSIDAD DE SAN MARTIN DE PORRES; DOCTORADO – DOCTOR DEL TERCER CICLO, ESPECIALIDAD: FISICA – UNI; DOCTORADO – DOCTOR, ESPECIALIDAD: FISICA – UNI; MAGISTER – MAESTRO EN CIENCIAS, ESPECIALIDAD: FISICA – UNI; LICENCIADO / TÍTULO – LICENCIADO, ESPECIALIDAD: FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: FISICA – UNI. RENACYT: código P0017546.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-3-3"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel II, activo al 16/10/2026."
+  },
+  {
+   "id": "src-gr-cti-mosquera",
+   "title": "Ficha CTI Vitae de Luis Alberto Mosquera Leiva (id_investigador 247)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=247",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 247",
+   "locator": "Apellidos: MOSQUERA LEIVA; Nombres: LUIS ALBERTO. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS, ESPECIALIDAD: FISICA – UNIVERSIDAD NACIONAL DE INGENIERÍA; MAGISTER – MAESTRO EN CIENCIAS EN FISICA – UNI; LICENCIADO / TÍTULO – TITULO PROFESIONAL, ESPECIALIDAD: LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS, ESPECIALIDAD: FISICA – UNI (y tres filas DOCTORADO/TÍTULO/BACHILLER con centro \"UNIVERSIDAD NACIONAL DE INGENIERÍA - NICARAGUA\", país PERÚ). \"Fuente: Manual\": DOCTORADO – DOCTOR EN CIENCIAS FÍSICA – UNIVERSIDADE ESTADUAL DE CAMPINAS – BRASIL – Julio 1999–Diciembre 2003. RENACYT: código P0000247.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-7-2"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Las filas con \"UNI - NICARAGUA\" se transcriben como aparecen, sin interpretarlas. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel IV, activo al 16/10/2026."
+  },
+  {
+   "id": "src-gr-vri-mosquera",
+   "title": "Docentes Investigadores UNI – entrada \"MOSQUERA LEIVA, LUIS ALBERTO\"",
+   "author": "Vicerrectorado de Investigación UNI",
+   "url": "https://vri.uni.edu.pe/docentes-investigadores-uni/",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "portal_institucional",
+   "identifier": null,
+   "locator": "\"MOSQUERA LEIVA, LUIS ALBERTO / Doctor en Ciencias Física. Pontificia Universidade Estadual de Campiñas, Brasil. Docente Investigador FIC.\"",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-7-2"
+   ],
+   "notes": "Misma página ya citada como src-vr-vri-docentes-investigadores (para Lazo); se registra aparte por la entrada de Mosquera. El correo de la entrada no se copió."
+  },
+  {
+   "id": "src-gr-cti-rodriguez",
+   "title": "Ficha CTI Vitae de Juan Martín Rodríguez Rodríguez (id_investigador 256)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=256",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 256",
+   "locator": "Apellidos: RODRIGUEZ RODRIGUEZ; Nombres: JUAN MARTIN. \"Fuente: SUNEDU\": DOCTORADO – DOCTOR EN CIENCIAS CON MENCION EN FISICA – UNI; MAGISTER – MAESTRO EN CIENCIAS CON MENCION EN FISICA – UNI; LICENCIADO / TÍTULO – TITULO PROFESIONAL DE LICENCIADO EN FISICA – UNI; BACHILLER – BACHILLER EN CIENCIAS CON MENCION EN FISICA – UNI. \"Fuente: Manual\": MAGISTER – FILOSOFIE LICENCIATEXAMEN – UPPSALA UNIVERSITY – SUECIA – 1999. RENACYT: código P0000256.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-1"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel \"Investigador Distinguido\", activo al 16/10/2026."
+  },
+  {
+   "id": "src-gr-cti-rosales",
+   "title": "Ficha CTI Vitae de Jimmy Aurelio Rosales Huamaní (id_investigador 4091)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=4091",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 4091",
+   "locator": "Apellidos: ROSALES HUAMANI; Nombres: JIMMY AURELIO. \"Fuente: SUNEDU\": DOCTORADO – TÍTULO UNIVERSITARIO OFICIAL DE DOCTOR DENTRO DEL PROGRAMA DE DOCTORADO EN INGENIERÍA DE LA INFORMACIÓN Y DEL CONOCIMIENTO (GRADO DE DOCTOR) – UNIVERSIDAD DE ALCALÁ – ESPAÑA. \"Fuente: Manual\": MASTER EN TECNOLOGIAS DE APOYO ACCESIBILIDAD Y DISEÑO PARA TODOS – UC3M – 2011–2012; MAESTRO EN INGENIERIA DE SISTEMAS – UNI – 1999–2001; INGENIERO QUIMICO – UNI – 1991; BACHILLER – UNI; DOCTOR EN INGENIERÍA DE SISTEMAS – UNI – 2012–2014. RENACYT: código P0004091.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-3"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel II, activo al 16/10/2026."
+  },
+  {
+   "id": "src-gr-cti-vergara",
+   "title": "Ficha CTI Vitae de Abel Fernando Vergara Sotomayor (id_investigador 11470)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11470",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 11470",
+   "locator": "Apellidos: VERGARA SOTOMAYOR; Nombres: ABEL FERNANDO. \"Fuente: SUNEDU\": BACHILLER EN CIENCIAS – UNI; TITULO PROFESIONAL, ESPECIALIDAD: INGENIERO QUIMICO – UNI; MAESTRO, ESPECIALIDAD: INGENIERIA DE PROCESOS – UNI; DOCTOR EN CIENCIAS CON MENCION EN QUIMICA – UNI. RENACYT: código P0011470.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-9-3"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID y desde el VRI-UNI. El código fuente indica nivel VII, activo al 16/10/2026."
+  },
+  {
+   "id": "src-gr-cti-osorio",
+   "title": "Ficha CTI Vitae de César Javier Osorio Carrera (id_investigador 5093)",
+   "author": "CONCYTEC – CTI Vitae (formación académica con datos de SUNEDU)",
+   "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=5093",
+   "landingUrl": null,
+   "publishedAt": null,
+   "type": "registro_publico",
+   "identifier": "CTI Vitae 5093",
+   "locator": "Apellidos: OSORIO CARRERA; Nombres: CESAR JAVIER. \"Fuente: SUNEDU\": BACHILLER, ESPECIALIDAD: INGENIERIA QUIMICA – UNI; TITULO, ESPECIALIDAD: INGENIERO QUIMICO – UNI; MAESTRO, ESPECIALIDAD: GESTION AMBIENTAL – UNI; DOCTOR EN MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE – UNIVERSIDAD NACIONAL FEDERICO VILLARREAL. RENACYT: código P0005093.",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-3"
+   ],
+   "notes": "Coincidencia exacta de \"Apellidos\" y \"Nombres\" de la ficha con el nombre oficial del candidato.Contiene datos personales que no se reproducen. Ficha enlazada desde su ORCID (calificación RENACYT). El código fuente indica nivel V, activo al 16/10/2026."
+  }
+ ],
+ "claims": [
+  {
+   "candidateId": "c-1-1",
+   "section": "formacion",
+   "text": "Según el Repositorio Institucional de la Universidad Nacional del Callao (UNAC), obtuvo el grado de Doctor en Ingeniería Eléctrica (tesis de 2018, Facultad de Ingeniería Eléctrica y Electrónica de la UNAC) y el de Maestro en Ciencias de la Electrónica, mención Telecomunicaciones (tesis sustentada el 23-03-2011, UNAC). El Repositorio UNI registra su tesis para el título de Ingeniero Electrónico (1981).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-unac-butler-2810",
+    "src-gr-unac-butler-493",
+    "src-gr-uni-butler-23365"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-2",
+   "section": "formacion",
+   "text": "El Portal de Investigación de la Universidad de Oviedo (España) registra su tesis doctoral \"Ordenación y planificación de los espacios naturales: un estudio comparado\" (Doctor, 1997). Su ORCID la describe como doctora en Ordenamiento Territorial por esa universidad y arquitecta por la UNI.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uniovi-cacho",
+    "src-vr-orcid-cacho"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-2-1",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra dos trabajos para título profesional a su nombre: una monografía para Ingeniero Mecánico (1977) y una tesis para Ingeniero Mecánico Electricista (1981). No se halló en repositorios abiertos la tesis de su doctorado en Administración (mencionado por la Resolución N.º 035-2026-CEUNI).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-padilla-25437",
+    "src-gr-uni-padilla-23431"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-2-3",
+   "section": "formacion",
+   "text": "El Repositorio de la UNFV registra su tesis para el grado de Doctor en Medio Ambiente y Desarrollo Sostenible (Escuela Universitaria de Posgrado, fechada 2021). El Repositorio UNI registra su tesis de Maestro en Ciencias con Mención en Gestión Ambiental (2008) y una tesis de dos autores para el título de Ingeniero Químico (1991). Su ORCID consigna el doctorado UNFV con fechas 2012–2013.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-unfv-osorio-4739",
+    "src-gr-uni-osorio-640",
+    "src-gr-uni-osorio-15929",
+    "src-orcid-c-2-3"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-3-1",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Geólogo (\"Petrología y geoquímica de las rocas ígneas de Hualgayoc - Cajamarca\", 1991).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-chirif-15931"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-3-3",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis de Maestro en Ciencias con Mención en Física (1974, a nombre de \"Montoya Zavaleta, Modesto E.\"). El INIS (OIEA) registra una tesis suya de 1977 en la Universidad Paris-11 (Orsay) sobre fisión nuclear; su ORCID declara el grado de Docteur ès sciences por la Université Paris-Sud (1981).",
+   "status": "parcialmente_verificado",
+   "sourceIds": [
+    "src-gr-uni-montoya-1720",
+    "src-gr-inis-montoya-1977",
+    "src-orcid-c-3-3"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-4-1",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Economista (\"La evolución del subdesarrollo en el Perú\", 1983).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-humala-1832"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-4-3",
+   "section": "formacion",
+   "text": "El Repositorio de la UNFV registra su tesis para el grado de Doctor en Administración (2012), sobre planeamiento estratégico en la UNI. El Repositorio UNI registra su tesis de Licenciado en Física (1998) y la de Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas (1998). Coincide con la biografía de su ORCID (doctor en Administración, magíster en Ingeniería Aeronáutica, licenciado en Física).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-unfv-huamanperez-663",
+    "src-gr-uni-huamanperez-1258",
+    "src-gr-uni-huamanperez-1591",
+    "src-orcid-c-4-3"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-5-3",
+   "section": "formacion",
+   "text": "La Biblioteca Digital de Tesis de la Universidade Federal de Goiás (Brasil) registra su tesis doctoral del Programa de Posgrado en Física (2014-04-23). Coincide con lo declarado en su ORCID (doctorado en la UFG, 2009–2014; maestría en Física en la Universidade Federal de Mato Grosso, 2006–2009).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-ufg-lazo-4430",
+    "src-vr-orcid-lazo"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-6-1",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Mecánico (1988) y su tesis de Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas (2008). No se halló su tesis doctoral en repositorios abiertos.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-alva-1758",
+    "src-gr-uni-alva-584"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-6-2",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Electricista (1985), su tesis de Maestro en Ciencias con Mención en Sistemas de Potencia (2019) y su tesis de Doctor en Ciencias con Mención en Energética (2020).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-palma-22172",
+    "src-gr-uni-palma-18138",
+    "src-gr-uni-palma-1651"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-7-2",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis de Licenciado en Física (1997) y su tesis de Maestro en Ciencias con Mención en Física (2019). No se halló su tesis doctoral en repositorios abiertos.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-mosquera-1844",
+    "src-gr-uni-mosquera-21298"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-7-3",
+   "section": "formacion",
+   "text": "El Repositorio de la UNFV registra su tesis para el grado de Doctor en Medio Ambiente y Desarrollo Sostenible (Escuela Universitaria de Posgrado, 2021), sobre generación termoeléctrica y emisiones de CO2 en el Perú.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-unfv-villavicencio-4741"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-8-1",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis de Maestro en Ciencias con Mención en Física (1996) y su tesis de Doctor en Ciencias con Mención en Física (2000, \"Sputter deposited titanium oxide films for photoelectrochemical water purification\").",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-rodriguez-234",
+    "src-gr-uni-rodriguez-320"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-8-2",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Civil (1995) y su tesis de Maestro en Ciencias con Mención en Ingeniería Estructural (2008).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-salinas-20202",
+    "src-gr-uni-salinas-770"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-8-3",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis de Doctor en Ingeniería de Sistemas (2017), su tesis de Maestro en Ciencias con Mención en Ingeniería de Sistemas (2001) y una tesis de dos autores para el título de Ingeniero Químico (1991). Su ORCID consigna el magíster con año 2011.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-rosales-5899",
+    "src-gr-uni-rosales-1814",
+    "src-gr-uni-rosales-14707",
+    "src-orcid-c-8-3"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-9-1",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis para el título de Ingeniero Economista (fechada 1990) y su tesis de Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo (fechada 1993). Su ORCID consigna esos grados con años 1985 y 1988. No se halló en repositorios abiertos la tesis del doctorado en Ciencias Contables y Empresariales (UNMSM, 1999) que declara en ORCID.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-arnao-10242",
+    "src-gr-uni-arnao-1754",
+    "src-orcid-arnao"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-9-3",
+   "section": "formacion",
+   "text": "El Repositorio UNI registra su tesis de Doctor en Ciencias con Mención en Química (2020), su tesis de Maestro en Ingeniería de Procesos (2010) y una tesis de dos autores para el título de Ingeniero Químico (1989).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-uni-vergara-21501",
+    "src-gr-uni-vergara-1065",
+    "src-gr-uni-vergara-16011"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-9-1",
+   "section": "formacion",
+   "text": "Según su ficha CTI Vitae (formación con fuente SUNEDU), registra el grado de Doctor en Ciencias Contables Empresariales (UNMSM), Maestro en Ciencias, especialidad Planificación Nacional del Desarrollo (UNI), Ingeniero Economista y Bachiller en Ciencias, especialidad Ingeniería Económica (UNI), y un Master en Asesoría y Gestión Fiscal y de Inversiones que la ficha atribuye a la UNI (su ORCID lo atribuye a la Universidad Politécnica de Madrid–CEPADE).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-cti-arnao",
+    "src-orcid-arnao"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-5-3",
+   "section": "formacion",
+   "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna el grado de Doctor en Ciencias, especialidad Física, a nombre de la UNI, además del título de Licenciado en Física y el bachillerato en Ciencias con mención en Física (UNI); la tesis doctoral está depositada en la Universidade Federal de Goiás (2014). Declara manualmente una maestría (Mestre) en la Universidade Federal de Mato Grosso do Sul (2006–2008). Figura en RENACYT con código P0031245 (nivel VII según la ficha).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-cti-lazo",
+    "src-gr-ufg-lazo-4430"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-3-3",
+   "section": "formacion",
+   "text": "Según su ficha CTI Vitae (fuente SUNEDU), registra tres doctorados: Doctor, especialidad Física, y Doctor del tercer ciclo, especialidad Física, ambos a nombre de la UNI, y Doctor en Gobierno y Política Pública (Universidad de San Martín de Porres); además Maestro en Ciencias, Licenciado y Bachiller en Ciencias, especialidad Física (UNI). Su ORCID declara el Docteur ès sciences por la Université Paris-Sud (1981). Figura en RENACYT con código P0017546 (nivel II según la ficha).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-cti-montoya",
+    "src-orcid-c-3-3"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-7-2",
+   "section": "formacion",
+   "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna el grado de Doctor en Ciencias, especialidad Física, y el de Maestro en Ciencias en Física, el título de Licenciado en Física y el bachillerato, a nombre de la UNI. En la sección manual de la ficha y en el portal del VRI-UNI declara que su doctorado en Ciencias (Física) es de la Universidade Estadual de Campinas, Brasil (1999–2003). Figura en RENACYT con código P0000247 (nivel IV según la ficha).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-cti-mosquera",
+    "src-gr-vri-mosquera"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-8-1",
+   "section": "formacion",
+   "text": "Según su ficha CTI Vitae (fuente SUNEDU), registra Doctor en Ciencias con Mención en Física, Maestro en Ciencias con Mención en Física, Licenciado en Física y Bachiller en Ciencias con mención en Física, todos por la UNI; declara además una Filosofie licentiatexamen de la Universidad de Uppsala (Suecia, 1999). Figura en RENACYT con código P0000256 (nivel \"Investigador Distinguido\" según la ficha).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-cti-rodriguez"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-8-3",
+   "section": "formacion",
+   "text": "Según su ficha CTI Vitae, el registro SUNEDU consigna un doctorado de la Universidad de Alcalá (España), programa de Doctorado en Ingeniería de la Información y del Conocimiento. En la sección manual declara además Doctor en Ingeniería de Sistemas (UNI, 2012–2014; tesis en el Repositorio UNI fechada 2017), Maestro en Ingeniería de Sistemas (UNI), Master en Tecnologías de Apoyo, Accesibilidad y Diseño para Todos (Universidad Carlos III de Madrid) e Ingeniero Químico (UNI). Figura en RENACYT con código P0004091 (nivel II según la ficha).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-gr-cti-rosales",
+    "src-gr-uni-rosales-5899"
+   ],
+   "kind": "hecho"
+  }
+ ],
+ "proposals": [],
+ "leads": [
+  {
+   "candidateId": "c-1-1",
+   "provider": "otro",
+   "profileId": "https://repositorio.uni.edu.pe/handle/20.500.14076/25739",
+   "displayName": "Butler Blacker, Jorge",
+   "orcid": null,
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Repositorio UNI: monografía para Ingeniero Mecánico Electricista (1977) a nombre de \"Butler Blacker, Jorge\" (sin segundo nombre). Podría ser el candidato (segundo título profesional), pero el nombre no es completo; no se atribuye."
+  },
+  {
+   "candidateId": "c-5-1",
+   "provider": "otro",
+   "profileId": "https://repositorio.uni.edu.pe/handle/20.500.14076/12082",
+   "displayName": "Huamán Sánchez, Alejandro Apolinario",
+   "orcid": null,
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Repositorio UNI: tesis para Licenciado en Física (Facultad de Ciencias, 2017) con nombre completo idéntico. El candidato es docente de la FIIS; el área no coincide con su facultad, por lo que no se registra como claim hasta confirmar con otra fuente."
+  },
+  {
+   "candidateId": "c-2-2",
+   "provider": "otro",
+   "profileId": "https://repositorio.uni.edu.pe/handle/20.500.14076/6873",
+   "displayName": "Sánchez Espinoza, Javier",
+   "orcid": null,
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Repositorio UNI: informe para Ingeniero de Sistemas (2010) a nombre de \"Sánchez Espinoza, Javier\" (sin segundo nombre). La ficha FIIS del candidato (src-vr-fiis-sanchez) indica \"Título: Ingeniero de Sistemas\"; podría ser suyo, pero el nombre no es completo."
+  },
+  {
+   "candidateId": "c-1-1",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0000-0001-8473-704X",
+   "displayName": "Jorge Butler",
+   "orcid": "0000-0001-8473-704X",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "El Repositorio UNI enlaza este ORCID (renati.advisor.orcid) a \"Butler Blacker, Jorge Gustavo\" como asesor en 2 tesis, por lo que puede atribuirse; el registro no tiene formación pública."
+  },
+  {
+   "candidateId": "c-1-3",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0009-0005-5173-9213",
+   "displayName": "Luis Lastra Espinoza",
+   "orcid": "0009-0005-5173-9213",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "ORCID con afiliación \"Universidad Nacional de Ingeniería\" en la búsqueda, pero sin educación/calificaciones públicas."
+  },
+  {
+   "candidateId": "c-2-1",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0009-0007-6270-6171",
+   "displayName": "AURELIO MARCELO PADILLA RIOS",
+   "orcid": "0009-0007-6270-6171",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "ORCID con nombre completo y afiliación \"National University of Engineering\", sin educación pública."
+  },
+  {
+   "candidateId": "c-6-1",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0009-0008-8168-661X",
+   "displayName": "FORTUNATO ALVA DÁVILA",
+   "orcid": "0009-0008-8168-661X",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "ORCID con nombre completo, sin educación pública."
+  },
+  {
+   "candidateId": "c-7-1",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0000-0003-2355-8958",
+   "displayName": "Rodolfo Falconí",
+   "orcid": "0000-0003-2355-8958",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "El Repositorio UNI enlaza este ORCID a \"Falconí Vásquez, Rodolfo Elías\" como asesor en 4 tesis; el registro no tiene formación pública."
+  },
+  {
+   "candidateId": "c-3-1",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0000-0003-0000-4768",
+   "displayName": "Luis Humberto Chirif Rivera",
+   "orcid": "0000-0003-0000-4768",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "ORCID con nombre completo, sin educación pública."
+  },
+  {
+   "candidateId": "c-8-1",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0000-0002-9887-6419",
+   "displayName": "Juan Martin Rodriguez Rodriguez",
+   "orcid": "0000-0002-9887-6419",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "ORCID con nombre completo y afiliación UNI-Facultad de Ciencias; sólo calificación RENACYT (CONCYTEC), sin educación."
+  },
+  {
+   "candidateId": "c-4-2",
+   "provider": "confirmación",
+   "profileId": "https://alicia.concytec.gob.pe/vufind/Record/UUNI_a0a63b5494ecd7aea3bb9cc00849b5ba",
+   "displayName": "Cáceres Cárdenas, Félix Víctor",
+   "orcid": null,
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "ALICIA indexa la tesis doctoral 2018 (doctoralThesis); confirma la claim existente basada en src-vr-tesis-18140."
+  },
+  {
+   "candidateId": "c-6-3",
+   "provider": "confirmación",
+   "profileId": "https://alicia.concytec.gob.pe/vufind/Record/UUNI_cf46aace0b37fa305209ca1488e069f4",
+   "displayName": "Guimaray Huerta, Héctor Carlos",
+   "orcid": null,
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "ALICIA indexa la tesis doctoral 2021; confirma la claim existente basada en src-vr-tesis-22478."
+  },
+  {
+   "candidateId": "c-3-3",
+   "provider": "otro",
+   "profileId": "https://arxiv.org/pdf/1503.06724",
+   "displayName": "M. Montoya (arXiv 1503.06724)",
+   "orcid": null,
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Bibliografía de un artículo del propio candidato cita \"M. Montoya: Thesis, Doctorat d'Etat, Universidad París XI, Orsay (1981)\" (según buscador; PDF no abierto). Sirve como pista para ubicar la tesis de 1981 en SUDOC/theses.fr."
+  },
+  {
+   "candidateId": "c-9-2",
+   "provider": "otro",
+   "profileId": "https://www.linkedin.com/in/agustin-gutierrez-paucar-35330636/",
+   "displayName": "Agustin Gutierrez Paucar",
+   "orcid": null,
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Pista ya registrada por el agente vicerrectores (doctorado en Educación según snippet). No se halló tesis doctoral en ALICIA, UNE, UNMSM ni UNI."
+  },
+  {
+   "candidateId": "c-9-3",
+   "provider": "confirmación",
+   "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11470",
+   "displayName": "VERGARA SOTOMAYOR, ABEL FERNANDO",
+   "orcid": "0000-0003-0964-4489",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "CTI Vitae (fuente SUNEDU) confirma los cuatro grados de la claim verificado_primaria del Repositorio UNI (doctor en Ciencias con mención en Química, maestro en Ingeniería de Procesos, Ingeniero Químico, bachiller). RENACYT P0011470 (nivel VII según la ficha)."
+  },
+  {
+   "candidateId": "c-2-3",
+   "provider": "confirmación",
+   "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=5093",
+   "displayName": "OSORIO CARRERA, CESAR JAVIER",
+   "orcid": "0000-0002-2850-6420",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "CTI Vitae (fuente SUNEDU) confirma los grados de la claim verificado_primaria (doctorado UNFV, maestría y título UNI). RENACYT P0005093 (nivel V según la ficha)."
+  },
+  {
+   "candidateId": "c-6-2",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0009-0005-1371-7988",
+   "displayName": "MODESTO PALMA",
+   "orcid": "0009-0005-1371-7988",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Enlazado a \"Palma García, Modesto Tomás\" como asesor en 13 tesis del Repositorio UNI. Declara \"DOCTOR EN CIENCIAS CON MENCION EN ENERGÉTICA\", UNI, 2020: confirma la claim verificado_primaria basada en src-gr-uni-palma-22172."
+  },
+  {
+   "candidateId": "c-2-2",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0000-0002-5546-6356",
+   "displayName": "Javier Concepción Sánchez Espinoza",
+   "orcid": "0000-0002-5546-6356",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Enlazado como asesor en 5 tesis del Repositorio UNI; sin formación pública."
+  },
+  {
+   "candidateId": "c-4-2",
+   "provider": "ORCID",
+   "profileId": "https://orcid.org/0000-0002-3004-1984",
+   "displayName": "fvictor Cáceres",
+   "orcid": "0000-0002-3004-1984",
+   "worksCount": null,
+   "status": "pendiente",
+   "note": "Enlazado a \"Cáceres Cárdenas, Félix Víctor\" como asesor en 9 tesis del Repositorio UNI; sin formación pública."
+  }
+ ],
+ "pending": [
+  {
+   "candidateId": "c-1-3",
+   "text": "Doctorado no identificado: sin tesis en ALICIA ni Repositorio UNI; ORCID 0009-0005-5173-9213 vacío. Sus coautorías con N. Patrakhaltsev (1998) sugieren formación en Rusia: buscar en el catálogo de la Biblioteca Estatal Rusa (RSL) o pedir la hoja de vida al CEUNI/lista 1."
+  },
+  {
+   "candidateId": "c-2-1",
+   "text": "Universidad y año del doctorado y la maestría en Administración (la Res. 035-2026-CEUNI sólo indica la mención): no figuran en ALICIA, UNMSM, UNFV, UNAC, ESAN, UNE ni UNI. Revisar la hoja de vida presentada al CEUNI."
+  },
+  {
+   "candidateId": "c-3-2",
+   "text": "Ph.D. RUDN 2005 sólo declarado en ORCID: buscar la disertación en el catálogo de la Biblioteca Estatal Rusa (dissercat/RSL) con transliteración del nombre."
+  },
+  {
+   "candidateId": "c-3-3",
+   "text": "Confirmar la tesis de Doctorat d'État de 1981 (Paris-11, Orsay) en SUDOC/theses.fr; SUDOC devolvió una redirección no legible por script."
+  },
+  {
+   "candidateId": "c-4-1",
+   "text": "Doctorado en la URP sólo según prensa (Caretas): el repositorio de la URP exige un desafío anti-bot (BunkerWeb/Cap.js) que no se sorteó; consultar manualmente o mediante ALICIA cuando se indexe."
+  },
+  {
+   "candidateId": "c-5-1",
+   "text": "Doctorado no identificado (ni ORCID localizado). Confirmar si la licenciatura en Física UNI 2017 le corresponde y buscar su doctorado en la hoja de vida del CEUNI."
+  },
+  {
+   "candidateId": "c-5-2",
+   "text": "Doctorado no identificado: no hay tesis doctoral en ALICIA, UNI, UNFV, UNAC ni UNMSM; ORCID sin educación."
+  },
+  {
+   "candidateId": "c-6-1",
+   "text": "Doctorado no identificado: no hay tesis doctoral en ALICIA ni repositorios consultados. Las resoluciones 032 y 033-2026-CEUNI (tachas a su candidatura) podrían mencionar el grado: leerlas completas."
+  },
+  {
+   "candidateId": "c-7-1",
+   "text": "Ningún grado localizado en repositorios abiertos (ALICIA, UNI, UNMSM, UNFV, UNAC). Revisar hoja de vida en CEUNI o portal FIIS."
+  },
+  {
+   "candidateId": "c-7-2",
+   "text": "Doctorado no identificado (ALICIA y repositorios peruanos sin tesis doctoral; ORCID sólo con RENACYT)."
+  },
+  {
+   "candidateId": "c-8-2",
+   "text": "Doctorado UNAM (2010–2013) sólo declarado en ORCID: el catálogo TESIUNAM respondió HTTP 403 a la consulta automatizada; verificar manualmente en tesiunam.dgb.unam.mx."
+  },
+  {
+   "candidateId": "c-9-1",
+   "text": "Doctorado UNMSM 1999 sólo declarado en ORCID: Cybertesis UNMSM (API backend) no devuelve tesis a su nombre; posible tesis no digitalizada."
+  },
+  {
+   "candidateId": "c-9-2",
+   "text": "Doctorado y maestría no identificados en ALICIA, UNE, UNMSM, UNFV, UNAC ni UNI."
+  },
+  {
+   "candidateId": "c-1-1",
+   "text": "Las resoluciones 037 y 038-2026-CEUNI (tachas) podrían precisar la verificación del grado; leer texto completo."
+  },
+  {
+   "candidateId": "*",
+   "text": "CTI Vitae: el buscador de investigadores (BuscarInvestigadores.do) exige reCAPTCHA y no se usó. Sólo se localizaron fichas enlazadas desde ORCID o desde el portal del VRI-UNI (8 de 27). Faltan fichas para los otros 19 candidatos: buscarlas manualmente en ctivitae.concytec.gob.pe."
+  }
+ ],
+ "siteUpdates": {
+  "degreesTable": [
+   {
+    "candidateId": "c-1-1",
+    "doctorado": {
+     "denominacion": "Doctor en Ingeniería Eléctrica",
+     "universidad": "Universidad Nacional del Callao",
+     "anio": 2018,
+     "sourceId": "src-gr-unac-butler-2810",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias de la Electrónica, mención Telecomunicaciones",
+     "universidad": "Universidad Nacional del Callao",
+     "anio": 2011,
+     "sourceId": "src-gr-unac-butler-493",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Electrónico",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1981,
+     "sourceId": "src-gr-uni-butler-23365",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-1-2",
+    "doctorado": {
+     "denominacion": "Doctor (tesis \"Ordenación y planificación de los espacios naturales: un estudio comparado\"); ORCID: Doctora en Ordenamiento Territorial",
+     "universidad": "Universidad de Oviedo (España)",
+     "anio": 1997,
+     "sourceId": "src-gr-uniovi-cacho",
+     "status": "verificado_primaria"
+    },
+    "maestria": null,
+    "titulo": {
+     "denominacion": "Arquitecta",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": null,
+     "sourceId": "src-vr-orcid-cacho",
+     "status": "declarado"
+    }
+   },
+   {
+    "candidateId": "c-1-3",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": null
+   },
+   {
+    "candidateId": "c-2-1",
+    "doctorado": {
+     "denominacion": "Doctor (en Administración, según el CEUNI; universidad no indicada)",
+     "universidad": null,
+     "anio": null,
+     "sourceId": "src-rs-ceuni-res-035-2026",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestría en Administración (según el CEUNI; universidad no indicada)",
+     "universidad": null,
+     "anio": null,
+     "sourceId": "src-rs-ceuni-res-035-2026",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Mecánico Electricista",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1981,
+     "sourceId": "src-gr-uni-padilla-23431",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-2-2",
+    "doctorado": {
+     "denominacion": "Doctor en Ingeniería de Sistemas",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2021,
+     "sourceId": "src-vr-tesis-22134",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Ingeniería de Sistemas",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2008,
+     "sourceId": "src-vr-tesis-14729",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Industrial",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1993,
+     "sourceId": "src-vr-tesis-8209",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-2-3",
+    "doctorado": {
+     "denominacion": "Doctor en Medio Ambiente y Desarrollo Sostenible",
+     "universidad": "Universidad Nacional Federico Villarreal",
+     "anio": 2021,
+     "sourceId": "src-gr-unfv-osorio-4739",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Gestión Ambiental",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2008,
+     "sourceId": "src-gr-uni-osorio-640",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Químico",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1991,
+     "sourceId": "src-gr-uni-osorio-15929",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-3-1",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias Naturales (tesis doctoral registrada por la DNB)",
+     "universidad": "Universidad de Heidelberg (Alemania)",
+     "anio": 1998,
+     "sourceId": "src-rx-dnb-chirif-1998",
+     "status": "corroborado"
+    },
+    "maestria": null,
+    "titulo": {
+     "denominacion": "Ingeniero Geólogo",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1991,
+     "sourceId": "src-gr-uni-chirif-15931",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-3-2",
+    "doctorado": {
+     "denominacion": "Ph.D. en Física Teórica",
+     "universidad": "Universidad Rusa de la Amistad de los Pueblos",
+     "anio": 2005,
+     "sourceId": "src-orcid-c-3-2",
+     "status": "declarado"
+    },
+    "maestria": {
+     "denominacion": "Master of Science en Radiofísica",
+     "universidad": "Universidad Rusa de la Amistad de los Pueblos",
+     "anio": 1987,
+     "sourceId": "src-orcid-c-3-2",
+     "status": "declarado"
+    },
+    "titulo": null
+   },
+   {
+    "candidateId": "c-3-3",
+    "doctorado": {
+     "denominacion": "Doctor, especialidad Física; Doctor del tercer ciclo, especialidad Física (registro SUNEDU); también Doctor en Gobierno y Política Pública (USMP). ORCID: Docteur ès sciences, Université Paris-Sud (1981)",
+     "universidad": "Universidad Nacional de Ingeniería (registro SUNEDU)",
+     "anio": null,
+     "sourceId": "src-gr-cti-montoya",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1974,
+     "sourceId": "src-gr-uni-montoya-1720",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Licenciado, especialidad Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": null,
+     "sourceId": "src-gr-cti-montoya",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-4-1",
+    "doctorado": {
+     "denominacion": "Doctorado en Ciencias Políticas y Relaciones Internacionales",
+     "universidad": "Universidad Ricardo Palma",
+     "anio": null,
+     "sourceId": "src-caretas-humala-2026",
+     "status": "parcialmente_verificado"
+    },
+    "maestria": null,
+    "titulo": {
+     "denominacion": "Ingeniero Economista",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1983,
+     "sourceId": "src-gr-uni-humala-1832",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-4-2",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias con Mención en Energética",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2018,
+     "sourceId": "src-vr-tesis-18140",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Sistemas de Potencia",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1993,
+     "sourceId": "src-vr-tesis-1188",
+     "status": "verificado_primaria"
+    },
+    "titulo": null
+   },
+   {
+    "candidateId": "c-4-3",
+    "doctorado": {
+     "denominacion": "Doctor en Administración",
+     "universidad": "Universidad Nacional Federico Villarreal",
+     "anio": 2012,
+     "sourceId": "src-gr-unfv-huamanperez-663",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ingeniería Aeronáutica con Mención en Motores de Turbinas a Gas",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1998,
+     "sourceId": "src-gr-uni-huamanperez-1591",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Licenciado en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1998,
+     "sourceId": "src-gr-uni-huamanperez-1258",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-5-1",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": null
+   },
+   {
+    "candidateId": "c-5-2",
+    "doctorado": null,
+    "maestria": {
+     "denominacion": "Maestro en Ingeniería con Mención en Aplicación Energética del Gas Natural",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2010,
+     "sourceId": "src-vr-tesis-587",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Mecánico",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1993,
+     "sourceId": "src-vr-tesis-2698",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-5-3",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias, especialidad Física (registro SUNEDU, UNI); tesis doctoral defendida en la Universidade Federal de Goiás",
+     "universidad": "Universidade Federal de Goiás (tesis, 2014) / Universidad Nacional de Ingeniería (registro SUNEDU)",
+     "anio": 2014,
+     "sourceId": "src-gr-ufg-lazo-4430",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Master of Physics",
+     "universidad": "Universidade Federal de Mato Grosso (Brasil)",
+     "anio": 2009,
+     "sourceId": "src-vr-orcid-lazo",
+     "status": "declarado"
+    },
+    "titulo": {
+     "denominacion": "Licenciado en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1995,
+     "sourceId": "src-vr-tesis-1904",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-6-1",
+    "doctorado": null,
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Ingeniería Mecánica - Diseño de Máquinas",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2008,
+     "sourceId": "src-gr-uni-alva-584",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Mecánico",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1988,
+     "sourceId": "src-gr-uni-alva-1758",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-6-2",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias con Mención en Energética",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2020,
+     "sourceId": "src-gr-uni-palma-22172",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Sistemas de Potencia",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2019,
+     "sourceId": "src-gr-uni-palma-18138",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Electricista",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1985,
+     "sourceId": "src-gr-uni-palma-1651",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-6-3",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias con Mención en Matemática",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2021,
+     "sourceId": "src-vr-tesis-22478",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Matemática",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1989,
+     "sourceId": "src-vr-tesis-335",
+     "status": "verificado_primaria"
+    },
+    "titulo": null
+   },
+   {
+    "candidateId": "c-7-1",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": null
+   },
+   {
+    "candidateId": "c-7-2",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias, especialidad Física (registro SUNEDU); declara haberlo cursado en la Universidade Estadual de Campinas, Brasil (1999–2003)",
+     "universidad": "Universidad Nacional de Ingeniería (registro SUNEDU)",
+     "anio": null,
+     "sourceId": "src-gr-cti-mosquera",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2019,
+     "sourceId": "src-gr-uni-mosquera-21298",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Licenciado en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1997,
+     "sourceId": "src-gr-uni-mosquera-1844",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-7-3",
+    "doctorado": {
+     "denominacion": "Doctor en Medio Ambiente y Desarrollo Sostenible",
+     "universidad": "Universidad Nacional Federico Villarreal",
+     "anio": 2021,
+     "sourceId": "src-gr-unfv-villavicencio-4741",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Energética",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2012,
+     "sourceId": "src-vr-tesis-1331",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Mecánico",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1979,
+     "sourceId": "src-vr-tesis-23687",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-8-1",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias con Mención en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2000,
+     "sourceId": "src-gr-uni-rodriguez-234",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1996,
+     "sourceId": "src-gr-uni-rodriguez-320",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Licenciado en Física",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": null,
+     "sourceId": "src-gr-cti-rodriguez",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-8-2",
+    "doctorado": {
+     "denominacion": "Doctorado (División de Estudios de Posgrado; denominación no indicada)",
+     "universidad": "Universidad Nacional Autónoma de México",
+     "anio": 2013,
+     "sourceId": "src-orcid-c-8-2",
+     "status": "declarado"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Ingeniería Estructural",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2008,
+     "sourceId": "src-gr-uni-salinas-770",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Civil",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1995,
+     "sourceId": "src-gr-uni-salinas-20202",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-8-3",
+    "doctorado": {
+     "denominacion": "Doctor en Ingeniería de Sistemas (UNI, tesis 2017); además doctorado de la Universidad de Alcalá – Programa de Doctorado en Ingeniería de la Información y del Conocimiento (registro SUNEDU)",
+     "universidad": "Universidad Nacional de Ingeniería / Universidad de Alcalá (España)",
+     "anio": 2017,
+     "sourceId": "src-gr-uni-rosales-5899",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Ingeniería de Sistemas",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2001,
+     "sourceId": "src-gr-uni-rosales-1814",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Químico (tesis de dos autores)",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1991,
+     "sourceId": "src-gr-uni-rosales-14707",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-9-1",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias Contables Empresariales",
+     "universidad": "Universidad Nacional Mayor de San Marcos",
+     "anio": 1999,
+     "sourceId": "src-gr-cti-arnao",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1993,
+     "sourceId": "src-gr-uni-arnao-1754",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Economista",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1990,
+     "sourceId": "src-gr-uni-arnao-10242",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-9-2",
+    "doctorado": null,
+    "maestria": null,
+    "titulo": {
+     "denominacion": "Ingeniero Electricista",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1987,
+     "sourceId": "src-vr-tesis-5190",
+     "status": "verificado_primaria"
+    }
+   },
+   {
+    "candidateId": "c-9-3",
+    "doctorado": {
+     "denominacion": "Doctor en Ciencias con Mención en Química",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2020,
+     "sourceId": "src-gr-uni-vergara-21501",
+     "status": "verificado_primaria"
+    },
+    "maestria": {
+     "denominacion": "Maestro en Ingeniería de Procesos",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 2010,
+     "sourceId": "src-gr-uni-vergara-1065",
+     "status": "verificado_primaria"
+    },
+    "titulo": {
+     "denominacion": "Ingeniero Químico (tesis de dos autores)",
+     "universidad": "Universidad Nacional de Ingeniería",
+     "anio": 1989,
+     "sourceId": "src-gr-uni-vergara-16011",
+     "status": "verificado_primaria"
+    }
+   }
+  ]
+ },
+ "rejected": [
+  "Reemplazo/ampliación: la claim de c-6-2 basada sólo en src-cv-palma-gobpe (declarado) queda complementada por una claim verificado_primaria con las tres tesis en el Repositorio UNI (1985, 2019, 2020).",
+  "Reemplazo/ampliación: la claim de c-9-3 basada en ORCID (declarado) queda complementada por una claim verificado_primaria con las tres tesis del Repositorio UNI; nótese que ORCID fecha la maestría en 2011 y el repositorio en 2010, y la denominación exacta es 'Maestro en Ingeniería de Procesos'.",
+  "Reemplazo/ampliación: la claim de c-8-3 basada en ORCID (declarado) queda complementada por una claim verificado_primaria (tesis doctoral 2017 y de maestría 2001 en el Repositorio UNI); ORCID consigna el magíster con año 2011.",
+  "Reemplazo/ampliación: la claim de c-2-3 basada en ORCID queda complementada por la tesis doctoral en el repositorio UNFV y las tesis UNI; difiere el año (ORCID 2012–2013 vs. repositorio 2021).",
+  "Reemplazo/ampliación: la claim de c-5-3 (parcialmente_verificado) puede sustituirse por la nueva claim verificado_primaria con la tesis doctoral en la UFG (2014); la descripción del VRI-UNI ('Doctor en Ciencias, especialidad Física. Universidad Nacional de Ingeniería') no coincide con la institución que registra la tesis.",
+  "Reemplazo/ampliación: la claim de c-1-2 basada en ORCID se complementa con el Portal de Investigación de la Universidad de Oviedo (tesis doctoral 1997).",
+  "Reemplazo/ampliación: la claim de c-4-3 basada en la biografía ORCID (sin instituciones ni fechas) se complementa con las tesis en UNFV (doctorado 2012) y UNI (licenciatura y maestría 1998).",
+  "Reemplazo/ampliación: la claim de c-9-1 basada en ORCID se complementa con las tesis UNI de título y maestría (fechadas 1990 y 1993 en el repositorio; ORCID indica 1985 y 1988).",
+  "UNAC 20.500.12952/9793: 'Alva Dávila, Fortunato' figura en el campo de autor de una tesis de maestría de otra persona (probable asesor); no es un grado del candidato.",
+  "Repositorio UPC: registros de sílabos (Gamarra Chinchay) no son grados académicos; descartados.",
+  "TESIUNAM (UNAM) devolvió HTTP 403 y el repositorio URP presenta desafío anti-bot (BunkerWeb/Cap.js): no se intentó sortearlos, conforme al brief.",
+  "No se consultó SUNEDU ni RENATI (captcha) ni se buscó por DNI; los metadatos renati.*.dni de los repositorios no se copiaron.",
+  "Coincidencias de apellidos con asesores o jurados (p. ej., Rosales Huamaní, Osorio Carrera, Huamán Sánchez como asesores/jurados) no se usaron ni se infiere parentesco.",
+  "CTI Vitae: el buscador de investigadores exige reCAPTCHA y no se intentó sortearlo. Las fichas se localizaron sólo por enlaces públicos (ORCID y portal del VRI-UNI).",
+  "Se descartó y borró sin leer ni usar su contenido una respuesta del endpoint renacyt-backend/actoRegistral/obtenerActosRegistralesActivos: es un servicio interno del RENACYT que devuelve datos personales (documento de identidad, correos) sin autenticación. No es una fuente pública apta; se recomienda avisar a CONCYTEC.",
+  "Montoya (c-3-3) y Lazo (c-5-3): el registro SUNEDU atribuye sus doctorados en Física a la UNI, mientras que su ORCID o su tesis los sitúan en Paris-Sud y la UFG. Se transcriben ambas fuentes sin inferir el motivo (p. ej., reconocimiento o revalidación)."
+ ],
+ "summary": "Grados académicos de los 27 candidatos según el Repositorio UNI (API DSpace), ALICIA-CONCYTEC, los repositorios de la UNAC, la UNFV y la UFG (Brasil), el portal de investigación de la Universidad de Oviedo, INIS-OIEA, ORCID y CTI Vitae (formación con fuente SUNEDU; 8 fichas localizadas por enlaces públicos, porque el buscador exige reCAPTCHA). Doctorados con fuente primaria: 17 (c-1-1, c-1-2, c-2-1 [sólo la mención, según la Res. 035-2026-CEUNI], c-2-2, c-2-3, c-3-3, c-4-2, c-4-3, c-5-3, c-6-2, c-6-3, c-7-2, c-7-3, c-8-1, c-8-3, c-9-1, c-9-3). Con prensa o catálogo bibliográfico: 2 (c-3-1 Heidelberg/DNB; c-4-1 URP/Caretas). Sólo declarados en ORCID: 2 (c-3-2 RUDN; c-8-2 UNAM). Sin fuente: 6 (c-1-3, c-5-1, c-5-2, c-6-1, c-7-1, c-9-2). Se anotan sin calificarlas las discrepancias entre ORCID, los repositorios y SUNEDU (años; institución del doctorado de Montoya, Lazo y Mosquera; doctorado adicional de Rosales en la Universidad de Alcalá)."
+}
