@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="tape" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect width="20" height="40" fill="#FFD400"/><rect x="20" width="20" height="40" fill="#111111"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <rect width="1200" height="44" fill="#111111"/>
+  <text x="60" y="29" font-family="Menlo, monospace" font-size="17" letter-spacing="3" fill="#F4F1EA">PROYECTO CIUDADANO INDEPENDIENTE · NO OFICIAL · CADA DATO CON SU FUENTE</text>
+  <text x="60" y="118" font-family="Menlo, monospace" font-size="22" letter-spacing="2" fill="#58554F">OBSERVATORIO ELECTORAL UNIVERSITARIO · UNI 2026</text>
+  <text x="56" y="240" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="104" fill="#111111">VOTAR A CIEGAS</text>
+  <rect x="56" y="285" width="885" height="62" fill="#FFD400"/>
+  <text x="56" y="350" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="104" fill="#111111">NO ES OPCIÓN.</text>
+  <g font-family="Arial Black, Arial, sans-serif" font-weight="900" fill="#111111">
+    <text x="60" y="490" font-size="88">9</text>
+    <text x="60" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">LISTAS</text>
+    <text x="250" y="490" font-size="88">27</text>
+    <text x="250" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">CANDIDATURAS</text>
+    <text x="520" y="490" font-size="88" fill="#BE1E18">0/9</text>
+    <text x="520" y="525" font-family="Menlo, monospace" font-weight="400" font-size="20" fill="#58554F">PLANES LOCALIZADOS (AÚN)</text>
+  </g>
+  <g transform="translate(960 380)">
+    <rect width="170" height="170" rx="14" fill="#111111"/>
+    <rect x="24" y="24" width="122" height="122" rx="4" fill="#FFD400"/>
+    <circle cx="85" cy="85" r="34" fill="none" stroke="#111111" stroke-width="13"/>
+    <circle cx="85" cy="85" r="12" fill="#111111"/>
+    <path d="M24 85h27M119 85h27M85 24v27M85 119v27" stroke="#111111" stroke-width="13"/>
+  </g>
+  <rect y="600" width="1200" height="30" fill="url(#tape)"/>
+</svg>

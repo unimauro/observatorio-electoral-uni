@@ -1,0 +1,2542 @@
+[
+  {
+    "id": "c-1-1",
+    "slug": "jorge-gustavo-butler-blacker",
+    "listId": "lista-1",
+    "order": 1,
+    "role": "rector",
+    "name": "Jorge Gustavo Butler Blacker",
+    "officialName": "JORGE GUSTAVO BUTLER BLACKER",
+    "nameVariants": [],
+    "facultyId": "FIEE",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5091717686",
+        "displayName": "Jorge Gustavo Butler Blacker",
+        "orcid": null,
+        "worksCount": 4,
+        "citedByCount": 0,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-1-2",
+    "slug": "rocio-margarita-cacho-cruz",
+    "listId": "lista-1",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Rocío Margarita Cacho Cruz",
+    "officialName": "ROCIO MARGARITA CACHO CRUZ",
+    "nameVariants": [],
+    "facultyId": "FAUA",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTORA ACADÉMICA",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5049527202",
+        "displayName": "Rocío Margarita Cacho Cruz",
+        "orcid": null,
+        "worksCount": 5,
+        "citedByCount": 2,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-1-3",
+    "slug": "luis-antonio-lastra-espinoza",
+    "listId": "lista-1",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Luis Antonio Lastra Espinoza",
+    "officialName": "LUIS ANTONIO LASTRA ESPINOZA",
+    "nameVariants": [],
+    "facultyId": "FIM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5086429233",
+        "displayName": "Luis Lastra Espinoza",
+        "orcid": "https://orcid.org/0009-0005-8954-7153",
+        "worksCount": 8,
+        "citedByCount": 21,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-2-1",
+    "slug": "aurelio-marcelo-padilla-rios",
+    "listId": "lista-2",
+    "order": 1,
+    "role": "rector",
+    "name": "Aurelio Marcelo Padilla Ríos",
+    "officialName": "AURELIO MARCELO PADILLA RIOS",
+    "nameVariants": [],
+    "facultyId": "FIM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-2-2",
+    "slug": "javier-concepcion-sanchez-espinoza",
+    "listId": "lista-2",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Javier Concepción Sánchez Espinoza",
+    "officialName": "JAVIER CONCEPCIÓN SANCHEZ ESPINOZA",
+    "nameVariants": [],
+    "facultyId": "FIIS",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5086106798",
+        "displayName": "Javier Concepción Sánchez Espinoza",
+        "orcid": null,
+        "worksCount": 2,
+        "citedByCount": 4,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-2-3",
+    "slug": "cesar-javier-osorio-carrera",
+    "listId": "lista-2",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "César Javier Osorio Carrera",
+    "officialName": "CESAR JAVIER OSORIO CARRERA",
+    "nameVariants": [],
+    "facultyId": "FIQT",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5052985123",
+        "displayName": "César Osorio Carrera",
+        "orcid": "https://orcid.org/0000-0002-2850-6420",
+        "worksCount": 14,
+        "citedByCount": 9,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-3-1",
+    "slug": "luis-humberto-chirif-rivera",
+    "listId": "lista-3",
+    "order": 1,
+    "role": "rector",
+    "name": "Luis Humberto Chirif Rivera",
+    "officialName": "LUIS HUMBERTO CHIRIF RIVERA",
+    "nameVariants": [],
+    "facultyId": "FIGMM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5016175846",
+        "displayName": "Luis Humberto Chirif Rivera",
+        "orcid": null,
+        "worksCount": 25,
+        "citedByCount": 2,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [
+      {
+        "date": "2026-10-15",
+        "field": "nombre",
+        "before": "Luis Humberto Chirich Rivera",
+        "after": "Luis Humberto Chirif Rivera",
+        "reason": "Error de transcripción en la carga inicial. La publicación definitiva del CEUNI y la tabla con facultades consignan \"CHIRIF\".",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas",
+          "src-ceuni-tabla-facultades"
+        ]
+      }
+    ],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-3-2",
+    "slug": "jose-anibal-pauyac-huaman",
+    "listId": "lista-3",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "José Aníbal Páuyac Huamán",
+    "officialName": "JOSÉ ANIBAL PÁUYAC HUAMÁN",
+    "nameVariants": [],
+    "facultyId": "FIEE",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5001434741",
+        "displayName": "José Anibal Pauyak Huaman",
+        "orcid": null,
+        "worksCount": 2,
+        "citedByCount": 1,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-3-3",
+    "slug": "modesto-edilberto-montoya-zavaleta",
+    "listId": "lista-3",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Modesto Edilberto Montoya Zavaleta",
+    "officialName": "MODESTO EDILBERTO MONTOYA ZAVALETA",
+    "nameVariants": [],
+    "facultyId": "FC",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5088904355",
+        "displayName": "M. Montoya",
+        "orcid": "https://orcid.org/0000-0002-3376-1872",
+        "worksCount": 160,
+        "citedByCount": 363,
+        "status": "pendiente",
+        "note": "El perfil registra el nombre completo entre sus variantes, pero el nombre visible es abreviado (\"M. Montoya\"); confirmar con ORCID.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-4-1",
+    "slug": "ulises-humala-tasso",
+    "listId": "lista-4",
+    "order": 1,
+    "role": "rector",
+    "name": "Ulises Humala Tasso",
+    "officialName": "ULISES HUMALA TASSO",
+    "nameVariants": [],
+    "facultyId": "FIEECS",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5007822724",
+        "displayName": "Ulises Humala Tasso",
+        "orcid": null,
+        "worksCount": 8,
+        "citedByCount": 10,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [
+      {
+        "date": "2026-10-15",
+        "field": "facultad",
+        "before": "FIECS",
+        "after": "FIEECS",
+        "reason": "La tabla del CEUNI usa la sigla \"FIEECS\" (Facultad de Ingeniería Económica, Estadística y Ciencias Sociales).",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ]
+      }
+    ],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-4-2",
+    "slug": "felix-victor-caceres-cardenas",
+    "listId": "lista-4",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Félix Víctor Cáceres Cárdenas",
+    "officialName": "FÉLIX VICTOR CÁCERES CÁRDENAS",
+    "nameVariants": [],
+    "facultyId": "FIEE",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5072548031",
+        "displayName": "Felix V. Caceres Cardenas",
+        "orcid": null,
+        "worksCount": 4,
+        "citedByCount": 11,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-4-3",
+    "slug": "fernando-huaman-perez",
+    "listId": "lista-4",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Fernando Huamán Pérez",
+    "officialName": "FERNANDO HUAMÁN PEREZ",
+    "nameVariants": [],
+    "facultyId": "FIQT",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5024063526",
+        "displayName": "Fernando Huamán Pérez",
+        "orcid": "https://orcid.org/0000-0002-4299-8492",
+        "worksCount": 6,
+        "citedByCount": 3,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      },
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5044162755",
+        "displayName": "Fernando Huamán-Pérez",
+        "orcid": "https://orcid.org/0000-0002-4299-8492",
+        "worksCount": 3,
+        "citedByCount": 1,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-5-1",
+    "slug": "alejandro-apolinario-huaman-sanchez",
+    "listId": "lista-5",
+    "order": 1,
+    "role": "rector",
+    "name": "Alejandro Apolinario Huamán Sánchez",
+    "officialName": "ALEJANDRO APOLINARIO HUAMAN SANCHEZ",
+    "nameVariants": [],
+    "facultyId": "FIIS",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5017495138",
+        "displayName": "Alejandro Huamán Sánchez",
+        "orcid": null,
+        "worksCount": 1,
+        "citedByCount": 1,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-5-2",
+    "slug": "hugo-eliseo-gamarra-chinchay",
+    "listId": "lista-5",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Hugo Eliseo Gamarra Chinchay",
+    "officialName": "HUGO ELISEO GAMARRA CHINCHAY",
+    "nameVariants": [],
+    "facultyId": "FIM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5051339083",
+        "displayName": "Hugo Eliseo Gamarra Chinchay",
+        "orcid": "https://orcid.org/0000-0003-2040-0055",
+        "worksCount": 10,
+        "citedByCount": 9,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-5-3",
+    "slug": "antonio-nolberto-lazo-jara",
+    "listId": "lista-5",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Antonio Nolberto Lazo Jara",
+    "officialName": "ANTONIO NOLBERTO LAZO JARA",
+    "nameVariants": [],
+    "facultyId": "FIGMM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5072874999",
+        "displayName": "Antonio Nolberto Lazo Jara",
+        "orcid": null,
+        "worksCount": 2,
+        "citedByCount": 28,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-6-1",
+    "slug": "fortunato-alva-davila",
+    "listId": "lista-6",
+    "order": 1,
+    "role": "rector",
+    "name": "Fortunato Alva Dávila",
+    "officialName": "FORTUNATO ALVA DÁVILA",
+    "nameVariants": [],
+    "facultyId": "FIM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5068079891",
+        "displayName": "Fortunato Alva Dávila",
+        "orcid": null,
+        "worksCount": 1,
+        "citedByCount": 0,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-6-2",
+    "slug": "modesto-tomas-palma-garcia",
+    "listId": "lista-6",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Modesto Tomás Palma García",
+    "officialName": "MODESTO TOMAS PALMA GARCÍA",
+    "nameVariants": [],
+    "facultyId": "FIEE",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5024932294",
+        "displayName": "Modesto T. Palma Garcia",
+        "orcid": null,
+        "worksCount": 3,
+        "citedByCount": 5,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-6-3",
+    "slug": "hector-carlos-guimaray-huerta",
+    "listId": "lista-6",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Héctor Carlos Guimaray Huerta",
+    "officialName": "HÉCTOR CARLOS GUIMARAY HUERTA",
+    "nameVariants": [],
+    "facultyId": "FC",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5103744816",
+        "displayName": "Héctor Carlos Guimaray Huerta",
+        "orcid": null,
+        "worksCount": 2,
+        "citedByCount": 1,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-7-1",
+    "slug": "rodolfo-elias-falconi-vasquez",
+    "listId": "lista-7",
+    "order": 1,
+    "role": "rector",
+    "name": "Rodolfo Elías Falconí Vásquez",
+    "officialName": "RODOLFO ELÍAS FALCONÍ VASQUEZ",
+    "nameVariants": [],
+    "facultyId": "FIIS",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5014842209",
+        "displayName": "Rodolfo Falconí Vasquez",
+        "orcid": null,
+        "worksCount": 3,
+        "citedByCount": 2,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-7-2",
+    "slug": "luis-alberto-mosquera-leiva",
+    "listId": "lista-7",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Luis Alberto Mosquera Leiva",
+    "officialName": "LUIS ALBERTO MOSQUERA LEIVA",
+    "nameVariants": [],
+    "facultyId": "FIC",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5075893956",
+        "displayName": "Luis Mosquera",
+        "orcid": "https://orcid.org/0000-0003-0798-8392",
+        "worksCount": 38,
+        "citedByCount": 141,
+        "status": "pendiente",
+        "note": "Nombre visible abreviado (\"Luis Mosquera\"); confirmar con ORCID antes de atribuir.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-7-3",
+    "slug": "manuel-augusto-villavicencio-chavez",
+    "listId": "lista-7",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Manuel Augusto Villavicencio Chávez",
+    "officialName": "MANUEL AUGUSTO VILLAVICENCIO CHAVEZ",
+    "nameVariants": [],
+    "facultyId": "FIM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5015925367",
+        "displayName": "Manuel Augusto Villavicencio Chávez",
+        "orcid": null,
+        "worksCount": 4,
+        "citedByCount": 1,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-8-1",
+    "slug": "juan-martin-rodriguez-rodriguez",
+    "listId": "lista-8",
+    "order": 1,
+    "role": "rector",
+    "name": "Juan Martín Rodríguez Rodríguez",
+    "officialName": "JUAN MARTIN RODRÍGUEZ RODRÍGUEZ",
+    "nameVariants": [],
+    "facultyId": "FC",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5100639200",
+        "displayName": "Juan Jose Rodriguez",
+        "orcid": "https://orcid.org/0000-0002-3497-9929",
+        "worksCount": 404,
+        "citedByCount": 23250,
+        "status": "descartado",
+        "note": "El perfil devuelto (\"Juan Jose Rodriguez\") tiene otro segundo nombre y cientos de trabajos: muy probablemente agrupa homónimos. Descartado como pista hasta revisión.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-8-2",
+    "slug": "rafael-rolando-salinas-basualdo",
+    "listId": "lista-8",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Rafael Rolando Salinas Basualdo",
+    "officialName": "RAFAEL ROLANDO SALINAS BASUALDO",
+    "nameVariants": [],
+    "facultyId": "FIC",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5001034452",
+        "displayName": "Rafael Salinas-Basualdo",
+        "orcid": "https://orcid.org/0000-0001-5365-1518",
+        "worksCount": 1,
+        "citedByCount": 0,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-8-3",
+    "slug": "jimmy-aurelio-rosales-huamani",
+    "listId": "lista-8",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Jimmy Aurelio Rosales Huamaní",
+    "officialName": "JIMMY AURELIO ROSALES HUAMANI",
+    "nameVariants": [],
+    "facultyId": "FIGMM",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5025491879",
+        "displayName": "Jimmy Aurelio Rosales-Huamaní",
+        "orcid": "https://orcid.org/0000-0002-3737-8694",
+        "worksCount": 49,
+        "citedByCount": 217,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      },
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5128043214",
+        "displayName": "Jimmy Aurelio Rosales Huamani",
+        "orcid": "https://orcid.org/0000-0002-3737-8694",
+        "worksCount": 8,
+        "citedByCount": 3,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      },
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5137060211",
+        "displayName": "Huamani Jimmy Rosales",
+        "orcid": null,
+        "worksCount": 1,
+        "citedByCount": 1,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-9-1",
+    "slug": "raymundo-ildefonzo-arnao-rondan",
+    "listId": "lista-9",
+    "order": 1,
+    "role": "rector",
+    "name": "Raymundo Ildefonzo Arnao Rondán",
+    "officialName": "RAYMUNDO ILDEFONZO ARNAO RONDAN",
+    "nameVariants": [
+      "RAYMUNDO ARNAO RONDAN ILDEFONZO"
+    ],
+    "facultyId": "FIEECS",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "RECTOR",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "pendiente_revision",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5002298959",
+        "displayName": "Raymundo Arnao Rondán",
+        "orcid": null,
+        "worksCount": 7,
+        "citedByCount": 3,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [
+      {
+        "date": "2026-10-15",
+        "field": "nombre",
+        "before": "Raymundo Arnao Rondán Ildefonzo",
+        "after": "Raymundo Ildefonzo Arnao Rondán",
+        "reason": "Los documentos del CEUNI difieren en el orden: la publicación definitiva (30-09-2026) dice \"RAYMUNDO ILDEFONZO ARNAO RONDAN\" y la tabla con facultades dice \"RAYMUNDO ARNAO RONDAN ILDEFONZO\". Se muestra el orden de la publicación definitiva. Requiere revisión editorial.",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas",
+          "src-ceuni-tabla-facultades"
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "field": "facultad",
+        "before": "FIECS",
+        "after": "FIEECS",
+        "reason": "La tabla del CEUNI usa la sigla \"FIEECS\".",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ]
+      }
+    ],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-9-2",
+    "slug": "agustin-adalberto-gutierrez-paucar",
+    "listId": "lista-9",
+    "order": 2,
+    "role": "vicerrector_academico",
+    "name": "Agustín Adalberto Gutiérrez Paucar",
+    "officialName": "AGUSTIN ADALBERTO GUTIERREZ PAUCAR",
+    "nameVariants": [],
+    "facultyId": "FIEE",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR ACADÉMICO",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  },
+  {
+    "id": "c-9-3",
+    "slug": "abel-fernando-vergara-sotomayor",
+    "listId": "lista-9",
+    "order": 3,
+    "role": "vicerrector_investigacion",
+    "name": "Abel Fernando Vergara Sotomayor",
+    "officialName": "ABEL FERNANDO VERGARA SOTOMAYOR",
+    "nameVariants": [],
+    "facultyId": "FIQT",
+    "photo": null,
+    "verification": {
+      "role": {
+        "status": "verificado_primaria",
+        "officialText": "VICERRECTOR INVESTIGACIÓN",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ],
+        "note": "El orden en la lista coincide con el cargo publicado por el CEUNI."
+      },
+      "name": {
+        "status": "verificado_primaria",
+        "sourceIds": [
+          "src-ceuni-listas-definitivas"
+        ]
+      },
+      "faculty": {
+        "status": "parcialmente_verificado",
+        "sourceIds": [
+          "src-ceuni-tabla-facultades"
+        ],
+        "note": "Tomada de la tabla del CEUNI con columna FACULTAD (copia provista); el enlace original requiere inicio de sesión."
+      }
+    },
+    "summary": null,
+    "claims": {
+      "formacion": [
+        {
+          "text": "Grado académico de doctor obtenido con estudios presenciales: requisito para postular (Art. 17 c del Reglamento General de Elecciones). Su inscripción figura en la publicación definitiva. Especialidad e institución no publicadas.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho_inferido"
+        }
+      ],
+      "docencia": [
+        {
+          "text": "Docente ordinario principal con no menos de cinco años en la categoría: requisito declarado bajo declaración jurada (Art. 17 d1). Su inscripción figura en la publicación definitiva.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-reglamento-elecciones",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "declaracion"
+        }
+      ],
+      "investigacion": [],
+      "gestion": [],
+      "proyectos": [],
+      "propuestas": [],
+      "declaraciones": []
+    },
+    "researchLeads": [
+      {
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5008629701",
+        "displayName": "Abel Vergara Sotomayor",
+        "orcid": "https://orcid.org/0000-0003-0964-4489",
+        "worksCount": 9,
+        "citedByCount": 21,
+        "status": "pendiente",
+        "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
+        "consultedAt": "2026-10-15"
+      }
+    ],
+    "pendingSources": [
+      "Ficha CTI Vitae / RENACYT (CONCYTEC)",
+      "Perfil ORCID (si existe) y su vínculo explícito con la UNI",
+      "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
+      "Hoja de vida o plan de trabajo difundido por la lista",
+      "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
+      "Portal de transparencia UNI: cargos de gestión desempeñados"
+    ],
+    "corrections": [],
+    "meta": {
+      "importedFrom": "Tabla de carga inicial (imagen CEUNI con facultades) contrastada con la publicación definitiva del CEUNI",
+      "importedAt": "2026-10-15",
+      "lastReviewed": "2026-10-15"
+    }
+  }
+]

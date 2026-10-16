@@ -1,0 +1,263 @@
+[
+  {
+    "id": "r-1",
+    "role": "rector",
+    "name": "Experiencia en dirección universitaria",
+    "description": "Cargos de alta dirección universitaria ejercidos (rectorado, vicerrectorado, decanato, dirección de escuela).",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Resoluciones de designación o elección"
+  },
+  {
+    "id": "r-2",
+    "role": "rector",
+    "name": "Formación académica",
+    "description": "Grados obtenidos, especialidad e institución.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Registro SUNEDU o diplomas"
+  },
+  {
+    "id": "r-3",
+    "role": "rector",
+    "name": "Experiencia de gestión",
+    "description": "Gestión de equipos, presupuestos o unidades institucionales.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Resoluciones, informes de gestión"
+  },
+  {
+    "id": "r-4",
+    "role": "rector",
+    "name": "Proyectos institucionales documentados",
+    "description": "Proyectos de mejora institucional liderados y sus resultados.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Informes, convenios, actas"
+  },
+  {
+    "id": "r-5",
+    "role": "rector",
+    "name": "Producción científica relevante",
+    "description": "Producción revisada por pares atribuida con identificador verificable. No se reduce a un conteo.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "ORCID, CTI Vitae, DOI"
+  },
+  {
+    "id": "r-6",
+    "role": "rector",
+    "name": "Plan de gobierno",
+    "description": "Existencia y estructura de un plan público.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Documento publicado por la lista"
+  },
+  {
+    "id": "r-7",
+    "role": "rector",
+    "name": "Viabilidad de las propuestas",
+    "description": "Coherencia entre propuestas, recursos y plazos.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno, presupuesto institucional"
+  },
+  {
+    "id": "r-8",
+    "role": "rector",
+    "name": "Indicadores y metas",
+    "description": "Propuestas con indicador, línea base y meta.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "r-9",
+    "role": "rector",
+    "name": "Transparencia presupuestaria",
+    "description": "Compromisos verificables de publicación del gasto.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "r-10",
+    "role": "rector",
+    "name": "Mecanismos de rendición de cuentas",
+    "description": "Mecanismos concretos de reporte y control.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "va-1",
+    "role": "vicerrector_academico",
+    "name": "Experiencia docente",
+    "description": "Trayectoria docente documentada.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Resoluciones, CTI Vitae"
+  },
+  {
+    "id": "va-2",
+    "role": "vicerrector_academico",
+    "name": "Gestión académica",
+    "description": "Cargos de gestión académica ejercidos.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Resoluciones"
+  },
+  {
+    "id": "va-3",
+    "role": "vicerrector_academico",
+    "name": "Innovación curricular",
+    "description": "Participación en rediseños curriculares.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Actas, resoluciones"
+  },
+  {
+    "id": "va-4",
+    "role": "vicerrector_academico",
+    "name": "Calidad educativa",
+    "description": "Propuestas o experiencia en aseguramiento de la calidad.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan, informes"
+  },
+  {
+    "id": "va-5",
+    "role": "vicerrector_academico",
+    "name": "Acreditación",
+    "description": "Experiencia en procesos de acreditación.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Informes, resoluciones"
+  },
+  {
+    "id": "va-6",
+    "role": "vicerrector_academico",
+    "name": "Formación y evaluación docente",
+    "description": "Propuestas de desarrollo y evaluación docente.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "va-7",
+    "role": "vicerrector_academico",
+    "name": "Bienestar y trayectoria estudiantil",
+    "description": "Propuestas sobre retención, tutoría y bienestar.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "va-8",
+    "role": "vicerrector_academico",
+    "name": "Indicadores de resultados académicos",
+    "description": "Metas medibles de resultados académicos.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "va-9",
+    "role": "vicerrector_academico",
+    "name": "Propuestas vinculadas al cargo",
+    "description": "Pertinencia de las propuestas a las funciones del Vicerrectorado Académico.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "vi-1",
+    "role": "vicerrector_investigacion",
+    "name": "Trayectoria investigadora documentada",
+    "description": "Investigación atribuida con identificadores verificables. No se reduce al número de publicaciones.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "ORCID, CTI Vitae, DOI"
+  },
+  {
+    "id": "vi-2",
+    "role": "vicerrector_investigacion",
+    "name": "Gestión de la investigación",
+    "description": "Cargos de gestión de I+D ejercidos.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Resoluciones"
+  },
+  {
+    "id": "vi-3",
+    "role": "vicerrector_investigacion",
+    "name": "Proyectos científicos",
+    "description": "Proyectos ejecutados como investigador principal o co-investigador.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Fondos, convenios"
+  },
+  {
+    "id": "vi-4",
+    "role": "vicerrector_investigacion",
+    "name": "Formación de investigadores",
+    "description": "Tesis asesoradas, grupos formados.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "RENATI, ALICIA"
+  },
+  {
+    "id": "vi-5",
+    "role": "vicerrector_investigacion",
+    "name": "Financiamiento de investigación",
+    "description": "Fondos concursables obtenidos o gestionados.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "PROCIENCIA, convenios"
+  },
+  {
+    "id": "vi-6",
+    "role": "vicerrector_investigacion",
+    "name": "Laboratorios e infraestructura científica",
+    "description": "Propuestas o experiencia en infraestructura de I+D.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan, informes"
+  },
+  {
+    "id": "vi-7",
+    "role": "vicerrector_investigacion",
+    "name": "Innovación y transferencia tecnológica",
+    "description": "Patentes, licencias, spin-offs, convenios con empresas.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "INDECOPI, convenios"
+  },
+  {
+    "id": "vi-8",
+    "role": "vicerrector_investigacion",
+    "name": "Colaboración internacional",
+    "description": "Redes y coautorías internacionales verificables.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Publicaciones, convenios"
+  },
+  {
+    "id": "vi-9",
+    "role": "vicerrector_investigacion",
+    "name": "Indicadores y metas de investigación",
+    "description": "Metas medibles en I+D.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  },
+  {
+    "id": "vi-10",
+    "role": "vicerrector_investigacion",
+    "name": "Integridad científica",
+    "description": "Compromisos o políticas de integridad científica.",
+    "weight": 1,
+    "scale": "0-5",
+    "evidenceRequired": "Plan de gobierno"
+  }
+]

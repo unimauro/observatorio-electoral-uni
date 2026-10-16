@@ -1,0 +1,36 @@
+name: Corrección o aporte de fuente
+description: Señala un dato incorrecto, un dato personal que no debería publicarse, o aporta un plan de gobierno o fuente pública.
+title: "[Corrección] "
+labels: [correccion]
+body:
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo
+      options:
+        - Dato incorrecto
+        - Dato personal que debe retirarse
+        - Aporte de plan de gobierno
+        - Aporte de fuente pública
+    validations:
+      required: true
+  - type: input
+    id: pagina
+    attributes:
+      label: Página o candidatura afectada
+      placeholder: "#/candidatos/... o Lista N"
+    validations:
+      required: true
+  - type: textarea
+    id: detalle
+    attributes:
+      label: ¿Qué debe cambiar?
+    validations:
+      required: true
+  - type: input
+    id: fuente
+    attributes:
+      label: Enlace a la fuente pública que lo respalda
+  - type: markdown
+    attributes:
+      value: "No incluyas DNI, teléfonos, domicilios ni otros datos personales en esta solicitud: es pública."

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Observatorio Electoral Universitario · UNI 2026</title>
+    <meta name="description" content="9 listas, 27 candidaturas a rector y vicerrectores de la UNI. Cada dato con su fuente. Lo que no está verificado, se dice. Proyecto ciudadano independiente." />
+    <meta name="theme-color" content="#111111" />
+    <link rel="icon" href="%BASE_URL%favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="%BASE_URL%favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="%BASE_URL%apple-touch-icon.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_PE" />
+    <meta property="og:site_name" content="Observatorio Electoral Universitario" />
+    <meta property="og:title" content="Votar a ciegas no es opción · Observatorio Electoral UNI 2026" />
+    <meta property="og:description" content="9 listas, 27 candidaturas a rector y vicerrectores. Cada dato con su fuente; lo que falta, a la vista. Independiente y no oficial." />
+    <meta property="og:url" content="https://unimauro.github.io/observatorio-electoral-uni/" />
+    <meta property="og:image" content="https://unimauro.github.io/observatorio-electoral-uni/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Votar a ciegas no es opción. Observatorio Electoral Universitario UNI 2026: 9 listas, 27 candidaturas." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Votar a ciegas no es opción · Observatorio Electoral UNI 2026" />
+    <meta name="twitter:description" content="9 listas, 27 candidaturas. Cada dato con su fuente; lo que falta, a la vista." />
+    <meta name="twitter:image" content="https://unimauro.github.io/observatorio-electoral-uni/og.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script>
+      try {
+        var t = localStorage.getItem('oeu-theme')
+        if (t === 'dark' || (!t && matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark')
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <noscript>Este observatorio necesita JavaScript. Los datos están disponibles en el repositorio como archivos JSON.</noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

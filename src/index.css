@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: 244 241 234;
+  --card: 251 250 246;
+  --ink: 17 17 17;
+  --muted: 88 85 79;
+  --line: 214 208 195;
+  --signal: 255 212 0;
+  --alert: 190 30 24;
+  --role-1: #2b59c3;
+  --role-2: #c77700;
+  --role-3: #14866d;
+  --chart-ink: #2a2825;
+  --chart-grid: #e2ddd1;
+  color-scheme: light;
+}
+.dark {
+  --paper: 17 17 16;
+  --card: 26 25 23;
+  --ink: 244 241 234;
+  --muted: 168 163 151;
+  --line: 51 49 44;
+  --signal: 255 212 0;
+  --alert: 255 110 100;
+  --role-1: #5a82e0;
+  --role-2: #b87d14;
+  --role-3: #2aa683;
+  --chart-ink: #d9d4c7;
+  --chart-grid: #33312c;
+  color-scheme: dark;
+}
+
+html { -webkit-text-size-adjust: 100%; }
+body {
+  @apply bg-paper text-ink font-sans antialiased;
+  font-feature-settings: 'tnum' 1;
+}
+:focus-visible { outline: 3px solid rgb(var(--signal)); outline-offset: 2px; box-shadow: 0 0 0 5px rgb(var(--ink)); }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+
+@layer components {
+  .card { @apply rounded-md border border-line bg-card; }
+  .kicker { @apply font-mono text-[11px] uppercase tracking-[0.14em] text-muted; }
+  .h-display { @apply font-display uppercase leading-[0.95] tracking-tight; }
+  .mark { background: linear-gradient(transparent 55%, rgb(var(--signal)) 55%); color: rgb(17 17 17); padding: 0 .1em; }
+  .dark .mark { color: rgb(17 17 17); }
+  .btn { @apply inline-flex items-center gap-1.5 rounded border-2 border-ink px-3 py-1.5 text-sm font-semibold transition-colors hover:bg-ink hover:text-paper; }
+  .btn-solid { @apply inline-flex items-center gap-1.5 rounded border-2 border-ink bg-ink px-3 py-1.5 text-sm font-semibold text-paper transition-colors hover:bg-signal hover:text-[#111]; }
+  .input { @apply w-full rounded border border-line bg-card px-3 py-2 text-sm placeholder:text-muted focus:border-ink; }
+  .link { @apply underline decoration-2 underline-offset-2 hover:decoration-signal; }
+  .chip { @apply inline-flex items-center rounded-full border border-line px-2.5 py-0.5 text-xs; }
+  .tape { background: repeating-linear-gradient(-45deg, rgb(var(--signal)) 0 14px, rgb(17 17 17) 14px 28px); }
+}

@@ -1,0 +1,11 @@
+[
+  { "id": "FAUA", "name": "Facultad de Arquitectura, Urbanismo y Artes", "area": "Arquitectura y artes", "nameStatus": "pendiente_revision" },
+  { "id": "FC", "name": "Facultad de Ciencias", "area": "Ciencias básicas", "nameStatus": "pendiente_revision" },
+  { "id": "FIC", "name": "Facultad de Ingeniería Civil", "area": "Ingeniería civil y construcción", "nameStatus": "pendiente_revision" },
+  { "id": "FIEE", "name": "Facultad de Ingeniería Eléctrica y Electrónica", "area": "Ingeniería eléctrica, electrónica y telecomunicaciones", "nameStatus": "pendiente_revision" },
+  { "id": "FIEECS", "name": "Facultad de Ingeniería Económica, Estadística y Ciencias Sociales", "area": "Economía, estadística y ciencias sociales", "nameStatus": "pendiente_revision" },
+  { "id": "FIGMM", "name": "Facultad de Ingeniería Geológica, Minera y Metalúrgica", "area": "Geología, minería y metalurgia", "nameStatus": "pendiente_revision" },
+  { "id": "FIIS", "name": "Facultad de Ingeniería Industrial y de Sistemas", "area": "Ingeniería industrial y de sistemas", "nameStatus": "pendiente_revision" },
+  { "id": "FIM", "name": "Facultad de Ingeniería Mecánica", "area": "Ingeniería mecánica y energía", "nameStatus": "pendiente_revision" },
+  { "id": "FIQT", "name": "Facultad de Ingeniería Química y Textil", "area": "Ingeniería química y textil", "nameStatus": "pendiente_revision" }
+]
