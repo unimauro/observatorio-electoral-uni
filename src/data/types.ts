@@ -270,6 +270,10 @@ export interface Proposal {
   sourceId: string
   locator: string | null
   status: VerificationStatus
+  /** Cita textual breve (transcripción del debate). */
+  quote?: string | null
+  /** Marca de tiempo hh:mm:ss en el video fuente. */
+  t?: string | null
 }
 
 export interface Criterion {

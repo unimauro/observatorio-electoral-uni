@@ -1,0 +1,147 @@
+{
+  "agent": "afiliacion",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "id": "src-jne-rop-consulta-afiliacion",
+      "title": "Consulta de Afiliación | Historial de Afiliación – Sistema de Acceso Público al ROP",
+      "author": "Jurado Nacional de Elecciones – DNROP",
+      "url": "https://sroppublico.jne.gob.pe/Consulta/Afiliado",
+      "landingUrl": "https://sroppublico.jne.gob.pe/",
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": null,
+      "locator": "'Ingrese el DNI del ciudadano para conocer su historial como integrante de un partido político.' Campos: DNI, CaptchaAnswer, CaptchaToken (endpoint /Consulta/Afiliado/GetById)",
+      "status": "no_encontrado",
+      "candidateIds": [],
+      "notes": "Fuente descriptiva del mecanismo de consulta; no sustenta claims. Padrón de Afiliados (/Consulta/PadronAfiliado) y Desafiliados (/Consulta/Desafiliado) también exigen captcha."
+    }
+  ],
+  "claims": [],
+  "proposals": [],
+  "leads": [],
+  "pending": [
+    {
+      "candidateId": "c-1-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-1-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-1-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-2-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-2-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-2-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-3-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-3-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-3-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-4-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-4-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-4-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-5-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-5-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-5-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-6-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-6-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-6-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-7-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-7-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-7-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-8-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-8-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-8-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-9-1",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-9-2",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-9-3",
+      "text": "Afiliación ROP no consultada: la consulta pública 'Consulta de Afiliación' (https://sroppublico.jne.gob.pe/Consulta/Afiliado) sólo busca por DNI y exige captcha. No se buscó DNI ni se sorteó el captcha. Requiere consulta manual por el editor o solicitud de acceso a la información al JNE."
+    },
+    {
+      "candidateId": "c-4-1",
+      "text": "Edad: fue candidato presidencial en las Elecciones Generales 2006 (Avanza País, según estadística electoral del JNE: https://portal.jne.gob.pe/portal_documentos/files/informacionelectoral/estadisticaelectoral/1_1.pdf, no abierto aún para verificar). Su ficha en Infogob/Plataforma Electoral no se pudo ubicar: los buscadores de Infogob (https://infogob.jne.gob.pe/Politico) y Plataforma Electoral/Voto Informado usan reCAPTCHA y la búsqueda web no indexa su ficha. Revisar manualmente si la ficha publica fecha de nacimiento; registrar sólo año y edad."
+    },
+    {
+      "candidateId": "",
+      "text": "Edad de los otros 26 candidatos: no se identificó por búsqueda web ninguna ficha en Infogob/Voto Informado; la búsqueda nominal en esos portales está tras reCAPTCHA. Verificación manual pendiente."
+    }
+  ],
+  "siteUpdates": {},
+  "rejected": [
+    "No se usaron búsquedas por DNI ni se sorteó ningún captcha (ROP, Infogob, Plataforma Electoral/Voto Informado), conforme a la instrucción de la tarea.",
+    "Resultados web sobre la familia Humala (Wikipedia, CIDOB) descartados: no son fuente oficial y contienen datos familiares/políticos fuera de alcance."
+  ],
+  "summary": "Tarea A detenida: la Consulta de Afiliación del ROP (sroppublico.jne.gob.pe/Consulta/Afiliado) sólo permite búsqueda por DNI y exige captcha; el Padrón de Afiliados y la consulta de Desafiliados también exigen captcha. No se buscó DNI ni se sorteó captcha, por lo que no hay claims de afiliación (0 con afiliación registrada, 0 sin afiliación; 27 pendientes). Tarea B: Infogob y Plataforma Electoral/Voto Informado usan reCAPTCHA en su buscador y la búsqueda web no devolvió ficha indexada de ninguno de los 27; edad oficial registrada para 0. Pista para Ulises Humala Tasso (candidato presidencial 2006 por Avanza País según estadística del JNE) en pending."
+}

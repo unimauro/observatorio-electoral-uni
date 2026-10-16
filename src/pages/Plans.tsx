@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { candidateById, listProposals, lists, personalProposals, plans, proposals, site, sourceById } from '../data'
 import { ORIGIN_LABEL, PROPOSAL_CATEGORIES, type Proposal } from '../data/types'
 import { EmptyState, PageHeader, Section, StatusBadge } from '../components/ui'
+import { DebateQuotes, RadarCompare, RadarGrid } from '../components/ProposalRadar'
 
 const FIELDS: [keyof Proposal, string][] = [
   ['problem', 'Problema'],
@@ -27,6 +28,18 @@ export default function Plans() {
         Registramos propuestas de planes de gobierno publicados y, mientras no aparezcan, las expuestas por los candidatos en el debate según la prensa,
         rotuladas como tales. Si la fuente no especifica meta, plazo, presupuesto o responsable, lo decimos: <strong>no lo completamos</strong>.
       </PageHeader>
+
+      <Section title="De qué habla cada lista">
+        <RadarGrid />
+      </Section>
+
+      <Section title="Compara hasta 3 listas">
+        <RadarCompare />
+      </Section>
+
+      <Section title="En sus palabras (debate)">
+        <DebateQuotes />
+      </Section>
 
       <Section title="Estado de los planes">
         <div className="overflow-x-auto">
@@ -129,6 +142,7 @@ export default function Plans() {
               )}
               <h3 className="mt-1 font-semibold">{p.title}</h3>
               <p className="mt-1">{p.description}</p>
+              {p.quote && <blockquote className="mt-2 border-l-4 border-signal pl-3 italic">“{p.quote}”{p.t && <span className="not-italic text-xs text-muted"> · {p.t}</span>}</blockquote>}
               <dl className="mt-3 grid gap-x-4 gap-y-1 sm:grid-cols-3">
                 {FIELDS.map(([k, label]) => (
                   <div key={k}>
