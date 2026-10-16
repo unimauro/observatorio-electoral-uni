@@ -1,0 +1,669 @@
+{
+  "agent": "tesis",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "id": "src-repouni-asesor-c-1-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Butler Blacker, Jorge Gustavo",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Butler%20Blacker%2C%20Jorge%20Gustavo",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Butler%20Blacker%2C%20Jorge%20Gustavo",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Butler Blacker, Jorge Gustavo': 2 registros (2021–2021); 2 tesis (1 de título profesional, 1 de maestría). Programas más frecuentes: Maestro en Ciencias con Mención en Telemática, Ingeniero de Telecomunicaciones. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-1-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Cacho Cruz, Rocío Margarita",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Cacho%20Cruz%2C%20Roc%C3%ADo%20Margarita",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Cacho%20Cruz%2C%20Roc%C3%ADo%20Margarita",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Cacho Cruz, Rocío Margarita': 3 registros (2003–2003); 0 tesis (0) y 3 informes/trabajos de suficiencia profesional. Programas más frecuentes: Arquitecto. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-1-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Lastra Espinoza, Luis Antonio",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Lastra%20Espinoza%2C%20Luis%20Antonio",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Lastra%20Espinoza%2C%20Luis%20Antonio",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Lastra Espinoza, Luis Antonio': 54 registros (1990–2018); 29 tesis (20 de título profesional, 9 de maestría) y 25 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Mecánico, Ingeniero Mecánico Electricista. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-2-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Padilla Ríos, Aurelio Marcelo",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Padilla%20R%C3%ADos%2C%20Aurelio%20Marcelo",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Padilla%20R%C3%ADos%2C%20Aurelio%20Marcelo",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Padilla Ríos, Aurelio Marcelo': 79 registros (1986–2025); 42 tesis (32 de título profesional, 10 de maestría) y 37 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Mecánico, Ingeniero Mecánico Electricista. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-2-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Sánchez Espinoza, Javier Concepción",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=S%C3%A1nchez%20Espinoza%2C%20Javier%20Concepci%C3%B3n",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=S%C3%A1nchez%20Espinoza%2C%20Javier%20Concepci%C3%B3n",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Sánchez Espinoza, Javier Concepción': 63 registros (1997–2025); 18 tesis (16 de título profesional, 2 de maestría) y 45 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero de Sistemas, Ingeniero Industrial. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-2-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Osorio Carrera, César Javier",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Osorio%20Carrera%2C%20C%C3%A9sar%20Javier",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Osorio%20Carrera%2C%20C%C3%A9sar%20Javier",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Osorio Carrera, César Javier': 46 registros (2003–2024); 25 tesis (23 de título profesional, 2 de maestría) y 21 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Químico, Ingeniero Textil. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-3-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Chirif Rivera, Luis Humberto",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Chirif%20Rivera%2C%20Luis%20Humberto",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Chirif%20Rivera%2C%20Luis%20Humberto",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Chirif Rivera, Luis Humberto': 25 registros (1999–2025); 16 tesis (15 de título profesional, 1 de maestría) y 9 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Geólogo, Maestro en Ciencias con Mención en Geología. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-3-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Montoya Zavaleta, Modesto Edilberto",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Montoya%20Zavaleta%2C%20Modesto%20Edilberto",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Montoya%20Zavaleta%2C%20Modesto%20Edilberto",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Montoya Zavaleta, Modesto Edilberto': 28 registros (1992–2024); 28 tesis (8 de título profesional, 20 de maestría). Programas más frecuentes: Maestro en Ciencias con Mención en Física Médica, Licenciado en Física. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-4-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Humala Tasso, Ulises",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Humala%20Tasso%2C%20Ulises",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Humala%20Tasso%2C%20Ulises",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Humala Tasso, Ulises': 26 registros (1998–2014); 9 tesis (2 de título profesional, 7 de maestría) y 17 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Economista, Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-4-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-4-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Cáceres Cárdenas, Félix Víctor",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=C%C3%A1ceres%20C%C3%A1rdenas%2C%20F%C3%A9lix%20V%C3%ADctor",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=C%C3%A1ceres%20C%C3%A1rdenas%2C%20F%C3%A9lix%20V%C3%ADctor",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Cáceres Cárdenas, Félix Víctor': 26 registros (1991–2025); 10 tesis (7 de título profesional, 3 de maestría) y 16 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Electricista, Maestro en Ciencias con Mención en Sistemas de Potencia. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-4-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-5-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Gamarra Chinchay, Hugo Eliseo",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Gamarra%20Chinchay%2C%20Hugo%20Eliseo",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Gamarra%20Chinchay%2C%20Hugo%20Eliseo",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Gamarra Chinchay, Hugo Eliseo': 10 registros (2009–2023); 6 tesis (5 de título profesional, 1 de maestría) y 4 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Mecánico, Ingeniero Mecánico Electricista. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-5-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Lazo Jara, Antonio Nolberto",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Lazo%20Jara%2C%20Antonio%20Nolberto",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Lazo%20Jara%2C%20Antonio%20Nolberto",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Lazo Jara, Antonio Nolberto': 7 registros (2017–2022); 7 tesis (2 de título profesional, 5 de maestría). Programas más frecuentes: Maestro en Ciencias con Mención en Física, Maestro en Ciencias en Física. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-6-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Alva Dávila, Fortunato",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Alva%20D%C3%A1vila%2C%20Fortunato",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Alva%20D%C3%A1vila%2C%20Fortunato",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Alva Dávila, Fortunato': 128 registros (1995–2025); 44 tesis (43 de título profesional, 1 de maestría) y 84 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Mecánico, Ingeniero Mecánico Electricista. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-6-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Palma García, Modesto Tomás",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Palma%20Garc%C3%ADa%2C%20Modesto%20Tom%C3%A1s",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Palma%20Garc%C3%ADa%2C%20Modesto%20Tom%C3%A1s",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Palma García, Modesto Tomás': 103 registros (1997–2025); 17 tesis (15 de título profesional, 2 de doctorado) y 86 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Electricista, Doctor en Ciencias con Mención en Energética. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-6-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Guimaray Huerta, Héctor Carlos",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Guimaray%20Huerta%2C%20H%C3%A9ctor%20Carlos",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Guimaray%20Huerta%2C%20H%C3%A9ctor%20Carlos",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Guimaray Huerta, Héctor Carlos': 3 registros (1990–1997); 3 tesis (3 de título profesional). Programas más frecuentes: Licenciado en Matemática. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-7-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Falconi Vásquez, Rodolfo Elías",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Falconi%20V%C3%A1squez%2C%20Rodolfo%20El%C3%ADas",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Falconi%20V%C3%A1squez%2C%20Rodolfo%20El%C3%ADas",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Falconi Vásquez, Rodolfo Elías': 37 registros (1994–2025); 14 tesis (12 de título profesional, 2 de maestría) y 23 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Industrial, Ingeniero de Sistemas. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-7-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Mosquera Leiva, Luis Alberto",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Mosquera%20Leiva%2C%20Luis%20Alberto",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Mosquera%20Leiva%2C%20Luis%20Alberto",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Mosquera Leiva, Luis Alberto': 7 registros (2006–2023); 7 tesis (3 de título profesional, 4 de maestría). Programas más frecuentes: Ingeniero Civil, Maestro en Ciencias con Mención en Ingeniería Geotécnica. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-7-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Villavicencio Chávez, Manuel Augusto",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Villavicencio%20Ch%C3%A1vez%2C%20Manuel%20Augusto",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Villavicencio%20Ch%C3%A1vez%2C%20Manuel%20Augusto",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Villavicencio Chávez, Manuel Augusto': 64 registros (1985–2025); 35 tesis (35 de título profesional) y 29 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Mecánico, Ingeniero Mecánico Electricista. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-8-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Rodríguez Rodríguez, Juan Martín",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Rodr%C3%ADguez%20Rodr%C3%ADguez%2C%20Juan%20Mart%C3%ADn",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Rodr%C3%ADguez%20Rodr%C3%ADguez%2C%20Juan%20Mart%C3%ADn",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Rodríguez Rodríguez, Juan Martín': 26 registros (2001–2025); 26 tesis (11 de título profesional, 9 de maestría, 6 de doctorado). Programas más frecuentes: Ingeniero Físico, Doctor en Ciencias con Mención en Física. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-8-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Salinas Basualdo, Rafael Rolando",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Salinas%20Basualdo%2C%20Rafael%20Rolando",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Salinas%20Basualdo%2C%20Rafael%20Rolando",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Salinas Basualdo, Rafael Rolando': 25 registros (2007–2023); 13 tesis (8 de título profesional, 5 de maestría) y 12 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Civil, Maestro en Ciencias con Mención en Ingeniería Estructural. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-8-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Rosales Huamaní, Jimmy Aurelio",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Rosales%20Huaman%C3%AD%2C%20Jimmy%20Aurelio",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Rosales%20Huaman%C3%AD%2C%20Jimmy%20Aurelio",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Rosales Huamaní, Jimmy Aurelio': 22 registros (2017–2026); 21 tesis (16 de título profesional, 4 de maestría, 1 de doctorado) y 1 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero de Minas, Maestro en Ciencias con Mención en Gestión Minera. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-9-1",
+      "title": "Repositorio Institucional UNI – listado por asesor: Arnao Rondán, Raymundo Ildefonzo",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Arnao%20Rond%C3%A1n%2C%20Raymundo%20Ildefonzo",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Arnao%20Rond%C3%A1n%2C%20Raymundo%20Ildefonzo",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Arnao Rondán, Raymundo Ildefonzo': 20 registros (1994–2025); 13 tesis (10 de título profesional, 3 de maestría) y 7 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Economista, Maestro en Ciencias con Mención en Proyectos de Inversión. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-1"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-9-2",
+      "title": "Repositorio Institucional UNI – listado por asesor: Gutiérrez Paucar, Agustín Adalberto",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Guti%C3%A9rrez%20Paucar%2C%20Agust%C3%ADn%20Adalberto",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Guti%C3%A9rrez%20Paucar%2C%20Agust%C3%ADn%20Adalberto",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Gutiérrez Paucar, Agustín Adalberto': 9 registros (2001–2016); 0 tesis (0) y 9 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Electricista, Ingeniero Electrónico. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-2"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    },
+    {
+      "id": "src-repouni-asesor-c-9-3",
+      "title": "Repositorio Institucional UNI – listado por asesor: Vergara Sotomayor, Abel Fernando",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://repositorio.uni.edu.pe/server/api/discover/browses/advisor/items?size=100&filterValue=Vergara%20Sotomayor%2C%20Abel%20Fernando",
+      "landingUrl": "https://repositorio.uni.edu.pe/browse/advisor?value=Vergara%20Sotomayor%2C%20Abel%20Fernando",
+      "publishedAt": null,
+      "type": "base_bibliografica",
+      "identifier": null,
+      "locator": "Índice 'Asesor' (dc.contributor.advisor) = 'Vergara Sotomayor, Abel Fernando': 20 registros (2000–2022); 5 tesis (5 de título profesional) y 15 informes/trabajos de suficiencia profesional. Programas más frecuentes: Ingeniero Químico. Consulta: 2026-10-16.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3"
+      ],
+      "notes": "DSpace 7 REST API, índice de navegación 'advisor'. 'report' = informe de suficiencia profesional; se cuentan aparte de las tesis. Año = dc.date.issued del registro."
+    }
+  ],
+  "claims": [
+    {
+      "candidateId": "c-1-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 2 trabajos de titulación/graduación en el Repositorio Institucional UNI (2021–2021): 2 tesis (1 de título profesional, 1 de maestría); principalmente para Maestro en Ciencias con Mención en Telemática, Ingeniero de Telecomunicaciones.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-1-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 3 trabajos de titulación/graduación en el Repositorio Institucional UNI (2003–2003): 3 informes de suficiencia profesional; principalmente para Arquitecto.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-1-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 54 trabajos de titulación/graduación en el Repositorio Institucional UNI (1990–2018): 29 tesis (20 de título profesional, 9 de maestría) y 25 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-1-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 79 trabajos de titulación/graduación en el Repositorio Institucional UNI (1986–2025): 42 tesis (32 de título profesional, 10 de maestría) y 37 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-2-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 63 trabajos de titulación/graduación en el Repositorio Institucional UNI (1997–2025): 18 tesis (16 de título profesional, 2 de maestría) y 45 informes de suficiencia profesional; principalmente para Ingeniero de Sistemas, Ingeniero Industrial.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-2-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 46 trabajos de titulación/graduación en el Repositorio Institucional UNI (2003–2024): 25 tesis (23 de título profesional, 2 de maestría) y 21 informes de suficiencia profesional; principalmente para Ingeniero Químico, Ingeniero Textil.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-2-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 25 trabajos de titulación/graduación en el Repositorio Institucional UNI (1999–2025): 16 tesis (15 de título profesional, 1 de maestría) y 9 informes de suficiencia profesional; principalmente para Ingeniero Geólogo, Maestro en Ciencias con Mención en Geología.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-3-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 28 trabajos de titulación/graduación en el Repositorio Institucional UNI (1992–2024): 28 tesis (8 de título profesional, 20 de maestría); principalmente para Maestro en Ciencias con Mención en Física Médica, Licenciado en Física.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-3-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 26 trabajos de titulación/graduación en el Repositorio Institucional UNI (1998–2014): 9 tesis (2 de título profesional, 7 de maestría) y 17 informes de suficiencia profesional; principalmente para Ingeniero Economista, Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-4-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 26 trabajos de titulación/graduación en el Repositorio Institucional UNI (1991–2025): 10 tesis (7 de título profesional, 3 de maestría) y 16 informes de suficiencia profesional; principalmente para Ingeniero Electricista, Maestro en Ciencias con Mención en Sistemas de Potencia.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-4-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 10 trabajos de titulación/graduación en el Repositorio Institucional UNI (2009–2023): 6 tesis (5 de título profesional, 1 de maestría) y 4 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-5-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 7 trabajos de titulación/graduación en el Repositorio Institucional UNI (2017–2022): 7 tesis (2 de título profesional, 5 de maestría); principalmente para Maestro en Ciencias con Mención en Física, Maestro en Ciencias en Física.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-5-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 128 trabajos de titulación/graduación en el Repositorio Institucional UNI (1995–2025): 44 tesis (43 de título profesional, 1 de maestría) y 84 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-6-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 103 trabajos de titulación/graduación en el Repositorio Institucional UNI (1997–2025): 17 tesis (15 de título profesional, 2 de doctorado) y 86 informes de suficiencia profesional; principalmente para Ingeniero Electricista, Doctor en Ciencias con Mención en Energética.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-6-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 3 trabajos de titulación/graduación en el Repositorio Institucional UNI (1990–1997): 3 tesis (3 de título profesional); principalmente para Licenciado en Matemática.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-6-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 37 trabajos de titulación/graduación en el Repositorio Institucional UNI (1994–2025): 14 tesis (12 de título profesional, 2 de maestría) y 23 informes de suficiencia profesional; principalmente para Ingeniero Industrial, Ingeniero de Sistemas.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-7-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 7 trabajos de titulación/graduación en el Repositorio Institucional UNI (2006–2023): 7 tesis (3 de título profesional, 4 de maestría); principalmente para Ingeniero Civil, Maestro en Ciencias con Mención en Ingeniería Geotécnica.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-7-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 64 trabajos de titulación/graduación en el Repositorio Institucional UNI (1985–2025): 35 tesis (35 de título profesional) y 29 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-7-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 26 trabajos de titulación/graduación en el Repositorio Institucional UNI (2001–2025): 26 tesis (11 de título profesional, 9 de maestría, 6 de doctorado); principalmente para Ingeniero Físico, Doctor en Ciencias con Mención en Física.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-8-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 25 trabajos de titulación/graduación en el Repositorio Institucional UNI (2007–2023): 13 tesis (8 de título profesional, 5 de maestría) y 12 informes de suficiencia profesional; principalmente para Ingeniero Civil, Maestro en Ciencias con Mención en Ingeniería Estructural.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-8-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 22 trabajos de titulación/graduación en el Repositorio Institucional UNI (2017–2026): 21 tesis (16 de título profesional, 4 de maestría, 1 de doctorado) y 1 informes de suficiencia profesional; principalmente para Ingeniero de Minas, Maestro en Ciencias con Mención en Gestión Minera.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-8-3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-1",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 20 trabajos de titulación/graduación en el Repositorio Institucional UNI (1994–2025): 13 tesis (10 de título profesional, 3 de maestría) y 7 informes de suficiencia profesional; principalmente para Ingeniero Economista, Maestro en Ciencias con Mención en Proyectos de Inversión.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-9-1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-2",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 9 trabajos de titulación/graduación en el Repositorio Institucional UNI (2001–2016): 9 informes de suficiencia profesional; principalmente para Ingeniero Electricista, Ingeniero Electrónico.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-9-2"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "docencia",
+      "text": "Figura como asesor(a) de 20 trabajos de titulación/graduación en el Repositorio Institucional UNI (2000–2022): 5 tesis (5 de título profesional) y 15 informes de suficiencia profesional; principalmente para Ingeniero Químico.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-repouni-asesor-c-9-3"
+      ],
+      "kind": "hecho"
+    }
+  ],
+  "proposals": [],
+  "leads": [
+    {
+      "candidateId": "c-4-3",
+      "provider": "otro",
+      "profileId": "https://repositorio.uni.edu.pe/browse/advisor?value=Huam%C3%A1n%20P%C3%A9rez%2C%20Fernando",
+      "displayName": "Huamán Pérez, Fernando",
+      "orcid": null,
+      "worksCount": 1,
+      "status": "pendiente",
+      "note": "Entrada de asesor 'Huamán Pérez, Fernando' con 1 tesis (2015, Ingeniero Físico, Facultad de Ciencias). El candidato pertenece a FIQT y el nombre carece de segundo nombre distintivo; posible homónimo. No atribuido."
+    }
+  ],
+  "pending": [
+    {
+      "candidateId": "c-4-3",
+      "text": "Confirmar si 'Huamán Pérez, Fernando' (1 tesis de Ingeniería Física, 2015) en el Repositorio UNI es el candidato (FIQT); revisar el PDF de la tesis o RENATI (DNI del asesor) sin registrar datos personales."
+    },
+    {
+      "candidateId": "c-3-2",
+      "text": "Sin entrada de asesor 'Páuyac Huamán, José Aníbal' (ni variantes Pauyac/Páuyac) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor ('Páuyac Huamán, J. Anibal'). Revisar RENATI o variantes abreviadas."
+    },
+    {
+      "candidateId": "c-5-1",
+      "text": "Sin entrada de asesor 'Huamán Sánchez, Alejandro Apolinario' (ni variantes sin tilde) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor de una tesis. Revisar RENATI o variantes abreviadas."
+    },
+    {
+      "candidateId": null,
+      "text": "Los conteos solo reflejan trabajos depositados con metadato de asesor en el Repositorio UNI; tesis antiguas no digitalizadas o con asesor registrado con otra grafía pueden no estar incluidas. RENATI no consultado."
+    }
+  ],
+  "siteUpdates": {},
+  "rejected": [
+    "Entradas de asesor con apellidos coincidentes pero distinto nombre (p.ej. 'Humala Aybar, Genaro', 'Gutierrez Paucar, James', 'Arnao, Jorge', 'Rodríguez, Juan') no se atribuyeron.",
+    "No se registran nombres ni títulos de tesistas (terceros)."
+  ],
+  "summary": "Conteo de trabajos de titulación/graduación asesorados por candidatos según el índice 'Asesor' del Repositorio Institucional UNI (DSpace REST). 24 candidatos con coincidencia de nombre completo; 1 posible homónimo (c-4-3) en leads; 2 sin entrada de asesor (c-3-2, c-5-1) en pending. Se distinguen tesis (título, maestría, doctorado) de informes de suficiencia profesional."
+}

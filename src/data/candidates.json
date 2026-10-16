@@ -65,6 +65,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 2 trabajos de titulación/graduación en el Repositorio Institucional UNI (2021–2021): 2 tesis (1 de título profesional, 1 de maestría); principalmente para Maestro en Ciencias con Mención en Telemática, Ingeniero de Telecomunicaciones.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-1-1"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -372,6 +380,14 @@
             "src-vr-repouni-cacho"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 3 trabajos de titulación/graduación en el Repositorio Institucional UNI (2003–2003): 3 informes de suficiencia profesional; principalmente para Arquitecto.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-1-2"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -606,6 +622,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 54 trabajos de titulación/graduación en el Repositorio Institucional UNI (1990–2018): 29 tesis (20 de título profesional, 9 de maestría) y 25 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-1-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -853,6 +877,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 79 trabajos de titulación/graduación en el Repositorio Institucional UNI (1986–2025): 42 tesis (32 de título profesional, 10 de maestría) y 37 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-2-1"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -1144,6 +1176,14 @@
             "src-vr-repouni-sanchez"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 63 trabajos de titulación/graduación en el Repositorio Institucional UNI (1997–2025): 18 tesis (16 de título profesional, 2 de maestría) y 45 informes de suficiencia profesional; principalmente para Ingeniero de Sistemas, Ingeniero Industrial.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-2-2"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -1319,6 +1359,14 @@
             "src-orcid-c-2-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 46 trabajos de titulación/graduación en el Repositorio Institucional UNI (2003–2024): 25 tesis (23 de título profesional, 2 de maestría) y 21 informes de suficiencia profesional; principalmente para Ingeniero Químico, Ingeniero Textil.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-2-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -1481,6 +1529,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 25 trabajos de titulación/graduación en el Repositorio Institucional UNI (1999–2025): 16 tesis (15 de título profesional, 1 de maestría) y 9 informes de suficiencia profesional; principalmente para Ingeniero Geólogo, Maestro en Ciencias con Mención en Geología.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-3-1"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -1777,7 +1833,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Ph.D. RUDN 2005 sólo declarado en ORCID: buscar la disertación en el catálogo de la Biblioteca Estatal Rusa (dissercat/RSL) con transliteración del nombre."
+      "Ph.D. RUDN 2005 sólo declarado en ORCID: buscar la disertación en el catálogo de la Biblioteca Estatal Rusa (dissercat/RSL) con transliteración del nombre.",
+      "Sin entrada de asesor 'Páuyac Huamán, José Aníbal' (ni variantes Pauyac/Páuyac) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor ('Páuyac Huamán, J. Anibal'). Revisar RENATI o variantes abreviadas."
     ],
     "corrections": [],
     "meta": {
@@ -1877,6 +1934,14 @@
             "src-orcid-c-3-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 28 trabajos de titulación/graduación en el Repositorio Institucional UNI (1992–2024): 28 tesis (8 de título profesional, 20 de maestría); principalmente para Maestro en Ciencias con Mención en Física Médica, Licenciado en Física.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-3-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -2122,6 +2187,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 26 trabajos de titulación/graduación en el Repositorio Institucional UNI (1998–2014): 9 tesis (2 de título profesional, 7 de maestría) y 17 informes de suficiencia profesional; principalmente para Ingeniero Economista, Maestro en Ciencias con Mención en Planificación Nacional del Desarrollo.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-4-1"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -2427,6 +2500,14 @@
             "src-vr-repouni-caceres"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 26 trabajos de titulación/graduación en el Repositorio Institucional UNI (1991–2025): 10 tesis (7 de título profesional, 3 de maestría) y 16 informes de suficiencia profesional; principalmente para Ingeniero Electricista, Maestro en Ciencias con Mención en Sistemas de Potencia.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-4-2"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -2705,6 +2786,18 @@
         "status": "pendiente",
         "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": 1,
+        "candidateId": "c-4-3",
+        "provider": "otro",
+        "profileId": "https://repositorio.uni.edu.pe/browse/advisor?value=Huam%C3%A1n%20P%C3%A9rez%2C%20Fernando",
+        "displayName": "Huamán Pérez, Fernando",
+        "status": "pendiente",
+        "note": "Entrada de asesor 'Huamán Pérez, Fernando' con 1 tesis (2015, Ingeniero Físico, Facultad de Ciencias). El candidato pertenece a FIQT y el nombre carece de segundo nombre distintivo; posible homónimo. No atribuido."
       }
     ],
     "pendingSources": [
@@ -2713,7 +2806,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Confirmar si 'Huamán Pérez, Fernando' (1 tesis de Ingeniería Física, 2015) en el Repositorio UNI es el candidato (FIQT); revisar el PDF de la tesis o RENATI (DNI del asesor) sin registrar datos personales."
     ],
     "corrections": [],
     "meta": {
@@ -2906,7 +3000,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "No figura en la nota de RPP sobre las exposiciones de candidatos a rector (15-10-2026); sin otras fuentes públicas localizadas al 16-10-2026.",
       "Sin propuestas públicas de la Lista 5 localizadas (prensa, ProActivo, YouTube). Buscar en redes de la lista o en el portal CEUNI. Formación doctoral (especialidad/universidad): consultar SUNEDU. Pista: el directorio UNI del 11-05-2026 (portal.uni.edu.pe, inaccesible desde aquí) podría confirmar si sigue en el CEPRE.",
-      "Doctorado no identificado (ni ORCID localizado). Confirmar si la licenciatura en Física UNI 2017 le corresponde y buscar su doctorado en la hoja de vida del CEUNI."
+      "Doctorado no identificado (ni ORCID localizado). Confirmar si la licenciatura en Física UNI 2017 le corresponde y buscar su doctorado en la hoja de vida del CEUNI.",
+      "Sin entrada de asesor 'Huamán Sánchez, Alejandro Apolinario' (ni variantes sin tilde) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor de una tesis. Revisar RENATI o variantes abreviadas."
     ],
     "corrections": [],
     "meta": {
@@ -2986,6 +3081,14 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-gamarra"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 10 trabajos de titulación/graduación en el Repositorio Institucional UNI (2009–2023): 6 tesis (5 de título profesional, 1 de maestría) y 4 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-5-2"
           ],
           "kind": "hecho"
         }
@@ -3200,6 +3303,14 @@
             "src-vr-vri-docentes-investigadores"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 7 trabajos de titulación/graduación en el Repositorio Institucional UNI (2017–2022): 7 tesis (2 de título profesional, 5 de maestría); principalmente para Maestro en Ciencias con Mención en Física, Maestro en Ciencias en Física.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-5-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -3380,6 +3491,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 128 trabajos de titulación/graduación en el Repositorio Institucional UNI (1995–2025): 44 tesis (43 de título profesional, 1 de maestría) y 84 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-6-1"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -3632,6 +3751,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 103 trabajos de titulación/graduación en el Repositorio Institucional UNI (1997–2025): 17 tesis (15 de título profesional, 2 de doctorado) y 86 informes de suficiencia profesional; principalmente para Ingeniero Electricista, Doctor en Ciencias con Mención en Energética.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-6-2"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -3804,6 +3931,14 @@
             "src-vr-repouni-guimaray"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 3 trabajos de titulación/graduación en el Repositorio Institucional UNI (1990–1997): 3 tesis (3 de título profesional); principalmente para Licenciado en Matemática.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-6-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -3967,6 +4102,14 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-pte-rr-1290-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 37 trabajos de titulación/graduación en el Repositorio Institucional UNI (1994–2025): 14 tesis (12 de título profesional, 2 de maestría) y 23 informes de suficiencia profesional; principalmente para Ingeniero Industrial, Ingeniero de Sistemas.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-7-1"
           ],
           "kind": "hecho"
         }
@@ -4169,6 +4312,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 7 trabajos de titulación/graduación en el Repositorio Institucional UNI (2006–2023): 7 tesis (3 de título profesional, 4 de maestría); principalmente para Ingeniero Civil, Maestro en Ciencias con Mención en Ingeniería Geotécnica.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-7-2"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -4341,6 +4492,14 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-repouni-villavicencio"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 64 trabajos de titulación/graduación en el Repositorio Institucional UNI (1985–2025): 35 tesis (35 de título profesional) y 29 informes de suficiencia profesional; principalmente para Ingeniero Mecánico, Ingeniero Mecánico Electricista.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-7-3"
           ],
           "kind": "hecho"
         }
@@ -4516,6 +4675,14 @@
             "src-rx-orcid-rodriguez"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 26 trabajos de titulación/graduación en el Repositorio Institucional UNI (2001–2025): 26 tesis (11 de título profesional, 9 de maestría, 6 de doctorado); principalmente para Ingeniero Físico, Doctor en Ciencias con Mención en Física.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-8-1"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -4774,6 +4941,14 @@
             "src-orcid-c-8-2"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 25 trabajos de titulación/graduación en el Repositorio Institucional UNI (2007–2023): 13 tesis (8 de título profesional, 5 de maestría) y 12 informes de suficiencia profesional; principalmente para Ingeniero Civil, Maestro en Ciencias con Mención en Ingeniería Estructural.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-8-2"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [],
@@ -4941,6 +5116,14 @@
             "src-orcid-c-8-3"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 22 trabajos de titulación/graduación en el Repositorio Institucional UNI (2017–2026): 21 tesis (16 de título profesional, 4 de maestría, 1 de doctorado) y 1 informes de suficiencia profesional; principalmente para Ingeniero de Minas, Maestro en Ciencias con Mención en Gestión Minera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-8-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -5140,6 +5323,14 @@
             "src-orcid-arnao"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 20 trabajos de titulación/graduación en el Repositorio Institucional UNI (1994–2025): 13 tesis (10 de título profesional, 3 de maestría) y 7 informes de suficiencia profesional; principalmente para Ingeniero Economista, Maestro en Ciencias con Mención en Proyectos de Inversión.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-9-1"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -5399,6 +5590,14 @@
             "src-vr-repouni-gutierrez"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Figura como asesor(a) de 9 trabajos de titulación/graduación en el Repositorio Institucional UNI (2001–2016): 9 informes de suficiencia profesional; principalmente para Ingeniero Electricista, Ingeniero Electrónico.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-9-2"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
@@ -5539,6 +5738,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Figura como asesor(a) de 20 trabajos de titulación/graduación en el Repositorio Institucional UNI (2000–2022): 5 tesis (5 de título profesional) y 15 informes de suficiencia profesional; principalmente para Ingeniero Químico.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-repouni-asesor-c-9-3"
+          ],
+          "kind": "hecho"
         }
       ],
       "investigacion": [
