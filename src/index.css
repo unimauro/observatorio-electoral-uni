@@ -44,9 +44,8 @@ body {
 @layer components {
   .card { @apply rounded-md border border-line bg-card; }
   .kicker { @apply font-mono text-[11px] uppercase tracking-[0.14em] text-muted; }
-  .h-display { @apply font-display uppercase leading-[0.95] tracking-tight; }
-  .mark { background: linear-gradient(transparent 55%, rgb(var(--signal)) 55%); color: rgb(17 17 17); padding: 0 .1em; }
-  .dark .mark { color: rgb(17 17 17); }
+  .h-display { @apply font-display uppercase leading-[0.95] tracking-tight; overflow-wrap: anywhere; }
+  .mark { background: rgb(var(--signal)); color: #111; padding: 0 .12em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
   .btn { @apply inline-flex items-center gap-1.5 rounded border-2 border-ink px-3 py-1.5 text-sm font-semibold transition-colors hover:bg-ink hover:text-paper; }
   .btn-solid { @apply inline-flex items-center gap-1.5 rounded border-2 border-ink bg-ink px-3 py-1.5 text-sm font-semibold text-paper transition-colors hover:bg-signal hover:text-[#111]; }
   .input { @apply w-full rounded border border-line bg-card px-3 py-2 text-sm placeholder:text-muted focus:border-ink; }
