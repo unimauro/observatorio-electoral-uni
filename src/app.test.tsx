@@ -54,6 +54,14 @@ describe('directorio', () => {
   })
 })
 
+describe('buscador global', () => {
+  it('encuentra candidatos y datos sin tildes', () => {
+    at('/buscar?q=ingemmet')
+    expect(screen.getByRole('status')).not.toHaveTextContent(/^0 resultados/)
+    expect(screen.getAllByText(/Chirif/).length).toBeGreaterThan(0)
+  })
+})
+
 describe('comparador', () => {
   it('compara dos listas', () => {
     at('/comparar?modo=listas&ids=1,2')

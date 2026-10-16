@@ -43,7 +43,7 @@ export default function Layout() {
 
   const onSearch = (e: FormEvent) => {
     e.preventDefault()
-    navigate(`/candidatos?q=${encodeURIComponent(q)}`)
+    navigate(`/buscar?q=${encodeURIComponent(q)}`)
   }
 
   return (
@@ -67,9 +67,9 @@ export default function Layout() {
           </Link>
           <form onSubmit={onSearch} role="search" className="ml-auto hidden w-64 md:block">
             <label className="relative block">
-              <span className="sr-only">Buscar candidato</span>
+              <span className="sr-only">Buscar en el observatorio</span>
               <Search aria-hidden size={15} className="absolute left-2.5 top-2.5 text-muted" />
-              <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Buscar candidato (sin tildes)…" className="input pl-8" />
+              <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Buscar en todo (sin tildes)…" className="input pl-8" />
             </label>
           </form>
           <button
@@ -113,9 +113,9 @@ export default function Layout() {
             <li className="md:hidden">
               <form onSubmit={onSearch} role="search" className="py-2">
                 <label className="relative block">
-                  <span className="sr-only">Buscar candidato</span>
+                  <span className="sr-only">Buscar en el observatorio</span>
                   <Search aria-hidden size={15} className="absolute left-2.5 top-2.5 text-muted" />
-                  <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Buscar candidato…" className="input pl-8" />
+                  <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Buscar en todo…" className="input pl-8" />
                 </label>
               </form>
             </li>
@@ -143,6 +143,10 @@ export default function Layout() {
             </ul>
           </div>
           <div>
+            <p className="kicker mb-2">Proyecto hermano</p>
+            <a className="link mb-3 inline-block" href="https://unimauro.github.io/observatorio-uni/" target="_blank" rel="noreferrer">
+              Observatorio UNI: presupuesto, gasto, planilla e investigación
+            </a>
             <p className="kicker mb-2">Datos abiertos</p>
             <a className="link inline-flex items-center gap-1" href={site.repoUrl} target="_blank" rel="noreferrer">
               <Github size={14} aria-hidden /> Repositorio y JSON

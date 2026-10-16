@@ -104,7 +104,9 @@ export default function Dashboard() {
         <div className="mt-6 flex flex-wrap gap-2">
           <Link to="/listas" className="btn-solid">Ver las 9 listas <ArrowRight size={15} aria-hidden /></Link>
           <Link to="/comparar" className="btn">Comparar</Link>
+          <Link to="/buscar" className="btn">Buscar en todo</Link>
           <Link to="/metodologia" className="btn">Cómo trabajamos</Link>
+          <a href="https://unimauro.github.io/observatorio-uni/" target="_blank" rel="noreferrer" className="btn">Observatorio UNI: presupuesto y gasto ↗</a>
         </div>
         <dl className="mt-6 grid gap-x-6 gap-y-1 font-mono text-xs text-muted sm:grid-cols-3">
           <div><dt className="inline">Actualizado: </dt><dd className="inline text-ink">{site.updatedAt}</dd></div>

@@ -8,6 +8,7 @@ import Plans from './pages/Plans'
 import Compare from './pages/Compare'
 import Matrix from './pages/Matrix'
 import Degrees from './pages/Degrees'
+import SearchPage from './pages/SearchPage'
 import { Methodology, NotFoundPage, Privacy, Sources } from './pages/Static'
 
 export function AppRoutes() {
@@ -21,6 +22,7 @@ export function AppRoutes() {
         <Route path="candidatos/:slug" element={<Profile />} />
         <Route path="planes" element={<Plans />} />
         <Route path="grados" element={<Degrees />} />
+        <Route path="buscar" element={<SearchPage />} />
         <Route path="comparar" element={<Compare />} />
         <Route path="matriz" element={<Matrix />} />
         <Route path="fuentes" element={<Sources />} />
