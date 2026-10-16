@@ -1,0 +1,322 @@
+[
+  {
+    "candidateId": "c-1-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 4434.91,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 4,434.91)",
+    "sourceId": "src-ing-c-1-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-1-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Vicerrector de Investigación – Vicerrectorado de Investigación",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 11250.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 11,250.00)",
+    "sourceId": "src-ing-c-1-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-1-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Vicerrector de Investigación – Vicerrectorado de Investigación",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-08",
+    "monthlyAmount": 22500.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 22,500.00)",
+    "sourceId": "src-ing-c-1-1-10048-202608-r3"
+  },
+  {
+    "candidateId": "c-1-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Arquitectura, Urbanismo y Artes",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 4434.91,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 4,434.91)",
+    "sourceId": "src-ing-c-1-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-1-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Vicerrector Académico – Vicerrectorado Académico",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 11250.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 11,250.00)",
+    "sourceId": "src-ing-c-1-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-1-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Vicerrector Académico – Vicerrectorado Académico",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-08",
+    "monthlyAmount": 22500.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 22,500.00)",
+    "sourceId": "src-ing-c-1-2-10048-202608-r3"
+  },
+  {
+    "candidateId": "c-1-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 15600.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+    "sourceId": "src-ing-c-1-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-2-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 15600.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+    "sourceId": "src-ing-c-2-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-2-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Industrial y de Sistemas",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 9369.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+    "sourceId": "src-ing-c-2-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-2-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo parcial – Facultad de Ingeniería Química y Textil",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 5934.91,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 4,434.91; otros ingresos S/ 1,500.00)",
+    "sourceId": "src-ing-c-2-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-3-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 11389.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,520.00)",
+    "sourceId": "src-ing-c-3-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-3-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 9369.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+    "sourceId": "src-ing-c-3-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-3-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ciencias",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 13304.73,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 4,434.91)",
+    "sourceId": "src-ing-c-3-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-3-3",
+    "entity": "Ministerio del Ambiente (MINAM)",
+    "role": "Ministro – Despacho Ministerial",
+    "regime": "Altos Funcionarios",
+    "period": "2022-08",
+    "monthlyAmount": 30000.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 30,000.00)",
+    "sourceId": "src-ing-c-3-3-127-202208-r7"
+  },
+  {
+    "candidateId": "c-4-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Económica, Estadística y Ciencias Sociales",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 8869.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82)",
+    "sourceId": "src-ing-c-4-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-4-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Química y Textil",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 15600.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+    "sourceId": "src-ing-c-4-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-5-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Industrial y de Sistemas",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 13030.57,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 4,160.75)",
+    "sourceId": "src-ing-c-5-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-5-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 9519.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 650.00)",
+    "sourceId": "src-ing-c-5-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-5-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 12369.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 3,500.00)",
+    "sourceId": "src-ing-c-5-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-6-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Mecánica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 11507.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,638.00)",
+    "sourceId": "src-ing-c-6-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-6-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 12869.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 4,000.00)",
+    "sourceId": "src-ing-c-6-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-6-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ciencias",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 9369.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+    "sourceId": "src-ing-c-6-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-7-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Industrial y de Sistemas",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 13869.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 5,000.00)",
+    "sourceId": "src-ing-c-7-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-7-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Civil",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 11825.53,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,955.71)",
+    "sourceId": "src-ing-c-7-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-7-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 8869.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82)",
+    "sourceId": "src-ing-c-7-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-8-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ciencias",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 15554.19,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,684.37)",
+    "sourceId": "src-ing-c-8-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-8-1",
+    "entity": "Programa Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA)",
+    "role": "Director Ejecutivo – Dirección Ejecutiva",
+    "regime": "CAS",
+    "period": "2024-06",
+    "monthlyAmount": 15600.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 15,600.00)",
+    "sourceId": "src-ing-c-8-1-14258-202406-r1"
+  },
+  {
+    "candidateId": "c-8-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Civil",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 15600.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+    "sourceId": "src-ing-c-8-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-8-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 15600.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+    "sourceId": "src-ing-c-8-3-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-9-1",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Económica, Estadística y Ciencias Sociales",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 11519.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,650.00)",
+    "sourceId": "src-ing-c-9-1-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-9-2",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 9369.82,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+    "sourceId": "src-ing-c-9-2-10048-202609-r3"
+  },
+  {
+    "candidateId": "c-9-3",
+    "entity": "Universidad Nacional de Ingeniería (UNI)",
+    "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Química y Textil",
+    "regime": "Régimen 728/OTROS",
+    "period": "2026-09",
+    "monthlyAmount": 15600.0,
+    "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+    "sourceId": "src-ing-c-9-3-10048-202609-r3"
+  }
+]

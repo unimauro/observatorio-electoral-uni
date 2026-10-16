@@ -191,7 +191,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -432,7 +433,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -613,7 +615,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -673,6 +676,18 @@
         "displayName": "LUIS ANTONIO LASTRA ESPINOZA",
         "status": "pendiente",
         "note": "Según la RVM 085-2022-MINEDU, la RVM 323-2021-MINEDU lo designó presidente de la Comisión Organizadora de la Universidad Nacional José María Arguedas (Andahuaylas), y la RVM 085-2022-MINEDU (07-07-2022) dio por concluida esa designación. Ninguna menciona a la UNI y coincide solo el nombre, así que hace falta una fuente que vincule el cargo con el docente de la FIM-UNI."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-1-3",
+        "provider": "otro",
+        "profileId": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=14119&in_anno_consulta=2022&ch_mes_consulta=06&vc_nombre_funcionario=LASTRA&vc_dni_funcionario=&ch_tipo_regimen=1&id_tema=32&Ver=&pag=1",
+        "displayName": "LASTRA ESPINOZA, LUIS ANTONIO – Presidente, Comisión Organizadora, UNAJMA (CAS)",
+        "status": "pendiente",
+        "note": "El PTE de la Universidad Nacional José María Arguedas registra a 'LASTRA ESPINOZA, LUIS ANTONIO' como Presidente de la Comisión Organizadora (CAS) con S/ 14,500.00 mensuales de 2022-01 a 2022-06 (y 2021-12 en el barrido local). Coincide el nombre completo, pero ninguna fuente leída vincula esa designación con el docente de la UNI-FIM; no se publica hasta confirmar identidad (p. ej., RVM 323-2021-MINEDU)."
       }
     ],
     "pendingSources": [
@@ -686,7 +701,8 @@
       "Doctorado no identificado: sin tesis en ALICIA ni Repositorio UNI; ORCID 0009-0005-5173-9213 vacío. Sus coautorías con N. Patrakhaltsev (1998) sugieren formación en Rusia: buscar en el catálogo de la Biblioteca Estatal Rusa (RSL) o pedir la hoja de vida al CEUNI/lista 1.",
       "Ubicar la R.R. que dispuso el encargo inicial de la Dirección de Admisión en 2025 (antes del 01-04-2025) y la R.R. N.° 2330-2025-UNI (designación de miembros del THU).",
       "Identificar la falta imputada en el PAD que terminó en la RD N.° 003-2021 (anulada) y el resultado del procedimiento retrotraído en 2025. Confirmar la identidad respecto a los informes de control de la UNAJMA (ver leads).",
-      "Leer la RVM 323-2021-MINEDU (designación de Luis Antonio Lastra Espinoza en la UNAJMA) y buscar el CV que lo vincule con la UNI."
+      "Leer la RVM 323-2021-MINEDU (designación de Luis Antonio Lastra Espinoza en la UNAJMA) y buscar el CV que lo vincule con la UNI.",
+      "Confirmar si el Presidente de la Comisión Organizadora de la UNAJMA (PTE 2021-12 a 2022-06, S/ 14,500.00 CAS) es el candidato; ver lead."
     ],
     "corrections": [],
     "meta": {
@@ -907,7 +923,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -1049,7 +1066,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -1225,7 +1243,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -1411,7 +1430,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -1586,7 +1606,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -1817,7 +1838,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -2091,7 +2113,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -2290,7 +2313,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -2337,7 +2361,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
-      "Fechas exactas del periodo como decano FIEE (memorias 2010-2011 lo registran; blogs no institucionales hablan de elección en 2009). Buscar resoluciones de proclamación y memorias 2009/2013 en ocpla.uni.edu.pe."
+      "Fechas exactas del periodo como decano FIEE (memorias 2010-2011 lo registran; blogs no institucionales hablan de elección en 2009). Buscar resoluciones de proclamación y memorias 2009/2013 en ocpla.uni.edu.pe.",
+      "Félix Víctor Cáceres Cárdenas no aparece en el PTE de la UNI (agosto y septiembre de 2026; regímenes CAS, 276, 728/OTROS, Altos Funcionarios y Ley Servir) con búsqueda por 'CACERES'. No se consultó el régimen de pensionistas. Verificar su condición laboral vigente en la UNI o meses anteriores."
     ],
     "corrections": [],
     "meta": {
@@ -2463,7 +2488,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -2621,7 +2647,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -2814,7 +2841,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -3013,7 +3041,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -3205,7 +3234,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -3393,7 +3423,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -3544,7 +3575,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -3729,7 +3761,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -3889,7 +3922,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -4036,7 +4070,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -4266,7 +4301,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -4439,7 +4475,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -4596,7 +4633,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -4838,7 +4876,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {
@@ -5010,7 +5049,8 @@
           "kind": "hecho"
         }
       ],
-      "control": []
+      "control": [],
+      "ingresos": []
     },
     "researchLeads": [],
     "pendingSources": [
@@ -5181,7 +5221,8 @@
           ],
           "kind": "hecho"
         }
-      ]
+      ],
+      "ingresos": []
     },
     "researchLeads": [
       {

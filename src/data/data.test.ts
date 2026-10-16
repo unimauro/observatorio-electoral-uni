@@ -4,6 +4,7 @@ import { validateDataset, validateSite } from './validate'
 import { ROLE_BY_ORDER, ROLES } from './types'
 import timeline from './timeline.json'
 import retos from './retos.json'
+import incomes from './incomes.json'
 
 const dataset = {
   candidates: d.candidates,
@@ -38,6 +39,13 @@ describe('integridad de datos', () => {
 
   it('los retos citan fuentes existentes', () => {
     for (const r of retos.retos) for (const f of [...r.figures, ...r.nationalGoals]) expect(d.sourceById.has(f.sourceId)).toBe(true)
+  })
+
+  it('los ingresos citan fuentes y candidaturas existentes', () => {
+    for (const r of incomes) {
+      expect(d.sourceById.has(r.sourceId)).toBe(true)
+      expect(d.candidateById.has(r.candidateId)).toBe(true)
+    }
   })
 
   it('hay exactamente 9 listas y 27 candidaturas', () => {

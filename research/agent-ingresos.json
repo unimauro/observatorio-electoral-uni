@@ -1,0 +1,1148 @@
+{
+  "agent": "ingresos",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "id": "src-ing-c-1-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=BUTLER&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "BUTLER BLACKER, JORGE GUSTAVO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA ELECTRICA Y ELECTRONICA | REMUNERACIONES S/ 4,434.91 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 4,434.91",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI. En septiembre de 2026 el PTE muestra dos filas para la misma persona (cargo de vicerrector y cargo docente)."
+    },
+    {
+      "id": "src-ing-c-1-1-10048-202608-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), agosto 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=08&vc_nombre_funcionario=BUTLER&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "BUTLER BLACKER, JORGE GUSTAVO | VICERECTOR DE INVESTIGACION | VICERECTORADO DE INVESTIGACION | REMUNERACIONES S/ 22,500.00 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 22,500.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-1-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=CACHO&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "CACHO CRUZ, ROCIO MARGARITA | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE ARQUITECTURA, URBANISMO Y ARTES | REMUNERACIONES S/ 4,434.91 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 4,434.91",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI. En septiembre de 2026 el PTE muestra dos filas para la misma persona (cargo de vicerrector y cargo docente)."
+    },
+    {
+      "id": "src-ing-c-1-2-10048-202608-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), agosto 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=08&vc_nombre_funcionario=CACHO&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "CACHO CRUZ, ROCIO MARGARITA | VICERECTOR ACADEMICO | VICERECTORADO ACADEMICO | REMUNERACIONES S/ 22,500.00 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 22,500.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-1-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=LASTRA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "LASTRA ESPINOZA, LUIS ANTONIO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA MECANICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 6,730.18 | TOTAL S/ 15,600.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-2-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=PADILLA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "PADILLA RIOS, AURELIO MARCELO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA MECANICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 6,730.18 | TOTAL S/ 15,600.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-2-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=SANCHEZ&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "SANCHEZ ESPINOZA, JAVIER CONCEPCION | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA DE INDUSTRIAL Y DE SISTEMAS | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 500.00 | TOTAL S/ 9,369.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-2-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=OSORIO&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "OSORIO CARRERA, CESAR JAVIER | PROFESOR PRINCIPAL A TIEMPO PARCIAL | FACULTAD DE INGENIERIA QUIMICA Y TEXTIL | REMUNERACIONES S/ 4,434.91 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 1,500.00 | TOTAL S/ 5,934.91",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-3-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=CHIRIF&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "CHIRIF RIVERA, LUIS HUMBERTO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA GEOLOGICA, MINERA Y METALURGICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 2,520.00 | TOTAL S/ 11,389.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-3-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=PAUYAC&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "PAUYAC HUAMAN, JOSE ANIBAL | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA ELECTRICA Y ELECTRONICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 500.00 | TOTAL S/ 9,369.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-3-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=MONTOYA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "MONTOYA ZAVALETA, MODESTO EDILBERTO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE CIENCIAS | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 4,434.91 | TOTAL S/ 13,304.73",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-3-3-127-202208-r7",
+      "title": "PTE – Personal: Ministerio del Ambiente (MINAM), agosto 2022, Altos Funcionarios",
+      "author": "Ministerio del Ambiente",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=127&in_anno_consulta=2022&ch_mes_consulta=08&vc_nombre_funcionario=MONTOYA&vc_dni_funcionario=&ch_tipo_regimen=7&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=127&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=127",
+      "locator": "MONTOYA ZAVALETA, MODESTO EDILBERTO | MINISTRO | DESPACHO MINISTERIAL | REMUNERACIONES S/ 30,000.00 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 30,000.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI. Se consultaron feb–sep 2022: figura de 2022-02 (S/ 22,000.00) a 2022-08 (S/ 30,000.00); julio incluye gratificación. Se reporta el último mes."
+    },
+    {
+      "id": "src-ing-c-4-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=HUMALA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "HUMALA TASSO, ULISES | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA ECONOMICA, ESTADISTICA Y CIENCIAS SOCIALES | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 8,869.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-4-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-4-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=HUAMAN&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "HUAMAN PEREZ, FERNANDO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA QUIMICA Y TEXTIL | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 6,730.18 | TOTAL S/ 15,600.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-4-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-5-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=HUAMAN&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "HUAMAN SANCHEZ, ALEJANDRO APOLINARIO | PROFESOR PRINCIPAL A DEDICACION EXCLUSIVA | FACULTAD DE INGENIERIA DE INDUSTRIAL Y DE SISTEMAS | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 4,160.75 | TOTAL S/ 13,030.57",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-5-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=GAMARRA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "GAMARRA CHINCHAY, HUGO ELISEO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA MECANICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 650.00 | TOTAL S/ 9,519.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-5-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=LAZO&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "LAZO JARA, ANTONIO NOLBERTO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA GEOLOGICA, MINERA Y METALURGICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 3,500.00 | TOTAL S/ 12,369.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-6-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=ALVA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "ALVA DAVILA, FORTUNATO | PROFESOR PRINCIPAL A DEDICACION EXCLUSIVA | FACULTAD DE INGENIERIA MECANICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 2,638.00 | TOTAL S/ 11,507.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-6-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=PALMA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "PALMA GARCIA, MODESTO TOMAS | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA ELECTRICA Y ELECTRONICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 4,000.00 | TOTAL S/ 12,869.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-6-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=GUIMARAY&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "GUIMARAY HUERTA, HECTOR CARLOS | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE CIENCIAS | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 500.00 | TOTAL S/ 9,369.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-7-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=FALCONI&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "FALCONI VASQUEZ, RODOLFO ELIAS | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA DE INDUSTRIAL Y DE SISTEMAS | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 5,000.00 | TOTAL S/ 13,869.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-7-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=MOSQUERA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "MOSQUERA LEIVA, LUIS ALBERTO | PROFESOR PRINCIPAL A DEDICACION EXCLUSIVA | FACULTAD DE INGENIERIA CIVIL | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 2,955.71 | TOTAL S/ 11,825.53",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-7-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=VILLAVICENCIO&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "VILLAVICENCIO CHAVEZ, MANUEL AUGUSTO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA MECANICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 8,869.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-8-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=RODRIGUEZ&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "RODRIGUEZ RODRIGUEZ, JUAN MARTIN | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE CIENCIAS | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 6,684.37 | TOTAL S/ 15,554.19",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-8-1-14258-202406-r1",
+      "title": "PTE – Personal: Programa Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA), junio 2024, CAS",
+      "author": "Programa Nacional de Investigación Científica y Estudios Avanzados",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=14258&in_anno_consulta=2024&ch_mes_consulta=06&vc_nombre_funcionario=JUAN&vc_dni_funcionario=&ch_tipo_regimen=1&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=14258&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=14258",
+      "locator": "RODRÍGUEZ RODRÍGUEZ, JUAN MARTÌN | Director Ejecutivo | Direcciòn Ejecutiva | REMUNERACIONES S/ 15,600.00 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 0.00 | TOTAL S/ 15,600.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI. Es el último mes con registro hallado: se consultó PROCIENCIA (CAS) mes a mes de 2022-01 a 2025-12; el cargo figura de 2022-01 a 2024-06."
+    },
+    {
+      "id": "src-ing-c-8-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=SALINAS&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "SALINAS BASUALDO, RAFAEL ROLANDO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA CIVIL | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 6,730.18 | TOTAL S/ 15,600.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-8-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=ROSALES&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "ROSALES HUAMANI, JIMMY AURELIO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA GEOLOGICA, MINERA Y METALURGICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 6,730.18 | TOTAL S/ 15,600.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-9-1-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=ARNAO&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "ARNAO RONDAN, RAYMUNDO ILDEFONZO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA ECONOMICA, ESTADISTICA Y CIENCIAS SOCIALES | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 2,650.00 | TOTAL S/ 11,519.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-1"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-9-2-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=GUTIERREZ&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "GUTIERREZ PAUCAR, AGUSTIN ADALBERTO | PROFESOR PRINCIPAL A TIEMPO COMPLETO | FACULTAD DE INGENIERIA ELECTRICA Y ELECTRONICA | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 500.00 | TOTAL S/ 9,369.82",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-2"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    },
+    {
+      "id": "src-ing-c-9-3-10048-202609-r3",
+      "title": "PTE – Personal: Universidad Nacional de Ingeniería (UNI), septiembre 2026, Régimen 728/OTROS",
+      "author": "Universidad Nacional de Ingeniería",
+      "url": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&in_anno_consulta=2026&ch_mes_consulta=09&vc_nombre_funcionario=VERGARA&vc_dni_funcionario=&ch_tipo_regimen=3&id_tema=32&Ver=&pag=1",
+      "landingUrl": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=10048&id_tema=32&ver=",
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": "PTE id_entidad=10048",
+      "locator": "VERGARA SOTOMAYOR, ABEL FERNANDO | PROFESOR PRINCIPAL A DEDICACION EXCLUSIVA | FACULTAD DE INGENIERIA QUIMICA Y TEXTIL | REMUNERACIONES S/ 8,869.82 | HONORARIOS S/ 0.00 | INCENTIVO S/ 0.00 | GRATIFICACIÓN S/ 0.00 | OTROS S/ 6,730.18 | TOTAL S/ 15,600.00",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3"
+      ],
+      "notes": "Consulta pública del Portal de Transparencia Estándar (rubro Personal, id_tema=32), filtrada por apellido; leída el 2026-10-16. Match por nombre completo exacto. No se registran DNI."
+    }
+  ],
+  "claims": [
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 4,434.91 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 4,434.91; y un ingreso mensual total de S/ 11,250.00 como Vicerrector de Investigación (Vicerrectorado de Investigación; Régimen 728/OTROS): remuneraciones S/ 11,250.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-1-1-10048-202609-r3",
+        "src-ing-c-1-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (agosto de 2026), registra un ingreso mensual total de S/ 22,500.00 como Vicerrector de Investigación (Vicerrectorado de Investigación; Régimen 728/OTROS): remuneraciones S/ 22,500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-1-1-10048-202608-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 4,434.91 como Profesor principal a tiempo completo (Facultad de Arquitectura, Urbanismo y Artes; Régimen 728/OTROS): remuneraciones S/ 4,434.91; y un ingreso mensual total de S/ 11,250.00 como Vicerrector Académico (Vicerrectorado Académico; Régimen 728/OTROS): remuneraciones S/ 11,250.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-1-2-10048-202609-r3",
+        "src-ing-c-1-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (agosto de 2026), registra un ingreso mensual total de S/ 22,500.00 como Vicerrector Académico (Vicerrectorado Académico; Régimen 728/OTROS): remuneraciones S/ 22,500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-1-2-10048-202608-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-1-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-2-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Industrial y de Sistemas; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-2-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 5,934.91 como Profesor principal a tiempo parcial (Facultad de Ingeniería Química y Textil; Régimen 728/OTROS): remuneraciones S/ 4,434.91, otros ingresos S/ 1,500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-2-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,389.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Geológica, Minera y Metalúrgica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,520.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-3-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-3-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 13,304.73 como Profesor principal a tiempo completo (Facultad de Ciencias; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 4,434.91.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-3-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-3",
+      "section": "gestion",
+      "text": "Según el PTE del MINAM (agosto de 2022), registra un ingreso mensual total de S/ 30,000.00 como Ministro (Despacho Ministerial; Altos Funcionarios): remuneraciones S/ 30,000.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-3-3-127-202208-r7"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 8,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Económica, Estadística y Ciencias Sociales; Régimen 728/OTROS): remuneraciones S/ 8,869.82.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-4-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Química y Textil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-4-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 13,030.57 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Industrial y de Sistemas; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 4,160.75.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-5-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,519.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 650.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-5-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 12,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Geológica, Minera y Metalúrgica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 3,500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-5-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,507.82 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,638.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-6-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 12,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 4,000.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-6-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ciencias; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-6-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 13,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Industrial y de Sistemas; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 5,000.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-7-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,825.53 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Civil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,955.71.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-7-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 8,869.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Mecánica; Régimen 728/OTROS): remuneraciones S/ 8,869.82.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-7-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,554.19 como Profesor principal a tiempo completo (Facultad de Ciencias; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,684.37.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-8-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "gestion",
+      "text": "Según el PTE de PROCIENCIA (junio de 2024), registra un ingreso mensual total de S/ 15,600.00 como Director Ejecutivo (Dirección Ejecutiva; CAS): remuneraciones S/ 15,600.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-8-1-14258-202406-r1"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Civil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-8-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a tiempo completo (Facultad de Ingeniería Geológica, Minera y Metalúrgica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-8-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-1",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 11,519.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Económica, Estadística y Ciencias Sociales; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 2,650.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-9-1-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-2",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 9,369.82 como Profesor principal a tiempo completo (Facultad de Ingeniería Eléctrica y Electrónica; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 500.00.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-9-2-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "gestion",
+      "text": "Según el PTE de la UNI (septiembre de 2026), registra un ingreso mensual total de S/ 15,600.00 como Profesor principal a dedicación exclusiva (Facultad de Ingeniería Química y Textil; Régimen 728/OTROS): remuneraciones S/ 8,869.82, otros ingresos S/ 6,730.18.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-ing-c-9-3-10048-202609-r3"
+      ],
+      "kind": "hecho"
+    }
+  ],
+  "proposals": [],
+  "leads": [
+    {
+      "candidateId": "c-1-3",
+      "provider": "otro",
+      "profileId": "https://www.transparencia.gob.pe/personal/pte_transparencia_personal.aspx?id_entidad=14119&in_anno_consulta=2022&ch_mes_consulta=06&vc_nombre_funcionario=LASTRA&vc_dni_funcionario=&ch_tipo_regimen=1&id_tema=32&Ver=&pag=1",
+      "displayName": "LASTRA ESPINOZA, LUIS ANTONIO – Presidente, Comisión Organizadora, UNAJMA (CAS)",
+      "orcid": null,
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "El PTE de la Universidad Nacional José María Arguedas registra a 'LASTRA ESPINOZA, LUIS ANTONIO' como Presidente de la Comisión Organizadora (CAS) con S/ 14,500.00 mensuales de 2022-01 a 2022-06 (y 2021-12 en el barrido local). Coincide el nombre completo, pero ninguna fuente leída vincula esa designación con el docente de la UNI-FIM; no se publica hasta confirmar identidad (p. ej., RVM 323-2021-MINEDU)."
+    }
+  ],
+  "pending": [
+    {
+      "candidateId": "c-4-2",
+      "text": "Félix Víctor Cáceres Cárdenas no aparece en el PTE de la UNI (agosto y septiembre de 2026; regímenes CAS, 276, 728/OTROS, Altos Funcionarios y Ley Servir) con búsqueda por 'CACERES'. No se consultó el régimen de pensionistas. Verificar su condición laboral vigente en la UNI o meses anteriores."
+    },
+    {
+      "candidateId": null,
+      "text": "Declaraciones juradas de ingresos y de bienes y rentas (Ley 30161, Contraloría): los portales appdjv/appdj.contraloria.gob.pe no resolvieron o no respondieron desde esta red el 2026-10-16 y appdji.contraloria.gob.pe devolvió 403; no se halló un dataset de datos abiertos con los ingresos declarados. Reintentar la consulta pública (sin sortear captcha) para registrar sólo ingresos mensuales, cargo y fecha de la DJ."
+    },
+    {
+      "candidateId": "c-1-3",
+      "text": "Confirmar si el Presidente de la Comisión Organizadora de la UNAJMA (PTE 2021-12 a 2022-06, S/ 14,500.00 CAS) es el candidato; ver lead."
+    }
+  ],
+  "siteUpdates": {
+    "incomeTable": [
+      {
+        "candidateId": "c-1-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 4434.91,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 4,434.91)",
+        "sourceId": "src-ing-c-1-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-1-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Vicerrector de Investigación – Vicerrectorado de Investigación",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 11250.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 11,250.00)",
+        "sourceId": "src-ing-c-1-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-1-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Vicerrector de Investigación – Vicerrectorado de Investigación",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-08",
+        "monthlyAmount": 22500.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 22,500.00)",
+        "sourceId": "src-ing-c-1-1-10048-202608-r3"
+      },
+      {
+        "candidateId": "c-1-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Arquitectura, Urbanismo y Artes",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 4434.91,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 4,434.91)",
+        "sourceId": "src-ing-c-1-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-1-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Vicerrector Académico – Vicerrectorado Académico",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 11250.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 11,250.00)",
+        "sourceId": "src-ing-c-1-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-1-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Vicerrector Académico – Vicerrectorado Académico",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-08",
+        "monthlyAmount": 22500.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 22,500.00)",
+        "sourceId": "src-ing-c-1-2-10048-202608-r3"
+      },
+      {
+        "candidateId": "c-1-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 15600.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+        "sourceId": "src-ing-c-1-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-2-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 15600.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+        "sourceId": "src-ing-c-2-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-2-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Industrial y de Sistemas",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 9369.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+        "sourceId": "src-ing-c-2-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-2-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo parcial – Facultad de Ingeniería Química y Textil",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 5934.91,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 4,434.91; otros ingresos S/ 1,500.00)",
+        "sourceId": "src-ing-c-2-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-3-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 11389.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,520.00)",
+        "sourceId": "src-ing-c-3-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-3-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 9369.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+        "sourceId": "src-ing-c-3-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-3-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ciencias",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 13304.73,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 4,434.91)",
+        "sourceId": "src-ing-c-3-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-3-3",
+        "entity": "Ministerio del Ambiente (MINAM)",
+        "role": "Ministro – Despacho Ministerial",
+        "regime": "Altos Funcionarios",
+        "period": "2022-08",
+        "monthlyAmount": 30000.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 30,000.00)",
+        "sourceId": "src-ing-c-3-3-127-202208-r7"
+      },
+      {
+        "candidateId": "c-4-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Económica, Estadística y Ciencias Sociales",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 8869.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82)",
+        "sourceId": "src-ing-c-4-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-4-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Química y Textil",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 15600.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+        "sourceId": "src-ing-c-4-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-5-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Industrial y de Sistemas",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 13030.57,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 4,160.75)",
+        "sourceId": "src-ing-c-5-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-5-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 9519.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 650.00)",
+        "sourceId": "src-ing-c-5-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-5-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 12369.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 3,500.00)",
+        "sourceId": "src-ing-c-5-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-6-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Mecánica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 11507.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,638.00)",
+        "sourceId": "src-ing-c-6-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-6-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 12869.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 4,000.00)",
+        "sourceId": "src-ing-c-6-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-6-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ciencias",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 9369.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+        "sourceId": "src-ing-c-6-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-7-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Industrial y de Sistemas",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 13869.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 5,000.00)",
+        "sourceId": "src-ing-c-7-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-7-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Civil",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 11825.53,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,955.71)",
+        "sourceId": "src-ing-c-7-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-7-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Mecánica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 8869.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82)",
+        "sourceId": "src-ing-c-7-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-8-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ciencias",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 15554.19,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,684.37)",
+        "sourceId": "src-ing-c-8-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-8-1",
+        "entity": "Programa Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA)",
+        "role": "Director Ejecutivo – Dirección Ejecutiva",
+        "regime": "CAS",
+        "period": "2024-06",
+        "monthlyAmount": 15600.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 15,600.00)",
+        "sourceId": "src-ing-c-8-1-14258-202406-r1"
+      },
+      {
+        "candidateId": "c-8-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Civil",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 15600.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+        "sourceId": "src-ing-c-8-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-8-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Geológica, Minera y Metalúrgica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 15600.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+        "sourceId": "src-ing-c-8-3-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-9-1",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Económica, Estadística y Ciencias Sociales",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 11519.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 2,650.00)",
+        "sourceId": "src-ing-c-9-1-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-9-2",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a tiempo completo – Facultad de Ingeniería Eléctrica y Electrónica",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 9369.82,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 500.00)",
+        "sourceId": "src-ing-c-9-2-10048-202609-r3"
+      },
+      {
+        "candidateId": "c-9-3",
+        "entity": "Universidad Nacional de Ingeniería (UNI)",
+        "role": "Profesor principal a dedicación exclusiva – Facultad de Ingeniería Química y Textil",
+        "regime": "Régimen 728/OTROS",
+        "period": "2026-09",
+        "monthlyAmount": 15600.0,
+        "concept": "Total de ingresos mensuales registrados (remuneraciones S/ 8,869.82; otros ingresos S/ 6,730.18)",
+        "sourceId": "src-ing-c-9-3-10048-202609-r3"
+      }
+    ]
+  },
+  "rejected": [
+    "No se registran DNI, RUC ni los enlaces de DJ que incluyen DNI en la URL.",
+    "No se listan todos los meses: por cargo se reporta el registro más reciente; para Butler y Cacho se añade agosto de 2026 porque septiembre muestra el cargo de vicerrector dividido en dos filas.",
+    "Julio de 2026 (UNI) y julio de 2022 (MINAM) incluyen gratificación/otros extraordinarios; no se usan como referencia mensual.",
+    "Los montos de 'otros ingresos' de la UNI no se desagregan en el PTE; no se interpreta su concepto."
+  ],
+  "summary": "Consulta en vivo del PTE (rubro Personal) por apellido y match por nombre completo exacto. 26 de 27 candidatos tienen datos: 26 en el PTE de la UNI (septiembre de 2026, Régimen 728/OTROS), con ingresos mensuales totales entre S/ 5,934.91 y S/ 15,600.00 como docentes; Butler y Cacho figuran además como vicerrectores (S/ 22,500.00 en agosto de 2026; en septiembre de 2026, S/ 11,250.00 como vicerrector más S/ 4,434.91 como docente). Fuera de la UNI: Montoya como Ministro del Ambiente (MINAM, Altos Funcionarios, S/ 30,000.00 en agosto de 2022) y J. M. Rodríguez como Director Ejecutivo de PROCIENCIA (CAS, S/ 15,600.00, último registro junio de 2024). Sin datos: Cáceres Cárdenas (no aparece en el PTE UNI). Lastra en la UNAJMA queda como lead por identidad no confirmada. Las DJ de ingresos de la Contraloría no fueron accesibles; quedan pendientes."
+}
