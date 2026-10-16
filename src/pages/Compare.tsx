@@ -1,9 +1,41 @@
 import { Link, useSearchParams } from 'react-router-dom'
-import { candidates, criteria, evaluations, facultyById, lists, membersOf, planById, proposalsOf, sources } from '../data'
+import { candidates, criteria, degrees, evaluations, facultyById, lists, membersOf, planById, proposals, proposalsOf, sources } from '../data'
+import incomesJson from '../data/incomes.json'
+import { timelines } from '../components/Timeline'
 import { PROPOSAL_CATEGORIES, ROLE_LABEL, ROLES, STATUS_LABEL, type Candidate, type Role } from '../data/types'
 import { SCORE_LABEL, scoreLookup } from '../lib/score'
 import { sourcesForList } from '../lib/stats'
 import { EmptyState, PageHeader } from '../components/ui'
+
+
+const money = (n: number) => `S/ ${n.toLocaleString('es-PE', { maximumFractionDigits: 0 })}`
+const incomes = incomesJson as { candidateId: string; role: string; period: string; monthlyAmount: number }[]
+const none = <span className="italic text-muted">Sin registro</span>
+
+/** Filas con datos registrados (no evaluaciones): misma pregunta para todas las candidaturas. */
+const FACT_ROWS: [string, (c: Candidate) => React.ReactNode][] = [
+  ['Doctorado', (c) => {
+    const d = degrees.find((x) => x.candidateId === c.id)?.doctorado
+    return d?.denominacion ? <>{d.denominacion}<span className="block text-muted">{[d.universidad, d.anio].filter(Boolean).join(' · ')} · {STATUS_LABEL[d.status]}</span></> : none
+  }],
+  ['Cargos de gestión (línea de tiempo)', (c) => {
+    const ev = (timelines.find((t) => t.candidateId === c.id)?.events ?? []).filter((e) => e.kind === 'gestion_uni' || e.kind === 'cargo_publico')
+    return ev.length ? <ul className="space-y-0.5">{ev.slice(-5).map((e, i) => <li key={i}>{e.title} <span className="text-muted">({e.from.slice(0, 4)}{e.to ? `–${e.to.slice(0, 4)}` : ''})</span></li>)}</ul> : none
+  }],
+  ['Investigación (datos verificados)', (c) => {
+    const v = c.claims.investigacion.filter((x) => ['verificado_primaria', 'corroborado'].includes(x.status)).length
+    return v ? `${v} dato(s) verificado(s)` : none
+  }],
+  ['Ingreso público más reciente', (c) => {
+    const r = incomes.filter((x) => x.candidateId === c.id).sort((a, b) => b.period.localeCompare(a.period))
+    return r.length ? <ul>{r.filter((x) => x.period === r[0].period).map((x, i) => <li key={i}>{money(x.monthlyAmount)} <span className="text-muted">{x.role.split(' – ')[0]} · {x.period}</span></li>)}</ul> : none
+  }],
+  ['Informes de control (presunta resp.)', (c) => (c.claims.control?.length ? `${c.claims.control.length} registro(s) — ver perfil` : none)],
+  ['Propuestas registradas', (c) => {
+    const n = proposals.filter((p) => p.candidateId === c.id).length
+    return n ? `${n}` : none
+  }],
+]
 
 function Toggle({ on, label, onClick }: { on: boolean; label: string; onClick: () => void }) {
   return (
@@ -100,10 +132,13 @@ export default function Compare() {
                     <th scope="row" className="py-2 pr-3 text-left font-normal text-muted">Evidencia registrada</th>
                     {selC.map((c) => <td key={c.id} className="px-2 py-2 font-mono text-xs">{evidenceSummary(c)}</td>)}
                   </tr>
-                  <tr className="border-b border-line">
-                    <th scope="row" className="py-2 pr-3 text-left font-normal text-muted">Formación (estado)</th>
-                    {selC.map((c) => <td key={c.id} className="px-2 py-2 text-xs">{c.claims.formacion.map((x) => STATUS_LABEL[x.status]).join('; ') || 'Sin registro'}</td>)}
-                  </tr>
+                  {FACT_ROWS.map(([label, fn]) => (
+                    <tr key={label} className="border-b border-line align-top">
+                      <th scope="row" className="py-2 pr-3 text-left font-normal text-muted">{label}</th>
+                      {selC.map((c) => <td key={c.id} className="px-2 py-2 text-xs">{fn(c)}</td>)}
+                    </tr>
+                  ))}
+                  <tr><td colSpan={selC.length + 1} className="pt-4 pb-1 kicker">Matriz de evaluación (criterios del cargo)</td></tr>
                   {roleCriteria.map((cr) => (
                     <tr key={cr.id} className="border-b border-line">
                       <th scope="row" className="py-2 pr-3 text-left font-normal">
