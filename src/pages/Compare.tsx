@@ -20,7 +20,7 @@ const FACT_ROWS: [string, (c: Candidate) => React.ReactNode][] = [
   }],
   ['Cargos de gestión (línea de tiempo)', (c) => {
     const ev = (timelines.find((t) => t.candidateId === c.id)?.events ?? []).filter((e) => e.kind === 'gestion_uni' || e.kind === 'cargo_publico')
-    return ev.length ? <ul className="space-y-0.5">{ev.slice(-5).map((e, i) => <li key={i}>{e.title} <span className="text-muted">({e.from.slice(0, 4)}{e.to ? `–${e.to.slice(0, 4)}` : ''})</span></li>)}</ul> : none
+    return ev.length ? <ul className="space-y-0.5">{ev.slice(-5).map((e, i) => <li key={i}>{e.title} <span className="text-muted">· {e.org} ({e.from.slice(0, 4)}{e.to ? `–${e.to.slice(0, 4)}` : ''})</span></li>)}</ul> : none
   }],
   ['Investigación (datos verificados)', (c) => {
     const v = c.claims.investigacion.filter((x) => ['verificado_primaria', 'corroborado'].includes(x.status)).length
@@ -30,7 +30,7 @@ const FACT_ROWS: [string, (c: Candidate) => React.ReactNode][] = [
     const r = incomes.filter((x) => x.candidateId === c.id).sort((a, b) => b.period.localeCompare(a.period))
     return r.length ? <ul>{r.filter((x) => x.period === r[0].period).map((x, i) => <li key={i}>{money(x.monthlyAmount)} <span className="text-muted">{x.role.split(' – ')[0]} · {x.period}</span></li>)}</ul> : none
   }],
-  ['Informes de control (presunta resp.)', (c) => (c.claims.control?.length ? `${c.claims.control.length} registro(s) — ver perfil` : none)],
+  ['Informes de control (presunta resp.; sólo alcanzan a quienes tuvieron cargos de gestión)', (c) => (c.claims.control?.length ? `${c.claims.control.length} registro(s) — ver perfil` : <span className="italic text-muted">Ninguno localizado</span>)],
   ['Propuestas registradas', (c) => {
     const n = proposals.filter((p) => p.candidateId === c.id).length
     return n ? `${n}` : none
