@@ -228,5 +228,11 @@
       "event": "Entrega de credenciales (el cronograma consigna esta fecha tanto para la 1.ª como para la 2.ª vuelta)",
       "sourceId": "src-rs-gaceta-175-2026"
     }
-  ]
+  ],
+  "debate": {
+    "video": "https://www.youtube.com/watch?v=qgF4OktF9Xo",
+    "date": "2026-10-07",
+    "organizer": "Comité Electoral Universitario (CEUNI)",
+    "transcript": null
+  }
 }

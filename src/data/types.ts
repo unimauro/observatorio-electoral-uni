@@ -310,6 +310,7 @@ export interface ElectionResults {
 }
 
 export interface SiteConfig {
+  debate?: { video: string; date: string; organizer: string; transcript: string | null }
   results?: ElectionResults
   calendar?: { date: string; event: string; sourceId: string }[]
   name: string

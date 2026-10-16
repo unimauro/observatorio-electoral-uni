@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Legend, PolarAngleAxis, PolarGrid, PolarRadiusAxis, Radar, RadarChart, ResponsiveContainer, Tooltip } from 'recharts'
-import { candidateById, listProposals, lists, sourceById } from '../data'
+import { candidateById, listProposals, lists, site, sourceById } from '../data'
 import type { Proposal, ProposalCategory } from '../data/types'
 import { ROLE_COLOR } from './charts'
 import { EmptyState } from './ui'
@@ -123,8 +123,36 @@ const ytLink = (url: string, t: string | null | undefined) => {
   return `${url}${url.includes('?') ? '&' : '?'}t=${secs}s`
 }
 
+function DebateBar() {
+  const d = site.debate
+  if (!d) return null
+  return (
+    <div className="card mb-4 flex flex-wrap items-center gap-3 p-4 text-sm">
+      <div className="mr-auto">
+        <p className="font-semibold">Debate de candidatos al Rectorado · {d.date}</p>
+        <p className="text-xs text-muted">Organizado por el {d.organizer}. Transcripción automática revisada parcialmente: ante dudas, vale el video.</p>
+      </div>
+      <a className="btn text-xs" href={d.video} target="_blank" rel="noreferrer">▶ Ver video completo</a>
+      {d.transcript ? (
+        <a className="btn-solid text-xs" href={`${import.meta.env.BASE_URL}${d.transcript}`} download>⬇ Descargar transcripción</a>
+      ) : (
+        <span className="chip">Transcripción en preparación</span>
+      )}
+    </div>
+  )
+}
+
 /** Citas textuales de lo dicho en el debate, con minuto y enlace al video. */
 export function DebateQuotes() {
+  return (
+    <>
+      <DebateBar />
+      <DebateQuoteList />
+    </>
+  )
+}
+
+function DebateQuoteList() {
   const quoted = listProposals.filter((p) => p.origin === 'debate' && p.quote)
   if (!quoted.length) {
     return (
