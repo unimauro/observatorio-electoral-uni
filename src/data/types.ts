@@ -307,6 +307,19 @@ export interface ElectionResults {
   lists: { listId: string; votesDocentes: number | null; votesEstudiantes: number | null; weightedPct: number | null; note: string }[]
   secondRound: { lists: string[]; date: string | null; note?: string } | null
   proclaimed: string | null
+  note?: string
+  /** Actas de escrutinio por estamento, transcritas sin datos de miembros de mesa. */
+  actas?: {
+    estamento: string
+    electoresHabiles: number
+    emitidos: number
+    blancos: number
+    nulos: number
+    finishedAt: string
+    votes: { listId: string; votes: number }[]
+    sourceId: string
+    note: string
+  }[]
 }
 
 export interface SiteConfig {

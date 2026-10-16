@@ -6286,5 +6286,20 @@
     "type": "normativa",
     "locator": "Art. 1: 'Dar por concluidas las designaciones de los señores LUIS ANTONIO LASTRA ESPINOZA, en el cargo de Presidente; ... de la Comisión Organizadora de la Universidad Nacional “José María Arguedas”.'",
     "status": "pendiente_revision"
+  },
+  {
+    "id": "src-ceuni-acta-estudiantes-pregrado-2026",
+    "title": "Acta electoral – Rector y vicerrectores – Estudiantes pregrado: C. Acta de escrutinio (16-10-2026)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": null,
+    "landingUrl": "https://www.ceuni.uni.edu.pe/eleccion-de-autoridades-y-elecciones-generales-2026/",
+    "publishedAt": "2026-10-16",
+    "type": "documento_electoral",
+    "identifier": null,
+    "locator": "Total de electores hábiles 13553; total votos emitidos 11905; finalizó el acto de escrutinio a las 16:06 del 16-10-2026.",
+    "status": "parcialmente_verificado",
+    "candidateIds": [],
+    "notes": "Imagen del acta difundida por mensajería el 16-10-2026; todavía no figura en el portal del CEUNI. Se transcriben sólo los votos; no se publica la imagen porque contiene datos personales de los miembros de mesa.",
+    "consultedAt": "2026-10-16"
   }
 ]

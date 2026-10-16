@@ -10,9 +10,9 @@
   "correctionsUrl": "https://github.com/unimauro/observatorio-electoral-uni/issues/new?template=correccion.yml",
   "independenceNote": "Proyecto ciudadano independiente. No es un portal oficial de la UNI ni del CEUNI, y no está vinculado a ninguna lista.",
   "results": {
-    "status": "no_publicado",
-    "source": "src-ceuni-portal-2026",
-    "asOf": "2026-10-16T00:41:00-05:00",
+    "status": "preliminar",
+    "source": "src-ceuni-acta-estudiantes-pregrado-2026",
+    "asOf": "2026-10-16T16:24:00-05:00",
     "lists": [
       {
         "listId": "lista-1",
@@ -80,7 +80,57 @@
     ],
     "secondRound": null,
     "proclaimed": null,
-    "note": "A las 00:41 del 16-10-2026 la votación aún no había empezado (jornada 10:00–16:00). En el portal CEUNI los botones 'PUBLICACIÓN DE RESULTADOS DE ESCRUTINIO' y 'PROCLAMACIÓN DE GANADORES' existen pero no tienen enlace. Según la Gaceta N.º 175, los resultados del escrutinio se publican el mismo 16-10-2026; posible 2.ª vuelta el 28-10-2026."
+    "note": "Hasta ahora sólo conocemos el acta de escrutinio de estudiantes de pregrado (cerrada a las 16:06). Faltan las actas de docentes y, si corresponde, de estudiantes de posgrado. El resultado final se calcula ponderando por estamento (art. 50 del Reglamento, RCU 0650-2026): el voto docente pesa 2/3 y el estudiantil 1/3, por lo que esta acta sola no define quién gana. Gana en primera vuelta quien obtenga el 50 % más uno de los votos válidos ponderados; si nadie lo logra, hay segunda vuelta entre las dos más votadas.",
+    "actas": [
+      {
+        "estamento": "Estudiantes de pregrado",
+        "electoresHabiles": 13553,
+        "emitidos": 11905,
+        "blancos": 48,
+        "nulos": 1708,
+        "finishedAt": "2026-10-16T16:06:00-05:00",
+        "votes": [
+          {
+            "listId": "lista-1",
+            "votes": 1922
+          },
+          {
+            "listId": "lista-2",
+            "votes": 1159
+          },
+          {
+            "listId": "lista-3",
+            "votes": 772
+          },
+          {
+            "listId": "lista-4",
+            "votes": 546
+          },
+          {
+            "listId": "lista-5",
+            "votes": 732
+          },
+          {
+            "listId": "lista-6",
+            "votes": 690
+          },
+          {
+            "listId": "lista-7",
+            "votes": 614
+          },
+          {
+            "listId": "lista-8",
+            "votes": 2777
+          },
+          {
+            "listId": "lista-9",
+            "votes": 937
+          }
+        ],
+        "sourceId": "src-ceuni-acta-estudiantes-pregrado-2026",
+        "note": "Acta electoral C (acta de escrutinio) del CEUNI, difundida el 16-10-2026; aún no publicada en el portal del CEUNI. Transcrita sin los datos de los miembros de mesa."
+      }
+    ]
   },
   "calendar": [
     {

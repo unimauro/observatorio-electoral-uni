@@ -133,7 +133,7 @@ export default function Dashboard() {
               Sólo <strong>{candidates.filter((c) => hasVerifiedIn(c, 'gestion') || hasVerifiedIn(c, 'investigacion')).length} de {candidates.length}</strong> candidaturas
               tienen algún cargo o logro confirmado con documento; el resto es declaración o está pendiente.
             </li>
-            <li>La votación de hoy: el CEUNI aún no publica resultados; la proclamación está prevista para el 04-11-2026.</li>
+            <li>Votación del 16-10: ya circula el acta de escrutinio de estudiantes de pregrado (ver Resultados); faltan las de docentes, que pesan 2/3. Proclamación prevista: 04-11-2026.</li>
           </ul>
           <Link to="/planes" className="link mt-3 inline-block text-sm font-semibold">¿Tienes un plan publicado? Envíalo →</Link>
         </div>
@@ -151,27 +151,57 @@ export default function Dashboard() {
               ) : (
                 <>
                   <p className={`mt-2 inline-block px-2 py-0.5 font-mono text-xs uppercase ${site.results.status === 'oficial' ? 'bg-ink text-paper' : 'border border-alert text-alert'}`}>
-                    {site.results.status === 'oficial' ? 'Oficial' : 'Preliminar (prensa)'} · {site.results.asOf}
+                    {site.results.status === 'oficial' ? 'Oficial' : 'Preliminar · parcial'} · {site.results.asOf.slice(0, 16).replace('T', ' ')}
                   </p>
-                  <table className="mt-3 w-full text-sm">
-                    <thead>
-                      <tr className="border-b border-ink text-left"><th className="py-1">Lista</th><th className="py-1 text-right">% ponderado</th><th className="py-1 pl-3">Nota</th></tr>
-                    </thead>
-                    <tbody>
-                      {site.results.lists.map((r) => (
-                        <tr key={r.listId} className="border-b border-line">
-                          <td className="py-1"><Link className="link" to={`/listas/${r.listId.split('-')[1]}`}>Lista {r.listId.split('-')[1]}</Link></td>
-                          <td className="py-1 text-right font-mono">{r.weightedPct == null ? '—' : `${r.weightedPct}%`}</td>
-                          <td className="py-1 pl-3 text-xs text-muted">{r.note}</td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
+                  {site.results.note && <p className="mt-2 text-xs text-muted">{site.results.note}</p>}
+                  {site.results.actas?.map((a) => {
+                    const valid = a.emitidos - a.blancos - a.nulos
+                    const max = Math.max(...a.votes.map((v) => v.votes))
+                    return (
+                      <div key={a.estamento} className="mt-3">
+                        <p className="text-sm font-semibold">Acta de escrutinio · {a.estamento}</p>
+                        <p className="font-mono text-[11px] text-muted">
+                          Emitidos {a.emitidos.toLocaleString('es-PE')} de {a.electoresHabiles.toLocaleString('es-PE')} hábiles ({((a.emitidos / a.electoresHabiles) * 100).toFixed(1)}%) · válidos {valid.toLocaleString('es-PE')} · blancos {a.blancos} · nulos {a.nulos.toLocaleString('es-PE')}
+                        </p>
+                        <ul className="mt-2 space-y-1" aria-label={`Votos por lista, ${a.estamento}`}>
+                          {[...a.votes].sort((x, y) => y.votes - x.votes).map((v) => {
+                            const n = v.listId.split('-')[1]
+                            const pct = (v.votes / valid) * 100
+                            return (
+                              <li key={v.listId} className="grid grid-cols-[4.5rem_1fr_6.5rem] items-center gap-2 text-xs" title={`Lista ${n}: ${v.votes} votos, ${pct.toFixed(2)}% de los válidos de este estamento`}>
+                                <Link className="link" to={`/listas/${n}`}>Lista {n}</Link>
+                                <span className="h-3 rounded-r bg-ink/80" style={{ width: `${(v.votes / max) * 100}%` }} aria-hidden />
+                                <span className="text-right font-mono">{v.votes.toLocaleString('es-PE')} · {pct.toFixed(1)}%</span>
+                              </li>
+                            )
+                          })}
+                        </ul>
+                        <p className="mt-1 text-[11px] text-muted">% sobre votos válidos de este estamento, sin ponderar. {a.note}</p>
+                        <Link className="link text-[11px]" to={`/fuentes#${a.sourceId}`}>Fuente</Link>
+                      </div>
+                    )
+                  })}
+                  {site.results.lists.some((r) => r.weightedPct != null) && (
+                    <table className="mt-3 w-full text-sm">
+                      <thead>
+                        <tr className="border-b border-ink text-left"><th className="py-1">Lista</th><th className="py-1 text-right">% ponderado</th><th className="py-1 pl-3">Nota</th></tr>
+                      </thead>
+                      <tbody>
+                        {site.results.lists.map((r) => (
+                          <tr key={r.listId} className="border-b border-line">
+                            <td className="py-1"><Link className="link" to={`/listas/${r.listId.split('-')[1]}`}>Lista {r.listId.split('-')[1]}</Link></td>
+                            <td className="py-1 text-right font-mono">{r.weightedPct == null ? '—' : `${r.weightedPct}%`}</td>
+                            <td className="py-1 pl-3 text-xs text-muted">{r.note}</td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  )}
                   {site.results.secondRound && <p className="mt-2 text-sm">Segunda vuelta: {site.results.secondRound.lists.map((l) => `Lista ${l.split('-')[1]}`).join(' vs. ')}{site.results.secondRound.date ? ` · ${site.results.secondRound.date}` : ''}</p>}
                   {site.results.proclaimed && <p className="mt-2 text-sm font-semibold">Proclamada: Lista {site.results.proclaimed.split('-')[1]}</p>}
                 </>
               )}
-              {site.results?.source && <Link className="link mt-2 inline-block text-xs" to={`/fuentes#${site.results.source}`}>Fuente</Link>}
+              {site.results?.source && !site.results.actas?.length && <Link className="link mt-2 inline-block text-xs" to={`/fuentes#${site.results.source}`}>Fuente</Link>}
             </div>
             {site.calendar?.length ? (
               <div className="card p-4">
