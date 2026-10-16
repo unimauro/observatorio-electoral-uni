@@ -16,6 +16,8 @@ interface Reto {
   nationalGoals: { doc: string; goal: string; url: string; sourceId: string }[]
   uniRole: string
   categories: string[]
+  /** Categoría que por sí sola vincula una propuesta al reto (null = sólo palabras clave). */
+  primaryCategory: string | null
   keywords: string[]
   questions: string[]
 }
@@ -29,13 +31,15 @@ interface UniFigure {
 }
 const data = retosJson as { retos: Reto[]; notConfirmed: string[]; uniFigures: UniFigure[] }
 
-/** Propuestas relacionadas: misma categoría o alguna palabra clave en su texto. */
+const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+
+/** Propuestas relacionadas: categoría principal del reto o palabra clave completa en el texto. */
 function related(r: Reto): Proposal[] {
-  const kws = r.keywords.map(fold)
+  const kws = r.keywords.map(fold).filter((k) => k.length > 2).map((k) => new RegExp(`(^|[^a-z0-9])${esc(k)}([^a-z0-9]|$)`))
   return proposals.filter((p) => {
-    if (r.categories.includes(p.category)) return true
+    if (r.primaryCategory && p.category === r.primaryCategory) return true
     const t = fold(`${p.title} ${p.description} ${p.quote ?? ''}`)
-    return kws.some((k) => k.length > 2 && t.includes(k))
+    return kws.some((re) => re.test(t))
   })
 }
 
@@ -159,7 +163,7 @@ export default function Retos() {
       <PageHeader kicker="Contexto" title="Retos del país y de la UNI">
         La próxima gestión gobernará la principal universidad pública de ingeniería del Perú frente a desafíos que el propio Estado ya fijó como objetivos
         nacionales al 2030 y 2050 (PEDN 2050 de CEPLAN, políticas sectoriales, ODS de la ONU). Aquí los resumimos con cifras oficiales y cruzamos lo que cada
-        lista ha propuesto sobre cada uno. El cruce es automático (por tema y palabras clave) y depende de las propuestas registradas.
+        lista ha propuesto sobre cada uno. El cruce es automático (categoría principal del reto o palabra clave en la propuesta) y depende de las propuestas registradas: puede omitir propuestas formuladas con otras palabras.
       </PageHeader>
       <nav aria-label="Retos" className="mb-8 flex flex-wrap gap-1.5">
         {data.retos.map((r) => (

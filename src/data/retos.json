@@ -77,7 +77,8 @@
         "¿Cómo se incorporaría la inteligencia artificial en los planes de estudio de todas las facultades, y con qué cronograma?",
         "¿Qué infraestructura de cómputo y datos propone la lista para investigación en IA, y cómo se financiaría?",
         "¿Qué reglas propone para el uso de IA por estudiantes y docentes en evaluaciones y en la gestión administrativa?"
-      ]
+      ],
+      "primaryCategory": "Inteligencia artificial"
     },
     {
       "id": "reto-clima-riesgo-energia",
@@ -162,7 +163,8 @@
         "¿Qué rol propone la lista para la UNI en la prevención y respuesta ante sismos y eventos de El Niño?",
         "¿Qué metas concretas plantea para la sostenibilidad del propio campus (energía, agua, residuos)?",
         "¿Cómo se articularía la investigación de la UNI con las metas nacionales de reducción de emisiones?"
-      ]
+      ],
+      "primaryCategory": "Sostenibilidad"
     },
     {
       "id": "reto-economia-empleo",
@@ -239,7 +241,8 @@
         "¿Qué mecanismos propone la lista para mejorar la inserción laboral de los egresados y cómo la medirá?",
         "¿Cómo se vincularía la UNI con empresas y mypes para elevar su productividad?",
         "¿Qué apoyo ofrecería a emprendimientos de estudiantes y egresados?"
-      ]
+      ],
+      "primaryCategory": "Empleabilidad"
     },
     {
       "id": "reto-seguridad",
@@ -304,7 +307,8 @@
       "questions": [
         "¿Qué propone la lista para la seguridad de estudiantes y personal dentro y en el entorno del campus?",
         "¿Cómo podría la investigación de la UNI apoyar a las autoridades en seguridad ciudadana y ciberseguridad, y bajo qué reglas de protección de datos?"
-      ]
+      ],
+      "primaryCategory": null
     },
     {
       "id": "reto-agua-mineria-recursos",
@@ -380,7 +384,8 @@
       "questions": [
         "¿Qué líneas de investigación propone la lista en agua, minería y medio ambiente, y con qué aliados?",
         "¿Cómo aseguraría que los laboratorios de la UNI presten servicios técnicos útiles al Estado y a las comunidades en estos temas?"
-      ]
+      ],
+      "primaryCategory": "Sostenibilidad"
     },
     {
       "id": "reto-infraestructura",
@@ -452,7 +457,8 @@
       "questions": [
         "¿Qué proyectos de infraestructura del campus prioriza la lista y con qué fuentes de financiamiento?",
         "¿Cómo participaría la UNI en la formulación o supervisión técnica de proyectos de infraestructura pública?"
-      ]
+      ],
+      "primaryCategory": "Infraestructura y laboratorios"
     },
     {
       "id": "reto-cti",
@@ -540,7 +546,8 @@
         "¿Cuántos recursos propone la lista destinar a investigación y de qué fuentes provendrían?",
         "¿Qué metas plantea en número de investigadores RENACYT, publicaciones o patentes, y cómo las reportará?",
         "¿Cómo se fortalecerían los programas de doctorado y la retención de investigadores?"
-      ]
+      ],
+      "primaryCategory": "Investigación científica"
     },
     {
       "id": "reto-calidad-educativa",
@@ -622,7 +629,8 @@
         "¿Qué medidas propone la lista para reducir la deserción y el tiempo de egreso?",
         "¿Cómo se mediría y mejoraría la calidad de la enseñanza, y qué rol tendría la acreditación?",
         "¿Qué apoyos ofrecería a ingresantes con brechas de preparación o de recursos económicos?"
-      ]
+      ],
+      "primaryCategory": "Calidad educativa"
     }
   ],
   "notConfirmed": [
