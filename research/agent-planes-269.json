@@ -1,0 +1,95 @@
+{
+  "agent": "agent-planes-269",
+  "consultedAt": "2026-10-16",
+  "sources": [],
+  "claims": [],
+  "proposals": [],
+  "leads": [],
+  "pending": [
+    {
+      "candidateId": "c-2-1",
+      "text": "Lista 2 (Padilla): en el debate CEUNI dijo 'El plan de gestión de gobierno para los próximos cinco años está acá, debidamente desarrollado' [00:51:25], sin citar URL ni nombre de movimiento. No localizado al 2026-10-16 en: portal CEUNI (página de la elección 2026, sitemap, búsqueda WP y API de medios: solo padrones, formatos e inscripciones), nota de RPP sobre el debate (sin enlaces a planes), web de FIM (API de medios), WebSearch abierto y por Scribd/Issuu/Drive. Siguiente paso: pedir el PDF a la lista o al CEUNI (Ley 27806); revisar redes de la lista con navegador si el enlace es público sin login."
+    },
+    {
+      "candidateId": "c-6-1",
+      "text": "Lista 6 (Alva): en el debate dijo 'nuestro plan de trabajo hemos presentado, hay 25 páginas, lo pueden leer' [02:04:18]; lema de cierre 'una UNI innovadora, inteligente y socialmente responsable' [03:47:19]. No localizado al 2026-10-16 en: portal CEUNI, RPP, WebSearch (nombre, lema, vicerrectores Palma/Guimaray), Scribd/Issuu/Drive. El único plan suyo hallado es el de 2021 (src-rx-plan-alva-2021, 20 páginas), que NO es el de 2026. Siguiente paso: solicitar el plan 2026 a la lista o al CEUNI."
+    },
+    {
+      "candidateId": "c-9-1",
+      "text": "Lista 9 (Arnao), movimiento 'Excelencia UNI': dijo 'Si ustedes revisan el plan que hemos presentado, está con indicadores' [03:58:32] y 'está en nuestro plan que en los primeros seis meses ... con indicadores que sean verificables' [01:16:33]. No localizado al 2026-10-16 en: portal CEUNI, web FIEECS (API de medios), RPP, WebSearch ('Excelencia UNI', Facebook, Scribd/Issuu/Drive). Existe un plan de Arnao de la elección 2021 enlazado desde src-rx-proactivo-uni-2021-planes (Drive 12PhyJ6ctHXOnRMC05jCCgKYduto6IKDe), que NO es el de 2026 y no se usó. Siguiente paso: solicitar el plan a la lista o al CEUNI."
+    }
+  ],
+  "siteUpdates": {
+    "plans": [],
+    "planSearchLog": [
+      {
+        "listId": "lista-2",
+        "status": "no_localizado",
+        "searched": [
+          {
+            "where": "Portal CEUNI (página elección 2026, sitemap, búsqueda y API WP)",
+            "at": "2026-10-16",
+            "result": "Sin planes publicados; solo padrones, formatos y listas"
+          },
+          {
+            "where": "Nota RPP del debate (src-rpp-debate-2026)",
+            "at": "2026-10-16",
+            "result": "Resume propuestas; sin enlace a planes"
+          },
+          {
+            "where": "Búsqueda web abierta (Google Drive, Scribd, Issuu, Facebook público, prensa)",
+            "at": "2026-10-16",
+            "result": "Sin resultados para el plan 2026"
+          }
+        ]
+      },
+      {
+        "listId": "lista-6",
+        "status": "no_localizado",
+        "searched": [
+          {
+            "where": "Portal CEUNI (página elección 2026, sitemap, búsqueda y API WP)",
+            "at": "2026-10-16",
+            "result": "Sin planes publicados; solo padrones, formatos y listas"
+          },
+          {
+            "where": "Nota RPP del debate (src-rpp-debate-2026)",
+            "at": "2026-10-16",
+            "result": "Resume propuestas; sin enlace a planes"
+          },
+          {
+            "where": "Búsqueda web abierta (Google Drive, Scribd, Issuu, Facebook público, prensa)",
+            "at": "2026-10-16",
+            "result": "Sin resultados para el plan 2026"
+          }
+        ]
+      },
+      {
+        "listId": "lista-9",
+        "status": "no_localizado",
+        "searched": [
+          {
+            "where": "Portal CEUNI (página elección 2026, sitemap, búsqueda y API WP)",
+            "at": "2026-10-16",
+            "result": "Sin planes publicados; solo padrones, formatos y listas"
+          },
+          {
+            "where": "Nota RPP del debate (src-rpp-debate-2026)",
+            "at": "2026-10-16",
+            "result": "Resume propuestas; sin enlace a planes"
+          },
+          {
+            "where": "Búsqueda web abierta (Google Drive, Scribd, Issuu, Facebook público, prensa)",
+            "at": "2026-10-16",
+            "result": "Sin resultados para el plan 2026"
+          }
+        ]
+      }
+    ]
+  },
+  "rejected": [
+    "Planes de trabajo de Fortunato Alva Dávila y Raymundo Arnao Rondán de la elección 2021 (enlazados desde ProActivo 2021): corresponden a otro proceso; no se registran como plan 2026 ni se extraen propuestas.",
+    "Resultados de búsqueda sobre 'Excelencia UNI' u homónimos (Padilla, Alva) en otras universidades (Atlántico, UNSA, etc.): no corresponden a la UNI 2026."
+  ],
+  "summary": "No se localizó en fuentes públicas el plan de gobierno 2026 de las listas 2, 6 y 9, aunque las tres afirmaron en el debate CEUNI del 07-10-2026 haberlo presentado (Lista 6: 25 páginas; Lista 9 'Excelencia UNI': con indicadores). Se revisó el portal CEUNI, la nota de RPP, webs de facultad y búsquedas abiertas. Solo existen los planes de 2021 de Alva y Arnao, que se descartan por ser de otro proceso. Estado sigue no_localizado; siguiente paso: solicitud a las listas o al CEUNI."
+}

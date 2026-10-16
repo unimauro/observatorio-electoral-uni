@@ -290,7 +290,8 @@
       "Periodo del decanato de la FIEE (resolución de elección o designación).",
       "Doctorado: especialidad e institución no encontradas (ORCID vacío; buscar en SUNEDU o en la hoja de vida de la lista). Leer la RR 3541-2023-UNI completa y la resolución de la Asamblea Universitaria de 2025 que lo eligió vicerrector de Investigación.",
       "Las resoluciones 037 y 038-2026-CEUNI (tachas) podrían precisar la verificación del grado; leer texto completo.",
-      "Para los 27 candidatos falta revisar en Infogob y Voto Informado (con captcha) si tuvieron candidaturas o cargos regionales o municipales. En El Peruano y gob.pe no aparecen cargos fuera de la UNI de Butler, Sánchez Espinoza, Huamán Pérez, Huamán Sánchez, Lazo, Guimaray, Mosquera, Villavicencio, Salinas, Rosales, Arnao, Gutiérrez Paucar ni Vergara. Esa ausencia no es un dato."
+      "Para los 27 candidatos falta revisar en Infogob y Voto Informado (con captcha) si tuvieron candidaturas o cargos regionales o municipales. En El Peruano y gob.pe no aparecen cargos fuera de la UNI de Butler, Sánchez Espinoza, Huamán Pérez, Huamán Sánchez, Lazo, Guimaray, Mosquera, Villavicencio, Salinas, Rosales, Arnao, Gutiérrez Paucar ni Vergara. Esa ausencia no es un dato.",
+      "No se hallaron proyectos con su nombre en los documentos de concursos del VRI-UNI revisados (2018–2026) ni en la relación de proyectos externos; revisar CTI Vitae por enlace directo si se obtiene su id_investigador y la Gaceta UNI."
     ],
     "corrections": [],
     "meta": {
@@ -461,6 +462,23 @@
             "src-tp-ep-ord032-2008-barranca"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Ganadora del Concurso de Investigación Formativa Regular 2026 con el proyecto FAUA-C-PFR-03-2026 \"Prototipo ecológico sostenible de infraestructura verde para la adaptación socioambiental como medida de mitigación ante el cambio climático. Anexo 22, Jicamarca, Huarochirí-Lima, 2025-2026\", por S/ 40,000 (RR 0675-2026-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-rr-0675-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Los reportes de ejecución de proyectos de facultades del VRI-UNI la registran como responsable de los proyectos FAUA \"Estudio y evaluación de biohuertos comunitarios con posibilidades de uso como oferta de espacios verdes productivos y de socialización en la comunidad\" (San Juan de Lurigancho; 2021, S/ 12,000, finalizado) y \"Proceso de poblamiento y conformación del espacio público. Caso: Quebrada 2 AA.HH. José Carlos Mariátegui\" (2022, S/ 12,000, finalizado).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fac-2021",
+            "src-pry-vri-fac-2022"
+          ],
+          "kind": "hecho"
         }
       ],
       "propuestas": [],
@@ -662,7 +680,34 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Investigador principal del proyecto Formativa Especial 2024 \"Efecto del uso de hidrógeno en un motor de combustión interna a gasolina con cilindrada de 1000 a 1200 centímetros cúbicos utilizando el método de formación mezcla hidrógeno – oxígeno\" (FIM-PFE-04-2024), con S/ 495,400 aprobados; fue uno de los cinco proyectos seleccionados en ese concurso.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fe-2024",
+            "src-pry-vri-fe-2024-nota"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Ganador del Concurso de Investigación Formativa Especial 2025 con el proyecto FIM-PFE-06-2025 \"Estudio experimental del uso de la mezcla de hidrógeno y gas natural comprimido como combustible en motores de combustión interna a gasolina…\", por S/ 100,000 (RR 1169-2025-UNI, 02-04-2025).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-rr-1169-2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Los reportes de ejecución de proyectos de facultades del VRI-UNI lo registran como responsable de \"Estudio de comportamiento, diseño, fabricación y control de un motor de combustión interna aplicado a un vehículo aéreo no tripulado como fuente propulsora\" (2019) y de \"Biodiésel de aceite de pescado: estudio experimental sobre los parámetros de performance y emisiones en un motor Diésel\" (2020, S/ 10,000 asignados).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fac-2019",
+            "src-pry-vri-fac-2020"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -795,7 +840,8 @@
       "Ubicar la R.R. que dispuso el encargo inicial de la Dirección de Admisión en 2025 (antes del 01-04-2025) y la R.R. N.° 2330-2025-UNI (designación de miembros del THU).",
       "Identificar la falta imputada en el PAD que terminó en la RD N.° 003-2021 (anulada) y el resultado del procedimiento retrotraído en 2025. Confirmar la identidad respecto a los informes de control de la UNAJMA (ver leads).",
       "Leer la RVM 323-2021-MINEDU (designación de Luis Antonio Lastra Espinoza en la UNAJMA) y buscar el CV que lo vincule con la UNI.",
-      "Confirmar si el Presidente de la Comisión Organizadora de la UNAJMA (PTE 2021-12 a 2022-06, S/ 14,500.00 CAS) es el candidato; ver lead."
+      "Confirmar si el Presidente de la Comisión Organizadora de la UNAJMA (PTE 2021-12 a 2022-06, S/ 14,500.00 CAS) es el candidato; ver lead.",
+      "Confirmar en el reporte de ejecución 2019 de facultades el monto asignado al proyecto del motor para vehículo aéreo no tripulado (las columnas del PDF no permiten asignarlo con certeza)."
     ],
     "corrections": [],
     "meta": {
@@ -933,6 +979,22 @@
             "src-deb-video-uni"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Investigador principal del proyecto Formativa VRI-2022 \"Análisis de la modalidad del servicio educativo universitario semipresencial, para mejorar la calidad educativa basado en medios tecnológicos e incrementar el número de alumnos en las universidades públicas\" (FIM-PF-16-2022), con S/ 40,000 asignados.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-f-2022"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Ganador del Concurso de Investigación Formativa Especial 2026 con el proyecto \"Desarrollo de plataforma de bus para nanosatélite CubeSat 3U con arquitectura de computación basada en FPGA para operación y gestión de subsistemas\" (FIM), por S/ 170,900 (RR 0675-2026-UNI, 21-05-2026).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-rr-0675-2026"
+          ],
+          "kind": "hecho"
         }
       ],
       "propuestas": [],
@@ -1085,7 +1147,9 @@
       "Fechas exactas del rectorado (aprox. 2009-2014; ya era rector en mayo de 2009 según RPP). La Gaceta UNI o las resoluciones de la Asamblea Universitaria de 2009 podrían precisarlas. En una entrevista de Perú21 (15-12-2015), el rector de entonces hizo afirmaciones sobre el fin del mandato de Padilla y una denuncia contra él; no se registran por ser declaraciones de un tercero sin resolución conocida. La nota de La República del 03-08-2014 («Fiscalización seguirá con investigación al ex rector de la UNI Aurelio Padilla») sólo pudo leerse por su titular: el cuerpo es ilegible y queda pendiente. Revisar si el claim controvertido sobre los buses (Perú21 2016) debe mostrarse; menciona a Padilla como integrante de la comisión.",
       "Universidad y año del doctorado y la maestría en Administración (la Res. 035-2026-CEUNI sólo indica la mención): no figuran en ALICIA, UNMSM, UNFV, UNAC, ESAN, UNE ni UNI. Revisar la hoja de vida presentada al CEUNI.",
       "Situación final de la destitución impuesta por la RR N.° 039 del 18-01-2016 (caso compra de buses 2010). La nulidad conocida (RR 2578-2023-UNI) proviene de la demanda de Humala. Buscar si Padilla impugnó ante el TSC o el Poder Judicial, o si la sanción quedó firme. Hay que tener en cuenta que en 2022 fue reincorporado como docente principal en aplicación de la Ley 31542 (acta CU N.° 22-2022) y en 2024 fue decano (e) de la FIM.",
-      "Padilla Ríos mostró en el debate su 'plan de gestión de gobierno para los próximos cinco años' (00:51:25); buscar versión pública."
+      "Padilla Ríos mostró en el debate su 'plan de gestión de gobierno para los próximos cinco años' (00:51:25); buscar versión pública.",
+      "Lista 2 (Padilla): en el debate CEUNI dijo 'El plan de gestión de gobierno para los próximos cinco años está acá, debidamente desarrollado' [00:51:25], sin citar URL ni nombre de movimiento. No localizado al 2026-10-16 en: portal CEUNI (página de la elección 2026, sitemap, búsqueda WP y API de medios: solo padrones, formatos e inscripciones), nota de RPP sobre el debate (sin enlaces a planes), web de FIM (API de medios), WebSearch abierto y por Scribd/Issuu/Drive. Siguiente paso: pedir el PDF a la lista o al CEUNI (Ley 27806); revisar redes de la lista con navegador si el enlace es público sin login.",
+      "En el debate declaró que el CISMID ganó un proyecto JICA de USD 5 millones durante su gestión; no se encontró documento del VRI que lo registre como responsable."
     ],
     "corrections": [],
     "meta": {
@@ -1188,7 +1252,16 @@
       ],
       "investigacion": [],
       "gestion": [],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "El reporte de ejecución de proyectos de facultades 2019 del VRI-UNI lo registra como jefe del proyecto FIIS \"Desarrollo de un prototipo para promover y evaluar la participación frecuente de los estudiantes usando sus dispositivos móviles\" (S/ 10,300, finalizado).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fac-2019"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -1391,7 +1464,16 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Declara en CTI Vitae tres proyectos registrados con institución CONCYTEC, sin fechas: \"Transferencia de tecnologías limpias en el sector lácteo\" (con Alfredo Oliveros Donohue), \"Síntesis de zeolita A como adsorbente\" y \"Cambio tecnológico y política ambiental: un análisis para la promoción de tecnologías limpias en el sector manufacturero\" (estos dos como investigador principal).",
+          "status": "declarado",
+          "sourceIds": [
+            "src-pry-cti-osorio"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -1594,7 +1676,16 @@
           "kind": "declaracion"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "El reporte de ejecución de proyectos de facultades 2021 del VRI-UNI lo registra como responsable del proyecto \"Control de calidad de agregados para concreto endurecido por métodos petro-mineralógicos\" (S/ 9,459, en proceso).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fac-2021"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [
         {
@@ -1788,7 +1879,16 @@
           "kind": "hecho_inferido"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Investigador principal del proyecto Formativa Regular 2024 \"Construcción de redes de difracción óptica sobre superficies reflectantes en relieve y su aplicación en el diseño de nuevos sensores de desplazamientos lineales y angulares\" (FIEE-PFR-50-2024), con S/ 45,000 aprobados.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fr-2024"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -2028,7 +2128,18 @@
           "kind": "hecho_inferido"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: FC-MF-9-2019 \"Diseño y construcción de dos fantomas de cráneo de alta resolución espacial… para la verificación de los planes de tratamientos de radiocirugía estereotáctica\" (S/ 43,000 asignados), FC-FI-28-2019 \"Análisis dosimétrico de detectores electrónicos basados en tecnología de matriz activa…\" (presupuesto S/ 31,229) y FC-PF-14-2021 \"Análisis dosimétrico de rayos X de kilovoltaje aplicados a pulmones de pacientes infectados de COVID-19…\" (S/ 34,057 asignados).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-f-2019",
+            "src-pry-vri-fi-2020",
+            "src-pry-vri-f-2021"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -2094,6 +2205,18 @@
         "displayName": "M. Montoya (arXiv 1503.06724)",
         "status": "pendiente",
         "note": "Bibliografía de un artículo del propio candidato cita \"M. Montoya: Thesis, Doctorat d'Etat, Universidad París XI, Orsay (1981)\" (según buscador; PDF no abierto). Sirve como pista para ubicar la tesis de 1981 en SUDOC/theses.fr."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-3-3",
+        "provider": "CTI Vitae",
+        "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17546",
+        "displayName": "Modesto Edilberto Montoya Zavaleta",
+        "status": "pendiente",
+        "note": "Declara proyectos UNI 2017–2024 (acuífero de Lima, detector 3D para radiocirugía, IA para fisión del 235U) y proyectos IPEN 1989–1993; sin financiador ni monto. Solo se registraron los que figuran en documentos del VRI."
       }
     ],
     "pendingSources": [
@@ -2235,7 +2358,16 @@
           "kind": "declaracion"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "El reporte de ejecución de proyectos de facultades 2021 del VRI-UNI lo registra como responsable del proyecto \"El impacto de la crisis del COVID 19 en el empleo y el ingreso en el mercado laboral urbano en el Perú\" (S/ 12,000, finalizado).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fac-2021"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [
         {
@@ -2626,7 +2758,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
       "Fechas exactas del periodo como decano FIEE (memorias 2010-2011 lo registran; blogs no institucionales hablan de elección en 2009). Buscar resoluciones de proclamación y memorias 2009/2013 en ocpla.uni.edu.pe.",
-      "Félix Víctor Cáceres Cárdenas no aparece en el PTE de la UNI (agosto y septiembre de 2026; regímenes CAS, 276, 728/OTROS, Altos Funcionarios y Ley Servir) con búsqueda por 'CACERES'. No se consultó el régimen de pensionistas. Verificar su condición laboral vigente en la UNI o meses anteriores."
+      "Félix Víctor Cáceres Cárdenas no aparece en el PTE de la UNI (agosto y septiembre de 2026; regímenes CAS, 276, 728/OTROS, Altos Funcionarios y Ley Servir) con búsqueda por 'CACERES'. No se consultó el régimen de pensionistas. Verificar su condición laboral vigente en la UNI o meses anteriores.",
+      "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades 2018–2022 (FIEE) con variantes de nombre y CTI Vitae por id directo."
     ],
     "corrections": [],
     "meta": {
@@ -2807,7 +2940,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Confirmar si 'Huamán Pérez, Fernando' (1 tesis de Ingeniería Física, 2015) en el Repositorio UNI es el candidato (FIQT); revisar el PDF de la tesis o RENATI (DNI del asesor) sin registrar datos personales."
+      "Confirmar si 'Huamán Pérez, Fernando' (1 tesis de Ingeniería Física, 2015) en el Repositorio UNI es el candidato (FIQT); revisar el PDF de la tesis o RENATI (DNI del asesor) sin registrar datos personales.",
+      "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FIQT y CTI Vitae por id directo."
     ],
     "corrections": [],
     "meta": {
@@ -3001,7 +3135,8 @@
       "No figura en la nota de RPP sobre las exposiciones de candidatos a rector (15-10-2026); sin otras fuentes públicas localizadas al 16-10-2026.",
       "Sin propuestas públicas de la Lista 5 localizadas (prensa, ProActivo, YouTube). Buscar en redes de la lista o en el portal CEUNI. Formación doctoral (especialidad/universidad): consultar SUNEDU. Pista: el directorio UNI del 11-05-2026 (portal.uni.edu.pe, inaccesible desde aquí) podría confirmar si sigue en el CEPRE.",
       "Doctorado no identificado (ni ORCID localizado). Confirmar si la licenciatura en Física UNI 2017 le corresponde y buscar su doctorado en la hoja de vida del CEUNI.",
-      "Sin entrada de asesor 'Huamán Sánchez, Alejandro Apolinario' (ni variantes sin tilde) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor de una tesis. Revisar RENATI o variantes abreviadas."
+      "Sin entrada de asesor 'Huamán Sánchez, Alejandro Apolinario' (ni variantes sin tilde) en el índice dc.contributor.advisor del Repositorio UNI al 2026-10-16; aparece como autor de una tesis. Revisar RENATI o variantes abreviadas.",
+      "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FIIS y CTI Vitae por id directo."
     ],
     "corrections": [],
     "meta": {
@@ -3201,7 +3336,8 @@
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
       "Grado de doctor: las notas FIM lo llaman 'Dr.' pero no se halló tesis doctoral en el repositorio UNI; verificar en SUNEDU/RENATI. Periodo exacto como director de escuela (resoluciones FIM).",
       "Doctorado no identificado: no hay tesis doctoral en ALICIA, UNI, UNFV, UNAC ni UNMSM; ORCID sin educación.",
-      "Buscar una fuente (CV en gob.pe de la UNTSJL, nota institucional o CTI Vitae) que vincule a Hugo Eliseo Gamarra Chinchay y José Aníbal Páuyac Huamán, de la Comisión Organizadora de la UNTSJL, con la UNI."
+      "Buscar una fuente (CV en gob.pe de la UNTSJL, nota institucional o CTI Vitae) que vincule a Hugo Eliseo Gamarra Chinchay y José Aníbal Páuyac Huamán, de la Comisión Organizadora de la UNTSJL, con la UNI.",
+      "Los reportes de facultades/VRI 2018–2026 revisados no lo registran; ya hay claims de Memorias UNI 2010–2011. Revisar memorias 2012–2017."
     ],
     "corrections": [],
     "meta": {
@@ -3358,7 +3494,17 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Investigador principal del proyecto de ampliación formativa 2018 FIGMM-AF-1-2018 \"Síntesis y caracterización de zeolita (LTA) y de marcos zeolíticos de imidazolato (ZIF) por el método de microondas\" (presupuesto S/ 15,000) y, en el reporte de facultades 2021, de \"Síntesis y aplicación del ZIF-8 (marcos zeolíticos de imidazolato) en la adsorción de cationes en solución y para filtros de iones de metales pesados provenientes de actividades mineras\" (S/ 9,459).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-amp-2018",
+            "src-pry-vri-fac-2021"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -3668,7 +3814,9 @@
       "Formación (doctorado) y cargos de gestión en la FIM no encontrados en fuentes abiertas. ORCID 0009-0008-8168-661X vacío. Revisar el portal de la FIM (sin respuesta) y SUNEDU.",
       "Doctorado no identificado: no hay tesis doctoral en ALICIA ni repositorios consultados. Las resoluciones 032 y 033-2026-CEUNI (tachas a su candidatura) podrían mencionar el grado: leerlas completas.",
       "Buscar un CV en gob.pe de Electro Puno o Electro Sur Este, o en el portal de transparencia de la UNTELS, que vincule a 'Fortunato Alva Dávila' con la FIM-UNI. Confirmar si sigue en el directorio de Electro Sur Este (nombrado el 22-05-2026).",
-      "Alva Dávila dijo en el debate que su plan de trabajo tiene 25 páginas (02:04:22); buscar el documento publicado por la Lista 6."
+      "Alva Dávila dijo en el debate que su plan de trabajo tiene 25 páginas (02:04:22); buscar el documento publicado por la Lista 6.",
+      "Lista 6 (Alva): en el debate dijo 'nuestro plan de trabajo hemos presentado, hay 25 páginas, lo pueden leer' [02:04:18]; lema de cierre 'una UNI innovadora, inteligente y socialmente responsable' [03:47:19]. No localizado al 2026-10-16 en: portal CEUNI, RPP, WebSearch (nombre, lema, vicerrectores Palma/Guimaray), Scribd/Issuu/Drive. El único plan suyo hallado es el de 2021 (src-rx-plan-alva-2021, 20 páginas), que NO es el de 2026. Siguiente paso: solicitar el plan 2026 a la lista o al CEUNI.",
+      "Declaró en debate tener una patente; buscar en INDECOPI/VRI \"concurso de patentes\" y en reportes de facultades FIM."
     ],
     "corrections": [],
     "meta": {
@@ -3792,7 +3940,24 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "El reporte de ejecución de proyectos de facultades 2019 del VRI-UNI lo registra como responsable del proyecto FIEE \"Diseño y fabricación de un transformador de corriente para altas frecuencias y altas intensidades de corriente usando un núcleo de material compuesto magnéticamente suave (SMC)\" (en ejecución).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fac-2019"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el VRI-UNI, integró el equipo de investigación, liderado por James Bravo Basaldúa, que convirtió un Volkswagen de 1965 en vehículo eléctrico con baterías de ion de litio (primera fase). La nota no indica fuente de financiamiento.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-vw-electrico"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -4031,7 +4196,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
-      "Otros cargos de gestión en la FC (jefaturas de departamento, coordinaciones) y vigencia del cargo de coordinador de acreditación; revisar fc.uni.edu.pe (respondió 406 al acceso automatizado)."
+      "Otros cargos de gestión en la FC (jefaturas de departamento, coordinaciones) y vigencia del cargo de coordinador de acreditación; revisar fc.uni.edu.pe (respondió 406 al acceso automatizado).",
+      "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FC con variantes."
     ],
     "corrections": [],
     "meta": {
@@ -4114,7 +4280,16 @@
           "kind": "hecho"
         }
       ],
-      "investigacion": [],
+      "investigacion": [
+        {
+          "text": "Obtuvo una beca del VRI-UNI de S/ 4,950 para presentar en LACCEI 2019 la ponencia \"Diseño de los mecanismos operativos que apoyan la obtención, mejora y sostenibilidad de las competencias blandas requeridos por el ABET: el caso de la Universidad Nacional de Ingeniería del Perú\".",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-laccei-2019"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "gestion": [
         {
           "text": "Encargado del Vicerrectorado Académico de la UNI a partir del 30-03-2021 (Resolución Rectoral N.º 0267-2021), según la Resolución Decanal N.º 034-21 de la FIIS.",
@@ -4160,6 +4335,16 @@
           "sourceIds": [
             "src-pte-ocds-osce-62982",
             "src-pte-ocds-osce-77064"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: dos proyectos de ampliación 2018 (FIIS-AF-1-2018 y FIIS-AF-2-2018, S/ 3,000 cada uno; registrado como \"Falconi Vazquez Rodolfo\"), FIIS-FI-24-2019 \"Elaboración del diagnóstico del nivel de servicio de atención en relación con la seguridad, aforo, sanidad y diseño en ingeniería en dos estaciones del servicio de transporte público del Metropolitano\" (presupuesto S/ 26,516) y FIIS-PF-20-2022 \"Eficacia de los resultados del Programa de Tutoría en alumnos con riesgo académico (ARA) en el escenario de distanciamiento social por el COVID-19…\" (S/ 30,000 asignados).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-amp-2018",
+            "src-pry-vri-fi-2020",
+            "src-pry-vri-f-2022"
           ],
           "kind": "hecho"
         }
@@ -4350,7 +4535,27 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: FIC-AF-1-2018 \"Reciclado de dióxido de carbono en el hormigón: un estudio de viabilidad\" (ampliación 2018, S/ 1,000), FIC-MF-2-2019 \"Detección de vibraciones, desplazamientos, humedad y temperatura de suelos por sensores de fibra óptica\" (S/ 38,250 asignados), FIC-FI-9-2020 \"Construcción de prototipo de Microscopio de Punta-proximal escaneadora con control de retroalimentación acústico (MPE/Acústico)…\" (presupuesto S/ 41,428) y FIC-PFR-37-2023 \"Microscopia de barrido con control acústico (MBCA)\" (S/ 40,000 en el concurso Formativa 2023).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-amp-2018",
+            "src-pry-vri-f-2019",
+            "src-pry-vri-fi-2020",
+            "src-vr-vri-formativa-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "La RR 2362-2022-UNI (17-11-2022) reconoce como proyecto de investigación con recursos no monetarios VRI-2022 \"Diseño, fabricación, caracterización y aplicación de sensores de fibra óptica tipo LPG a la medición de velocidades de flujo de gases\", a cargo de \"Luis Alberto Mosquera\" (FIC).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-rr-2362-2022"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -4386,6 +4591,18 @@
         "status": "pendiente",
         "note": "Nombre visible abreviado (\"Luis Mosquera\"); confirmar con ORCID antes de atribuir.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": null,
+        "worksCount": null,
+        "candidateId": "c-7-2",
+        "provider": "CTI Vitae",
+        "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=247",
+        "displayName": "Luis Alberto Mosquera Leiva",
+        "status": "pendiente",
+        "note": "La ficha declara además proyectos UNI 2005–2020 (velocímetro láser, triangulación láser, concreto inteligente, acelerómetro de fibra óptica) sin entidad financiadora ni monto; no se registraron como claims."
       }
     ],
     "pendingSources": [
@@ -4585,7 +4802,8 @@
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Sin registro ORCID con contenido ni otra fuente pública localizada al 16-10-2026.",
-      "Cargos de gestión en FIM/UNI no encontrados; confirmar si el doctorado UNFV 2021 corresponde al candidato (CV en CEUNI o CTI Vitae). Revisar fim.uni.edu.pe y resoluciones."
+      "Cargos de gestión en FIM/UNI no encontrados; confirmar si el doctorado UNFV 2021 corresponde al candidato (CV en CEUNI o CTI Vitae). Revisar fim.uni.edu.pe y resoluciones.",
+      "Fuera del proyecto FIM-PFR-47-2023 (ya registrado), no se hallaron otros; los reportes 2021–2022 mencionan a \"Helmuth Villavicencio Fernández\" (otra persona, FC) — no atribuir."
     ],
     "corrections": [],
     "meta": {
@@ -4762,7 +4980,53 @@
           "kind": "declaracion"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Según la relación de proyectos externos del VRI-UNI, figura como investigador de tres proyectos con financiamiento público externo: \"Sistema modular y autónomo para producir agua potable en zonas rurales\" (contrato C.133-PNICP-PIAP-2015), \"Síntesis, caracterización de materiales nanoestructurados híbridos basados en óxidos semiconductores (TiO2, ZnO) y materiales carbonosos…\" (223-FONDECYT-2015) y \"Recovery of lanthanides and other metals from WEEE\" (J015-FONDECYT-2016, convocatoria conjunta ERANet-LAC, 72,360 euros según la misma página). Para este último, el reporte de ejecución 2020 del VRI consigna el convenio de subvención N.° 015-2016-FONDECYT con aporte monetario de S/ 271,350 y no monetario de S/ 89,250 (total S/ 360,600).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-externos",
+            "src-pry-vri-externos-2020"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El VRI-UNI informó el cierre, el 19-08-2019, del proyecto \"Sistema modular y autónomo para producir agua potable en zonas rurales\", a cargo del Dr. Juan Rodríguez, desarrollado con cofinanciamiento de Innóvate Perú.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-cierre-agua"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Figura como responsable técnico del proyecto EU-BEGP \"Modernizando la transición digital y energética desde la economía circular en América Latina\" (101081473, Erasmus+ 2022, CBHE), vigente del 15-02-2023 al 14-02-2026, según el reporte de ejecución de recursos externos 2024 del VRI-UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-recext-2024"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Investigador principal de proyectos financiados por concursos internos del VRI-UNI: FC-FI-36-2019 (Formativa Interdisciplinaria, presupuesto S/ 33,294), FC-PF-30-2021 (S/ 38,571 asignados), FC-PFR-04-2024 (Formativa Regular, S/ 50,000 aprobados), FC-PFE-05-2025 (Formativa Especial 2025, S/ 100,000) y el proyecto Formativa Especial 2026 \"Desarrollo y validación experimental de un sistema para la producción de hidrógeno a partir de agua atmosférica\" (S/ 180,000, RR 0675-2026-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fi-2020",
+            "src-pry-vri-f-2021",
+            "src-pry-vri-fr-2024",
+            "src-pry-rr-1169-2025",
+            "src-pry-rr-0675-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Ganó en el Concurso de Equipamiento de Laboratorio para Grupos de Investigación 2025 (RR 0767-2025-UNI) la propuesta FC-EQ-06-2025 \"Sistema de aire acondicionado para la supercomputadora de la Facultad de Ciencias de la UNI\", por S/ 349,900.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-rr-0767-2025"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [
         {
@@ -4851,7 +5115,8 @@
       "Fechas de la gestión en PROCIENCIA (resoluciones de designación y cese).",
       "Leer la RP 064-2021-CONCYTEC-P (fecha de designación) y la resolución que dio por concluida su designación como director ejecutivo de PROCIENCIA (antes del 01-09-2024, cuando la dirección ya estaba encargada a otra persona). La RS 132-2018-PCM lo nombra representante de las universidades públicas ante el Consejo Directivo del CONCYTEC, pero no menciona la UNI: confirmar. Doctorado: institución pendiente.",
       "Ubicar la Resolución de Presidencia de CONCYTEC que lo designó y la que concluyó su designación como Director Ejecutivo de PROCIENCIA, para fijar el periodo exacto (el PTE local sólo lo observa en 2022-12).",
-      "Leer la resolución de 2013 que lo designa en el Consejo Directivo del Proyecto Innovación para la Competitividad en representación del MINEDU, y precisar en qué condición actuó."
+      "Leer la resolución de 2013 que lo designa en el Consejo Directivo del Proyecto Innovación para la Competitividad en representación del MINEDU, y precisar en qué condición actuó.",
+      "La relación de proyectos externos del VRI (año 2013) muestra la fila \"C.140-FINCYT-IB-2013 – JUAN MARTIN RODRIGUEZ RODRIGUEZ\" con el mismo título que el proyecto C.371-PNICP-PIAP-2014 (Annona muricata) de Karin Paucar Cuba; parece un error de transcripción. Verificar título real del contrato C.140-FINCYT-IB-2013 en resultados FINCyT/Innóvate 2013."
     ],
     "corrections": [],
     "meta": {
@@ -5015,7 +5280,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Doctorado UNAM (2010–2013) sólo declarado en ORCID: el catálogo TESIUNAM respondió HTTP 403 a la consulta automatizada; verificar manualmente en tesiunam.dgb.unam.mx."
+      "Doctorado UNAM (2010–2013) sólo declarado en ORCID: el catálogo TESIUNAM respondió HTTP 403 a la consulta automatizada; verificar manualmente en tesiunam.dgb.unam.mx.",
+      "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FIC y proyectos CISMID con financiamiento externo."
     ],
     "corrections": [],
     "meta": {
@@ -5137,7 +5403,26 @@
         }
       ],
       "gestion": [],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: FIGMM-MF-1-2019 \"Ensayos de mitigación de cadmio en sembríos de cacao en la zona del corredor Campo Verde-Honoria-Tournavista\" (S/ 43,500 asignados), FIGMM-FI-12-2020 \"Determinación de metales pesados en cultivos de quinua ubicados en la zona de Huacaybamba - Huánuco\" (presupuesto S/ 39,585) y FIGMM-PF-15-2022 \"Modelo de predicción de caída de bloques de roca por control estructural aplicado a taludes usando Quantum Machine Learning\" (S/ 40,000 asignados).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-f-2019",
+            "src-pry-vri-fi-2020",
+            "src-pry-vri-f-2022"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Ganó en el Concurso de Equipamiento de Laboratorio para Grupos de Investigación 2025 (RR 0767-2025-UNI) la propuesta FIGMM-EQ-07-2025 \"Digestor por microondas\", por S/ 179,000.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-rr-0767-2025"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -5370,7 +5655,25 @@
           "kind": "declaracion"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Investigador principal del proyecto Formativa Regular 2024 \"Análisis de la implementación de buenas prácticas para mejorar la recolección selectiva y valorización de residuos sólidos domiciliarios. Caso distrito San Martín de Porres, en Lima Metropolitana\" (FIEECS-PFR-40-2024), con S/ 49,999 aprobados.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fr-2024"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Los reportes de ejecución de proyectos de facultades del VRI-UNI lo registran como responsable de \"Factores que toma en cuenta el directivo en sus decisiones y sus implicancias en la gestión presupuestaria de la institución: caso universidades públicas en el Perú\" (2021, S/ 12,000, finalizado) y \"Procedimiento del gasto en una universidad pública y satisfacción del trabajador involucrado. Problemas y propuestas de mejoras: caso Universidad Nacional de Ingeniería\" (2022, S/ 12,000 asignados, finalizado).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fac-2021",
+            "src-pry-vri-fac-2022"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [
         {
@@ -5476,7 +5779,8 @@
       "Portal de transparencia UNI: cargos de gestión desempeñados",
       "Doctorado UNMSM 1999 sólo declarado en ORCID: Cybertesis UNMSM (API backend) no devuelve tesis a su nombre; posible tesis no digitalizada.",
       "Verificar con una fuente primaria (resolución SUNASS sobre el Consejo de Usuarios de Lima 2016-2018; resolución de la MML de 1997-1998) los cargos públicos que Arnao declara en su ORCID.",
-      "Arnao Rondán dijo que el plan de la Lista 9 'está con indicadores' (03:59:06); buscar el documento publicado."
+      "Arnao Rondán dijo que el plan de la Lista 9 'está con indicadores' (03:59:06); buscar el documento publicado.",
+      "Lista 9 (Arnao), movimiento 'Excelencia UNI': dijo 'Si ustedes revisan el plan que hemos presentado, está con indicadores' [03:58:32] y 'está en nuestro plan que en los primeros seis meses ... con indicadores que sean verificables' [01:16:33]. No localizado al 2026-10-16 en: portal CEUNI, web FIEECS (API de medios), RPP, WebSearch ('Excelencia UNI', Facebook, Scribd/Issuu/Drive). Existe un plan de Arnao de la elección 2021 enlazado desde src-rx-proactivo-uni-2021-planes (Drive 12PhyJ6ctHXOnRMC05jCCgKYduto6IKDe), que NO es el de 2026 y no se usó. Siguiente paso: solicitar el plan a la lista o al CEUNI."
     ],
     "corrections": [
       {
@@ -5617,6 +5921,14 @@
           "status": "verificado_primaria",
           "sourceIds": [
             "src-vr-alicia-gutierrez-2018"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según el VRI-UNI, integró (\"Dr. Agustín Gutiérrez Paucar\", FIEE) el equipo de investigación, liderado por James Bravo Basaldúa, que convirtió un Volkswagen de 1965 en vehículo eléctrico con baterías de ion de litio (primera fase). La nota no indica fuente de financiamiento.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-vw-electrico"
           ],
           "kind": "hecho"
         }
@@ -5776,7 +6088,43 @@
           "kind": "hecho"
         }
       ],
-      "proyectos": [],
+      "proyectos": [
+        {
+          "text": "Responsable técnico del proyecto PE501092552-2024-PROCIENCIA (esquema Posdoctoral 2024) \"Caracterización estructural, morfológica y electroquímica de las baterías de ion litio cilíndricas 18650 a partir de la síntesis de LFP y NMC\", en ejecución del 17-12-2024 al 17-06-2026, según el reporte de recursos externos 2024 del VRI-UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-recext-2024"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Investigador principal del proyecto Formativa Especial VRI-2022 \"Construcción y evaluación de prototipos de baterías ion-litio\" (FIQT-PF-03-2022), con S/ 150,000 asignados, y de una ampliación de S/ 27,000 aprobada por RR 1735-2023-UNI (23-06-2023).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fe-2022",
+            "src-pry-vri-fe-2023"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Investigador principal del proyecto Formativa Especial 2024 \"Construcción de un prototipo de batería cilíndrica ion Li para electromovilidad de una bicicleta eléctrica adaptada en la UNI\" (FIQT-PFE-01-2024), con S/ 500,000 aprobados; fue uno de los cinco proyectos seleccionados en ese concurso.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-pry-vri-fe-2024",
+            "src-pry-vri-fe-2024-nota"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Declara en CTI Vitae como investigador principal el proyecto \"Uso de extractos acuosos y etanólicos de la Annona muricata (Guanábana) como inhibidor ecológico de la corrosión del acero en medio ácido\" (dic. 2014 – jul. 2019), con institución FINCYT. En la relación de proyectos externos del VRI-UNI ese título figura con el contrato C.371-PNICP-PIAP-2014 a nombre de Karin María Paucar Cuba.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-pry-cti-vergara",
+            "src-pry-vri-externos"
+          ],
+          "kind": "declaracion"
+        }
+      ],
       "propuestas": [],
       "declaraciones": [],
       "proceso": [
@@ -5866,7 +6214,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Ubicar el acto (R.R./R.A.U.) por el que fue designado o encargado como Decano de la FIQT después del 30-05-2026 (gob.pe lo listaba como decano en junio de 2026)."
+      "Ubicar el acto (R.R./R.A.U.) por el que fue designado o encargado como Decano de la FIQT después del 30-05-2026 (gob.pe lo listaba como decano en junio de 2026).",
+      "Confirmar en la RDE de resultados de PROCIENCIA \"Proyectos Especiales: Posdoctorales 2024\" (resoluciones.prociencia.gob.pe) el monto del proyecto PE501092552-2024-PROCIENCIA; el reporte del VRI no consigna monto ejecutado."
     ],
     "corrections": [],
     "meta": {

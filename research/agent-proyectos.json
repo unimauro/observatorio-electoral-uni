@@ -1,0 +1,904 @@
+{
+  "agent": "proyectos",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "id": "src-pry-vri-externos",
+      "title": "Proyectos externos UNI (relación de proyectos ganadores con financiamiento externo, 2013–2020)",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/proyectos-externos-ganadores/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": null,
+      "locator": "\"C.133-PNICP-PIAP-2015 2015 JUAN MARTIN RODRIGUEZ RODRIGUEZ SISTEMA MODULAR Y AUTONOMO PARA PRODUCIR AGUA POTABLE EN ZONAS RURALES\"; \"223-FONDECYT-2015 2015 JUAN MARTIN RODRIGUEZ RODRIGUEZ SÍNTESIS, CARACTERIZACIÓN DE MATERIALES NANOESTRUCTURADOS HÍBRIDOS…\"; \"J015-FONDECYT-2016 2016 JUAN MARTIN RODRIGUEZ RODRIGUEZ … RECOVERY OF LANTHANIDES AND OTHER METALS FROM WEEE (72,360.00 euros)\"; \"C.371-PNICP-PIAP-2014 2014 KARIN MARIA PAUCAR CUBA USO DE EXTRACTO ACUOSO Y ETANOLICOS DE LA ANNONA MURICATA…\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1",
+        "c-9-3"
+      ],
+      "notes": "Tabla por año (N° contrato, año, investigador, proyecto)."
+    },
+    {
+      "id": "src-pry-vri-externos-2020",
+      "title": "Ejecución del financiamiento de proyectos de investigación con recursos externos – Año 2020",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2021/07/Proyectos-externos-2020.pdf",
+      "landingUrl": "https://vri.uni.edu.pe/proyectos-externos-ganadores/",
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"VI-J15-2016-FT Dr. Juan Rodríguez Rodríguez RECOVERY OF LANTHANIDES AND OTHER METALS FROM WEEE-CONVENIO DE SUBVENCIÓN N°015-2016-FONDECYT S/. 271,350.00 S/89,250.00 S/360,600.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-cierre-agua",
+      "title": "Cierre de proyecto \"Sistema modular y autónomo para producir agua potable en zonas rurales\"",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/cierre-de-proyecto-sistema-modular-y-autonomo-para-producir-agua-potable-en-zonas-rurales/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": null,
+      "locator": "\"El pasado lunes 19 de agosto de 2019, se llevó a cabo el cierre de Proyecto del «Sistema modular y autónomo para producir agua potable en zonas rurales», a cargo del Dr. Juan Rodríguez… Este proyecto se desarrolló gracias al cofinanciamiento con Innóvate Perú.\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-recext-2024",
+      "title": "Ejecución del financiamiento de proyectos de investigación con recursos externos – Año 2024",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2025/07/Ejecucion-recursos-externos-2024-1.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"PE501092552-2024-PROCIENCIA Caracterización estructural, morfológica y electroquímica de las baterías de ion litio cilíndricas 18650 a partir de la síntesis de LFP y NMC POSDOCTORAL 2024 Dr. Abel Fernando Vergara Sotomayor En ejecución 17/12/2024 17/06/2026\"; \"101081473-EU-BEGP-ERASMUS-EDU-2022-CBHE EU-BEGP: MODERNIZANDO LA TRANSICIÓN DIGITAL Y ENERGÉTICA DESDE LA ECONOMÍA CIRCULAR EN AMÉRICA LATINA ERASMUS 2022 Dr. Juan Martín Rodriguez Rodriguez En ejecución 15/02/2023 14/02/2026\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3",
+        "c-8-1"
+      ],
+      "notes": "Sección \"UNI: proyectos vigentes 2024 con financiamiento de PROCIENCIA (Fte. Fto. donaciones y transferencias)\"; columna \"Responsable técnico\"."
+    },
+    {
+      "id": "src-pry-vri-fe-2022",
+      "title": "Ejecución presupuestal de proyectos de investigación Formativa Especial VRI-2022",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2024/01/Proyectos-Formativa-Especial-2022.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"3 Vergara Soromayor, Abel Fernando Construcción y Evaluación de Prototipos de Baterías Ión-litio FIQT-PF-03-2022 150,000.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3"
+      ],
+      "notes": "El documento escribe \"Soromayor\"; el código y el proyecto coinciden con el registro 2023 a nombre de \"Abel Vergara Sotomayor\"."
+    },
+    {
+      "id": "src-pry-vri-fe-2023",
+      "title": "Proyectos de Investigación Formativa Especial 2023",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2025/07/Proyectos-Formativa-especial-2023.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"Construcción y evaluación de prototipos de baterías de IÓN-LITIO, aprobado por R.R. 1735-2023-UNI el 23.06.2023 FIQT-PFE-03-2022 Abel Vergara Sotomayor 27,000.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-fe-2024",
+      "title": "Relación de proyectos Formativa Especial 2024",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2025/07/Relacion-de-Proyectos-Formativa-Especial-2024-05-proyectos.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"1 FIQT-PFE-01-2024 Construcción de un prototipo de batería cilíndrica ion Li para electromovilidad de una bicicleta eléctrica adaptada en la UNI Vergara Sotomayor, Abel Fernando FIQT 500,000.00\"; \"4 FIM-PFE-04-2024 Efecto del uso de hidrógeno en un motor de combustión interna a gasolina con cilindrada de 1000 a 1200 centímetros cúbicos utilizando el método de formación mezcla hidrógeno – oxígeno Lastra Espinoza, Luis Antonio FIM 495,400.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3",
+        "c-1-3"
+      ],
+      "notes": "Columnas \"Monto aprobado\" y \"Monto ejecutado\"; sólo se usa el monto aprobado."
+    },
+    {
+      "id": "src-pry-vri-fe-2024-nota",
+      "title": "UNI financian a 5 proyectos seleccionados en concurso Formativa Especial hasta 500 mil soles cada proyecto",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/uni-financian-a-5-proyectos-seleccionados-en-concurso-formativa-especial-hasta-500-mil-soles-cada-proyecto/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": null,
+      "locator": "\"fueron seleccionados cinco proyectos liderados por el Dr. Abel Fernando Vergara Sotomayor, Dr. César Castromonte Flores, MSc. Atilio Mendoza Apolaya, Dr. Luis Antonio Lastra Espinoza y la Dra. Carmen Rosalía Matos Avalos; a quienes se les otorga el financiamiento de hasta 500 mil soles cada proyecto\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-9-3",
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-rr-1169-2025",
+      "title": "Resolución Rectoral N.° 1169-2025-UNI – ganadores del Concurso de Investigación Formativa Especial 2025",
+      "author": "Universidad Nacional de Ingeniería – Rectorado",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2025/04/RR-1169-2025.pdf",
+      "landingUrl": null,
+      "publishedAt": "2025-04-02",
+      "type": "normativa",
+      "identifier": null,
+      "locator": "\"Artículo Único. – Oficializar el listado de ganadores del “Concurso de Investigación Formativa Especial…\"; \"FC-PFE-05-2025 Rodriguez Rodríguez, Juan Martin … nanorods de ZnO, grafeno dopados con Ce, Sm y P para la producción fotocatalítica de Hidrógeno verde y su fijación como NH3 … 100 000\"; \"FIM-PFE-06-2025 Lastra Espinoza, Luis Antonio … mezcla de hidrogeno y gas natural comprimido como combustible en motores de combustión interna a gasolina … 100 000\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1",
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-rr-0675-2026",
+      "title": "Resolución Rectoral N.° 0675-2026-UNI – ganadores del Concurso de Proyectos de Investigación Formativa Regular y Formativa Especial 2026",
+      "author": "Universidad Nacional de Ingeniería – Rectorado",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2026/05/RR-0675-2026.pdf",
+      "landingUrl": "https://vri.uni.edu.pe/concurso-proyectos-formativa-2026/",
+      "publishedAt": "2026-05-21",
+      "type": "normativa",
+      "identifier": null,
+      "locator": "Art. 1 (Formativa Especial 2026): \"Rodríguez Rodríguez Juan – Desarrollo y validación experimental de un sistema para la producción de hidrógeno a partir de agua atmosférica – FC – S/ 180 000\"; \"Padilla Rios Aurelio – Desarrollo de plataforma de bus para Nanosatélite CubeSat 3U con arquitectura de computación basada en FPGA para operación y gestión de subsistemas – FIM – S/ 170 900\". Formativa Regular: \"FAUA-C-PFR-03-2026 Rocio Margarita Cacho Cruz – Facultad de Arquitectura, Urbanismo y Artes – Prototipo ecológico sostenible de infraestructura verde… Jicamarca, Huarochirí- Lima, 2025-2026 – S/ 40,000\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1",
+        "c-2-1",
+        "c-1-2"
+      ],
+      "notes": "La RR 0794-2026-UNI modifica la RR 0675-2026 (reemplazo de un integrante, Dr. Luis Miguel Romero Goytendia); no menciona a candidatos."
+    },
+    {
+      "id": "src-pry-vri-fr-2024",
+      "title": "Proyectos de Investigación Formativa Regular 2024 (montos aprobados y ejecutados)",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2025/07/Gastos-Proyectos-Formativa-Regular-2024.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"FC-PFR-04-2024 Rodriguez Rodriguez Juan Martin 50,000.00\"; \"FIEECS-PFR-40-2024 Arnao Rondán Raymundo Ildefonzo 49,999.00\"; \"FIEE-PFR-50-2024 Pauyac Huaman Jose Anibal 45,000.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1",
+        "c-9-1",
+        "c-3-2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-f-2022",
+      "title": "Ejecución presupuestal de proyectos de investigación Formativa VRI-2022",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2024/01/Proyectos-Formativa-2022.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"15 Rosales Huamani Jimmy Aurelio Modelo de Predicción de caída de bloques de roca por control estructural aplicado a taludes usando Quantum Machine Learning FIGMM-PF-15-2022 40,000\"; \"16 Padilla Ríos Aurelio Marcelo Análisis de la modalidad del servicio educativo universitario semipresencial… FIM-PF-16-2022 40,000\"; \"20 Falconi Vásquez Rodolfo Elías Eficacia de los Resultados del Programa de Tutoría en Alumnos con Riesgo Académico (ARA)… FIIS-PF-20-2022 30,000\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-3",
+        "c-2-1",
+        "c-7-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-f-2021",
+      "title": "Ejecución presupuestal de proyectos de investigación Formativa VRI-2021",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2022/03/Ejecucion-Proyectos-Formativa-VRI-2021.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"14 Montoya Zavaleta, Modesto Edilberto Análisis dosimétrico de rayos X de kilovoltaje aplicados a pulmones de pacientes infectados de COVID-19… FC-PF-14-2021 34,057.00\"; \"30 Rodriguez Rodriguez, Juan Martin Síntesis y estudios de fotoactividad de películas delgadas de matriz de nanorods de ZnO puros y dopados. FC-PF-30-2021 38,571.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-3",
+        "c-8-1"
+      ],
+      "notes": "Columna \"PPTO. asignado\"."
+    },
+    {
+      "id": "src-pry-vri-fi-2020",
+      "title": "Reporte general de gastos de proyectos de investigación – Formativa Interdisciplinaria 2020",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2021/07/Ejecucion-Proyectos-de-Investigacion-Formativa-2020.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"18 Mosquera Leiva, Luis Alberto Construcción de prototipo de “Microscopio de Punta-proximal escaneadora con control de retroalimentación acústico (MPE/Acústico)”… FIC-FI-9-2020 41,428\"; \"21 Rosales Huamani, Jimmy Aurelio Determinación de metales pesados en cultivos de quinua ubicados en la zona de Huacaybamba - Huánuco FIGMM-FI-12-2020 39,585\"; \"29 Falconi Vasquez, Rodolfo Elías Elaboración del diagnóstico del nivel de servicio… metropolitano… FIIS-FI-24-2019 26,516\"; \"33 Montoya Zavaleta, Modesto Edilberto Análisis dosimetrico de detectores electrónicos basados en tecnología de matriz activa… FC-FI-28-2019 31,229\"; \"39 Rodriguez Rodriguez, Juan Martín Estudio de la influencia de la morfología en la separación fotoelectroquímica… nanorods de Zno/TiO2 FC-FI-36-2019 33,294\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-2",
+        "c-8-3",
+        "c-7-1",
+        "c-3-3",
+        "c-8-1"
+      ],
+      "notes": "Columna \"Presupuesto\"."
+    },
+    {
+      "id": "src-pry-vri-f-2019",
+      "title": "Ejecución de recursos ordinarios en proyectos de investigación formativa – Año 2019",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2020/01/PROYECTOs-EJECUTADOS-FORMATIVA-VRI-2019.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"Montoya Zavaleta, Modesto FC-MF-9-2019 [Diseño y construcción de dos fantomas de cráneo de alta resolución espacial…] S/. 43,000\"; \"Mosquera Leiva Luis Alberto FIC-MF-2-2019 [Detección de vibraciones, desplazamientos, humedad y temperatura de suelos por sensores de fibra óptica] S/. 38,250\"; \"Rosales Huamaní, Jimmy Aurelio FIGMM-MF-1-2019 Ensayos de mitigación de cadmio en sembrios de cacao en la zona del corredor campo verde-honoria-tournavista S/. 43,500\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-3",
+        "c-7-2",
+        "c-8-3"
+      ],
+      "notes": "\"Fuente de financiamiento: Recursos Ordinarios\"; columna \"PPTO asignado\"."
+    },
+    {
+      "id": "src-pry-vri-amp-2018",
+      "title": "Relación de proyectos de investigación formativa por ampliación – 2018",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2019/11/Transparencia-Concurso-de-Proyectos-por-Ampliaci%C3%B3n-Formativa-2018.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"8 FIGMM-AF-1-2018 Lazo Jara, Antonio Sintesís y caracterización de zeolita (LTA) y de marcos zeolíticos de imidazolato (ZIF-Q) por el método de microoondas S/. 15,000\"; \"12 FIC-AF-1-2018 Mosquera Leiva Luis Alberto Reciclado de dióxido de carbono en el hormigón: un estudio de viabilidad S/. 1,000\"; \"19 FIIS-AF-1-2018 Falconi Vazquez Rodolfo … S/. 3,000\"; \"20 FIIS-AF-2-2018 Falconi Vazquez Rodolfo … S/. 3,000\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-3",
+        "c-7-2",
+        "c-7-1"
+      ],
+      "notes": "\"Fuente de Financiamiento: Recursos Ordinarios\"; columna \"Presupuesto\". El documento escribe \"Falconi Vazquez\"."
+    },
+    {
+      "id": "src-pry-rr-0767-2025",
+      "title": "Resolución Rectoral N.° 0767-2025-UNI – ganadores del Concurso de Equipamiento de Laboratorio para Grupos de Investigación 2025",
+      "author": "Universidad Nacional de Ingeniería – Rectorado",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2025/04/RR-0767-2025.pdf",
+      "landingUrl": null,
+      "publishedAt": "2025-03-19",
+      "type": "normativa",
+      "identifier": null,
+      "locator": "\"Artículo 1°. – Aprobar el listado de ganadores del Concurso de Equipamiento de Laboratorio para Grupos de Investigación 2025\"; \"FC-EQ-06-2025 Rodríguez Rodríguez, Juan Martin CONSOLIDADO Sistema de aire acondicionado para la supercomputadora de la Facultad de Ciencias de la UNI. S/. 349 900\"; \"FIGMM-EQ-07-2025 Rosales Huamani, Jimmy Aurelio CONSOLIDADO Digestor por Microondas S/. 179 000\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1",
+        "c-8-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-rr-2362-2022",
+      "title": "Resolución Rectoral N.° 2362-2022-UNI – reconocimiento de Proyectos de Investigación con Recursos No Monetarios VRI-2022",
+      "author": "Universidad Nacional de Ingeniería – Rectorado",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2022/11/RR-2362-2022.pdf",
+      "landingUrl": null,
+      "publishedAt": "2022-11-17",
+      "type": "normativa",
+      "identifier": null,
+      "locator": "\"Artículo único.- Reconocer los Proyectos de Investigación con Recursos No Monetarios VRI-2022\"; \"34 24-2022-002232 Diseño, fabricación, caracterización y aplicación de sensores de fibra óptica tipo lpg a la medición de velocidades de flujo de gases Luis Alberto Mosquera FIC\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-2"
+      ],
+      "notes": "Coincidencia de nombre y apellido paterno + FIC; el proyecto coincide con el que declara en CTI Vitae (src-gr-cti-mosquera)."
+    },
+    {
+      "id": "src-pry-vri-fac-2021",
+      "title": "Ejecución de recursos presupuestales – Proyectos de investigación – Facultades, año 2021",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2022/03/Ejecucion-Facultades-2021.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"5 Estudio y evaluación de biohuertos comunitarios… San Juan de Lurigancho Finalizado Sí 12,000.00 Dra. Arq. Rocío Cacho Cruz\"; \"2 Factores que toma en cuenta el directivo en sus decisiones y sus implicancias en la gestión presupuestaria de la institución: caso Universidades públicas en el Perú. Finalizado Sí Dr. Raymundo Arnao Rondán 12,000.00\"; \"4 El impacto de la crisis del COVID 19 en el empleo y el ingreso en el mercado laboral urbano en el Perú. Finalizado Sí Dr. Ulises Humala Tasso 12,000.00\"; \"4 Control de calidad de agregados para concreto endurecido por métodos petro-mineralógicos. En proceso Dr. Ing. Chirif Rivera Luis Humberto S/. 9,459.00\"; \"5 Síntesis y aplicación del ZIF-8… Dr. Lic. Lazo Jara Antonio Nolberto S/. 9,459.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2",
+        "c-9-1",
+        "c-4-1",
+        "c-3-1",
+        "c-5-3"
+      ],
+      "notes": "Proyectos financiados por los institutos de investigación de cada facultad (recursos UNI); primera cifra = presupuesto asignado."
+    },
+    {
+      "id": "src-pry-vri-fac-2022",
+      "title": "Ejecución de recursos presupuestales – Proyectos de investigación – Facultades, año 2022",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2024/01/Ejecucion-facultades-2022.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"6 Proceso de poblamiento y conformación del espacio público. Caso: Quebrada 2 AA.HH. José Carlos Mariátegui, distrito San Juan de Lurigancho. FINALIZADO SI Rocío Cacho Cruz 12,000.00\"; \"5 Procedimiento del gasto en una universidad pública y satisfacción del trabajador involucrado. Problemas y propuestas de mejoras: Caso Universidad Nacional de Ingeniería. FINALIZADO SI Arnao Rondan, Raymundo Idelfonso 12,000.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-2",
+        "c-9-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-fac-2019",
+      "title": "Ejecución de recursos presupuestales – Proyectos de investigación – Facultades, año 2019",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2020/03/Ejecuci%C3%B3n-Facultades-3-2019.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"4 Diseño y Fabricación de un Transformador de Corriente para Altas Frecuencias y Altas Intensidades de Corriente usando un Nucleo de Material Compuesto Magneticamente Suave (SMC) EN EJECUCION Ing. Modesto Tomas Palma García\"; \"6 Desarrollo De Un Prototipo Para Promover Y Evaluar La Participación Frecuente De Los Estudiantes Usando Sus Dispositivos Moviles Jefe de Proyecto: Mg. Javier Concepción Sánchez Espinoza Finalizado 10,300.00\"; \"1 ESTUDIO DE COMPORTAMIENTO, DISEÑO, FABRICACION Y CONTROL DE UN MOTOR DE COMBUSTION INTERNA APLICADO A UN VEHICULO AEREO NO TRIPULADO COMO FUENTE PROPULSORA En proceso Dr. Luis A. Lastra Espinoza\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-2",
+        "c-2-2",
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-fac-2020",
+      "title": "Ejecución de recursos presupuestales – Proyectos de investigación formativa – Facultades, año 2020",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/wp-content/uploads/2021/08/Ejecucion-proyectos-investigacion-Facultades-2020.pdf",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "documento_institucional",
+      "identifier": null,
+      "locator": "\"1 Biodiésel de aceite de pescado: estudio experimental sobre los parámetros de performance y emisiones en un motor Diésel En Proceso No Lastra Espinoza, Luis 10,000.00\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-3"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-laccei-2019",
+      "title": "Investigaciones que obtuvieron la beca LACCEI 2019 por el VRI",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/investigaciones-que-obtuvieron-la-beca-laccei-2019-por-el-vri/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": null,
+      "locator": "\"3 Dr. Rodolfo Elias Falconi Vasquez Diseño de los mecanismo operativos que apoyan la obtención, mejora y sostenibilidad de las competencias blandas requeridos por el ABET: El caso de la Universidad Nacional de Ingeniería del Perú S/. 4950.00 Soles (equivalente a $1500.00 Dólares)\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-7-1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "src-pry-vri-vw-electrico",
+      "title": "UNI convierte antiguo Volkswagen en un vehículo eléctrico sostenible en primera fase de investigación",
+      "author": "Vicerrectorado de Investigación – UNI",
+      "url": "https://vri.uni.edu.pe/uni-convierte-antiguo-volkswagen-en-un-vehiculo-electrico-sostenible-en-primera-fase-de-investigacion/",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "portal_institucional",
+      "identifier": null,
+      "locator": "\"El equipo de investigación es liderado por James Bravo Basaldua PhD, e integrado por los investigadores de la Facultad de Ingeniería Eléctrica y Electrónica, Dr. Rodolfo Manuel Moreno Martínez, Dr. Modesto Tomás Palma García, Dr. Agustín Gutiérrez Paucar y el profesor José Luis García.\"",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-6-2",
+        "c-9-2"
+      ],
+      "notes": "La nota no indica fuente ni monto de financiamiento."
+    },
+    {
+      "id": "src-pry-cti-osorio",
+      "title": "Ficha CTI Vitae de César Javier Osorio Carrera – sección Proyectos de Investigación",
+      "author": "CONCYTEC (información autodeclarada)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=5093",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": null,
+      "locator": "\"Transferencia de tecnologias limpias en el sector lacteo … CONSEJO NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION TECNOLOGICA - CONCYTEC … ALFREDO OLIVEROS DONOHUE, CESAR OSORIO CARRERA\"; \"Sintesis de zeolita A como adsorbente … CONCYTEC … CESAR OSORIO CARRERA\"; \"Cambio tecnologico y politica ambiental : un analisis para la promocion de tecnologias limpias en el sector manufacturero … CONCYTEC CESAR OSORIO CARRERA\"",
+      "status": "declarado",
+      "candidateIds": [
+        "c-2-3"
+      ],
+      "notes": "Misma URL que src-gr-cti-osorio; se registra aparte porque cita la sección de proyectos. El directorio advierte que la información es autorreferenciada. Sin fechas en esos registros."
+    },
+    {
+      "id": "src-pry-cti-vergara",
+      "title": "Ficha CTI Vitae de Abel Fernando Vergara Sotomayor – sección Proyectos de Investigación",
+      "author": "CONCYTEC (información autodeclarada)",
+      "url": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=11470",
+      "landingUrl": null,
+      "publishedAt": null,
+      "type": "registro_publico",
+      "identifier": null,
+      "locator": "\"Uso de extractos acuosos y etanólicos de la Annona muricata (Guanábana) como inhibidor ecológico de la corrosión del acero en medio ácido … FONDO PARA LA INNOVACIÓN, CIENCIA Y TECNOLOGÍA - FINCYT Ingeniería y Tecnología Ingeniería Química Diciembre 2014 Julio 2019 ABEL FERNANDO VERGARA SOTOMAYOR\"",
+      "status": "declarado",
+      "candidateIds": [
+        "c-9-3"
+      ],
+      "notes": "Misma URL que src-gr-cti-vergara; se registra aparte por la sección de proyectos."
+    }
+  ],
+  "claims": [
+    {
+      "candidateId": "c-8-1",
+      "section": "proyectos",
+      "text": "Según la relación de proyectos externos del VRI-UNI, figura como investigador de tres proyectos con financiamiento público externo: \"Sistema modular y autónomo para producir agua potable en zonas rurales\" (contrato C.133-PNICP-PIAP-2015), \"Síntesis, caracterización de materiales nanoestructurados híbridos basados en óxidos semiconductores (TiO2, ZnO) y materiales carbonosos…\" (223-FONDECYT-2015) y \"Recovery of lanthanides and other metals from WEEE\" (J015-FONDECYT-2016, convocatoria conjunta ERANet-LAC, 72,360 euros según la misma página). Para este último, el reporte de ejecución 2020 del VRI consigna el convenio de subvención N.° 015-2016-FONDECYT con aporte monetario de S/ 271,350 y no monetario de S/ 89,250 (total S/ 360,600).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-externos",
+        "src-pry-vri-externos-2020"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "proyectos",
+      "text": "El VRI-UNI informó el cierre, el 19-08-2019, del proyecto \"Sistema modular y autónomo para producir agua potable en zonas rurales\", a cargo del Dr. Juan Rodríguez, desarrollado con cofinanciamiento de Innóvate Perú.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-cierre-agua"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "proyectos",
+      "text": "Figura como responsable técnico del proyecto EU-BEGP \"Modernizando la transición digital y energética desde la economía circular en América Latina\" (101081473, Erasmus+ 2022, CBHE), vigente del 15-02-2023 al 14-02-2026, según el reporte de ejecución de recursos externos 2024 del VRI-UNI.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-recext-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "proyectos",
+      "text": "Investigador principal de proyectos financiados por concursos internos del VRI-UNI: FC-FI-36-2019 (Formativa Interdisciplinaria, presupuesto S/ 33,294), FC-PF-30-2021 (S/ 38,571 asignados), FC-PFR-04-2024 (Formativa Regular, S/ 50,000 aprobados), FC-PFE-05-2025 (Formativa Especial 2025, S/ 100,000) y el proyecto Formativa Especial 2026 \"Desarrollo y validación experimental de un sistema para la producción de hidrógeno a partir de agua atmosférica\" (S/ 180,000, RR 0675-2026-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fi-2020",
+        "src-pry-vri-f-2021",
+        "src-pry-vri-fr-2024",
+        "src-pry-rr-1169-2025",
+        "src-pry-rr-0675-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "proyectos",
+      "text": "Ganó en el Concurso de Equipamiento de Laboratorio para Grupos de Investigación 2025 (RR 0767-2025-UNI) la propuesta FC-EQ-06-2025 \"Sistema de aire acondicionado para la supercomputadora de la Facultad de Ciencias de la UNI\", por S/ 349,900.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-rr-0767-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "proyectos",
+      "text": "Responsable técnico del proyecto PE501092552-2024-PROCIENCIA (esquema Posdoctoral 2024) \"Caracterización estructural, morfológica y electroquímica de las baterías de ion litio cilíndricas 18650 a partir de la síntesis de LFP y NMC\", en ejecución del 17-12-2024 al 17-06-2026, según el reporte de recursos externos 2024 del VRI-UNI.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-recext-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "proyectos",
+      "text": "Investigador principal del proyecto Formativa Especial VRI-2022 \"Construcción y evaluación de prototipos de baterías ion-litio\" (FIQT-PF-03-2022), con S/ 150,000 asignados, y de una ampliación de S/ 27,000 aprobada por RR 1735-2023-UNI (23-06-2023).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fe-2022",
+        "src-pry-vri-fe-2023"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "proyectos",
+      "text": "Investigador principal del proyecto Formativa Especial 2024 \"Construcción de un prototipo de batería cilíndrica ion Li para electromovilidad de una bicicleta eléctrica adaptada en la UNI\" (FIQT-PFE-01-2024), con S/ 500,000 aprobados; fue uno de los cinco proyectos seleccionados en ese concurso.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fe-2024",
+        "src-pry-vri-fe-2024-nota"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-3",
+      "section": "proyectos",
+      "text": "Declara en CTI Vitae como investigador principal el proyecto \"Uso de extractos acuosos y etanólicos de la Annona muricata (Guanábana) como inhibidor ecológico de la corrosión del acero en medio ácido\" (dic. 2014 – jul. 2019), con institución FINCYT. En la relación de proyectos externos del VRI-UNI ese título figura con el contrato C.371-PNICP-PIAP-2014 a nombre de Karin María Paucar Cuba.",
+      "status": "parcialmente_verificado",
+      "sourceIds": [
+        "src-pry-cti-vergara",
+        "src-pry-vri-externos"
+      ],
+      "kind": "declaracion"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "proyectos",
+      "text": "Investigador principal del proyecto Formativa Especial 2024 \"Efecto del uso de hidrógeno en un motor de combustión interna a gasolina con cilindrada de 1000 a 1200 centímetros cúbicos utilizando el método de formación mezcla hidrógeno – oxígeno\" (FIM-PFE-04-2024), con S/ 495,400 aprobados; fue uno de los cinco proyectos seleccionados en ese concurso.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fe-2024",
+        "src-pry-vri-fe-2024-nota"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "proyectos",
+      "text": "Ganador del Concurso de Investigación Formativa Especial 2025 con el proyecto FIM-PFE-06-2025 \"Estudio experimental del uso de la mezcla de hidrógeno y gas natural comprimido como combustible en motores de combustión interna a gasolina…\", por S/ 100,000 (RR 1169-2025-UNI, 02-04-2025).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-rr-1169-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-3",
+      "section": "proyectos",
+      "text": "Los reportes de ejecución de proyectos de facultades del VRI-UNI lo registran como responsable de \"Estudio de comportamiento, diseño, fabricación y control de un motor de combustión interna aplicado a un vehículo aéreo no tripulado como fuente propulsora\" (2019) y de \"Biodiésel de aceite de pescado: estudio experimental sobre los parámetros de performance y emisiones en un motor Diésel\" (2020, S/ 10,000 asignados).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fac-2019",
+        "src-pry-vri-fac-2020"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "proyectos",
+      "text": "Investigador principal del proyecto Formativa VRI-2022 \"Análisis de la modalidad del servicio educativo universitario semipresencial, para mejorar la calidad educativa basado en medios tecnológicos e incrementar el número de alumnos en las universidades públicas\" (FIM-PF-16-2022), con S/ 40,000 asignados.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-f-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "proyectos",
+      "text": "Ganador del Concurso de Investigación Formativa Especial 2026 con el proyecto \"Desarrollo de plataforma de bus para nanosatélite CubeSat 3U con arquitectura de computación basada en FPGA para operación y gestión de subsistemas\" (FIM), por S/ 170,900 (RR 0675-2026-UNI, 21-05-2026).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-rr-0675-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "proyectos",
+      "text": "Ganadora del Concurso de Investigación Formativa Regular 2026 con el proyecto FAUA-C-PFR-03-2026 \"Prototipo ecológico sostenible de infraestructura verde para la adaptación socioambiental como medida de mitigación ante el cambio climático. Anexo 22, Jicamarca, Huarochirí-Lima, 2025-2026\", por S/ 40,000 (RR 0675-2026-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-rr-0675-2026"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-2",
+      "section": "proyectos",
+      "text": "Los reportes de ejecución de proyectos de facultades del VRI-UNI la registran como responsable de los proyectos FAUA \"Estudio y evaluación de biohuertos comunitarios con posibilidades de uso como oferta de espacios verdes productivos y de socialización en la comunidad\" (San Juan de Lurigancho; 2021, S/ 12,000, finalizado) y \"Proceso de poblamiento y conformación del espacio público. Caso: Quebrada 2 AA.HH. José Carlos Mariátegui\" (2022, S/ 12,000, finalizado).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fac-2021",
+        "src-pry-vri-fac-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-2",
+      "section": "proyectos",
+      "text": "Investigador principal del proyecto Formativa Regular 2024 \"Construcción de redes de difracción óptica sobre superficies reflectantes en relieve y su aplicación en el diseño de nuevos sensores de desplazamientos lineales y angulares\" (FIEE-PFR-50-2024), con S/ 45,000 aprobados.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fr-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-3",
+      "section": "proyectos",
+      "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: FC-MF-9-2019 \"Diseño y construcción de dos fantomas de cráneo de alta resolución espacial… para la verificación de los planes de tratamientos de radiocirugía estereotáctica\" (S/ 43,000 asignados), FC-FI-28-2019 \"Análisis dosimétrico de detectores electrónicos basados en tecnología de matriz activa…\" (presupuesto S/ 31,229) y FC-PF-14-2021 \"Análisis dosimétrico de rayos X de kilovoltaje aplicados a pulmones de pacientes infectados de COVID-19…\" (S/ 34,057 asignados).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-f-2019",
+        "src-pry-vri-fi-2020",
+        "src-pry-vri-f-2021"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-2",
+      "section": "proyectos",
+      "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: FIC-AF-1-2018 \"Reciclado de dióxido de carbono en el hormigón: un estudio de viabilidad\" (ampliación 2018, S/ 1,000), FIC-MF-2-2019 \"Detección de vibraciones, desplazamientos, humedad y temperatura de suelos por sensores de fibra óptica\" (S/ 38,250 asignados), FIC-FI-9-2020 \"Construcción de prototipo de Microscopio de Punta-proximal escaneadora con control de retroalimentación acústico (MPE/Acústico)…\" (presupuesto S/ 41,428) y FIC-PFR-37-2023 \"Microscopia de barrido con control acústico (MBCA)\" (S/ 40,000 en el concurso Formativa 2023).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-amp-2018",
+        "src-pry-vri-f-2019",
+        "src-pry-vri-fi-2020",
+        "src-vr-vri-formativa-2023"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-2",
+      "section": "proyectos",
+      "text": "La RR 2362-2022-UNI (17-11-2022) reconoce como proyecto de investigación con recursos no monetarios VRI-2022 \"Diseño, fabricación, caracterización y aplicación de sensores de fibra óptica tipo LPG a la medición de velocidades de flujo de gases\", a cargo de \"Luis Alberto Mosquera\" (FIC).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-rr-2362-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-3",
+      "section": "proyectos",
+      "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: FIGMM-MF-1-2019 \"Ensayos de mitigación de cadmio en sembríos de cacao en la zona del corredor Campo Verde-Honoria-Tournavista\" (S/ 43,500 asignados), FIGMM-FI-12-2020 \"Determinación de metales pesados en cultivos de quinua ubicados en la zona de Huacaybamba - Huánuco\" (presupuesto S/ 39,585) y FIGMM-PF-15-2022 \"Modelo de predicción de caída de bloques de roca por control estructural aplicado a taludes usando Quantum Machine Learning\" (S/ 40,000 asignados).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-f-2019",
+        "src-pry-vri-fi-2020",
+        "src-pry-vri-f-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-3",
+      "section": "proyectos",
+      "text": "Ganó en el Concurso de Equipamiento de Laboratorio para Grupos de Investigación 2025 (RR 0767-2025-UNI) la propuesta FIGMM-EQ-07-2025 \"Digestor por microondas\", por S/ 179,000.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-rr-0767-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-1",
+      "section": "proyectos",
+      "text": "Investigador principal de proyectos de investigación formativa del VRI-UNI: dos proyectos de ampliación 2018 (FIIS-AF-1-2018 y FIIS-AF-2-2018, S/ 3,000 cada uno; registrado como \"Falconi Vazquez Rodolfo\"), FIIS-FI-24-2019 \"Elaboración del diagnóstico del nivel de servicio de atención en relación con la seguridad, aforo, sanidad y diseño en ingeniería en dos estaciones del servicio de transporte público del Metropolitano\" (presupuesto S/ 26,516) y FIIS-PF-20-2022 \"Eficacia de los resultados del Programa de Tutoría en alumnos con riesgo académico (ARA) en el escenario de distanciamiento social por el COVID-19…\" (S/ 30,000 asignados).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-amp-2018",
+        "src-pry-vri-fi-2020",
+        "src-pry-vri-f-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-7-1",
+      "section": "investigacion",
+      "text": "Obtuvo una beca del VRI-UNI de S/ 4,950 para presentar en LACCEI 2019 la ponencia \"Diseño de los mecanismos operativos que apoyan la obtención, mejora y sostenibilidad de las competencias blandas requeridos por el ABET: el caso de la Universidad Nacional de Ingeniería del Perú\".",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-laccei-2019"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-1",
+      "section": "proyectos",
+      "text": "Investigador principal del proyecto Formativa Regular 2024 \"Análisis de la implementación de buenas prácticas para mejorar la recolección selectiva y valorización de residuos sólidos domiciliarios. Caso distrito San Martín de Porres, en Lima Metropolitana\" (FIEECS-PFR-40-2024), con S/ 49,999 aprobados.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fr-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-1",
+      "section": "proyectos",
+      "text": "Los reportes de ejecución de proyectos de facultades del VRI-UNI lo registran como responsable de \"Factores que toma en cuenta el directivo en sus decisiones y sus implicancias en la gestión presupuestaria de la institución: caso universidades públicas en el Perú\" (2021, S/ 12,000, finalizado) y \"Procedimiento del gasto en una universidad pública y satisfacción del trabajador involucrado. Problemas y propuestas de mejoras: caso Universidad Nacional de Ingeniería\" (2022, S/ 12,000 asignados, finalizado).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fac-2021",
+        "src-pry-vri-fac-2022"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-3",
+      "section": "proyectos",
+      "text": "Investigador principal del proyecto de ampliación formativa 2018 FIGMM-AF-1-2018 \"Síntesis y caracterización de zeolita (LTA) y de marcos zeolíticos de imidazolato (ZIF) por el método de microondas\" (presupuesto S/ 15,000) y, en el reporte de facultades 2021, de \"Síntesis y aplicación del ZIF-8 (marcos zeolíticos de imidazolato) en la adsorción de cationes en solución y para filtros de iones de metales pesados provenientes de actividades mineras\" (S/ 9,459).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-amp-2018",
+        "src-pry-vri-fac-2021"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "proyectos",
+      "text": "El reporte de ejecución de proyectos de facultades 2021 del VRI-UNI lo registra como responsable del proyecto \"Control de calidad de agregados para concreto endurecido por métodos petro-mineralógicos\" (S/ 9,459, en proceso).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fac-2021"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "proyectos",
+      "text": "El reporte de ejecución de proyectos de facultades 2021 del VRI-UNI lo registra como responsable del proyecto \"El impacto de la crisis del COVID 19 en el empleo y el ingreso en el mercado laboral urbano en el Perú\" (S/ 12,000, finalizado).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fac-2021"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-2",
+      "section": "proyectos",
+      "text": "El reporte de ejecución de proyectos de facultades 2019 del VRI-UNI lo registra como responsable del proyecto FIEE \"Diseño y fabricación de un transformador de corriente para altas frecuencias y altas intensidades de corriente usando un núcleo de material compuesto magnéticamente suave (SMC)\" (en ejecución).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fac-2019"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-2",
+      "section": "proyectos",
+      "text": "Según el VRI-UNI, integró el equipo de investigación, liderado por James Bravo Basaldúa, que convirtió un Volkswagen de 1965 en vehículo eléctrico con baterías de ion de litio (primera fase). La nota no indica fuente de financiamiento.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-vw-electrico"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-2",
+      "section": "proyectos",
+      "text": "Según el VRI-UNI, integró (\"Dr. Agustín Gutiérrez Paucar\", FIEE) el equipo de investigación, liderado por James Bravo Basaldúa, que convirtió un Volkswagen de 1965 en vehículo eléctrico con baterías de ion de litio (primera fase). La nota no indica fuente de financiamiento.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-vw-electrico"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-2",
+      "section": "proyectos",
+      "text": "El reporte de ejecución de proyectos de facultades 2019 del VRI-UNI lo registra como jefe del proyecto FIIS \"Desarrollo de un prototipo para promover y evaluar la participación frecuente de los estudiantes usando sus dispositivos móviles\" (S/ 10,300, finalizado).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-pry-vri-fac-2019"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-3",
+      "section": "proyectos",
+      "text": "Declara en CTI Vitae tres proyectos registrados con institución CONCYTEC, sin fechas: \"Transferencia de tecnologías limpias en el sector lácteo\" (con Alfredo Oliveros Donohue), \"Síntesis de zeolita A como adsorbente\" y \"Cambio tecnológico y política ambiental: un análisis para la promoción de tecnologías limpias en el sector manufacturero\" (estos dos como investigador principal).",
+      "status": "declarado",
+      "sourceIds": [
+        "src-pry-cti-osorio"
+      ],
+      "kind": "declaracion"
+    }
+  ],
+  "proposals": [],
+  "leads": [
+    {
+      "candidateId": "c-7-2",
+      "provider": "CTI Vitae",
+      "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=247",
+      "displayName": "Luis Alberto Mosquera Leiva",
+      "orcid": null,
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "La ficha declara además proyectos UNI 2005–2020 (velocímetro láser, triangulación láser, concreto inteligente, acelerómetro de fibra óptica) sin entidad financiadora ni monto; no se registraron como claims."
+    },
+    {
+      "candidateId": "c-3-3",
+      "provider": "CTI Vitae",
+      "profileId": "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=17546",
+      "displayName": "Modesto Edilberto Montoya Zavaleta",
+      "orcid": null,
+      "worksCount": null,
+      "status": "pendiente",
+      "note": "Declara proyectos UNI 2017–2024 (acuífero de Lima, detector 3D para radiocirugía, IA para fisión del 235U) y proyectos IPEN 1989–1993; sin financiador ni monto. Solo se registraron los que figuran en documentos del VRI."
+    }
+  ],
+  "pending": [
+    {
+      "candidateId": "c-8-1",
+      "text": "La relación de proyectos externos del VRI (año 2013) muestra la fila \"C.140-FINCYT-IB-2013 – JUAN MARTIN RODRIGUEZ RODRIGUEZ\" con el mismo título que el proyecto C.371-PNICP-PIAP-2014 (Annona muricata) de Karin Paucar Cuba; parece un error de transcripción. Verificar título real del contrato C.140-FINCYT-IB-2013 en resultados FINCyT/Innóvate 2013."
+    },
+    {
+      "candidateId": "c-9-3",
+      "text": "Confirmar en la RDE de resultados de PROCIENCIA \"Proyectos Especiales: Posdoctorales 2024\" (resoluciones.prociencia.gob.pe) el monto del proyecto PE501092552-2024-PROCIENCIA; el reporte del VRI no consigna monto ejecutado."
+    },
+    {
+      "candidateId": "c-1-3",
+      "text": "Confirmar en el reporte de ejecución 2019 de facultades el monto asignado al proyecto del motor para vehículo aéreo no tripulado (las columnas del PDF no permiten asignarlo con certeza)."
+    },
+    {
+      "candidateId": "c-1-1",
+      "text": "No se hallaron proyectos con su nombre en los documentos de concursos del VRI-UNI revisados (2018–2026) ni en la relación de proyectos externos; revisar CTI Vitae por enlace directo si se obtiene su id_investigador y la Gaceta UNI."
+    },
+    {
+      "candidateId": "c-4-2",
+      "text": "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades 2018–2022 (FIEE) con variantes de nombre y CTI Vitae por id directo."
+    },
+    {
+      "candidateId": "c-4-3",
+      "text": "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FIQT y CTI Vitae por id directo."
+    },
+    {
+      "candidateId": "c-5-1",
+      "text": "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FIIS y CTI Vitae por id directo."
+    },
+    {
+      "candidateId": "c-5-2",
+      "text": "Los reportes de facultades/VRI 2018–2026 revisados no lo registran; ya hay claims de Memorias UNI 2010–2011. Revisar memorias 2012–2017."
+    },
+    {
+      "candidateId": "c-6-1",
+      "text": "Declaró en debate tener una patente; buscar en INDECOPI/VRI \"concurso de patentes\" y en reportes de facultades FIM."
+    },
+    {
+      "candidateId": "c-6-3",
+      "text": "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FC con variantes."
+    },
+    {
+      "candidateId": "c-7-3",
+      "text": "Fuera del proyecto FIM-PFR-47-2023 (ya registrado), no se hallaron otros; los reportes 2021–2022 mencionan a \"Helmuth Villavicencio Fernández\" (otra persona, FC) — no atribuir."
+    },
+    {
+      "candidateId": "c-8-2",
+      "text": "Sin hallazgos en documentos VRI revisados; revisar reportes de facultades FIC y proyectos CISMID con financiamiento externo."
+    },
+    {
+      "candidateId": "c-2-1",
+      "text": "En el debate declaró que el CISMID ganó un proyecto JICA de USD 5 millones durante su gestión; no se encontró documento del VRI que lo registre como responsable."
+    }
+  ],
+  "siteUpdates": {},
+  "rejected": [
+    "Proyectos de \"Helmuth Villavicencio Fernández\" (FC) en reportes VRI 2021–2022: homónimo parcial, no corresponde a Manuel Augusto Villavicencio Chávez (c-7-3).",
+    "\"Butler\" en RR 0675-2026 corresponde a \"matriz Butler 4x4\" (antena) de otro investigador; no es c-1-1.",
+    "\"Walter Héctor Gonzales Arnao\" (FAUA) y \"José Gabriel Ruiz Montoya\" (FC) en listas VRI: homónimos parciales; no corresponden a c-9-1 ni c-3-3.",
+    "Postulación de Pauyac Huamán, Montoya Zavaleta y Lazo Jara al concurso Formativa 2026: figuran como preseleccionados/postulantes en páginas del VRI pero no en la RR 0675-2026-UNI de ganadores; no se registra como financiamiento.",
+    "Proyecto Formativa Especial 2026 preseleccionado de Antonio Lazo Jara (\"Computación cuántica con fotones únicos…\"): no figura entre ganadores de la RR 0675-2026-UNI.",
+    "Columna \"Monto ejecutado\" de la relación Formativa Especial 2024 (repite S/ 1,491,809.82 en dos filas): no se usa por inconsistencia; solo se cita el monto aprobado.",
+    "Participación de J. M. Rodríguez como director ejecutivo de PROCIENCIA en la ceremonia de becarios doctorales UNI: es cargo de gestión, no proyecto como investigador; ya cubierto por otros agentes.",
+    "Proyecto de Arnao Rondán financiado por la Generalitat Valenciana (CTI Vitae): financiamiento extranjero vía universidad privada; fuera del alcance de financiamiento público peruano."
+  ],
+  "summary": "Se revisaron los concursos y reportes de ejecución del VRI-UNI (formativa 2018–2026, formativa especial 2022–2026, equipamiento 2025, recursos externos 2013–2024) y fichas CTI Vitae registradas. Hallazgos con documento institucional para 18 candidaturas, destacando: Rodríguez (FONDECYT/PNICP/Innóvate, Erasmus+, especial 2025-2026), Vergara (PROCIENCIA posdoctoral 2024; especial 2022 y 2024 por S/ 500,000), Lastra (especial 2024 y 2025), Padilla (especial 2026, S/ 170,900) y Cacho Cruz (regular 2026). Osorio solo con CTI Vitae autodeclarado."
+}
