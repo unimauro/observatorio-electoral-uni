@@ -41,3 +41,11 @@
 - [ ] Ubicar la RR del 18-01-2016 (sanción buses 2010) en transparencia UNI para reemplazar la fuente de prensa
 - [ ] Videos: propuestas Lista 3 (YouTube) y grabación del debate CEUNI del 07-10 (YouTube bloquea acceso automático)
 - [ ] Repositorio UNI: paginar conteos de asesorías/jurados (Gamarra, Villavicencio >100)
+
+## Ronda 16-10-2026 (tarde)
+- [x] Tesis asesoradas (Repositorio UNI, índice asesor): 24/27; tesis e informes de suficiencia por separado.
+- [x] Proyectos financiados (VRI-UNI, PROCIENCIA, Innóvate, Erasmus+): 34 datos en 18 candidaturas.
+- [x] Cargos por resolución (RR UNI, actas CU/AU, RVM MINEDU): 10 datos + 9 eventos de línea de tiempo.
+- [ ] Planes 2026 de listas 2, 6 y 9: no localizados en fuentes públicas; pedir a las listas o al CEUNI (Ley 27806).
+- [ ] Resoluciones decanales no publicadas: solicitud de acceso a la información a la UNI.
+- [ ] Afiliación partidaria: solo si llega consulta manual del ROP para los 27.
