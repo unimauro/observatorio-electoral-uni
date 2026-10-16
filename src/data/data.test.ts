@@ -3,6 +3,7 @@ import * as d from './index'
 import { validateDataset, validateSite } from './validate'
 import { ROLE_BY_ORDER, ROLES } from './types'
 import timeline from './timeline.json'
+import retos from './retos.json'
 
 const dataset = {
   candidates: d.candidates,
@@ -33,6 +34,10 @@ describe('integridad de datos', () => {
   it('la línea de tiempo cubre a los 27 y cita fuentes existentes', () => {
     expect(timeline).toHaveLength(27)
     for (const t of timeline) for (const e of t.events) for (const id of e.sourceIds) expect(d.sourceById.has(id)).toBe(true)
+  })
+
+  it('los retos citan fuentes existentes', () => {
+    for (const r of retos.retos) for (const f of [...r.figures, ...r.nationalGoals]) expect(d.sourceById.has(f.sourceId)).toBe(true)
   })
 
   it('hay exactamente 9 listas y 27 candidaturas', () => {

@@ -9,6 +9,7 @@ const NAV = [
   ['/candidatos', 'Candidatos'],
   ['/grados', 'Grados'],
   ['/planes', 'Planes'],
+  ['/retos', 'Retos'],
   ['/comparar', 'Comparar'],
   ['/matriz', 'Matriz'],
   ['/fuentes', 'Fuentes'],
