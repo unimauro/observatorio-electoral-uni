@@ -66,6 +66,30 @@
             "src-uni-acreditacion-fiee"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Reconocido como decano de la Facultad de Ingeniería Eléctrica y Electrónica por la RR 3541-2023-UNI (10-11-2023), para el periodo del 13-11-2023 al 12-11-2027, según la RR 1360-2025-UNI.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-uni-rr1360-2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Elegido vicerrector de Investigación por la Asamblea Universitaria en 2025, tras la renuncia del rector, para completar el periodo del 07-05-2025 al 11-11-2026; por ello el decanato de la FIEE se encargó a otro docente desde el 07-05-2025 (RR 1360-2025-UNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-uni-rr1360-2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "En el directorio de la UNI del 08-07-2025 figura como vicerrector de Investigación y, a la vez, como vicerrector académico (e).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-uni-directorio-jul2025"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -146,7 +170,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Periodo del decanato de la FIEE (resolución de elección o designación)."
+      "Periodo del decanato de la FIEE (resolución de elección o designación).",
+      "Doctorado: especialidad e institución no encontradas (ORCID vacío; buscar en SUNEDU o en la hoja de vida de la lista). Leer la RR 3541-2023-UNI completa y la resolución de la Asamblea Universitaria de 2025 que lo eligió vicerrector de Investigación."
     ],
     "corrections": [],
     "meta": {
@@ -548,6 +573,25 @@
             "src-rpp-2009-padilla"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Figura como rector de la UNI en documentos institucionales de 2009 (Plan Funcional), 2012 (Memoria Institucional) y 2014 (Plan Operativo Institucional). Estos documentos no indican las fechas de inicio y fin del mandato.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-uni-pf-2009",
+            "src-rx-uni-memoria-2012",
+            "src-rx-uni-poi-2014"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según Perú21 (21-01-2016), una resolución rectoral del 18 de enero de 2016 impuso una medida sancionadora a los integrantes de la comisión de adquisición de tres buses en 2010, entre ellos “Aurelio Padilla (ex rector)”. La comisión investigadora concluyó que se vulneraron las normas de contrataciones con el Estado. No se conoce una resolución final (apelación, SERVIR o Poder Judicial). En 2026 su candidatura figura en la publicación definitiva del CEUNI.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-rx-peru21-humala-2016",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho"
         }
       ],
       "proyectos": [],
@@ -617,7 +661,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Periodo exacto del rectorado (resoluciones o memoria institucional)."
+      "Periodo exacto del rectorado (resoluciones o memoria institucional).",
+      "Fechas exactas del rectorado (aprox. 2009-2014; ya era rector en mayo de 2009 según RPP). La Gaceta UNI o las resoluciones de la Asamblea Universitaria de 2009 podrían precisarlas. En una entrevista de Perú21 (15-12-2015), el rector de entonces hizo afirmaciones sobre el fin del mandato de Padilla y una denuncia contra él; no se registran por ser declaraciones de un tercero sin resolución conocida. La nota de La República del 03-08-2014 («Fiscalización seguirá con investigación al ex rector de la UNI Aurelio Padilla») sólo pudo leerse por su titular: el cuerpo es ilegible y queda pendiente. Revisar si el claim controvertido sobre los buses (Perú21 2016) debe mostrarse; menciona a Padilla como integrante de la comisión."
     ],
     "corrections": [],
     "meta": {
@@ -910,6 +955,15 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Ingeniero geólogo por la UNI y doctor en Ciencias Naturales por la Universidad de Heidelberg (Alemania), según ProActivo. La Deutsche Nationalbibliothek registra su tesis doctoral en Heidelberg en 1998.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-rx-proactivo-chirif-2025",
+            "src-rx-dnb-chirif-1998"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -923,8 +977,27 @@
           "kind": "declaracion"
         }
       ],
-      "investigacion": [],
-      "gestion": [],
+      "investigacion": [
+        {
+          "text": "Tesis doctoral: «Mineralogie, Petrographie und Genese der schichtgebundenen Kupfererzlagerstätte Chapi (Moquegua – Peru)» (Universidad de Heidelberg, 1998).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-dnb-chirif-1998"
+          ],
+          "kind": "hecho"
+        }
+      ],
+      "gestion": [
+        {
+          "text": "Presidente del Consejo Directivo del INGEMMET: designado por la RS 009-2024-EM, en el cargo desde el 04-06-2024 según Gestión. La designación concluyó por la RS 021-2025-EM del 24-12-2025.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-elperuano-rs021-2025-em",
+            "src-rx-gestion-ingemmet-2025"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [
@@ -969,7 +1042,9 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Cargos dentro de la UNI (jefe de departamento, laboratorio de mineralogía): el perfil de IGI Global («Humberto Chiriff-Rivera») menciona la jefatura del laboratorio de mineralogía hasta 2005 y la docencia en la escuela de Geología desde 2012, pero devolvió 429 y no se leyó. Tampoco se halló evidencia de que haya sido decano de la FIGMM.",
+      "Ver y transcribir el video «ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3» (src-rx-youtube-lista3-2026) para registrar propuestas con origin «declaracion_publica»."
     ],
     "corrections": [
       {
@@ -1285,7 +1360,27 @@
         }
       ],
       "investigacion": [],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Decano de la Facultad de Ingeniería Económica (FIECS/FIEECS) de la UNI, según la Memoria Institucional 2012 y el Plan Operativo Institucional 2014.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-uni-memoria-2012",
+            "src-rx-uni-poi-2014"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según Perú21 (21-01-2016), la UNI lo destituyó como docente de la Facultad de Ingeniería Económica por una resolución rectoral del 18 de enero de 2016, tras hallar indicios de irregularidades en la compra de tres buses en 2010; él integró la comisión de adquisición. En diciembre de 2015 el rector de entonces dijo a Perú21 que estaba suspendido cuatro meses desde noviembre y que podía apelar. No se conoce una resolución final (apelación, SERVIR o Poder Judicial). En 2026 su candidatura figura en la publicación definitiva del CEUNI.",
+          "status": "controvertido",
+          "sourceIds": [
+            "src-rx-peru21-humala-2016",
+            "src-rx-peru21-alva-2015",
+            "src-ceuni-listas-definitivas"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [
@@ -1347,7 +1442,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Cobertura de prensa de 2019 (Perú21) sobre su paso por la administración de la UNI: no se pudo acceder al texto completo; pendiente de revisión con la fuente original y la resolución que cerró el caso."
+      "Cobertura de prensa de 2019 (Perú21) sobre su paso por la administración de la UNI: no se pudo acceder al texto completo; pendiente de revisión con la fuente original y la resolución que cerró el caso.",
+      "No se halló la resolución final sobre la sanción de enero de 2016 (apelación interna, Tribunal del Servicio Civil o Poder Judicial). Buscar en el Tribunal del Servicio Civil o en las resoluciones de la UNI de 2016-2017. Precisar desde cuándo es docente principal ordinario."
     ],
     "corrections": [
       {
@@ -1702,7 +1798,32 @@
         }
       ],
       "investigacion": [],
-      "gestion": [],
+      "gestion": [
+        {
+          "text": "Director del Centro de Estudios Preuniversitarios (CEPRE-UNI): encargado desde la RR 038-2024-UNI (15-01-2024); elegido por el Consejo Universitario el 26-02-2025 y designado por dos años mediante la RR 593-2025-UNI (28-02-2025).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-uni-rr0593-2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Figura como “Director (e)” de la Unidad de Centro Preuniversitario en el directorio institucional de la UNI del 08-07-2025.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rx-uni-directorio-jul2025"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Presidente de la Asociación de Docentes de la UNI (ADUNI) en 2013-2015, según la lista histórica publicada por el Centro de Historia UNI (consigna “Alejandro Huamán Sánchez”, sin el segundo nombre).",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-rx-gaceta-historia-uni-22"
+          ],
+          "kind": "hecho"
+        }
+      ],
       "proyectos": [],
       "propuestas": [],
       "declaraciones": [],
@@ -1719,6 +1840,18 @@
         "status": "pendiente",
         "note": "Coincidencia por nombre completo y afiliación UNI en OpenAlex. No atribuida: falta confirmación humana.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0009-0009-3846-0022",
+        "worksCount": 0,
+        "candidateId": "c-5-1",
+        "provider": "ORCID",
+        "profileId": "https://orcid.org/0009-0009-3846-0022",
+        "displayName": "Jose Alejandro Huaman Sanchez",
+        "status": "descartado",
+        "note": "Otro nombre (José Alejandro) y estudiante de la Universidad Nacional de San Martín: homónimo."
       }
     ],
     "pendingSources": [
@@ -1728,7 +1861,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "No figura en la nota de RPP sobre las exposiciones de candidatos a rector (15-10-2026); sin otras fuentes públicas localizadas al 16-10-2026."
+      "No figura en la nota de RPP sobre las exposiciones de candidatos a rector (15-10-2026); sin otras fuentes públicas localizadas al 16-10-2026.",
+      "Sin propuestas públicas de la Lista 5 localizadas (prensa, ProActivo, YouTube). Buscar en redes de la lista o en el portal CEUNI. Formación doctoral (especialidad/universidad): consultar SUNEDU. Pista: el directorio UNI del 11-05-2026 (portal.uni.edu.pe, inaccesible desde aquí) podría confirmar si sigue en el CEPRE."
     ],
     "corrections": [],
     "meta": {
@@ -2165,6 +2299,16 @@
             "src-rs-ceuni-res-033-2026"
           ],
           "kind": "hecho"
+        },
+        {
+          "text": "Fue candidato a rector en la elección UNI de 2021: presentó un plan de trabajo 2021-2026 y obtuvo 644 votos en la primera vuelta.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-rx-proactivo-uni-2021-planes",
+            "src-rx-proactivo-uni-2021-resultados",
+            "src-rx-plan-alva-2021"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -2198,7 +2342,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Formación (doctorado) y cargos de gestión en la FIM no encontrados en fuentes abiertas. ORCID 0009-0008-8168-661X vacío. Revisar el portal de la FIM (sin respuesta) y SUNEDU."
     ],
     "corrections": [],
     "meta": {
@@ -2580,7 +2725,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Sin datos nuevos de formación ni cargos más allá de la RD 034-21 FIIS. ORCID vacío; fiis.uni.edu.pe devolvió 403. Revisar SUNEDU y las actas del Consejo Universitario de 2021-2022 sobre el encargo del Vicerrectorado Académico."
     ],
     "corrections": [],
     "meta": {
@@ -2901,6 +3047,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "declaracion"
+        },
+        {
+          "text": "Profesor de Física en la Facultad de Ciencias de la UNI desde 1993, según su registro ORCID.",
+          "status": "declarado",
+          "sourceIds": [
+            "src-rx-orcid-rodriguez"
+          ],
+          "kind": "declaracion"
         }
       ],
       "investigacion": [
@@ -2909,6 +3063,14 @@
           "status": "parcialmente_verificado",
           "sourceIds": [
             "src-proactivo-rodriguez-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Investigador RENACYT «Nivel ID» desde julio de 2022. Lo registra CONCYTEC en su perfil ORCID, que lista 72 obras.",
+          "status": "corroborado",
+          "sourceIds": [
+            "src-rx-orcid-rodriguez"
           ],
           "kind": "hecho"
         }
@@ -2948,6 +3110,30 @@
         "status": "descartado",
         "note": "El perfil devuelto (\"Juan Jose Rodriguez\") tiene otro segundo nombre y cientos de trabajos: muy probablemente agrupa homónimos. Descartado como pista hasta revisión.",
         "consultedAt": "2026-10-15"
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0000-0002-9887-6419",
+        "worksCount": 72,
+        "candidateId": "c-8-1",
+        "provider": "ORCID",
+        "profileId": "https://orcid.org/0000-0002-9887-6419",
+        "displayName": "Juan Martin Rodriguez Rodriguez",
+        "status": "pendiente",
+        "note": "Nombre completo + empleo en la UNI, Facultad de Ciencias (Física), y RENACYT registrado por CONCYTEC. Es candidato fuerte a atribución; se usa como fuente de los claims. Falta confirmación humana para vincular el perfil."
+      },
+      {
+        "citedByCount": null,
+        "consultedAt": "2026-10-16",
+        "orcid": "0000-0002-9887-6419",
+        "worksCount": 106,
+        "candidateId": "c-8-1",
+        "provider": "OpenAlex",
+        "profileId": "https://openalex.org/A5063102185",
+        "displayName": "Juan M. Rodriguez",
+        "status": "pendiente",
+        "note": "Vinculado al ORCID anterior (106 obras, 1426 citas, h=23). Reemplaza al perfil descartado A5100639200. Ojo: lista afiliaciones (Uppsala, Tarapacá, UBA, CONICET) que podrían mezclar homónimos. Revisar antes de mostrar métricas."
       }
     ],
     "pendingSources": [
@@ -2957,7 +3143,8 @@
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
       "Portal de transparencia UNI: cargos de gestión desempeñados",
-      "Fechas de la gestión en PROCIENCIA (resoluciones de designación y cese)."
+      "Fechas de la gestión en PROCIENCIA (resoluciones de designación y cese).",
+      "Leer la RP 064-2021-CONCYTEC-P (fecha de designación) y la resolución que dio por concluida su designación como director ejecutivo de PROCIENCIA (antes del 01-09-2024, cuando la dirección ya estaba encargada a otra persona). La RS 132-2018-PCM lo nombra representante de las universidades públicas ante el Consejo Directivo del CONCYTEC, pero no menciona la UNI: confirmar. Doctorado: institución pendiente."
     ],
     "corrections": [],
     "meta": {
@@ -3332,7 +3519,17 @@
           "kind": "declaracion"
         }
       ],
-      "proceso": []
+      "proceso": [
+        {
+          "text": "Fue candidato a rector en la elección UNI de 2021 y obtuvo 727 votos en la primera vuelta.",
+          "status": "parcialmente_verificado",
+          "sourceIds": [
+            "src-rx-proactivo-uni-2021-planes",
+            "src-rx-proactivo-uni-2021-resultados"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {

@@ -1,0 +1,641 @@
+{
+  "agent": "rectores",
+  "consultedAt": "2026-10-16",
+  "sources": [
+    {
+      "author": "Universidad Nacional de Ingeniería – Rectorado",
+      "landingUrl": null,
+      "publishedAt": "2025-02-28",
+      "identifier": "RR 593-2025-UNI",
+      "notes": "Firmada por el rector de entonces. Leída completa (2 páginas).",
+      "id": "src-rx-uni-rr0593-2025",
+      "title": "Resolución Rectoral N.º 593-2025-UNI (designación del Director del CEPRE-UNI)",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7714905/6527923-0593-2025-uni.pdf",
+      "type": "documento_institucional",
+      "locator": "“se acordó la elección del Dr. Alejandro Apolinario Huamán Sánchez como Director de Centro de Estudios Preuniversitarios… – CEPRE-UNI” (Sesión Ordinaria Nº 06 del CU, 26-02-2025); Art. 1 deja sin efecto el art. 4 de la RR 038-2024-UNI (15-01-2024) “a través del cual se encargó al Dr. Alejandro Apolinario Huamán Sánchez como Director”; Art. 2 lo designa “por el periodo de dos (02) años”.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-5-1"
+      ]
+    },
+    {
+      "author": "Universidad Nacional de Ingeniería",
+      "landingUrl": "https://web.archive.org/web/20250709010642/https://portal.uni.edu.pe/images/archivospdf/OCII_-_DIRECTORIO_UNI_8_DE_JULIO_DE_2025.pdf",
+      "publishedAt": "2025-07-08",
+      "identifier": null,
+      "notes": "portal.uni.edu.pe no respondió desde el entorno de consulta; se leyó la copia de Internet Archive (landingUrl). El documento contiene anexos y teléfonos institucionales: no se copiaron. Existe una versión del 11-05-2026 que no se pudo abrir.",
+      "id": "src-rx-uni-directorio-jul2025",
+      "title": "Directorio UNI – 8 de julio de 2025 (Oficina de Comunicación e Imagen Institucional)",
+      "url": "https://portal.uni.edu.pe/images/archivospdf/OCII_-_DIRECTORIO_UNI_8_DE_JULIO_DE_2025.pdf",
+      "type": "documento_institucional",
+      "locator": "“VICERRECTORADO ACADÉMICO … Vicerrector Académico (e) DR. JORGE GUSTAVO BUTLER BLACKER”; “VICERRECTORADO DE INVESTIGACIÓN … Vicerrector de Investigación DR. JORGE GUSTAVO BUTLER BLACKER”; “UNIDAD DE CENTRO PRE UNIVERSITARIO DR. ALEJANDRO APOLINARIO HUAMÁN SÁNCHEZ - Director (e)”",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1",
+        "c-5-1"
+      ]
+    },
+    {
+      "author": "Centro de Historia UNI",
+      "landingUrl": null,
+      "publishedAt": "2025-10-31",
+      "identifier": null,
+      "notes": "La gaceta omite el segundo nombre (Apolinario) y no indica facultad. Coincidencia de nombre y apellidos completos en contexto UNI.",
+      "id": "src-rx-gaceta-historia-uni-22",
+      "title": "Gaceta Historia UNI N.º 22 – Informativo mensual del Centro de Historia UNI (31 de octubre de 2025), sección ADUNI",
+      "url": "https://press.uni.edu.pe/index.php/historiauni/catalog/download/81/63/199?inline=1",
+      "type": "documento_institucional",
+      "locator": "Lista de presidentes de la ADUNI, “ADUNI Siglo XXI”: “Alejandro Huamán Sánchez 2013-2015”",
+      "status": "parcialmente_verificado",
+      "candidateIds": [
+        "c-5-1"
+      ]
+    },
+    {
+      "author": "Universidad Nacional de Ingeniería – Rectorado",
+      "landingUrl": null,
+      "publishedAt": "2025-05-13",
+      "identifier": "RR 1360-2025-UNI",
+      "notes": "Leída completa (2 páginas). El decanato se encargó a otro docente desde el 07-05-2025.",
+      "id": "src-rx-uni-rr1360-2025",
+      "title": "Resolución Rectoral N.º 1360-2025-UNI (encargatura del Decanato de la FIEE)",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/8121826/6805519-1360-2025-uni.pdf",
+      "type": "documento_institucional",
+      "locator": "“por Resolución Rectoral N° 3541-2023-UNI del 10 de noviembre de 2023, se reconoció al Dr. Jorge Gustavo Butler Blacker como Decano de la Facultad de Ingeniería Eléctrica y Electrónica… a partir del 13 de noviembre de 2023 hasta el 12 de noviembre de 2027”; “habiendo la Asamblea Universitaria elegido al Dr. Jorge Gustavo Butler Blacker para ocupar el cargo de Vicerrector de Investigación, función que requiere dedicación exclusiva”; las nuevas autoridades se eligieron “para el completamiento del periodo desde el 07 de mayo de 2025 al 11 de noviembre de 2026”.",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-1-1"
+      ]
+    },
+    {
+      "author": "Universidad Nacional de Ingeniería – Oficina Central de Planificación",
+      "landingUrl": null,
+      "publishedAt": null,
+      "identifier": null,
+      "notes": "",
+      "id": "src-rx-uni-pf-2009",
+      "title": "Plan Funcional / Operativo UNI 2009 (portadilla de autoridades)",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/PFUNI2009.pdf",
+      "type": "documento_institucional",
+      "locator": "“Mag. Ing. AURELIO PADILLA RÍOS – RECTOR”",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-1"
+      ]
+    },
+    {
+      "author": "Universidad Nacional de Ingeniería – Oficina Central de Planificación",
+      "landingUrl": null,
+      "publishedAt": "2013-08-01",
+      "identifier": null,
+      "notes": "Fechada en agosto de 2013 (día no indicado; se usa 01 por convención).",
+      "id": "src-rx-uni-memoria-2012",
+      "title": "Memoria Institucional UNI 2012",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uesteinf/memoria/memouni2012.pdf",
+      "type": "documento_institucional",
+      "locator": "Portadilla: “RECTOR Dr. Aurelio Padilla Ríos”; “FACULTADES Y DECANOS DE LA UNI … Facultad de Ingeniería Economía y Ciencias Sociales (FIECS) Mag. Ulises Humala Tasso”",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-1",
+        "c-4-1"
+      ]
+    },
+    {
+      "author": "Universidad Nacional de Ingeniería – Oficina Central de Planificación y Presupuesto",
+      "landingUrl": null,
+      "publishedAt": null,
+      "identifier": null,
+      "notes": "",
+      "id": "src-rx-uni-poi-2014",
+      "title": "Plan Operativo Institucional UNI 2014",
+      "url": "https://www.ocpla.uni.edu.pe/transparencia/file/uplanyprogeinv/PFUNI/POI_UNI2014.pdf",
+      "type": "documento_institucional",
+      "locator": "“Dr. AURELIO PADILLA RÍOS – Rector”; “DECANOS DE FACULTADES … Mag. ULISES HUMALA TASSO – Facultad de Ingeniería Económica, Estadística y Ciencias Sociales”",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-2-1",
+        "c-4-1"
+      ]
+    },
+    {
+      "author": "Redacción Perú21",
+      "landingUrl": "https://web.archive.org/web/20160122154107/http://peru21.pe/politica/ulises-humala-fue-destituido-uni-irregularidades-2237109",
+      "publishedAt": "2016-01-21",
+      "identifier": null,
+      "notes": "Texto completo leído en Internet Archive (copia del 22-01-2016 y del 20-04-2021). La fecha real de publicación es 21-01-2016 (meta article:published_time); la página de etiqueta de Perú21 la muestra con fecha 2019 por migración del sitio. peru21.pe devuelve 403 al acceso directo. No se encontró resolución final (apelación, SERVIR o Poder Judicial).",
+      "id": "src-rx-peru21-humala-2016",
+      "title": "Ulises Humala fue destituido de la UNI por irregularidades en compra de buses",
+      "url": "https://peru21.pe/politica/ulises-humala-destituido-uni-irregularidades-compra-buses-209029-noticia/",
+      "type": "prensa",
+      "locator": "“La Universidad Nacional de Ingeniería (UNI) destituyó del cargo de docente de la Facultad de Ingeniería Económica… a Ulises Humala… al encontrar indicios de irregularidades en la compra de tres buses”; “De acuerdo con la resolución del 18 de enero, el rector de la UNI… emitió la medida sancionadora contra Ulises Humala, Aurelio Padilla (ex rector)… quienes conformaron la comisión de adquisición de los buses y ejercían altos cargo[s] en la universidad en el 2010”; “La comisión que investigó la compra, encontró responsabilidades por haberse vulnerado las normas de contrataciones con el Estado”.",
+      "status": "controvertido",
+      "candidateIds": [
+        "c-4-1",
+        "c-2-1"
+      ]
+    },
+    {
+      "author": "Perú21",
+      "landingUrl": "https://web.archive.org/web/20151216092126/http://peru21.pe:80/opinion/jorge-alva-hurtado-ulises-humala-esta-suspendido-uni-2234425",
+      "publishedAt": "2015-12-15",
+      "identifier": null,
+      "notes": "Declaraciones del rector de entonces (tercero). Contiene además afirmaciones sobre el exrector Padilla que no se registran como claim (ver pending).",
+      "id": "src-rx-peru21-alva-2015",
+      "title": "Jorge Alva Hurtado: “Ulises Humala está suspendido de la UNI” (entrevista)",
+      "url": "https://peru21.pe/opinion/jorge-alva-hurtado-rector-uni-ulises-humala-suspendido-uni-206459-noticia/",
+      "type": "prensa",
+      "locator": "“¿Cuánto tiempo está suspendido Ulises Humala? Son cuatro meses. Él puede apelar y yo puedo ratificar la acusación. Nosotros decidimos suspenderlo en noviembre.”; “Yo no lo puedo afirmar. Tenemos hallazgos. Que determine eso el Poder Judicial…”",
+      "status": "controvertido",
+      "candidateIds": [
+        "c-4-1"
+      ]
+    },
+    {
+      "author": "Ministerio de Energía y Minas / El Peruano",
+      "landingUrl": null,
+      "publishedAt": "2025-12-25",
+      "identifier": "RS 021-2025-EM",
+      "notes": "",
+      "id": "src-rx-elperuano-rs021-2025-em",
+      "title": "Resolución Suprema N.º 021-2025-EM – Dan por concluida la designación de Presidente del Consejo Directivo del INGEMMET",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2471857-3/",
+      "type": "normativa",
+      "locator": "“Que, mediante Resolución Suprema N° 009-2024-EM, se designó al señor Luis Humberto Chirif Rivera como Presidente del Consejo Directivo del Instituto Geológico, Minero y Metalúrgico – INGEMMET”; “Artículo 1.- Dar por concluida la designación del señor Luis Humberto Chirif Rivera…” (Lima, 24-12-2025)",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-1"
+      ]
+    },
+    {
+      "author": "Gestión",
+      "landingUrl": null,
+      "publishedAt": "2025-12-25",
+      "identifier": null,
+      "notes": "",
+      "id": "src-rx-gestion-ingemmet-2025",
+      "title": "Ingemmet: Minem retira al presidente de su consejo directivo sin asignar reemplazo",
+      "url": "https://gestion.pe/economia/ingemmet-minem-retira-al-presidente-de-su-consejo-directivo-sin-asignar-reemplazo-noticia/",
+      "type": "prensa",
+      "locator": "“ocupaba ese puesto desde el 4 de junio del 2024”; “ingeniero geólogo de profesión”",
+      "status": "parcialmente_verificado",
+      "candidateIds": [
+        "c-3-1"
+      ]
+    },
+    {
+      "author": "ProActivo",
+      "landingUrl": null,
+      "publishedAt": "2025-12-26",
+      "identifier": null,
+      "notes": "Vincula el nombre completo con la UNI.",
+      "id": "src-rx-proactivo-chirif-2025",
+      "title": "Luis Humberto Chirif deja la presidencia del INGEMMET",
+      "url": "https://proactivo.com.pe/luis-humberto-chirif-deja-la-presidencia-del-ingemmet/",
+      "type": "prensa",
+      "locator": "“Ingeniero Geólogo por la Universidad Nacional de Ingeniería (UNI)” y “Doctor en Ciencias Naturales por la Universidad de Heidelberg en Alemania”",
+      "status": "parcialmente_verificado",
+      "candidateIds": [
+        "c-3-1"
+      ]
+    },
+    {
+      "author": "Deutsche Nationalbibliothek (registro catalográfico)",
+      "landingUrl": null,
+      "publishedAt": "1998-01-01",
+      "identifier": "DNB 95499874X; ISBN 3-931161-17-X",
+      "notes": "Consultado vía SRU de la DNB (services.dnb.de). Año solamente; día/mes convencionales.",
+      "id": "src-rx-dnb-chirif-1998",
+      "title": "Mineralogie, Petrographie und Genese der schichtgebundenen Kupfererzlagerstätte Chapi (Moquegua – Peru) / Luis Humberto Chirif",
+      "url": "https://d-nb.info/95499874X",
+      "type": "base_bibliografica",
+      "locator": "“Zugl.: Heidelberg, Univ., Diss., 1998” (tesis doctoral, Universidad de Heidelberg, 1998); editor: Vereinigung zur Förderung der Mineralogie in Heidelberg",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-3-1"
+      ]
+    },
+    {
+      "author": "ORCID",
+      "landingUrl": null,
+      "publishedAt": null,
+      "identifier": "0000-0002-9887-6419",
+      "notes": "Consultado vía API pub.orcid.org v3.0. El empleo es autodeclarado; la calificación RENACYT la registra CONCYTEC.",
+      "id": "src-rx-orcid-rodriguez",
+      "title": "Registro ORCID 0000-0002-9887-6419 (Juan Martin Rodriguez Rodriguez)",
+      "url": "https://orcid.org/0000-0002-9887-6419",
+      "type": "registro_publico",
+      "locator": "Empleo: “Universidad Nacional de Ingenieria Facultad de Ciencias – PHYSICS – PROFESSOR – 1993” (fuente: el titular); Cualificación: “Consejo Nacional de Ciencia y Tecnología e Innovación Tecnológica – Nivel ID – Investigador RENACYT – 2022-07” (fuente: CONCYTEC); 72 obras listadas",
+      "status": "corroborado",
+      "candidateIds": [
+        "c-8-1"
+      ]
+    },
+    {
+      "author": "PROCIENCIA / gob.pe",
+      "landingUrl": null,
+      "publishedAt": null,
+      "identifier": null,
+      "notes": "El documento contiene el número de DNI: NO copiado. No se pudo leer el texto de la RP 064-2021-CONCYTEC-P (fecha exacta pendiente).",
+      "id": "src-rx-prociencia-contrato-2024",
+      "title": "Modelo de contrato N.º __-2024-PROCIENCIA – Proyectos especiales: incorporación de investigadores postdoctorales",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5841556/5181406-modelo_contrato.pdf",
+      "type": "documento_institucional",
+      "locator": "“debidamente representado por su Director Ejecutivo JUAN MARTÍN RODRÍGUEZ RODRÍGUEZ… designado con Resolución de Presidencia N° 064-2021-CONCYTEC-P”",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ]
+    },
+    {
+      "author": "Congreso de la República",
+      "landingUrl": null,
+      "publishedAt": "2024-04-29",
+      "identifier": null,
+      "notes": "Fecha la gestión en abril de 2024 (complementa src-congreso-ciencia-35, sin año).",
+      "id": "src-rx-congreso-ciencia-17so-2024",
+      "title": "Agenda de la Décima Séptima Sesión Ordinaria de la Comisión de Ciencia, Innovación y Tecnología (29-04-2024)",
+      "url": "https://comunicaciones.congreso.gob.pe/wpuploads/2024/04/Ciencia.17SO.29.04.2024-1.pdf",
+      "type": "documento_institucional",
+      "locator": "“5.1. Presentación del señor Juan Martin Rodríguez Rodríguez, presidente Ejecutivo del Programa Nacional de Investigación Científica- PROCIENCIA”",
+      "status": "verificado_primaria",
+      "candidateIds": [
+        "c-8-1"
+      ]
+    },
+    {
+      "author": "CONCYTEC / El Peruano",
+      "landingUrl": null,
+      "publishedAt": "2024-09-05",
+      "identifier": "RP 101-2024-CONCYTEC-P",
+      "notes": "No menciona al candidato ni la conclusión de su designación; sólo acota que para el 01-09-2024 la dirección ya estaba encargada a otra persona. No usar como prueba del cese sin la resolución de conclusión.",
+      "id": "src-rx-elperuano-rp101-2024",
+      "title": "Resolución de Presidencia N.º 101-2024-CONCYTEC-P – Designan Directora Ejecutiva de PROCIENCIA",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2321862-1",
+      "type": "normativa",
+      "locator": "Designa nueva Directora Ejecutiva “a partir del 5 de setiembre de 2024”; previamente se encargaron las funciones “del 1 al 4 de setiembre de 2024” (RP 099-2024-CONCYTEC-P)",
+      "status": "pendiente_revision",
+      "candidateIds": [
+        "c-8-1"
+      ]
+    },
+    {
+      "author": "PCM / El Peruano",
+      "landingUrl": null,
+      "publishedAt": "2018-06-19",
+      "identifier": "RS 132-2018-PCM",
+      "notes": "Coincide el nombre completo pero la norma no menciona la UNI: se deja como pista, no como claim. Fecha de publicación estimada al día siguiente de la firma; verificar.",
+      "id": "src-rx-elperuano-rs132-2018-pcm",
+      "title": "Resolución Suprema N.º 132-2018-PCM – Designan miembros del Consejo Directivo del CONCYTEC",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/1661070-3",
+      "type": "normativa",
+      "locator": "“Señor Juan Martín Rodríguez Rodríguez (Representante de las Universidades Públicas)” (Lima, 18-06-2018)",
+      "status": "pendiente_revision",
+      "candidateIds": [
+        "c-8-1"
+      ]
+    },
+    {
+      "author": "ProActivo",
+      "landingUrl": null,
+      "publishedAt": "2021-10-25",
+      "identifier": null,
+      "notes": "",
+      "id": "src-rx-proactivo-uni-2021-planes",
+      "title": "La Universidad Nacional de Ingeniería (UNI) elegirá nuevo rector este martes 26 de octubre",
+      "url": "https://proactivo.com.pe/la-universidad-nacional-de-ingenieria-uni-elegira-nuevo-rector-este-martes-26-de-octubre/",
+      "type": "prensa",
+      "locator": "Lista de candidatos a rector 2021 con enlace a sus planes de trabajo, entre ellos “Fortunato Alva Dávila” y “Raymundo Ildefonso Arnao Rondan”",
+      "status": "parcialmente_verificado",
+      "candidateIds": [
+        "c-6-1",
+        "c-9-1"
+      ]
+    },
+    {
+      "author": "ProActivo",
+      "landingUrl": null,
+      "publishedAt": "2021-10-26",
+      "identifier": null,
+      "notes": "",
+      "id": "src-rx-proactivo-uni-2021-resultados",
+      "title": "Elecciones UNI: Alfonso López-Chau y Elmar Javier Franco pasan a segunda vuelta",
+      "url": "https://proactivo.com.pe/elecciones-uni-alfonso-lopez-chau-y-elmar-javier-franco-pasan-a-segunda-vuelta/",
+      "type": "prensa",
+      "locator": "“Raymundo Arnao Rondan (727 votos)… Fortunato Alva Dávila (644 votos)”",
+      "status": "parcialmente_verificado",
+      "candidateIds": [
+        "c-6-1",
+        "c-9-1"
+      ]
+    },
+    {
+      "author": "Fortunato Alva Dávila",
+      "landingUrl": null,
+      "publishedAt": null,
+      "identifier": null,
+      "notes": "Plan de la elección 2021, NO de 2026. Enlazado desde src-rx-proactivo-uni-2021-planes. 20 páginas, sin hoja de vida.",
+      "id": "src-rx-plan-alva-2021",
+      "title": "Plan de trabajo – Candidato a Rector Dr. Fortunato Alva Dávila 2021-2026",
+      "url": "https://drive.google.com/file/d/1e2CcLQZG_WhzCPHKCIJJv9bSPevVJ9lD/view",
+      "type": "plan_de_gobierno",
+      "locator": "Portada: “PLAN DE TRABAJO CANDIDATO A RECTOR Dr. Fortunato Alva Dávila 2021-2026”; ejes: “Enseñanza Pregrado y Acreditación; Enseñanza de Posgrado; Investigación e Innovación Tecnológica; Responsabilidad Social Universitaria; Gestión Administrativa y Desarrollo Institucional”",
+      "status": "declarado",
+      "candidateIds": [
+        "c-6-1"
+      ]
+    },
+    {
+      "author": "Canal de YouTube “Modesto Montoya” (@cienciayfuturo)",
+      "landingUrl": null,
+      "publishedAt": null,
+      "identifier": null,
+      "notes": "YouTube bloqueó la descarga de descripción/subtítulos (verificación anti-bot). No se registran propuestas hasta ver el video.",
+      "id": "src-rx-youtube-lista3-2026",
+      "title": "ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3 (video)",
+      "url": "https://www.youtube.com/watch?v=pYCV_tPxoNI",
+      "type": "declaracion_publica",
+      "locator": "Título y autor confirmados vía oEmbed de YouTube; contenido no transcrito",
+      "status": "pendiente_revision",
+      "candidateIds": [
+        "c-3-1",
+        "c-3-2",
+        "c-3-3"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "candidateId": "c-5-1",
+      "section": "gestion",
+      "text": "Director del Centro de Estudios Preuniversitarios (CEPRE-UNI): encargado desde la RR 038-2024-UNI (15-01-2024); elegido por el Consejo Universitario el 26-02-2025 y designado por dos años mediante la RR 593-2025-UNI (28-02-2025).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-uni-rr0593-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-1",
+      "section": "gestion",
+      "text": "Figura como “Director (e)” de la Unidad de Centro Preuniversitario en el directorio institucional de la UNI del 08-07-2025.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-uni-directorio-jul2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-5-1",
+      "section": "gestion",
+      "text": "Presidente de la Asociación de Docentes de la UNI (ADUNI) en 2013-2015, según la lista histórica publicada por el Centro de Historia UNI (consigna “Alejandro Huamán Sánchez”, sin el segundo nombre).",
+      "status": "parcialmente_verificado",
+      "sourceIds": [
+        "src-rx-gaceta-historia-uni-22"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Reconocido como decano de la Facultad de Ingeniería Eléctrica y Electrónica por la RR 3541-2023-UNI (10-11-2023), para el periodo del 13-11-2023 al 12-11-2027, según la RR 1360-2025-UNI.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-uni-rr1360-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "Elegido vicerrector de Investigación por la Asamblea Universitaria en 2025, tras la renuncia del rector, para completar el periodo del 07-05-2025 al 11-11-2026; por ello el decanato de la FIEE se encargó a otro docente desde el 07-05-2025 (RR 1360-2025-UNI).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-uni-rr1360-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-1-1",
+      "section": "gestion",
+      "text": "En el directorio de la UNI del 08-07-2025 figura como vicerrector de Investigación y, a la vez, como vicerrector académico (e).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-uni-directorio-jul2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "gestion",
+      "text": "Figura como rector de la UNI en documentos institucionales de 2009 (Plan Funcional), 2012 (Memoria Institucional) y 2014 (Plan Operativo Institucional). Estos documentos no indican las fechas de inicio y fin del mandato.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-uni-pf-2009",
+        "src-rx-uni-memoria-2012",
+        "src-rx-uni-poi-2014"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-2-1",
+      "section": "gestion",
+      "text": "Según Perú21 (21-01-2016), una resolución rectoral del 18 de enero de 2016 impuso una medida sancionadora a los integrantes de la comisión de adquisición de tres buses en 2010, entre ellos “Aurelio Padilla (ex rector)”. La comisión investigadora concluyó que se vulneraron las normas de contrataciones con el Estado. No se conoce una resolución final (apelación, SERVIR o Poder Judicial).",
+      "status": "controvertido",
+      "sourceIds": [
+        "src-rx-peru21-humala-2016"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "gestion",
+      "text": "Decano de la Facultad de Ingeniería Económica (FIECS/FIEECS) de la UNI, según la Memoria Institucional 2012 y el Plan Operativo Institucional 2014.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-uni-memoria-2012",
+        "src-rx-uni-poi-2014"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-4-1",
+      "section": "gestion",
+      "text": "Según Perú21 (21-01-2016), la UNI lo destituyó como docente de la Facultad de Ingeniería Económica por una resolución rectoral del 18 de enero de 2016, tras hallar indicios de irregularidades en la compra de tres buses en 2010; él integró la comisión de adquisición. En diciembre de 2015 el rector de entonces dijo a Perú21 que estaba suspendido cuatro meses desde noviembre y que podía apelar. No se conoce una resolución final (apelación, SERVIR o Poder Judicial). En 2026 su candidatura figura en la publicación definitiva del CEUNI.",
+      "status": "controvertido",
+      "sourceIds": [
+        "src-rx-peru21-humala-2016",
+        "src-rx-peru21-alva-2015",
+        "src-ceuni-listas-definitivas"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "formacion",
+      "text": "Ingeniero geólogo por la UNI y doctor en Ciencias Naturales por la Universidad de Heidelberg (Alemania), según ProActivo. La Deutsche Nationalbibliothek registra su tesis doctoral en Heidelberg en 1998.",
+      "status": "corroborado",
+      "sourceIds": [
+        "src-rx-proactivo-chirif-2025",
+        "src-rx-dnb-chirif-1998"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "investigacion",
+      "text": "Tesis doctoral: «Mineralogie, Petrographie und Genese der schichtgebundenen Kupfererzlagerstätte Chapi (Moquegua – Peru)» (Universidad de Heidelberg, 1998).",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-dnb-chirif-1998"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-3-1",
+      "section": "gestion",
+      "text": "Presidente del Consejo Directivo del INGEMMET: designado por la RS 009-2024-EM, en el cargo desde el 04-06-2024 según Gestión. La designación concluyó por la RS 021-2025-EM del 24-12-2025.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-elperuano-rs021-2025-em",
+        "src-rx-gestion-ingemmet-2025"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "docencia",
+      "text": "Profesor de Física en la Facultad de Ciencias de la UNI desde 1993, según su registro ORCID.",
+      "status": "declarado",
+      "sourceIds": [
+        "src-rx-orcid-rodriguez"
+      ],
+      "kind": "declaracion"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "investigacion",
+      "text": "Investigador RENACYT «Nivel ID» desde julio de 2022. Lo registra CONCYTEC en su perfil ORCID, que lista 72 obras.",
+      "status": "corroborado",
+      "sourceIds": [
+        "src-rx-orcid-rodriguez"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-8-1",
+      "section": "gestion",
+      "text": "Director ejecutivo de PROCIENCIA, designado por la RP 064-2021-CONCYTEC-P. Figura en un modelo de contrato de 2024 y en la agenda de la Comisión de Ciencia del Congreso del 29-04-2024. La fecha exacta de su designación y la de su cese siguen pendientes.",
+      "status": "verificado_primaria",
+      "sourceIds": [
+        "src-rx-prociencia-contrato-2024",
+        "src-rx-congreso-ciencia-17so-2024"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-6-1",
+      "section": "declaraciones",
+      "text": "Fue candidato a rector en la elección UNI de 2021: presentó un plan de trabajo 2021-2026 y obtuvo 644 votos en la primera vuelta.",
+      "status": "parcialmente_verificado",
+      "sourceIds": [
+        "src-rx-proactivo-uni-2021-planes",
+        "src-rx-proactivo-uni-2021-resultados",
+        "src-rx-plan-alva-2021"
+      ],
+      "kind": "hecho"
+    },
+    {
+      "candidateId": "c-9-1",
+      "section": "declaraciones",
+      "text": "Fue candidato a rector en la elección UNI de 2021 y obtuvo 727 votos en la primera vuelta.",
+      "status": "parcialmente_verificado",
+      "sourceIds": [
+        "src-rx-proactivo-uni-2021-planes",
+        "src-rx-proactivo-uni-2021-resultados"
+      ],
+      "kind": "hecho"
+    }
+  ],
+  "proposals": [],
+  "leads": [
+    {
+      "candidateId": "c-8-1",
+      "provider": "ORCID",
+      "profileId": "https://orcid.org/0000-0002-9887-6419",
+      "displayName": "Juan Martin Rodriguez Rodriguez",
+      "orcid": "0000-0002-9887-6419",
+      "worksCount": 72,
+      "status": "pendiente",
+      "note": "Nombre completo + empleo en la UNI, Facultad de Ciencias (Física), y RENACYT registrado por CONCYTEC. Es candidato fuerte a atribución; se usa como fuente de los claims. Falta confirmación humana para vincular el perfil."
+    },
+    {
+      "candidateId": "c-8-1",
+      "provider": "OpenAlex",
+      "profileId": "https://openalex.org/A5063102185",
+      "displayName": "Juan M. Rodriguez",
+      "orcid": "0000-0002-9887-6419",
+      "worksCount": 106,
+      "status": "pendiente",
+      "note": "Vinculado al ORCID anterior (106 obras, 1426 citas, h=23). Reemplaza al perfil descartado A5100639200. Ojo: lista afiliaciones (Uppsala, Tarapacá, UBA, CONICET) que podrían mezclar homónimos. Revisar antes de mostrar métricas."
+    },
+    {
+      "candidateId": "c-5-1",
+      "provider": "ORCID",
+      "profileId": "https://orcid.org/0009-0009-3846-0022",
+      "displayName": "Jose Alejandro Huaman Sanchez",
+      "orcid": "0009-0009-3846-0022",
+      "worksCount": 0,
+      "status": "descartado",
+      "note": "Otro nombre (José Alejandro) y estudiante de la Universidad Nacional de San Martín: homónimo."
+    }
+  ],
+  "pending": [
+    {
+      "candidateId": "c-5-1",
+      "text": "Sin propuestas públicas de la Lista 5 localizadas (prensa, ProActivo, YouTube). Buscar en redes de la lista o en el portal CEUNI. Formación doctoral (especialidad/universidad): consultar SUNEDU. Pista: el directorio UNI del 11-05-2026 (portal.uni.edu.pe, inaccesible desde aquí) podría confirmar si sigue en el CEPRE."
+    },
+    {
+      "candidateId": "c-1-1",
+      "text": "Doctorado: especialidad e institución no encontradas (ORCID vacío; buscar en SUNEDU o en la hoja de vida de la lista). Leer la RR 3541-2023-UNI completa y la resolución de la Asamblea Universitaria de 2025 que lo eligió vicerrector de Investigación."
+    },
+    {
+      "candidateId": "c-2-1",
+      "text": "Fechas exactas del rectorado (aprox. 2009-2014; ya era rector en mayo de 2009 según RPP). La Gaceta UNI o las resoluciones de la Asamblea Universitaria de 2009 podrían precisarlas. En una entrevista de Perú21 (15-12-2015), el rector de entonces hizo afirmaciones sobre el fin del mandato de Padilla y una denuncia contra él; no se registran por ser declaraciones de un tercero sin resolución conocida. La nota de La República del 03-08-2014 («Fiscalización seguirá con investigación al ex rector de la UNI Aurelio Padilla») sólo pudo leerse por su titular: el cuerpo es ilegible y queda pendiente. Revisar si el claim controvertido sobre los buses (Perú21 2016) debe mostrarse; menciona a Padilla como integrante de la comisión."
+    },
+    {
+      "candidateId": "c-4-1",
+      "text": "No se halló la resolución final sobre la sanción de enero de 2016 (apelación interna, Tribunal del Servicio Civil o Poder Judicial). Buscar en el Tribunal del Servicio Civil o en las resoluciones de la UNI de 2016-2017. Precisar desde cuándo es docente principal ordinario."
+    },
+    {
+      "candidateId": "c-3-1",
+      "text": "Cargos dentro de la UNI (jefe de departamento, laboratorio de mineralogía): el perfil de IGI Global («Humberto Chiriff-Rivera») menciona la jefatura del laboratorio de mineralogía hasta 2005 y la docencia en la escuela de Geología desde 2012, pero devolvió 429 y no se leyó. Tampoco se halló evidencia de que haya sido decano de la FIGMM."
+    },
+    {
+      "candidateId": "c-8-1",
+      "text": "Leer la RP 064-2021-CONCYTEC-P (fecha de designación) y la resolución que dio por concluida su designación como director ejecutivo de PROCIENCIA (antes del 01-09-2024, cuando la dirección ya estaba encargada a otra persona). La RS 132-2018-PCM lo nombra representante de las universidades públicas ante el Consejo Directivo del CONCYTEC, pero no menciona la UNI: confirmar. Doctorado: institución pendiente."
+    },
+    {
+      "candidateId": "c-6-1",
+      "text": "Formación (doctorado) y cargos de gestión en la FIM no encontrados en fuentes abiertas. ORCID 0009-0008-8168-661X vacío. Revisar el portal de la FIM (sin respuesta) y SUNEDU."
+    },
+    {
+      "candidateId": "c-7-1",
+      "text": "Sin datos nuevos de formación ni cargos más allá de la RD 034-21 FIIS. ORCID vacío; fiis.uni.edu.pe devolvió 403. Revisar SUNEDU y las actas del Consejo Universitario de 2021-2022 sobre el encargo del Vicerrectorado Académico."
+    },
+    {
+      "candidateId": "c-3-1",
+      "text": "Ver y transcribir el video «ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3» (src-rx-youtube-lista3-2026) para registrar propuestas con origin «declaracion_publica»."
+    }
+  ],
+  "siteUpdates": {},
+  "rejected": [
+    "Perfil de broker de contactos de ZoomInfo sobre Aurelio Padilla Ríos (correo y teléfono): descartado por la regla 2.",
+    "El modelo de contrato de PROCIENCIA incluye el DNI de Juan Martín Rodríguez Rodríguez: no se copió.",
+    "En el directorio de la UNI aparece «Mag. Jorge Falconí de la Mata» (Unidad de Internacionalización): es otra persona y no se relaciona con c-7-1.",
+    "ORCID 0009-0000-3244-4878 y 0000-0002-9826-5546 («Alejandro Huaman»): apellido incompleto y sin vínculo con la UNI. No se atribuyen.",
+    "Notas de Perú21, América TV y Correo (2015) sobre UNI-Serviuni y los convenios firmados por Ulises Humala: no se leyeron completas y no se registran (regla 7).",
+    "Plan de trabajo 2021 de Fortunato Alva: no se cargó como propuestas porque corresponde a la elección 2021, no a la de 2026.",
+    "Proactivo (06-11-2015), primera vuelta UNI 2015: no nombra a candidatos de 2026 salvo a terceros."
+  ],
+  "summary": "Se cubrieron huecos de 7 candidatos a rector con documentos primarios de la UNI, El Peruano, el Congreso, ORCID y la DNB. Hallazgos: c-5-1 dirige el CEPRE-UNI (RR 593-2025) y presidió la ADUNI (2013-2015); c-1-1 fue decano de la FIEE desde 13-11-2023 y en 2025 fue elegido vicerrector de Investigación; c-2-1 figura como rector en documentos de 2009, 2012 y 2014; c-3-1 es doctor por Heidelberg (1998) y presidió INGEMMET (2024-2025); c-8-1 es RENACYT Nivel ID (CONCYTEC) y fue director ejecutivo de PROCIENCIA (RP 064-2021); c-4-1 fue decano de la FIECS (2012-2014). La nota de Perú21 sobre la compra de buses es del 21-01-2016, no de 2019; se leyó completa y se registró como controvertida para c-4-1 y c-2-1, sin resolución final conocida. No se hallaron propuestas nuevas de 2026 en prensa; el video de la Lista 3 queda pendiente."
+}
