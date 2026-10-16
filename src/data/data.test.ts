@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import * as d from './index'
-import { validateDataset } from './validate'
+import { validateDataset, validateSite } from './validate'
 import { ROLE_BY_ORDER, ROLES } from './types'
 
 const dataset = {
@@ -17,6 +17,10 @@ const dataset = {
 describe('integridad de datos', () => {
   it('el validador no encuentra problemas', () => {
     expect(validateDataset(dataset)).toEqual([])
+  })
+
+  it('site.json referencia fuentes y listas existentes', () => {
+    expect(validateSite(d.site, dataset)).toEqual([])
   })
 
   it('hay exactamente 9 listas y 27 candidaturas', () => {

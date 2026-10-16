@@ -132,3 +132,14 @@ export function validateDataset(d: Dataset): string[] {
 
   return errors
 }
+
+/** Valida referencias de site.json (resultados y cronograma) contra el catálogo. */
+export function validateSite(site: { results?: { source: string | null; lists: { listId: string }[] }; calendar?: { sourceId: string }[] }, d: Pick<Dataset, 'sources' | 'lists'>): string[] {
+  const errors: string[] = []
+  const sourceIds = new Set(d.sources.map((s) => s.id))
+  const listIds = new Set(d.lists.map((l) => l.id))
+  if (site.results?.source && !sourceIds.has(site.results.source)) errors.push(`resultados: fuente inexistente ${site.results.source}`)
+  for (const r of site.results?.lists ?? []) if (!listIds.has(r.listId)) errors.push(`resultados: lista inexistente ${r.listId}`)
+  for (const e of site.calendar ?? []) if (!sourceIds.has(e.sourceId)) errors.push(`cronograma: fuente inexistente ${e.sourceId}`)
+  return errors
+}

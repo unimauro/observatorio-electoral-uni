@@ -8,5 +8,225 @@
   "updatedAt": "2026-10-16",
   "repoUrl": "https://github.com/unimauro/observatorio-electoral-uni",
   "correctionsUrl": "https://github.com/unimauro/observatorio-electoral-uni/issues/new?template=correccion.yml",
-  "independenceNote": "Proyecto ciudadano independiente. No es un portal oficial de la UNI ni del CEUNI, y no está vinculado a ninguna lista."
+  "independenceNote": "Proyecto ciudadano independiente. No es un portal oficial de la UNI ni del CEUNI, y no está vinculado a ninguna lista.",
+  "results": {
+    "status": "no_publicado",
+    "source": "src-ceuni-portal-2026",
+    "asOf": "2026-10-16T00:41:00-05:00",
+    "lists": [
+      {
+        "listId": "lista-1",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-2",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-3",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-4",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-5",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-6",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-7",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-8",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      },
+      {
+        "listId": "lista-9",
+        "votesDocentes": null,
+        "votesEstudiantes": null,
+        "weightedPct": null,
+        "note": ""
+      }
+    ],
+    "secondRound": null,
+    "proclaimed": null,
+    "note": "A las 00:41 del 16-10-2026 la votación aún no había empezado (jornada 10:00–16:00). En el portal CEUNI los botones 'PUBLICACIÓN DE RESULTADOS DE ESCRUTINIO' y 'PROCLAMACIÓN DE GANADORES' existen pero no tienen enlace. Según la Gaceta N.º 175, los resultados del escrutinio se publican el mismo 16-10-2026; posible 2.ª vuelta el 28-10-2026."
+  },
+  "calendar": [
+    {
+      "date": "2026-09-09",
+      "event": "Publicación provisional de padrones",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-10",
+      "event": "Observaciones a los padrones (10:00 a 16:00 horas)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-11",
+      "event": "Resolución de observaciones",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "event": "Publicación definitiva de padrones",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-15",
+      "event": "Inicio de solicitud de inscripción de candidaturas (10:00 a 18:00 horas; hasta el 17-09-2026)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-17",
+      "event": "Fin de solicitud de inscripción de candidaturas",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-18",
+      "event": "Inicio de subsanación de candidaturas (10:00 a 16:00 horas; hasta el 21-09-2026)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-21",
+      "event": "Fin de subsanación de candidaturas",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-22",
+      "event": "Publicación provisional de candidaturas",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-23",
+      "event": "Impugnaciones y tachas a candidaturas (10:00 a 16:00 horas)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-24",
+      "event": "Inicio de resolución de impugnaciones y tachas a candidaturas (hasta el 25-09-2026)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "Fin de resolución de impugnaciones y tachas a candidaturas",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-28",
+      "event": "Reconsideración de impugnaciones y tachas a candidaturas (10:00 a 16:00 horas)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-29",
+      "event": "Resolución de reconsideración",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-09-30",
+      "event": "Publicación definitiva de candidaturas",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-07",
+      "event": "Debates",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-07",
+      "event": "Debate de candidatos al Rectorado, 10:00 a.m., Teatro UNI",
+      "sourceId": "src-rs-onpe-carta-010265-2026"
+    },
+    {
+      "date": "2026-10-16",
+      "event": "Jornada electoral 1.ª vuelta de autoridades y representantes estudiantiles ante los órganos de gobierno (10:00 a 16:00 horas)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-16",
+      "event": "Publicación de resultados del escrutinio (1.ª vuelta)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-19",
+      "event": "Presentación de recursos de nulidad (10:00 a 16:00 horas) – 1.ª vuelta",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-20",
+      "event": "Inicio de resolución de nulidades – 1.ª vuelta (hasta el 21-10-2026)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-21",
+      "event": "Fin de resolución de nulidades – 1.ª vuelta",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-28",
+      "event": "Jornada electoral 2.ª vuelta de autoridades (10:00 a 16:00 horas)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-28",
+      "event": "Publicación de resultados del escrutinio (2.ª vuelta)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-10-29",
+      "event": "Presentación de recursos de nulidad (10:00 a 16:00 horas) – 2.ª vuelta",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-11-02",
+      "event": "Inicio de resolución de nulidades – 2.ª vuelta (hasta el 03-11-2026)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-11-03",
+      "event": "Fin de resolución de nulidades – 2.ª vuelta",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-11-04",
+      "event": "Proclamación de ganadores (el cronograma consigna esta fecha tanto para la 1.ª como para la 2.ª vuelta)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Entrega de credenciales (el cronograma consigna esta fecha tanto para la 1.ª como para la 2.ª vuelta)",
+      "sourceId": "src-rs-gaceta-175-2026"
+    }
+  ]
 }

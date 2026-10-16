@@ -87,6 +87,32 @@
           ],
           "kind": "declaracion"
         }
+      ],
+      "proceso": [
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 037-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-037-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 038-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-038-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según la Resolución N.º 038-2026-CEUNI, en su expediente de inscripción obra carta de renuncia irrevocable a los cargos de Decano y Vicerrector de Investigación, de fecha 26-08-2026.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-038-2026"
+          ],
+          "kind": "hecho"
+        }
       ]
     },
     "researchLeads": [
@@ -191,7 +217,25 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": [
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 041-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-041-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 042-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-042-2026"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -284,7 +328,25 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": [
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 039-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-039-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 040-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-040-2026"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -371,6 +433,14 @@
             "src-ceuni-listas-definitivas"
           ],
           "kind": "hecho_inferido"
+        },
+        {
+          "text": "Según la Resolución N.º 035-2026-CEUNI, el CEUNI verificó que el candidato posee el grado de doctor obtenido con estudios presenciales; la resolución indica que su maestría y doctorado son en Administración.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-035-2026"
+          ],
+          "kind": "hecho"
         }
       ],
       "docencia": [
@@ -421,6 +491,32 @@
             "src-rpp-debate-2026"
           ],
           "kind": "declaracion"
+        }
+      ],
+      "proceso": [
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 034-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-034-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 035-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-035-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El CEUNI declaró infundado un recurso de reconsideración contra la Resolución N.º 035-2026-CEUNI, que había desestimado una tacha a esta candidatura (Resolución N.º 046-2026-CEUNI).",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-046-2026"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -515,7 +611,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -633,7 +730,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -734,7 +832,8 @@
           ],
           "kind": "declaracion"
         }
-      ]
+      ],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -865,7 +964,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -982,7 +1082,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1003,7 +1104,8 @@
       "Registro Nacional de Grados y Títulos (SUNEDU) para especialidad y universidad del doctorado",
       "Hoja de vida o plan de trabajo difundido por la lista",
       "Resoluciones del CEUNI sobre impugnaciones y tachas (carpeta oficial con acceso restringido)",
-      "Portal de transparencia UNI: cargos de gestión desempeñados"
+      "Portal de transparencia UNI: cargos de gestión desempeñados",
+      "Video YouTube 'ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3' (https://www.youtube.com/watch?v=pYCV_tPxoNI), canal de Modesto Montoya (@cienciayfuturo) según oEmbed: no se pudo ver el contenido (YouTube exige inicio de sesión / bloqueo anti-bot). Transcribir propuestas de Chirif, Páuyac y Montoya cuando sea posible."
     ],
     "corrections": [],
     "meta": {
@@ -1107,7 +1209,8 @@
           ],
           "kind": "declaracion"
         }
-      ]
+      ],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1222,7 +1325,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1340,7 +1444,8 @@
       ],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1443,7 +1548,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1536,7 +1642,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1629,7 +1736,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1739,6 +1847,33 @@
             "src-rpp-debate-2026"
           ],
           "kind": "declaracion"
+        }
+      ],
+      "proceso": [
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 032-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-032-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 033-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-033-2026"
+          ],
+          "kind": "hecho"
+        },
+        {
+          "text": "Según las Resoluciones N.º 032 y 033-2026-CEUNI, en su expediente de inscripción obra carta de renuncia irrevocable a la Asamblea Universitaria, de fecha 28-08-2026.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-032-2026",
+            "src-rs-ceuni-res-033-2026"
+          ],
+          "kind": "hecho"
         }
       ]
     },
@@ -1860,7 +1995,8 @@
       ],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -1952,7 +2088,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -2071,7 +2208,8 @@
           ],
           "kind": "declaracion"
         }
-      ]
+      ],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -2183,7 +2321,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -2276,7 +2415,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -2396,7 +2536,8 @@
           ],
           "kind": "declaracion"
         }
-      ]
+      ],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -2505,7 +2646,17 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": [
+        {
+          "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 031-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+          "status": "verificado_primaria",
+          "sourceIds": [
+            "src-rs-ceuni-res-031-2026"
+          ],
+          "kind": "hecho"
+        }
+      ]
     },
     "researchLeads": [
       {
@@ -2622,7 +2773,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -2781,7 +2933,8 @@
           ],
           "kind": "declaracion"
         }
-      ]
+      ],
+      "proceso": []
     },
     "researchLeads": [
       {
@@ -2895,7 +3048,8 @@
       "gestion": [],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [],
     "pendingSources": [
@@ -3002,7 +3156,8 @@
       ],
       "proyectos": [],
       "propuestas": [],
-      "declaraciones": []
+      "declaraciones": [],
+      "proceso": []
     },
     "researchLeads": [
       {

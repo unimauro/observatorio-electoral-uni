@@ -74,6 +74,7 @@ export const CLAIM_SECTIONS = [
   'proyectos',
   'propuestas',
   'declaraciones',
+  'proceso',
 ] as const
 export type ClaimSection = (typeof CLAIM_SECTIONS)[number]
 
@@ -85,6 +86,7 @@ export const SECTION_LABEL: Record<ClaimSection, string> = {
   proyectos: 'Proyectos y logros documentados',
   propuestas: 'Propuestas relacionadas con su cargo',
   declaraciones: 'Declaraciones públicas relevantes',
+  proceso: 'Proceso electoral (tachas y resoluciones del CEUNI)',
 }
 
 export interface FieldVerification {
@@ -279,7 +281,18 @@ export interface Evaluation {
   reviewedAt: string
 }
 
+export interface ElectionResults {
+  status: 'oficial' | 'preliminar' | 'no_publicado'
+  source: string | null
+  asOf: string
+  lists: { listId: string; votesDocentes: number | null; votesEstudiantes: number | null; weightedPct: number | null; note: string }[]
+  secondRound: { lists: string[]; date: string | null; note?: string } | null
+  proclaimed: string | null
+}
+
 export interface SiteConfig {
+  results?: ElectionResults
+  calendar?: { date: string; event: string; sourceId: string }[]
   name: string
   tagline: string
   university: string

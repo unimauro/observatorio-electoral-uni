@@ -1,0 +1,928 @@
+{
+ "agent": "resultados",
+ "consultedAt": "2026-10-16",
+ "sources": [
+  {
+   "id": "src-rs-gaceta-175-2026",
+   "title": "La Gaceta – Órgano Oficial de la UNI N.º 175 (08-09-2026): Comunicado CEUNI – Cronograma electoral de elección de autoridades y representantes estudiantiles 2026",
+   "author": "Comité Electoral Universitario (CEUNI) / Secretaría General UNI",
+   "url": "https://ww2.fondoeditorial.uni.edu.pe/GACETA%20175_2026.pdf",
+   "landingUrl": null,
+   "publishedAt": "2026-09-08",
+   "type": "documento_electoral",
+   "identifier": "La Gaceta N.º 175, Año LXI",
+   "locator": "Pág. 02, CRONOGRAMA ELECTORAL: '14. JORNADA ELECTORAL 1° VUELTA DE AUTORIDADES Y REPRESENTANTES ESTUDIANTILES ANTE LOS ÓRGANOS DE GOBIERNO (10:00 a 16:00 horas) – Viernes, 16 de octubre de 2026'; '20. JORNADA ELECTORAL 2° VUELTA DE AUTORIDADES (10:00 a 16:00 horas) – Miércoles 28 de octubre de 2026'",
+   "status": "verificado_primaria",
+   "candidateIds": [],
+   "notes": "PDF escaneado (imagen); leído mediante render y OCR. Pág. 01: cronograma aprobado en sesión permanente del CEUNI del 23-06-2026. En el documento, la proclamación de ganadores y entrega de credenciales de la 1.ª vuelta (filas 18-19) figuran con las mismas fechas que las de la 2.ª vuelta (04 y 05 de noviembre de 2026); se copia tal cual."
+  },
+  {
+   "id": "src-rs-onpe-carta-010265-2026",
+   "title": "Carta N.º 010265-2026-GSFP/ONPE – Respuesta a invitación al Debate de Candidatos al Rectorado de la UNI 2026",
+   "author": "Oficina Nacional de Procesos Electorales – Gerencia de Supervisión de Fondos Partidarios",
+   "url": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQCou4XbzhSMSpUhBwRdfgOkAbgPfb-9uat6Y2cPRuQBdJQ?e=29Nh0v",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/asistencia-tecnica-onpe-elecciones-uni-2026/",
+   "publishedAt": "2026-10-06",
+   "type": "documento_institucional",
+   "identifier": "CARTA N° 010265-2026-GSFP/ONPE",
+   "locator": "'Debate de Candidatos al Rectorado de la Universidad Nacional de Ingeniería (UNI), programado para el miércoles 07 de octubre de 2026, a las 10:00 a.m., en el teatro UNI.'",
+   "status": "verificado_primaria",
+   "candidateIds": [],
+   "notes": "Publicada en la página 'Asistencia técnica ONPE – Elecciones UNI 2026' del CEUNI. ONPE designó a un subgerente de Asistencia Técnica para asistir en representación."
+  },
+  {
+   "id": "src-rs-montoya-propuestas-2026",
+   "title": "Propuestas para que la UNI retome impulso",
+   "author": "Modesto Montoya",
+   "url": "https://modestomontoya.me/2026/08/16/propuestas-para-que-la-uni-retome-impulso/",
+   "landingUrl": "https://modestomontoya.me/",
+   "publishedAt": "2026-08-17",
+   "type": "declaracion_publica",
+   "identifier": null,
+   "locator": "Sección 'Propuestas directas' (20 propuestas) y 'Prioridades para el próximo rectorado'",
+   "status": "declarado",
+   "candidateIds": [
+    "c-3-3"
+   ],
+   "notes": "Blog personal firmado por Modesto Montoya. Publicado (2026-08-17 UTC) antes del periodo de inscripción de candidaturas (15–17 set 2026); el texto no menciona la Lista 3 ni la candidatura, por lo que se atribuye sólo al candidato c-3-3 como declaración pública, no como plan oficial de la lista. Indica como 'Fuente de base' la página 'Es la UNI: para que la UNI retome impulso' (eslauni.org), que se presenta como 'espacio independiente'."
+  },
+  {
+   "id": "src-rs-ceuni-res-031-2026",
+   "title": "Resolución N.º 031-2026-CEUNI – Tacha contra candidatura (postulante en la lista 8, a Vicerrector)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 031-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 031-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-8-2"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-032-2026",
+   "title": "Resolución N.º 032-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la Lista 6)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 032-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 032-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-6-1"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-033-2026",
+   "title": "Resolución N.º 033-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la Lista 6)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 033-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 033-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-6-1"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-034-2026",
+   "title": "Resolución N.º 034-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 2)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 034-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 034-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-1"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-035-2026",
+   "title": "Resolución N.º 035-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 2)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 035-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 035-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-1"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-037-2026",
+   "title": "Resolución N.º 037-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 1)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 037-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 037-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-1"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-038-2026",
+   "title": "Resolución N.º 038-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 1)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 038-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 038-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-1"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-039-2026",
+   "title": "Resolución N.º 039-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrector, en la lista N° 1)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 039-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 039-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-3"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-040-2026",
+   "title": "Resolución N.º 040-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrector, en la lista N° 1)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 040-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 040-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-3"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-041-2026",
+   "title": "Resolución N.º 041-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrectora, en la lista N° 1)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 041-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 041-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-2"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-042-2026",
+   "title": "Resolución N.º 042-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrectora, en la lista N° 1)",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-25",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 042-2026-CEUNI",
+   "locator": "Archivo 'RESOLUCION Nº 042-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-1-2"
+   ],
+   "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular."
+  },
+  {
+   "id": "src-rs-ceuni-res-046-2026",
+   "title": "Resolución N.º 046-2026-CEUNI – Reconsideración contra la Resolución N.º 035-2026-CEUNI",
+   "author": "Comité Electoral Universitario (CEUNI)",
+   "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgAEwKWBCZY3S65dGKVj_uQVAUIfZ-ZlkvhICysoJUz5GOc?e=BG5Ft1",
+   "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+   "publishedAt": "2026-09-29",
+   "type": "documento_electoral",
+   "identifier": "RESOLUCIÓN N° 046-2026-CEUNI",
+   "locator": "'PRIMERO: Declarar INFUNDADO el Recurso de Reconsideración planteado ... contra la Resolución Nº 035-2026-CEUNI'",
+   "status": "verificado_primaria",
+   "candidateIds": [
+    "c-2-1"
+   ],
+   "notes": "Carpeta 'RESOLUCIONES DE RECONSIDERACIÓN DE IMPUGNACIONES Y TACHAS A CANDIDATURAS'. Aprobado por mayoría."
+  }
+ ],
+ "claims": [
+  {
+   "candidateId": "c-8-2",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 031-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-031-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-6-1",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 032-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-032-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-6-1",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 033-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-033-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-2-1",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 034-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-034-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-2-1",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 035-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-035-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-1",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 037-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-037-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-1",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 038-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-038-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-3",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 039-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-039-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-3",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 040-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-040-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-2",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 041-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-041-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-2",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundada una tacha contra esta candidatura (Resolución N.º 042-2026-CEUNI, 25-09-2026). La candidatura continuó en carrera.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-042-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-2-1",
+   "section": "proceso",
+   "text": "El CEUNI declaró infundado un recurso de reconsideración contra la Resolución N.º 035-2026-CEUNI, que había desestimado una tacha a esta candidatura (Resolución N.º 046-2026-CEUNI).",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-046-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-2-1",
+   "section": "formacion",
+   "text": "Según la Resolución N.º 035-2026-CEUNI, el CEUNI verificó que el candidato posee el grado de doctor obtenido con estudios presenciales; la resolución indica que su maestría y doctorado son en Administración.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-035-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-1-1",
+   "section": "proceso",
+   "text": "Según la Resolución N.º 038-2026-CEUNI, en su expediente de inscripción obra carta de renuncia irrevocable a los cargos de Decano y Vicerrector de Investigación, de fecha 26-08-2026.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-038-2026"
+   ],
+   "kind": "hecho"
+  },
+  {
+   "candidateId": "c-6-1",
+   "section": "proceso",
+   "text": "Según las Resoluciones N.º 032 y 033-2026-CEUNI, en su expediente de inscripción obra carta de renuncia irrevocable a la Asamblea Universitaria, de fecha 28-08-2026.",
+   "status": "verificado_primaria",
+   "sourceIds": [
+    "src-rs-ceuni-res-032-2026",
+    "src-rs-ceuni-res-033-2026"
+   ],
+   "kind": "hecho"
+  }
+ ],
+ "proposals": [
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Investigación científica",
+   "title": "Metas anuales de producción científica e innovación",
+   "description": "Establecer metas anuales de publicaciones científicas indexadas, citaciones, proyectos financiados, patentes, licencias y empresas de base tecnológica.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 1 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Investigación científica",
+   "title": "Incentivos a la investigación",
+   "description": "Crear incentivos institucionales para docentes e investigadores que publiquen, patenten, obtengan fondos competitivos y formen nuevos investigadores.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 2 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Investigación científica",
+   "title": "Oficina de apoyo a postulaciones a fondos",
+   "description": "Organizar una oficina especializada de apoyo a postulaciones para ProCiencia, ProInnóvate y convocatorias internacionales, con revisión técnica previa de las propuestas.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 3 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Innovación y transferencia tecnológica",
+   "title": "Programa institucional de transferencia tecnológica",
+   "description": "Crear un programa institucional de transferencia tecnológica que acompañe la secuencia investigación–publicación–patente–licenciamiento–startup o spin-off.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 5 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Internacionalización",
+   "title": "Convenios internacionales con resultados verificables",
+   "description": "Fortalecer convenios internacionales que produzcan resultados verificables: proyectos conjuntos, publicaciones, movilidad, dobles grados, cotutelas y acceso a laboratorios.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 7 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Empleabilidad",
+   "title": "Observatorio de egresados",
+   "description": "Crear un observatorio de egresados que mida empleabilidad, trayectoria profesional, becas, posgrados, emprendimientos y participación en empresas tecnológicas.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 8 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Infraestructura y laboratorios",
+   "title": "Recuperación inmediata de servicios del campus",
+   "description": "Ejecutar un programa inmediato de recuperación de servicios higiénicos, agua, limpieza, aulas, laboratorios, conectividad, comedor, seguridad y espacios de estudio.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 9 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Bienestar estudiantil",
+   "title": "Comedores con oferta saludable",
+   "description": "Implementar restaurantes y comedores universitarios con oferta saludable, condiciones sanitarias controladas y menús diseñados o supervisados por profesionales en nutrición y dietética.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 11 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Calidad educativa",
+   "title": "Programa de comunicación y mentoría docente–alumno",
+   "description": "Establecer un programa permanente de comunicación y mentoría docente–alumno, con horarios de atención publicados, tutorías académicas, reuniones periódicas fuera del aula y mecanismos para que los estudiantes planteen dudas, iniciativas y propuestas.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 13 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Investigación científica",
+   "title": "Programa UNI de investigación de pregrado",
+   "description": "Crear un programa UNI de investigación de pregrado, inspirado en el UROP del MIT, para integrar a estudiantes desde los primeros ciclos a proyectos de investigación, innovación y desarrollo tecnológico bajo mentoría docente, con reconocimiento académico y, cuando sea posible, apoyo económico.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 14 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Transparencia",
+   "title": "Encuestas públicas de satisfacción",
+   "description": "Publicar periódicamente encuestas de satisfacción estudiantil y docente, junto con planes de corrección con responsables y plazos.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 15 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Transformación digital",
+   "title": "Smart UNI: campus como laboratorio vivo",
+   "description": "Desarrollar Smart UNI como proyecto interdisciplinario: usar el campus como laboratorio para resolver problemas de agua, energía, residuos, seguridad, conectividad, calidad del aire y mantenimiento mediante sensores, inteligencia artificial, automatización y gemelos digitales; cada componente organizado como proyecto académico dirigido por docentes con participación de estudiantes.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 16 y sección 'Smart UNI: el campus como laboratorio vivo' · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Transparencia",
+   "title": "Tablero UNI público de indicadores",
+   "description": "Crear un Tablero UNI público con indicadores académicos, científicos, tecnológicos, financieros y de bienestar estudiantil y docente, actualizado periódicamente.",
+   "problem": null,
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": null,
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 19 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  },
+  {
+   "listId": "lista-3",
+   "candidateId": "c-3-3",
+   "origin": "declaracion_publica",
+   "category": "Calidad educativa",
+   "title": "Metas a cinco años en rankings internacionales",
+   "description": "Definir metas a cinco años para recuperar posiciones en rankings internacionales, usando los rankings como consecuencia de mejoras reales y no como único objetivo.",
+   "problem": "Según el texto, la UNI figuró en el rango 951–1000 del QS World University Rankings en 2024 y descendió al rango 1201–1400 en 2025, donde permaneció en 2026.",
+   "objective": null,
+   "beneficiaries": null,
+   "indicator": null,
+   "baseline": "QS 2026: rango 1201–1400 (según el texto)",
+   "target": null,
+   "targetDate": null,
+   "budget": null,
+   "responsibleUnit": null,
+   "sourceId": "src-rs-montoya-propuestas-2026",
+   "locator": "Propuestas directas, 20 · Publicación personal del candidato a vicerrector de investigación (blog, 16-08-2026); el texto no la presenta como plan de la Lista 3.",
+   "status": "declarado"
+  }
+ ],
+ "leads": [],
+ "pending": [
+  {
+   "candidateId": "",
+   "text": "RESULTADOS: volver a revisar el portal CEUNI (botones 'PUBLICACIÓN DE RESULTADOS DE ESCRUTINIO' y 'PROCLAMACIÓN DE GANADORES', hoy sin enlace) después de las 16:00 del 16-10-2026, más Facebook CEUNI.informa (no legible sin sesión) y prensa (RPP, Andina, El Comercio, La República). Los PDF en SharePoint se descargan con cookie de invitado: curl -c/-b sobre el enlace + '&download=1'; las carpetas se listan con /_api/web/GetFolderByServerRelativeUrl(...)/Files usando la misma cookie."
+  },
+  {
+   "candidateId": "",
+   "text": "PLANES DE GOBIERNO: no se encontró ningún plan de gobierno publicado como documento por las 9 listas (búsquedas web, portal CEUNI, prensa). El portal CEUNI no publica planes. Facebook/Instagram de las listas no son legibles sin sesión."
+  },
+  {
+   "candidateId": "c-3-3",
+   "text": "Video YouTube 'ELECCIONES UNI 2026 PROPUESTAS DE LA LISTA 3' (https://www.youtube.com/watch?v=pYCV_tPxoNI), canal de Modesto Montoya (@cienciayfuturo) según oEmbed: no se pudo ver el contenido (YouTube exige inicio de sesión / bloqueo anti-bot). Transcribir propuestas de Chirif, Páuyac y Montoya cuando sea posible."
+  },
+  {
+   "candidateId": "",
+   "text": "Debate CEUNI del 07-10-2026 (Teatro UNI): buscar grabación en el canal YouTube del CEUNI (@comiteelectoraluni-ceuni4526) para propuestas de los 9 candidatos a rector; la nota de RPP (src-rpp-debate-2026) cubre sólo 4 candidatos."
+  }
+ ],
+ "siteUpdates": {
+  "results": {
+   "status": "no_publicado",
+   "source": "src-ceuni-portal-2026",
+   "asOf": "2026-10-16T00:41:00-05:00",
+   "lists": [
+    {
+     "listId": "lista-1",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-2",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-3",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-4",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-5",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-6",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-7",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-8",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    },
+    {
+     "listId": "lista-9",
+     "votesDocentes": null,
+     "votesEstudiantes": null,
+     "weightedPct": null,
+     "note": ""
+    }
+   ],
+   "secondRound": null,
+   "proclaimed": null,
+   "note": "A las 00:41 del 16-10-2026 la votación aún no había empezado (jornada 10:00–16:00). En el portal CEUNI los botones 'PUBLICACIÓN DE RESULTADOS DE ESCRUTINIO' y 'PROCLAMACIÓN DE GANADORES' existen pero no tienen enlace. Según la Gaceta N.º 175, los resultados del escrutinio se publican el mismo 16-10-2026; posible 2.ª vuelta el 28-10-2026."
+  },
+  "calendar": [
+   {
+    "date": "2026-09-09",
+    "event": "Publicación provisional de padrones",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-10",
+    "event": "Observaciones a los padrones (10:00 a 16:00 horas)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-11",
+    "event": "Resolución de observaciones",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-14",
+    "event": "Publicación definitiva de padrones",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-15",
+    "event": "Inicio de solicitud de inscripción de candidaturas (10:00 a 18:00 horas; hasta el 17-09-2026)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-17",
+    "event": "Fin de solicitud de inscripción de candidaturas",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-18",
+    "event": "Inicio de subsanación de candidaturas (10:00 a 16:00 horas; hasta el 21-09-2026)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-21",
+    "event": "Fin de subsanación de candidaturas",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-22",
+    "event": "Publicación provisional de candidaturas",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-23",
+    "event": "Impugnaciones y tachas a candidaturas (10:00 a 16:00 horas)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-24",
+    "event": "Inicio de resolución de impugnaciones y tachas a candidaturas (hasta el 25-09-2026)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-25",
+    "event": "Fin de resolución de impugnaciones y tachas a candidaturas",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-28",
+    "event": "Reconsideración de impugnaciones y tachas a candidaturas (10:00 a 16:00 horas)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-29",
+    "event": "Resolución de reconsideración",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-09-30",
+    "event": "Publicación definitiva de candidaturas",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-07",
+    "event": "Debates",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-07",
+    "event": "Debate de candidatos al Rectorado, 10:00 a.m., Teatro UNI",
+    "sourceId": "src-rs-onpe-carta-010265-2026"
+   },
+   {
+    "date": "2026-10-16",
+    "event": "Jornada electoral 1.ª vuelta de autoridades y representantes estudiantiles ante los órganos de gobierno (10:00 a 16:00 horas)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-16",
+    "event": "Publicación de resultados del escrutinio (1.ª vuelta)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-19",
+    "event": "Presentación de recursos de nulidad (10:00 a 16:00 horas) – 1.ª vuelta",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-20",
+    "event": "Inicio de resolución de nulidades – 1.ª vuelta (hasta el 21-10-2026)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-21",
+    "event": "Fin de resolución de nulidades – 1.ª vuelta",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-28",
+    "event": "Jornada electoral 2.ª vuelta de autoridades (10:00 a 16:00 horas)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-28",
+    "event": "Publicación de resultados del escrutinio (2.ª vuelta)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-10-29",
+    "event": "Presentación de recursos de nulidad (10:00 a 16:00 horas) – 2.ª vuelta",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-11-02",
+    "event": "Inicio de resolución de nulidades – 2.ª vuelta (hasta el 03-11-2026)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-11-03",
+    "event": "Fin de resolución de nulidades – 2.ª vuelta",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-11-04",
+    "event": "Proclamación de ganadores (el cronograma consigna esta fecha tanto para la 1.ª como para la 2.ª vuelta)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   },
+   {
+    "date": "2026-11-05",
+    "event": "Entrega de credenciales (el cronograma consigna esta fecha tanto para la 1.ª como para la 2.ª vuelta)",
+    "sourceId": "src-rs-gaceta-175-2026"
+   }
+  ],
+  "plans": []
+ },
+ "rejected": [
+  "Resoluciones de tachas 006–030, 036 y 043–045-2026-CEUNI: se refieren a representantes estudiantiles o personeros, no a candidaturas de rector/vicerrectores; no se registran.",
+  "Resolución 043-2026-CEUNI: tacha contra el personero general de la Lista 1 (no candidato); infundada; no se registra.",
+  "Argumentos de los tachantes no verificados por el CEUNI (p. ej., afirmaciones sobre cargos previos) no se registran como hechos sobre los candidatos; sólo el fallo y lo verificado por el CEUNI.",
+  "eslauni.org ('Es la UNI: para que la UNI retome impulso', 16-08-2026): se presenta como 'espacio independiente'; no identifica autores ni lista, por lo que no se atribuye a la Lista 3 ni a ningún candidato.",
+  "ProActivo 'UNI irá a segunda vuelta para elegir a rector y vicerrectores': corresponde a la elección de 2015, no a 2026.",
+  "Nombres de los estudiantes/docentes tachantes omitidos (particulares)."
+ ],
+ "summary": "Resultados: no publicados (consulta 00:41 del 16-10-2026, antes de la jornada 10:00–16:00); el portal CEUNI tiene los botones de resultados y proclamación sin enlace. Cronograma oficial obtenido de La Gaceta N.º 175 (08-09-2026): 1.ª vuelta 16-10, resultados 16-10, nulidades 19–21-10, 2.ª vuelta 28-10, proclamación 04-11 y credenciales 05-11-2026; debate 07-10 a las 10:00 en el Teatro UNI (Carta ONPE). Tachas: 11 resoluciones contra candidatos a rector/vicerrector (listas 1, 2, 6 y 8), todas INFUNDADAS, y la reconsideración contra Padilla también fue infundada; no hay candidaturas de autoridades en estado controvertido. Planes: ninguna lista publicó un plan de gobierno como documento localizable; se registraron 14 propuestas de Modesto Montoya (c-3-3, Lista 3) de su blog como declaración pública."
+}

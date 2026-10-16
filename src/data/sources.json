@@ -500,5 +500,256 @@
       "c-6-2"
     ],
     "notes": "Hoja de vida resumida publicada en la plataforma del Estado; su contenido es declarado por el titular. Fecha = creación del PDF."
+  },
+  {
+    "landingUrl": null,
+    "identifier": "La Gaceta N.º 175, Año LXI",
+    "publishedAt": "2026-09-08",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [],
+    "notes": "PDF escaneado (imagen); leído mediante render y OCR. Pág. 01: cronograma aprobado en sesión permanente del CEUNI del 23-06-2026. En el documento, la proclamación de ganadores y entrega de credenciales de la 1.ª vuelta (filas 18-19) figuran con las mismas fechas que las de la 2.ª vuelta (04 y 05 de noviembre de 2026); se copia tal cual.",
+    "id": "src-rs-gaceta-175-2026",
+    "title": "La Gaceta – Órgano Oficial de la UNI N.º 175 (08-09-2026): Comunicado CEUNI – Cronograma electoral de elección de autoridades y representantes estudiantiles 2026",
+    "author": "Comité Electoral Universitario (CEUNI) / Secretaría General UNI",
+    "url": "https://ww2.fondoeditorial.uni.edu.pe/GACETA%20175_2026.pdf",
+    "type": "documento_electoral",
+    "locator": "Pág. 02, CRONOGRAMA ELECTORAL: '14. JORNADA ELECTORAL 1° VUELTA DE AUTORIDADES Y REPRESENTANTES ESTUDIANTILES ANTE LOS ÓRGANOS DE GOBIERNO (10:00 a 16:00 horas) – Viernes, 16 de octubre de 2026'; '20. JORNADA ELECTORAL 2° VUELTA DE AUTORIDADES (10:00 a 16:00 horas) – Miércoles 28 de octubre de 2026'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/asistencia-tecnica-onpe-elecciones-uni-2026/",
+    "identifier": "CARTA N° 010265-2026-GSFP/ONPE",
+    "publishedAt": "2026-10-06",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [],
+    "notes": "Publicada en la página 'Asistencia técnica ONPE – Elecciones UNI 2026' del CEUNI. ONPE designó a un subgerente de Asistencia Técnica para asistir en representación.",
+    "id": "src-rs-onpe-carta-010265-2026",
+    "title": "Carta N.º 010265-2026-GSFP/ONPE – Respuesta a invitación al Debate de Candidatos al Rectorado de la UNI 2026",
+    "author": "Oficina Nacional de Procesos Electorales – Gerencia de Supervisión de Fondos Partidarios",
+    "url": "https://uniedupe93141-my.sharepoint.com/:b:/g/personal/inscripcionceuni_uni_edu_pe/IQCou4XbzhSMSpUhBwRdfgOkAbgPfb-9uat6Y2cPRuQBdJQ?e=29Nh0v",
+    "type": "documento_institucional",
+    "locator": "'Debate de Candidatos al Rectorado de la Universidad Nacional de Ingeniería (UNI), programado para el miércoles 07 de octubre de 2026, a las 10:00 a.m., en el teatro UNI.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://modestomontoya.me/",
+    "identifier": null,
+    "publishedAt": "2026-08-17",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-3-3"
+    ],
+    "notes": "Blog personal firmado por Modesto Montoya. Publicado (2026-08-17 UTC) antes del periodo de inscripción de candidaturas (15–17 set 2026); el texto no menciona la Lista 3 ni la candidatura, por lo que se atribuye sólo al candidato c-3-3 como declaración pública, no como plan oficial de la lista. Indica como 'Fuente de base' la página 'Es la UNI: para que la UNI retome impulso' (eslauni.org), que se presenta como 'espacio independiente'.",
+    "id": "src-rs-montoya-propuestas-2026",
+    "title": "Propuestas para que la UNI retome impulso",
+    "author": "Modesto Montoya",
+    "url": "https://modestomontoya.me/2026/08/16/propuestas-para-que-la-uni-retome-impulso/",
+    "type": "declaracion_publica",
+    "locator": "Sección 'Propuestas directas' (20 propuestas) y 'Prioridades para el próximo rectorado'",
+    "status": "declarado"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 031-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-8-2"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-031-2026",
+    "title": "Resolución N.º 031-2026-CEUNI – Tacha contra candidatura (postulante en la lista 8, a Vicerrector)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 031-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 032-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-1"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-032-2026",
+    "title": "Resolución N.º 032-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la Lista 6)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 032-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 033-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-6-1"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-033-2026",
+    "title": "Resolución N.º 033-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la Lista 6)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 033-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 034-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-034-2026",
+    "title": "Resolución N.º 034-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 2)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 034-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 035-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-035-2026",
+    "title": "Resolución N.º 035-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 2)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 035-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 037-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-037-2026",
+    "title": "Resolución N.º 037-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 1)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 037-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 038-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-1"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-038-2026",
+    "title": "Resolución N.º 038-2026-CEUNI – Tacha contra candidatura (postulante a Rector, de la lista N° 1)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 038-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 039-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-3"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-039-2026",
+    "title": "Resolución N.º 039-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrector, en la lista N° 1)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 039-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 040-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-3"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-040-2026",
+    "title": "Resolución N.º 040-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrector, en la lista N° 1)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 040-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 041-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-041-2026",
+    "title": "Resolución N.º 041-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrectora, en la lista N° 1)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 041-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 042-2026-CEUNI",
+    "publishedAt": "2026-09-25",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-1-2"
+    ],
+    "notes": "Fechada 25-09-2026 (sesión permanente). Nombre del tachante omitido por tratarse de un particular.",
+    "id": "src-rs-ceuni-res-042-2026",
+    "title": "Resolución N.º 042-2026-CEUNI – Tacha contra candidatura (postulante a Vicerrectora, en la lista N° 1)",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgCGrwA4oG5eTaBc3knLbqWfAXsXJiP7HtuvaUY7rofInN0?e=2wcxQS",
+    "type": "documento_electoral",
+    "locator": "Archivo 'RESOLUCION Nº 042-2026-CEUNI.pdf' en la carpeta 'RESOLUCIONES DE IMPUGNACIONES Y TACHAS A CANDIDATURAS' (elección de autoridades 2026). SE RESUELVE: 'PRIMERO: Declarar INFUNDADA la tacha presentada.'",
+    "status": "verificado_primaria"
+  },
+  {
+    "landingUrl": "https://www.ceuni.uni.edu.pe/resoluciones-ceuni-2026/",
+    "identifier": "RESOLUCIÓN N° 046-2026-CEUNI",
+    "publishedAt": "2026-09-29",
+    "consultedAt": "2026-10-16",
+    "candidateIds": [
+      "c-2-1"
+    ],
+    "notes": "Carpeta 'RESOLUCIONES DE RECONSIDERACIÓN DE IMPUGNACIONES Y TACHAS A CANDIDATURAS'. Aprobado por mayoría.",
+    "id": "src-rs-ceuni-res-046-2026",
+    "title": "Resolución N.º 046-2026-CEUNI – Reconsideración contra la Resolución N.º 035-2026-CEUNI",
+    "author": "Comité Electoral Universitario (CEUNI)",
+    "url": "https://uniedupe93141-my.sharepoint.com/:f:/g/personal/inscripcionceuni_uni_edu_pe/IgAEwKWBCZY3S65dGKVj_uQVAUIfZ-ZlkvhICysoJUz5GOc?e=BG5Ft1",
+    "type": "documento_electoral",
+    "locator": "'PRIMERO: Declarar INFUNDADO el Recurso de Reconsideración planteado ... contra la Resolución Nº 035-2026-CEUNI'",
+    "status": "verificado_primaria"
   }
 ]

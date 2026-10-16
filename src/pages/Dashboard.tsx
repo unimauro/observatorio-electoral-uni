@@ -137,6 +137,57 @@ export default function Dashboard() {
         </div>
       </section>
 
+      {(site.results || site.calendar?.length) && (
+        <Section id="resultados" title="Resultados y cronograma">
+          <div className="grid gap-4 md:grid-cols-2">
+            <div className="card p-4">
+              <p className="kicker">Resultados</p>
+              {!site.results || site.results.status === 'no_publicado' ? (
+                <p className="mt-2 text-sm">
+                  Aún no publicados por el CEUNI{site.results ? ` (revisado: ${site.results.asOf})` : ''}. No mostramos conteos extraoficiales.
+                </p>
+              ) : (
+                <>
+                  <p className={`mt-2 inline-block px-2 py-0.5 font-mono text-xs uppercase ${site.results.status === 'oficial' ? 'bg-ink text-paper' : 'border border-alert text-alert'}`}>
+                    {site.results.status === 'oficial' ? 'Oficial' : 'Preliminar (prensa)'} · {site.results.asOf}
+                  </p>
+                  <table className="mt-3 w-full text-sm">
+                    <thead>
+                      <tr className="border-b border-ink text-left"><th className="py-1">Lista</th><th className="py-1 text-right">% ponderado</th><th className="py-1 pl-3">Nota</th></tr>
+                    </thead>
+                    <tbody>
+                      {site.results.lists.map((r) => (
+                        <tr key={r.listId} className="border-b border-line">
+                          <td className="py-1"><Link className="link" to={`/listas/${r.listId.split('-')[1]}`}>Lista {r.listId.split('-')[1]}</Link></td>
+                          <td className="py-1 text-right font-mono">{r.weightedPct == null ? '—' : `${r.weightedPct}%`}</td>
+                          <td className="py-1 pl-3 text-xs text-muted">{r.note}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                  {site.results.secondRound && <p className="mt-2 text-sm">Segunda vuelta: {site.results.secondRound.lists.map((l) => `Lista ${l.split('-')[1]}`).join(' vs. ')}{site.results.secondRound.date ? ` · ${site.results.secondRound.date}` : ''}</p>}
+                  {site.results.proclaimed && <p className="mt-2 text-sm font-semibold">Proclamada: Lista {site.results.proclaimed.split('-')[1]}</p>}
+                </>
+              )}
+              {site.results?.source && <Link className="link mt-2 inline-block text-xs" to={`/fuentes#${site.results.source}`}>Fuente</Link>}
+            </div>
+            {site.calendar?.length ? (
+              <div className="card p-4">
+                <p className="kicker">Cronograma</p>
+                <ol className="mt-2 space-y-1 text-sm">
+                  {site.calendar.map((e) => (
+                    <li key={e.date + e.event} className="flex gap-3">
+                      <span className="w-24 shrink-0 font-mono text-xs">{e.date}</span>
+                      <span>{e.event} <Link className="text-xs text-muted underline" to={`/fuentes#${e.sourceId}`}>[fuente]</Link></span>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            ) : null}
+          </div>
+        </Section>
+      )}
+
       <Section title="Indicadores">
         <div className="grid grid-cols-2 gap-3 md:grid-cols-5">
           <Stat label="Listas" value={lists.length} to="/listas" />
