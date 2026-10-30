@@ -1,5 +1,7 @@
 import {
   CLAIM_SECTIONS,
+  PRESS_KIND_LABEL,
+  PRESS_TOPICS,
   PROPOSAL_CATEGORIES,
   ROLE_BY_ORDER,
   ROLES,
@@ -11,6 +13,7 @@ import {
   type Evaluation,
   type Faculty,
   type GovernmentPlan,
+  type PressItem,
   type Proposal,
   type Source,
 } from './types'
@@ -142,5 +145,30 @@ export function validateSite(site: { results?: { source: string | null; lists: {
   if (site.results?.source && !sourceIds.has(site.results.source)) errors.push(`resultados: fuente inexistente ${site.results.source}`)
   for (const r of site.results?.lists ?? []) if (!listIds.has(r.listId)) errors.push(`resultados: lista inexistente ${r.listId}`)
   for (const e of site.calendar ?? []) if (!sourceIds.has(e.sourceId)) errors.push(`cronograma: fuente inexistente ${e.sourceId}`)
+  return errors
+}
+
+/** Valida press.json: ids únicos, fecha ISO, URL https, textos no vacíos, temas y listas existentes, sólo entradas verificadas. */
+export function validatePress(press: PressItem[], d: Pick<Dataset, 'lists'>): string[] {
+  const errors: string[] = []
+  const listIds = new Set(d.lists.map((l) => l.id))
+  const seen = new Set<string>()
+  const urls = new Set<string>()
+  for (const p of press) {
+    const w = `prensa ${p.id}`
+    if (seen.has(p.id)) errors.push(`${w}: id duplicado`)
+    seen.add(p.id)
+    if (urls.has(p.url)) errors.push(`${w}: URL repetida ${p.url}`)
+    urls.add(p.url)
+    if (!ISO.test(p.date)) errors.push(`${w}: fecha inválida ${p.date}`)
+    if (!ISO.test(p.verifiedAt)) errors.push(`${w}: fecha de verificación inválida`)
+    if (!/^https:\/\//.test(p.url)) errors.push(`${w}: URL no https`)
+    for (const k of ['outlet', 'title', 'summary'] as const) if (!p[k]?.trim()) errors.push(`${w}: ${k} vacío`)
+    if (!(p.kind in PRESS_KIND_LABEL)) errors.push(`${w}: tipo inválido ${p.kind}`)
+    if (p.topics.length === 0) errors.push(`${w}: sin tema`)
+    for (const t of p.topics) if (!(PRESS_TOPICS as readonly string[]).includes(t)) errors.push(`${w}: tema inválido ${t}`)
+    for (const id of p.listIds) if (!listIds.has(id)) errors.push(`${w}: lista inexistente ${id}`)
+    if (p.status !== 'verificado') errors.push(`${w}: sólo se publican entradas verificadas (estado ${p.status})`)
+  }
   return errors
 }

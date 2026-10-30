@@ -6,6 +6,7 @@ import { site } from '../data'
 const NAV = [
   ['/', 'Panel'],
   ['/segunda-vuelta', '2.ª vuelta'],
+  ['/medios', 'En los medios'],
   ['/listas', 'Listas'],
   ['/candidatos', 'Candidatos'],
   ['/grados', 'Grados'],

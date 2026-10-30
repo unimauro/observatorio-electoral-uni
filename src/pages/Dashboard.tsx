@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import PressFeed from '../components/PressFeed'
 import { ArrowRight } from 'lucide-react'
 import { candidates, faculties, lists, plans, proposals, site, sources } from '../data'
 import {
@@ -297,6 +298,14 @@ export default function Dashboard() {
             <DataTable data={sourceTypes} series={tierSeries} caption="Fuentes por tipo y nivel de verificación" />
           </ChartCard>
         </div>
+      </Section>
+
+      <Section id="medios" title="En los medios">
+        <p className="mb-3 max-w-3xl text-sm text-muted">
+          Las notas más recientes sobre la elección (prensa, videos y comunicados oficiales), sólo con enlaces abiertos y confirmados.{' '}
+          <Link className="link" to="/medios">Ver todas y filtrar por tema →</Link>
+        </p>
+        <PressFeed limit={5} compact />
       </Section>
     </div>
   )

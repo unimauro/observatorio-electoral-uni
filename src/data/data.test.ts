@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import * as d from './index'
-import { validateDataset, validateSite } from './validate'
+import { readFileSync } from 'node:fs'
+import { validateDataset, validatePress, validateSite } from './validate'
 import { ROLE_BY_ORDER, ROLES } from './types'
 import timeline from './timeline.json'
 import retos from './retos.json'
@@ -24,6 +25,16 @@ describe('integridad de datos', () => {
 
   it('site.json referencia fuentes y listas existentes', () => {
     expect(validateSite(d.site, dataset)).toEqual([])
+  })
+
+  it('press.json es válido y está ordenado de más reciente a más antiguo', () => {
+    expect(d.press.length).toBeGreaterThan(0)
+    expect(validatePress(d.press, dataset)).toEqual([])
+    for (let i = 1; i < d.press.length; i++) expect(d.press[i - 1].date >= d.press[i].date).toBe(true)
+  })
+
+  it('public/press.json está sincronizado con src/data/press.json (npm run build lo copia)', () => {
+    expect(readFileSync('public/press.json', 'utf8')).toBe(readFileSync('src/data/press.json', 'utf8'))
   })
 
   it('la tabla de grados cubre a los 27 y cita fuentes existentes', () => {

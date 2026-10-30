@@ -1,0 +1,205 @@
+[
+  {
+    "id": "press-2026-10-29-rpp-video-suspension",
+    "date": "2026-10-29",
+    "outlet": "RPP Noticias (YouTube)",
+    "kind": "video",
+    "title": "UNI suspende elecciones para rector tras denuncias de presunto fraude electrónico en segunda vuelta",
+    "url": "https://www.youtube.com/watch?v=-yNTGIHIS8M",
+    "summary": "El decano de la Facultad de Ingeniería Civil, Miguel Estrada, declaró que docentes encontraron que el sistema registraba su voto como emitido; cuestionó la ausencia de la ONPE y propuso repetir la segunda vuelta de forma presencial.",
+    "topics": [
+      "segunda_vuelta",
+      "nulidad",
+      "denuncias"
+    ],
+    "listIds": [
+      "lista-1",
+      "lista-8"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-10-28-ceuni-comunicado-nulidad",
+    "date": "2026-10-28",
+    "outlet": "CEUNI (comunicado)",
+    "kind": "oficial",
+    "title": "Comunicado: nulidad parcial de la segunda vuelta por suplantación de correos institucionales",
+    "url": "https://www.ceuni.uni.edu.pe/wp-content/uploads/2026/10/COMUNICADO-recurso-nulidad-parcial_page-0001.jpg",
+    "summary": "El CEUNI informó que recibió denuncias de votos emitidos con correos institucionales suplantados desde una IP de la UNI, declaró la nulidad parcial de la segunda vuelta y anunció que informará las acciones a tomar.",
+    "topics": [
+      "segunda_vuelta",
+      "nulidad",
+      "denuncias"
+    ],
+    "listIds": [
+      "lista-1",
+      "lista-8"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-10-15-rpp-video-propuestas",
+    "date": "2026-10-15",
+    "outlet": "RPP Noticias (YouTube)",
+    "kind": "video",
+    "title": "Elecciones en la UNI: candidatos exponen sus propuestas para el rectorado",
+    "url": "https://www.youtube.com/watch?v=ia_kK7ZVyxM",
+    "summary": "Segmento del programa Ampliación de Noticias con las propuestas de los candidatos antes de la votación del 16 de octubre.",
+    "topics": [
+      "debate",
+      "candidatos",
+      "primera_vuelta"
+    ],
+    "listIds": [],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-10-15-rpp-debate",
+    "date": "2026-10-15",
+    "outlet": "RPP Noticias",
+    "kind": "prensa",
+    "title": "Elecciones en la UNI: candidatos al rectorado debaten sobre modernización, presupuesto y el futuro de la universidad",
+    "url": "https://rpp.pe/lima/actualidad/elecciones-en-la-uni-candidatos-al-rectorado-debaten-sobre-modernizacion-presupuesto-y-el-futuro-de-la-universidad-noticia-1712562",
+    "summary": "Ocho candidatos a rector expusieron sus planes de gestión de cara a la votación del 16 de octubre; coincidieron en modernizar la enseñanza, cerrar el déficit de infraestructura y buscar nuevas fuentes de financiamiento.",
+    "topics": [
+      "debate",
+      "candidatos",
+      "primera_vuelta"
+    ],
+    "listIds": [
+      "lista-1",
+      "lista-2",
+      "lista-3",
+      "lista-4",
+      "lista-6",
+      "lista-7",
+      "lista-8",
+      "lista-9"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-10-12-caretas-humala",
+    "date": "2026-10-12",
+    "outlet": "Caretas",
+    "kind": "prensa",
+    "title": "¿Quién es Ulises Humala Tasso, el nuevo candidato a rector de la UNI?",
+    "url": "https://caretas.pe/politica/ulises-humala-candidato-a-rector-de-la-uni-cuestiona-gestion-de-lopez-chau/",
+    "summary": "Perfil y entrevista al candidato de la Lista 4, quien cuestiona la gestión del exrector Alfonso López Chau y las condiciones del debate. La nota indica nueve postulantes y la votación del 16 de octubre.",
+    "topics": [
+      "candidatos"
+    ],
+    "listIds": [
+      "lista-4"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-10-07-uni-debate-video",
+    "date": "2026-10-07",
+    "outlet": "UNI Oficial (YouTube)",
+    "kind": "oficial",
+    "title": "EN VIVO | Debate de candidatos a rector",
+    "url": "https://www.youtube.com/watch?v=qgF4OktF9Xo",
+    "summary": "Transmisión oficial del debate de candidatos al rectorado organizado por el CEUNI en el Teatro UNI. El observatorio publicó una transcripción.",
+    "topics": [
+      "debate",
+      "candidatos"
+    ],
+    "listIds": [
+      "lista-1",
+      "lista-2",
+      "lista-3",
+      "lista-4",
+      "lista-6",
+      "lista-7",
+      "lista-8",
+      "lista-9"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-10-07-ceuni-debate-video",
+    "date": "2026-10-07",
+    "outlet": "CEUNI (YouTube)",
+    "kind": "oficial",
+    "title": "EN VIVO | Debate de candidatos a rector",
+    "url": "https://www.youtube.com/watch?v=JCW1u41MrKg",
+    "summary": "Transmisión del debate en el canal del Comité Electoral Universitario.",
+    "topics": [
+      "debate"
+    ],
+    "listIds": [],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-09-16-infobae-que-esta-pasando",
+    "date": "2026-09-16",
+    "outlet": "Infobae",
+    "kind": "prensa",
+    "title": "¿Qué está pasando en la UNI? La batalla por el rectorado tras una medida cautelar que desató tensión en el campus",
+    "url": "https://www.infobae.com/peru/2026/09/16/que-esta-pasando-en-la-uni-la-batalla-por-el-rectorado-tras-una-medida-cautelar-que-desato-tension-en-el-campus/",
+    "summary": "Explica la medida cautelar del Segundo Juzgado Contencioso Administrativo de Lima sobre el rectorado interino y recoge el pedido de la Defensoría del Pueblo de resolver con urgencia quién debe ejercerlo. La UNI señaló no haber sido notificada formalmente.",
+    "topics": [
+      "rectorado_interino",
+      "poder_judicial"
+    ],
+    "listIds": [],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-09-15-gacetaperutv-crisis",
+    "date": "2026-09-15",
+    "outlet": "Gaceta Perú TV",
+    "kind": "prensa",
+    "title": "Crisis en la UNI: violencia en el campus por la disputada rectoral",
+    "url": "https://www.gacetaperutv.pe/2026/09/crisis-en-la-uni-violencia-en-el-campus-por-la-disputada-rectoral.html",
+    "summary": "Integrantes de la comunidad universitaria se enfrentaron en el primer piso del edificio administrativo por la disputa sobre quién ejerce el rectorado interino.",
+    "topics": [
+      "rectorado_interino"
+    ],
+    "listIds": [],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-09-15-elcomercio-enfrentamientos",
+    "date": "2026-09-15",
+    "outlet": "El Comercio",
+    "kind": "prensa",
+    "title": "Enfrentamientos en la UNI: grupo encabezado por exvicerrectora choca con autoridades que rechazan fallo del Poder Judicial",
+    "url": "https://elcomercio.pe/lima/sucesos/enfrentamientos-en-la-uni-grupo-encabezado-por-exvicerrectora-choca-con-autoridades-que-rechazan-fallo-del-poder-judicial-ultimas-noticia/",
+    "summary": "Simpatizantes de Shirley Chilet intentaron ingresar a la sede del rectorado el 14 de setiembre y se produjeron enfrentamientos con quienes rechazaban la medida cautelar del Poder Judicial.",
+    "topics": [
+      "rectorado_interino",
+      "poder_judicial"
+    ],
+    "listIds": [],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  },
+  {
+    "id": "press-2026-09-14-infobae-ingreso-chilet",
+    "date": "2026-09-14",
+    "outlet": "Infobae",
+    "kind": "prensa",
+    "title": "Ingreso “por la fuerza” de exvicerrectora a la UNI desata protestas y tensión dentro de la universidad",
+    "url": "https://www.infobae.com/peru/2026/09/14/ingreso-por-la-fuerza-de-exvicerrectora-a-la-uni-desata-protestas-y-tension-dentro-de-la-universidad/",
+    "summary": "La exvicerrectora académica Shirley Chilet intentó retomar el rectorado interino amparada en una resolución judicial que dejó sin efecto la designación de Arturo Talledo; el ingreso generó protestas y tensión en el campus.",
+    "topics": [
+      "rectorado_interino",
+      "poder_judicial"
+    ],
+    "listIds": [],
+    "status": "verificado",
+    "verifiedAt": "2026-10-30"
+  }
+]

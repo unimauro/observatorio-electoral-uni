@@ -18,6 +18,7 @@ Vite + React 18 + TypeScript + Tailwind 3 + Recharts + Lucide. Pruebas con Vites
 | `proposals.json` | Propuestas extraídas (vacío hasta localizar planes) |
 | `evaluation-criteria.json` / `evaluations.json` | Matriz de evaluación por cargo y puntuaciones (vacío: nada evaluado) |
 | `site.json` | Universidad, periodo, fechas, URL del repo |
+| `press.json` | «En los medios»: notas de prensa, videos y comunicados verificados (fecha, medio, titular, URL, resumen neutro, temas, listas). El build lo copia a `public/press.json`; también disponible en `https://raw.githubusercontent.com/unimauro/observatorio-electoral-uni/main/src/data/press.json` |
 
 Esquema: `src/data/types.ts`. Validación (ids estables, duplicados, relaciones, regla orden→cargo, 3 cargos por lista, fuentes existentes, sin códigos ni DNI): `src/data/validate.ts`, ejecutada por `npm run validate` y en CI.
 

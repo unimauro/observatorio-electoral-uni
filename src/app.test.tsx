@@ -32,6 +32,11 @@ describe('rutas', () => {
     at('/segunda-vuelta')
     expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent(/Lista 1.*Lista 8/)
   })
+  it('en los medios: lista de notas con enlaces externos', () => {
+    at('/medios')
+    expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent(/en la prensa/i)
+    expect(within(screen.getByRole('list', { name: 'En los medios' })).getAllByRole('listitem').length).toBeGreaterThan(0)
+  })
   it('ruta inexistente muestra 404', () => {
     at('/no-existe')
     expect(screen.getByText('404')).toBeInTheDocument()

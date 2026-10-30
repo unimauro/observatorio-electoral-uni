@@ -70,7 +70,7 @@ export default function SecondRound() {
         })}
       </div>
       <p className="mt-3 border border-alert p-2 text-xs text-alert">
-        <strong>Estado de la segunda vuelta:</strong> {sr?.note} <Link className="link" to="/#resultados">Ver resultados completos</Link>
+        <strong>Estado de la segunda vuelta:</strong> {sr?.note} <Link className="link" to="/#resultados">Ver resultados completos</Link> · <Link className="link" to="/medios?tema=segunda_vuelta">Qué dicen los medios</Link>
       </p>
 
       {ROLES.map((role) => {

@@ -12,6 +12,7 @@ import Degrees from './pages/Degrees'
 import SearchPage from './pages/SearchPage'
 import Retos from './pages/Retos'
 import Incomes from './pages/Incomes'
+import Press from './pages/Press'
 import { Methodology, NotFoundPage, Privacy, Sources } from './pages/Static'
 
 export function AppRoutes() {
@@ -29,6 +30,7 @@ export function AppRoutes() {
         <Route path="retos" element={<Retos />} />
         <Route path="ingresos" element={<Incomes />} />
         <Route path="segunda-vuelta" element={<SecondRound />} />
+        <Route path="medios" element={<Press />} />
         <Route path="comparar" element={<Compare />} />
         <Route path="matriz" element={<Matrix />} />
         <Route path="fuentes" element={<Sources />} />

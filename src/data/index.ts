@@ -8,6 +8,7 @@ import criteriaJson from './evaluation-criteria.json'
 import evaluationsJson from './evaluations.json'
 import siteJson from './site.json'
 import degreesJson from './degrees.json'
+import pressJson from './press.json'
 import type {
   Candidate,
   Criterion,
@@ -16,6 +17,7 @@ import type {
   Evaluation,
   Faculty,
   GovernmentPlan,
+  PressItem,
   Proposal,
   SiteConfig,
   Source,
@@ -32,6 +34,8 @@ export const criteria = criteriaJson as Criterion[]
 export const evaluations = evaluationsJson as Evaluation[]
 export const site = siteJson as SiteConfig
 export const degrees = degreesJson as DegreeRow[]
+/** Notas de prensa y comunicados, de más reciente a más antiguo. */
+export const press = [...(pressJson as PressItem[])].sort((a, b) => b.date.localeCompare(a.date))
 
 const byId = <T extends { id: string }>(arr: T[]) => new Map(arr.map((x) => [x.id, x]))
 export const candidateById = byId(candidates)

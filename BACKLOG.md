@@ -27,6 +27,8 @@
 - [x] Comunicado CEUNI 28-10: nulidad parcial de la 2.ª vuelta (correos suplantados, IP de la UNI); RPP 29-10: elección "suspendida" (declaraciones de Miguel Estrada). Registrados como fuentes y en el calendario
 - [x] Verificado: el portal del CEUNI no publica resultado de la 2.ª vuelta (botón sin enlace); carpeta de escrutinio exige login institucional. No se registran cifras
 
+- [x] Sección «En los medios» (press.json, 11 notas verificadas set–oct 2026, filtro por tema, export público press.json)
+
 ## Pendiente
 - [ ] Resultado del escrutinio de la 2.ª vuelta, resolución de nulidad y acciones del CEUNI (nueva fecha o modalidad presencial); proclamación prevista el 04-11-2026
 - [ ] Contrastar la fecha de votación con el cronograma oficial (Gaceta N.º 175-2026)

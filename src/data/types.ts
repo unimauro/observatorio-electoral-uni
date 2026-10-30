@@ -322,6 +322,52 @@ export interface ElectionResults {
   }[]
 }
 
+export const PRESS_TOPICS = [
+  'rectorado_interino',
+  'poder_judicial',
+  'candidatos',
+  'debate',
+  'primera_vuelta',
+  'segunda_vuelta',
+  'nulidad',
+  'denuncias',
+  'resultados',
+] as const
+export type PressTopic = (typeof PRESS_TOPICS)[number]
+
+export const PRESS_TOPIC_LABEL: Record<PressTopic, string> = {
+  rectorado_interino: 'Rectorado interino',
+  poder_judicial: 'Poder Judicial',
+  candidatos: 'Candidatos',
+  debate: 'Debate',
+  primera_vuelta: '1.ª vuelta',
+  segunda_vuelta: '2.ª vuelta',
+  nulidad: 'Nulidad',
+  denuncias: 'Denuncias',
+  resultados: 'Resultados',
+}
+
+export type PressKind = 'prensa' | 'video' | 'oficial'
+export const PRESS_KIND_LABEL: Record<PressKind, string> = { prensa: 'Prensa', video: 'Video', oficial: 'Oficial' }
+
+/** Nota de prensa, video o comunicado sobre la elección (press.json). Sólo URLs abiertas y con titular confirmado. */
+export interface PressItem {
+  id: string
+  /** Fecha de publicación (ISO AAAA-MM-DD). */
+  date: string
+  outlet: string
+  kind: PressKind
+  title: string
+  url: string
+  /** 1–2 frases neutras: qué dice el medio, sin opinión del observatorio. */
+  summary: string
+  topics: PressTopic[]
+  /** Listas aludidas, si aplica. */
+  listIds: string[]
+  status: 'verificado' | 'pendiente_revision'
+  verifiedAt: string
+}
+
 export interface SiteConfig {
   debate?: { video: string; date: string; organizer: string; transcript: string | null }
   results?: ElectionResults
