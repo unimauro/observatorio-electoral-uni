@@ -69,8 +69,8 @@ export default function SecondRound() {
           )
         })}
       </div>
-      <p className="mt-2 text-xs text-muted">
-        {sr?.note} <Link className="link" to="/#resultados">Ver resultados completos</Link>
+      <p className="mt-3 border border-alert p-2 text-xs text-alert">
+        <strong>Estado de la segunda vuelta:</strong> {sr?.note} <Link className="link" to="/#resultados">Ver resultados completos</Link>
       </p>
 
       {ROLES.map((role) => {

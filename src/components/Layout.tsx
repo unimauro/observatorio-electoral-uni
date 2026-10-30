@@ -148,8 +148,9 @@ export default function Layout() {
           <div>
             <p className="kicker mb-2">Proyecto hermano</p>
             <a className="link mb-3 inline-block" href="https://unimauro.github.io/observatorio-uni/" target="_blank" rel="noreferrer">
-              Observatorio UNI: presupuesto, gasto, planilla e investigación
+              Observatorio UNI: presupuesto, proveedores, planilla y admisión
             </a>
+            <p className="mb-3 text-muted">Cuánto gasta la universidad, en qué y con quién. Datos abiertos del mismo autor.</p>
             <p className="kicker mb-2">Datos abiertos</p>
             <a className="link inline-flex items-center gap-1" href={site.repoUrl} target="_blank" rel="noreferrer">
               <Github size={14} aria-hidden /> Repositorio y JSON

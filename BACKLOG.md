@@ -23,7 +23,12 @@
 - [x] Auditoría aplicada (35 cambios): facultades verificadas con la publicación provisional pública del CEUNI (22-09); prensa = fuente secundaria; Perú21 vía Internet Archive; citas exactas ("carpetas" = pupitres); discrepancias explícitas (Lazo, Sánchez Espinoza); propuestas personales de Montoya separadas de la lista
 - [x] El merge rechaza PII y perfiles de redes sociales
 
+## Hecho (30-oct-2026) — segunda vuelta
+- [x] Comunicado CEUNI 28-10: nulidad parcial de la 2.ª vuelta (correos suplantados, IP de la UNI); RPP 29-10: elección "suspendida" (declaraciones de Miguel Estrada). Registrados como fuentes y en el calendario
+- [x] Verificado: el portal del CEUNI no publica resultado de la 2.ª vuelta (botón sin enlace); carpeta de escrutinio exige login institucional. No se registran cifras
+
 ## Pendiente
+- [ ] Resultado del escrutinio de la 2.ª vuelta, resolución de nulidad y acciones del CEUNI (nueva fecha o modalidad presencial); proclamación prevista el 04-11-2026
 - [ ] Contrastar la fecha de votación con el cronograma oficial (Gaceta N.º 175-2026)
 - [ ] Resultados y proclamación del CEUNI tras la votación
 - [ ] Lista 5 (Huamán Sánchez): sin fuentes públicas aún

@@ -6316,5 +6316,35 @@
     "status": "parcialmente_verificado",
     "candidateIds": [],
     "notes": "Imagen de la tabla de cómputo difundida el 16-10-2026; aún no figura en el portal del CEUNI. Los porcentajes ponderados se recalcularon con la fórmula del art. 50 (2/3 docentes, 1/3 estudiantes) y coinciden. En la imagen \"Lista B\" corresponde a las listas 6 y 8 por los nombres de los candidatos."
+  },
+  {
+    "id": "src-ceuni-comunicado-nulidad-parcial-2v-2026",
+    "title": "Comunicado del CEUNI: nulidad parcial de la segunda vuelta por suplantación de correos institucionales (28-10-2026)",
+    "author": "Comité Electoral Universitario (CEUNI) – UNI",
+    "url": "https://www.ceuni.uni.edu.pe/wp-content/uploads/2026/10/COMUNICADO-recurso-nulidad-parcial_page-0001.jpg",
+    "landingUrl": "https://www.ceuni.uni.edu.pe/comunicados/",
+    "publishedAt": "2026-10-28",
+    "consultedAt": "2026-10-30",
+    "type": "documento_electoral",
+    "identifier": "COMUNICADO-recurso-nulidad-parcial_page-0001.jpg (imagen, 1 pág.)",
+    "locator": "Acuerdos 1 y 2; fundamento: arts. 55 y 56 literal a) del Reglamento General de Elecciones (RCU 0650-2026)",
+    "status": "verificado_primaria",
+    "candidateIds": [],
+    "notes": "Texto íntegro transcrito del comunicado: el 28-10-2026, desde las 10:45 a.m., el CEUNI recibió denuncias de miembros de la comunidad universitaria de que se suplantaron sus correos institucionales para emitir votos en su nombre. Su equipo técnico identificó que los votos denunciados se emitieron desde la IP 185.241.122.73, perteneciente a la UNI; se abrirá una investigación para determinar responsabilidades. Acuerdos: (1) declarar la nulidad parcial correspondiente a la segunda vuelta; (2) informar por sus medios digitales las acciones a tomar en el proceso de segunda vuelta. El comunicado no indica cifras, ni mesas o estamentos anulados, ni nueva fecha. Publicado en el portal del CEUNI (portada, comunicados y página del proceso 2026) sin resolución numerada asociada al 30-10-2026."
+  },
+  {
+    "id": "src-rpp-video-suspension-2v-2026",
+    "title": "UNI suspende elecciones para rector tras denuncias de presunto fraude electrónico en segunda vuelta",
+    "author": "RPP Noticias (canal oficial en YouTube)",
+    "url": "https://www.youtube.com/watch?v=-yNTGIHIS8M",
+    "landingUrl": "https://www.youtube.com/@RPPNoticias",
+    "publishedAt": "2026-10-29",
+    "consultedAt": "2026-10-30",
+    "type": "prensa",
+    "identifier": "Video YouTube -yNTGIHIS8M (publicado 2026-10-29T09:10:22-07:00)",
+    "locator": "Título y descripción del video; declaraciones de Miguel Estrada, decano de la Facultad de Ingeniería Civil",
+    "status": "parcialmente_verificado",
+    "candidateIds": [],
+    "notes": "Según la descripción de RPP, el decano de la FIC Miguel Estrada dijo que varios docentes denunciaron que, al ingresar al sistema de votación, aparecía que ya habían votado; cuestionó la falta de participación de la ONPE, advirtió de posibles vulnerabilidades del software y consideró que una nueva segunda vuelta debería ser presencial. Es cobertura periodística de declaraciones; el término «suspendidas» es de RPP, el CEUNI habla de «nulidad parcial». No se localizó nota escrita en rpp.pe ni cobertura en otros medios al 30-10-2026."
   }
 ]
