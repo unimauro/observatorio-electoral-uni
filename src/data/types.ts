@@ -305,7 +305,22 @@ export interface ElectionResults {
   source: string | null
   asOf: string
   lists: { listId: string; votesDocentes: number | null; votesEstudiantes: number | null; weightedPct: number | null; note: string }[]
-  secondRound: { lists: string[]; date: string | null; note?: string } | null
+  secondRound: {
+    lists: string[]
+    date: string | null
+    note?: string
+    /** Nueva votación convocada tras la anulación (repetición de la 2.ª vuelta). */
+    rerun?: {
+      date: string
+      format?: string
+      schedule?: string
+      onpe?: boolean
+      venues?: string
+      proclamation?: string
+      sourceId?: string
+      note?: string
+    }
+  } | null
   proclaimed: string | null
   note?: string
   /** Actas de escrutinio por estamento, transcritas sin datos de miembros de mesa. */

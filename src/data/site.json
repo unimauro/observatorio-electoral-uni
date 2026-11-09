@@ -5,7 +5,7 @@
   "period": "Elección de autoridades 2026",
   "electionDate": "2026-10-16",
   "electionDateNote": "Según RPP (15-10-2026) y Caretas (12-10-2026). El cronograma oficial (Gaceta N.º 175-2026) no ha sido revisado por el observatorio.",
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-09",
   "repoUrl": "https://github.com/unimauro/observatorio-electoral-uni",
   "correctionsUrl": "https://github.com/unimauro/observatorio-electoral-uni/issues/new?template=correccion.yml",
   "independenceNote": "Proyecto ciudadano independiente. No es un portal oficial de la UNI ni del CEUNI, y no está vinculado a ninguna lista.",
@@ -84,7 +84,17 @@
         "lista-1"
       ],
       "date": "2026-10-28",
-      "note": "Segunda vuelta realizada el 28-10-2026 (votación electrónica). El mismo día el CEUNI declaró la nulidad parcial de la segunda vuelta tras denuncias de votos emitidos con correos institucionales suplantados (desde una IP de la UNI) y anunció que informará las acciones a tomar. Al 30-10-2026 el CEUNI no ha publicado el resultado del escrutinio (el botón «Publicación de resultados del escrutinio – segunda vuelta» de su portal no tiene enlace) ni una resolución numerada; no hay proclamación. No registramos cifras hasta que exista una fuente verificable."
+      "note": "Segunda vuelta electrónica realizada el 28-10-2026. El CEUNI la anuló tras detectarse presunta suplantación de votos: varios docentes hallaron que el sistema ya registraba su sufragio como emitido. La presidenta del CEUNI, Raquel Medina Rodríguez de Castañeda, denunció ante el Ministerio Público 255 votos presuntamente irregulares (los registros del proveedor muestran operaciones entre las 10:13 y las 14:23 h, con conexiones desde una IP vinculada a la universidad); al 09-11-2026 no se ha determinado públicamente a los responsables ni hay conclusión fiscal que vincule a alguna lista. La Defensoría del Pueblo (31-10) recomendó solicitar asistencia técnica de la ONPE. El CEUNI convocó una nueva votación PRESENCIAL para el martes 10-11-2026, sin la plataforma cuestionada. No registramos cifras de la votación anulada: no existe una fuente verificable del escrutinio.",
+      "rerun": {
+        "date": "2026-11-10",
+        "format": "presencial",
+        "schedule": "9:00 a 18:00 h",
+        "onpe": true,
+        "venues": "Estudiantes: Coliseo UNI · Docentes: CRAI",
+        "proclamation": "2026-11-12",
+        "sourceId": "src-infobae-nueva-votacion-2026",
+        "note": "Nueva segunda vuelta presencial con asistencia técnica de la ONPE. Según la convocatoria: nulidades el 11-11 y proclamación el 12-11, salvo contratiempos. Compiten las mismas dos fórmulas: Lista 1 (Butler Blacker) y Lista 8 (Rodríguez Rodríguez)."
+      }
     },
     "proclaimed": null,
     "note": "Cómputo general difundido el 16-10-2026: votos válidos de docentes (993) y estudiantes (10515, pregrado + posgrado), ponderados 2/3 docentes y 1/3 estudiantes (art. 50 del Reglamento, RCU 0650-2026). Verificamos que los porcentajes de la tabla coinciden con esa fórmula. Es preliminar hasta que el CEUNI lo publique en su portal. Segunda vuelta (28-10-2026): sin resultado publicado y con nulidad parcial declarada por el CEUNI; ver nota de segunda vuelta y calendario.",

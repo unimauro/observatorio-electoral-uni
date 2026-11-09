@@ -69,6 +69,19 @@ export default function SecondRound() {
           )
         })}
       </div>
+      {sr?.rerun && (
+        <p className="mt-3 border-2 border-ink bg-signal p-3 text-sm text-[#111]">
+          <strong>Nueva votación (presencial) · {sr.rerun.date}.</strong>{' '}
+          {sr.rerun.schedule ? `${sr.rerun.schedule}. ` : ''}
+          {sr.rerun.venues ? `${sr.rerun.venues}. ` : ''}
+          {sr.rerun.onpe ? 'Con asistencia técnica de la ONPE. ' : ''}
+          {sr.rerun.proclamation ? `Proclamación prevista: ${sr.rerun.proclamation}. ` : ''}
+          {sr.rerun.note}
+          {sr.rerun.sourceId && sourceById.get(sr.rerun.sourceId)?.url && (
+            <> <a className="link" href={sourceById.get(sr.rerun.sourceId)!.url!} target="_blank" rel="noreferrer">Fuente</a>.</>
+          )}
+        </p>
+      )}
       <p className="mt-3 border border-alert p-2 text-xs text-alert">
         <strong>Estado de la segunda vuelta:</strong> {sr?.note} <Link className="link" to="/#resultados">Ver resultados completos</Link> · <Link className="link" to="/medios?tema=segunda_vuelta">Qué dicen los medios</Link>
       </p>

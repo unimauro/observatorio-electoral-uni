@@ -1,5 +1,25 @@
 [
   {
+    "id": "press-2026-11-06-infobae-nueva-votacion",
+    "date": "2026-11-06",
+    "outlet": "Infobae",
+    "kind": "prensa",
+    "title": "UNI repetirá elección de rector tras denuncia de 255 votos irregulares: nueva votación será presencial el 10 de noviembre",
+    "url": "https://www.infobae.com/peru/2026/11/07/uni-repetira-eleccion-de-rector-tras-denuncia-de-255-votos-irregulares-nueva-votacion-sera-presencial-el-10-de-noviembre/",
+    "summary": "El CEUNI convocó una nueva segunda vuelta presencial para el martes 10-11 (9:00 a 18:00 h), con asistencia técnica de la ONPE y sin la plataforma cuestionada: los estudiantes votan en el Coliseo UNI y los docentes en el CRAI; la proclamación está prevista para el 12-11. Su presidenta, Raquel Medina, denunció 255 votos presuntamente irregulares ante el Ministerio Público; aún no hay responsables identificados ni conclusión fiscal.",
+    "topics": [
+      "segunda_vuelta",
+      "nulidad",
+      "denuncias"
+    ],
+    "listIds": [
+      "lista-1",
+      "lista-8"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-11-09"
+  },
+  {
     "id": "press-2026-10-29-rpp-video-suspension",
     "date": "2026-10-29",
     "outlet": "RPP Noticias (YouTube)",

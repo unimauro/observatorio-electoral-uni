@@ -6346,5 +6346,20 @@
     "status": "parcialmente_verificado",
     "candidateIds": [],
     "notes": "Según la descripción de RPP, el decano de la FIC Miguel Estrada dijo que varios docentes denunciaron que, al ingresar al sistema de votación, aparecía que ya habían votado; cuestionó la falta de participación de la ONPE, advirtió de posibles vulnerabilidades del software y consideró que una nueva segunda vuelta debería ser presencial. Es cobertura periodística de declaraciones; el término «suspendidas» es de RPP, el CEUNI habla de «nulidad parcial». No se localizó nota escrita en rpp.pe ni cobertura en otros medios al 30-10-2026."
+  },
+  {
+    "id": "src-infobae-nueva-votacion-2026",
+    "title": "UNI repetirá elección de rector tras denuncia de 255 votos irregulares: nueva votación será presencial el 10 de noviembre",
+    "author": "Infobae — Yenny Melo",
+    "url": "https://www.infobae.com/peru/2026/11/07/uni-repetira-eleccion-de-rector-tras-denuncia-de-255-votos-irregulares-nueva-votacion-sera-presencial-el-10-de-noviembre/",
+    "landingUrl": "https://www.infobae.com/peru/",
+    "publishedAt": "2026-11-06",
+    "consultedAt": "2026-11-09",
+    "type": "prensa",
+    "identifier": "Infobae, encabezado 06-11-2026 10:19 p. m. EST (la URL dice 07-11; discrepancia no reconciliada en la nota); autora Yenny Melo",
+    "locator": "Nueva votación presencial el martes 10-11 (9:00 a 18:00 h), estudiantes en el Coliseo UNI y docentes en el CRAI, con asistencia técnica de la ONPE y sin la plataforma cuestionada; nulidades el 11-11 y proclamación el 12-11 salvo contratiempos. La presidenta del CEUNI, Raquel Medina Rodríguez de Castañeda, denunció 255 votos presuntamente irregulares ante el Ministerio Público; registros del proveedor entre 10:13 y 14:23 h y conexiones desde una IP vinculada a la UNI; sin responsables determinados ni conclusión fiscal que vincule a una lista. La Defensoría del Pueblo (31-10) recomendó asistencia técnica de la ONPE.",
+    "status": "parcialmente_verificado",
+    "candidateIds": [],
+    "notes": "Lectura directa del artículo (HTTP 200, 2026-11-09). Es cobertura periodística de una convocatoria; se mantiene como fuente de prensa única mientras no se corrobore con una resolución o acta del CEUNI."
   }
 ]
