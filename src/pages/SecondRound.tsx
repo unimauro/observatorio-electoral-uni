@@ -80,6 +80,14 @@ export default function SecondRound() {
           {sr.rerun.sourceId && sourceById.get(sr.rerun.sourceId)?.url && (
             <> <a className="link" href={sourceById.get(sr.rerun.sourceId)!.url!} target="_blank" rel="noreferrer">Fuente</a>.</>
           )}
+          {sr.rerun.status && (
+            <span className="mt-2 block">
+              <strong>Estado:</strong> {sr.rerun.status}
+              {sr.rerun.statusSourceId && sourceById.get(sr.rerun.statusSourceId)?.url && (
+                <> <a className="link" href={sourceById.get(sr.rerun.statusSourceId)!.url!} target="_blank" rel="noreferrer">Comunicado del CEUNI</a>.</>
+              )}
+            </span>
+          )}
         </p>
       )}
       <p className="mt-3 border border-alert p-2 text-xs text-alert">

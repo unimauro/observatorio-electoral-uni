@@ -1,5 +1,42 @@
 [
   {
+    "id": "press-2026-11-10-ceuni-comunicado-escrutinio",
+    "date": "2026-11-10",
+    "outlet": "CEUNI (comunicado)",
+    "kind": "oficial",
+    "title": "Comunicado: publicación de resultados del escrutinio de la votación del 10 de noviembre",
+    "url": "https://www.ceuni.uni.edu.pe/wp-content/uploads/2026/11/iniunn-66-scaled.png",
+    "summary": "El CEUNI comunicó la publicación del escrutinio de la nueva segunda vuelta presencial del 10-11-2026, conforme al cronograma de la Gaceta N.º 229. El documento con las cifras está en un SharePoint que exige cuenta institucional; el comunicado no consigna fecha (se indica la de la votación).",
+    "topics": [
+      "segunda_vuelta",
+      "resultados"
+    ],
+    "listIds": [
+      "lista-1",
+      "lista-8"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-11-11"
+  },
+  {
+    "id": "press-2026-11-08-diariouno-transparencia",
+    "date": "2026-11-08",
+    "outlet": "Diario UNO",
+    "kind": "prensa",
+    "title": "Piden garantizar transparencia en elección para rector y vicerrectores de la UNI con supervisión de organismos externos",
+    "url": "https://diariouno.pe/2026/11/08/piden-garantizar-transparencia-en-eleccion-para-rector-y-vicerrectores-de-la-uni-con-supervision-de-organismos-externos/",
+    "summary": "Según la nota, la Lista 8 pidió que la votación presencial del 10-11 cuente con la participación de la ONPE y la Defensoría del Pueblo como observadores, y exhortó al CEUNI a garantizar la transparencia de la jornada.",
+    "topics": [
+      "segunda_vuelta",
+      "denuncias"
+    ],
+    "listIds": [
+      "lista-8"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-11-11"
+  },
+  {
     "id": "press-2026-11-06-infobae-nueva-votacion",
     "date": "2026-11-06",
     "outlet": "Infobae",
@@ -18,6 +55,26 @@
     ],
     "status": "verificado",
     "verifiedAt": "2026-11-09"
+  },
+  {
+    "id": "press-2026-11-06-diariouno-pregunta-abierta",
+    "date": "2026-11-06",
+    "outlet": "Diario UNO",
+    "kind": "prensa",
+    "title": "Fraude electoral en la UNI deja una pregunta abierta antes de la nueva elección",
+    "url": "https://diariouno.pe/2026/11/06/fraude-electoral-en-la-uni-deja-una-pregunta-abierta-antes-de-la-nueva-eleccion/",
+    "summary": "Recuenta la anulación de la segunda vuelta virtual del 28-10 y la denuncia de la presidenta del CEUNI por 255 votos ante el Ministerio Público; señala que ninguna investigación ha establecido públicamente que una de las dos listas sea responsable.",
+    "topics": [
+      "segunda_vuelta",
+      "nulidad",
+      "denuncias"
+    ],
+    "listIds": [
+      "lista-1",
+      "lista-8"
+    ],
+    "status": "verificado",
+    "verifiedAt": "2026-11-11"
   },
   {
     "id": "press-2026-10-29-rpp-video-suspension",

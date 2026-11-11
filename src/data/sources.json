@@ -6361,5 +6361,20 @@
     "status": "parcialmente_verificado",
     "candidateIds": [],
     "notes": "Lectura directa del artículo (HTTP 200, 2026-11-09). Es cobertura periodística de una convocatoria; se mantiene como fuente de prensa única mientras no se corrobore con una resolución o acta del CEUNI."
+  },
+  {
+    "id": "src-ceuni-comunicado-escrutinio-2v-2026-11",
+    "title": "Comunicado: Publicación de Resultados del Escrutinio de la votación realizada el 10 de noviembre del 2026",
+    "author": "Comité Electoral Universitario (CEUNI) – UNI",
+    "url": "https://www.ceuni.uni.edu.pe/wp-content/uploads/2026/11/iniunn-66-scaled.png",
+    "landingUrl": "https://www.ceuni.uni.edu.pe/eleccion-de-autoridades-y-elecciones-generales-2026/",
+    "publishedAt": null,
+    "consultedAt": "2026-11-11",
+    "type": "documento_electoral",
+    "identifier": "Comunicado en imagen (portada del CEUNI); invoca el art. 54 del Reglamento y el cronograma de 2.ª vuelta publicado en la Gaceta N.º 229 del 02-11-2026",
+    "locator": "El comunicado anuncia la publicación del escrutinio de la votación del 10-11-2026. El enlace «Publicación de resultados del escrutinio – segunda vuelta» apunta a un PDF en SharePoint que exige inicio de sesión institucional (verificado 11-11-2026).",
+    "status": "verificado_primaria",
+    "candidateIds": [],
+    "notes": "Se verificó el comunicado (imagen descargada, 11-11-2026). Las cifras del escrutinio no son accesibles sin cuenta UNI; no se registran hasta contar con una fuente abierta."
   }
 ]

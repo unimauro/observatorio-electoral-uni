@@ -319,6 +319,9 @@ export interface ElectionResults {
       proclamation?: string
       sourceId?: string
       note?: string
+      /** Estado tras la jornada (escrutinio, nulidades, proclamación). */
+      status?: string
+      statusSourceId?: string
     }
   } | null
   proclaimed: string | null
